@@ -4,6 +4,8 @@ A reproducible portfolio project for workforce planning analytics. It covers the
 
 **Setting:** *Kestrel Health Services* (KHS), a **fictional** 2,000-employee health provider with six sites across Western Australia.
 
+**Case study page:** https://salaipome.github.io/portfolio/case-studies/workforce-planning-analytics.html
+
 | Provenance | What | Where |
 |---|---|---|
 | **REAL** public data | ABS (Labour Force, Job Vacancies, Labour Account, WPI, AWE, population, Census 2021, EQ08, Job Mobility), Jobs and Skills Australia (IVI, Occupation Shortage List 2026, Employment Projections, REOS), WA Public Sector Commission | `data/raw/` (downloaded), `data/processed/` |
