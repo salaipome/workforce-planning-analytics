@@ -1,0 +1,48 @@
+{
+  "last_obs": "2026-04-01",
+  "three_year_growth_by_method": {
+    "naive": 0.0,
+    "drift": 0.0673,
+    "cagr_5y": 0.1782,
+    "linear_20q": 0.1793,
+    "holt_damped": 0.063
+  },
+  "best_12q_by_series": [
+    {
+      "series": "hcsa_filled_jobs",
+      "method": "cagr_5y",
+      "MAPE": 0.0349,
+      "bias": -0.0187
+    },
+    {
+      "series": "hcsa_filled_jobs",
+      "method": "linear_20q",
+      "MAPE": 0.0486,
+      "bias": -0.04
+    },
+    {
+      "series": "wa_employed",
+      "method": "holt_damped",
+      "MAPE": 0.0465,
+      "bias": -0.0324
+    },
+    {
+      "series": "wa_employed",
+      "method": "drift",
+      "MAPE": 0.0475,
+      "bias": 0.0052
+    },
+    {
+      "series": "wa_rn_employed_4q_avg",
+      "method": "linear_20q",
+      "MAPE": 0.1013,
+      "bias": -0.0146
+    },
+    {
+      "series": "wa_rn_employed_4q_avg",
+      "method": "drift",
+      "MAPE": 0.1036,
+      "bias": -0.0328
+    }
+  ]
+}

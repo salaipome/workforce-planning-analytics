@@ -1,0 +1,15 @@
+{
+  "true_headcount": 1990,
+  "cleaned_headcount": 1990,
+  "raw_rows": 2057,
+  "raw_active_rows": 2057,
+  "false_inclusions": 0,
+  "missed_employees": 0,
+  "job_family_accuracy": 1.0,
+  "location_accuracy": 1.0,
+  "fte_exact_accuracy": 0.9995,
+  "true_fte": 1627.6,
+  "cleaned_fte": 1627.5,
+  "raw_fte_naive": 1728.5,
+  "hire_date_accuracy": 1.0
+}

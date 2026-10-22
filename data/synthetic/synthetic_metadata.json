@@ -1,0 +1,147 @@
+{
+  "organisation": "Kestrel Health Services (FICTIONAL)",
+  "seed": 20260630,
+  "real_inputs": [
+    "ABS Labour Account Q industry proportion of vacant jobs (SA) -> tightness index",
+    "ABS Census 2021 G54 WA Health Care & Social Assistance age distribution by GCCSA -> age at entry"
+  ],
+  "illustrative_parameters": {
+    "FAMILY": {
+      "Registered Nurse": {
+        "share": 0.32,
+        "sep": 0.15,
+        "ttf": 52,
+        "salary": 98000,
+        "ft": 0.45,
+        "growth": 0.03,
+        "age_shift": 0
+      },
+      "Midwife": {
+        "share": 0.03,
+        "sep": 0.13,
+        "ttf": 68,
+        "salary": 101000,
+        "ft": 0.4,
+        "growth": 0.02,
+        "age_shift": 2
+      },
+      "Enrolled Nurse": {
+        "share": 0.075,
+        "sep": 0.15,
+        "ttf": 42,
+        "salary": 72000,
+        "ft": 0.4,
+        "growth": 0.02,
+        "age_shift": 1
+      },
+      "Medical Practitioner": {
+        "share": 0.08,
+        "sep": 0.12,
+        "ttf": 95,
+        "salary": 215000,
+        "ft": 0.7,
+        "growth": 0.025,
+        "age_shift": 1
+      },
+      "Allied Health": {
+        "share": 0.09,
+        "sep": 0.16,
+        "ttf": 62,
+        "salary": 92000,
+        "ft": 0.55,
+        "growth": 0.03,
+        "age_shift": -4
+      },
+      "Care Worker": {
+        "share": 0.16,
+        "sep": 0.24,
+        "ttf": 30,
+        "salary": 62000,
+        "ft": 0.25,
+        "growth": 0.045,
+        "age_shift": 0
+      },
+      "Administration": {
+        "share": 0.145,
+        "sep": 0.13,
+        "ttf": 28,
+        "salary": 70000,
+        "ft": 0.65,
+        "growth": 0.005,
+        "age_shift": 2
+      },
+      "Support Services": {
+        "share": 0.1,
+        "sep": 0.19,
+        "ttf": 26,
+        "salary": 60000,
+        "ft": 0.5,
+        "growth": 0.01,
+        "age_shift": 3
+      }
+    },
+    "LOCATION": {
+      "Perth North": {
+        "share": 0.31,
+        "sep": 1.0,
+        "ttf": 1.0,
+        "cancel": 0.05
+      },
+      "Perth South": {
+        "share": 0.28,
+        "sep": 0.95,
+        "ttf": 1.0,
+        "cancel": 0.05
+      },
+      "Bunbury": {
+        "share": 0.15,
+        "sep": 1.05,
+        "ttf": 1.2,
+        "cancel": 0.07
+      },
+      "Geraldton": {
+        "share": 0.1,
+        "sep": 1.2,
+        "ttf": 1.4,
+        "cancel": 0.09
+      },
+      "Kalgoorlie": {
+        "share": 0.085,
+        "sep": 1.35,
+        "ttf": 1.55,
+        "cancel": 0.11
+      },
+      "Broome": {
+        "share": 0.075,
+        "sep": 1.5,
+        "ttf": 1.8,
+        "cancel": 0.13
+      }
+    },
+    "START_EST_FTE": 1570.0,
+    "INITIAL_FILL": 0.935,
+    "REPLACE_P": 0.93,
+    "INTERNAL_FILL_P": 0.1,
+    "READVERTISE_P": 0.7,
+    "EN_TO_RN_P": 0.07,
+    "GRAD_RN_PER_YEAR": 36,
+    "AGENCY_COVER": {
+      "Registered Nurse": 0.55,
+      "Midwife": 0.55,
+      "Enrolled Nurse": 0.4,
+      "Medical Practitioner": 0.6,
+      "Allied Health": 0.3,
+      "Care Worker": 0.45,
+      "Administration": 0.1,
+      "Support Services": 0.25
+    },
+    "AGENCY_PREMIUM": 1.65,
+    "WAGE_GROWTH": {
+      "FY2023": 0.0,
+      "FY2024": 0.04,
+      "FY2025": 0.042,
+      "FY2026": 0.038,
+      "FY2027": 0.035
+    }
+  }
+}

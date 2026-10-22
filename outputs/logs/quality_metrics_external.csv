@@ -1,0 +1,13 @@
+step,dataset,check,stage,value,note
+external,JSA IVI 4-digit,"rows (WA+AUST, long)",raw,177346,
+external,JSA IVI 4-digit,suppressed cells ('.'),raw,3458,
+external,JSA IVI 4-digit,rows kept (family codes),clean,48412,
+external,JSA IVI 4-digit,month range,clean,2006-03 to 2026-09,
+external,JSA OSL 2026,unit groups,clean,311,NS=211; S=95; R=5
+external,JSA Employment Projections,4-digit sum / major-group sum (2025),validation,0.9768,NFD rows excluded; <1 means NFD employment sits outside unit groups
+external,JSA REOS,series found,clean,"All recruiting employers, Western Australia, Health Care and Social Assistance",
+external,JSA REOS,small-sample values ('nn%*') converted,clean,6,flag: use with caution
+external,ABS Job Mobility,industries parsed,clean,"Health care and social assistance, Total",
+external,ABS EQ08,rows scanned,raw,801208,
+external,ABS EQ08,WA family-code rows (persons),clean,16206,1986-08 to 2026-02
+external,WA PSC bulletin,ANZSCO unit-group rows,clean,188,ANZSCO unit group code|ANZSCO unit group title|Occupational group for reporting|Total Headcount|Total FTE|Gender - headcount as % of total | Female|Gender - headcount as % of total | Male|Age groups - headcount as % of total | 19 and under

@@ -1,0 +1,49 @@
+job_family,location,budgeted_fte,headcount,filled_fte,vacant_fte,vacancy_rate,open_requisitions
+Registered Nurse,Perth North,170.2,211,171.3,-1.1,-0.0065,4
+Registered Nurse,Perth South,153.7,202,167.8,-14.1,-0.0917,0
+Registered Nurse,Bunbury,84.8,102,84.6,0.2,0.0024,2
+Registered Nurse,Geraldton,54.9,65,54.7,0.2,0.0036,2
+Registered Nurse,Kalgoorlie,46.7,52,41.9,4.8,0.1028,0
+Registered Nurse,Broome,42.4,54,44.0,-1.6,-0.0377,0
+Midwife,Perth North,15.5,19,16.2,-0.7,-0.0452,0
+Midwife,Perth South,14.0,16,12.8,1.2,0.0857,0
+Midwife,Bunbury,7.7,9,8.1,-0.4,-0.0519,0
+Midwife,Geraldton,5.0,6,5.1,-0.1,-0.02,0
+Midwife,Kalgoorlie,3.0,4,3.7,-0.7,-0.2333,0
+Midwife,Broome,2.7,2,2.0,0.7,0.2593,1
+Enrolled Nurse,Perth North,38.7,44,33.7,5.0,0.1292,0
+Enrolled Nurse,Perth South,35.0,46,33.7,1.3,0.0371,0
+Enrolled Nurse,Bunbury,19.3,24,19.1,0.2,0.0104,0
+Enrolled Nurse,Geraldton,12.5,16,11.5,1.0,0.08,0
+Enrolled Nurse,Kalgoorlie,10.6,12,9.6,1.0,0.0943,0
+Enrolled Nurse,Broome,9.7,9,7.4,2.3,0.2371,2
+Medical Practitioner,Perth North,41.9,43,39.0,2.9,0.0692,2
+Medical Practitioner,Perth South,37.9,40,35.4,2.5,0.066,0
+Medical Practitioner,Bunbury,20.9,22,19.9,1.0,0.0478,1
+Medical Practitioner,Geraldton,13.5,14,12.6,0.9,0.0667,0
+Medical Practitioner,Kalgoorlie,11.5,11,10.3,1.2,0.1043,0
+Medical Practitioner,Broome,10.4,6,5.8,4.6,0.4423,2
+Allied Health,Perth North,47.9,54,47.5,0.4,0.0084,0
+Allied Health,Perth South,43.2,49,42.7,0.5,0.0116,0
+Allied Health,Bunbury,23.8,26,23.1,0.7,0.0294,0
+Allied Health,Geraldton,15.4,14,11.9,3.5,0.2273,1
+Allied Health,Kalgoorlie,13.1,14,10.3,2.8,0.2137,0
+Allied Health,Broome,11.9,12,9.6,2.3,0.1933,0
+Care Worker,Perth North,88.9,107,81.1,7.8,0.0877,3
+Care Worker,Perth South,80.3,103,72.5,7.8,0.0971,1
+Care Worker,Bunbury,44.2,60,43.0,1.2,0.0271,0
+Care Worker,Geraldton,28.7,37,24.4,4.3,0.1498,2
+Care Worker,Kalgoorlie,24.4,31,22.3,2.1,0.0861,1
+Care Worker,Broome,22.1,23,15.5,6.6,0.2986,1
+Administration,Perth North,71.6,75,65.1,6.5,0.0908,1
+Administration,Perth South,64.7,72,63.2,1.5,0.0232,0
+Administration,Bunbury,35.7,38,33.7,2.0,0.056,0
+Administration,Geraldton,23.1,23,20.0,3.1,0.1342,0
+Administration,Kalgoorlie,19.6,22,18.4,1.2,0.0612,1
+Administration,Broome,17.9,17,16.5,1.4,0.0782,0
+Support Services,Perth North,50.1,63,53.3,-3.2,-0.0639,0
+Support Services,Perth South,45.3,49,41.3,4.0,0.0883,1
+Support Services,Bunbury,25.0,31,25.4,-0.4,-0.016,0
+Support Services,Geraldton,16.2,15,13.6,2.6,0.1605,0
+Support Services,Kalgoorlie,13.7,14,12.2,1.5,0.1095,0
+Support Services,Broome,12.5,12,10.7,1.8,0.144,0

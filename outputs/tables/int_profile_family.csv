@@ -1,0 +1,9 @@
+job_family,headcount,fte,median_age,pct_55_plus,median_tenure,pct_part_time_or_casual,pct_female,fte_per_head
+Administration,247,216.9,43.2,0.247,5.52,0.287,0.603,0.878
+Allied Health,169,145.1,39.7,0.148,5.26,0.331,0.692,0.859
+Care Worker,361,258.8,39.8,0.166,3.03,0.643,0.881,0.717
+Enrolled Nurse,151,115.0,42.15,0.232,3.73,0.55,0.848,0.762
+Medical Practitioner,136,123.0,44.6,0.243,6.545,0.243,0.588,0.904
+Midwife,56,47.9,40.35,0.268,6.205,0.411,0.893,0.855
+Registered Nurse,686,564.3,43.3,0.223,4.995,0.417,0.875,0.823
+Support Services,184,156.5,44.2,0.245,5.055,0.348,0.614,0.851

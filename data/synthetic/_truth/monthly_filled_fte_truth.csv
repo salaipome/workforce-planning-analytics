@@ -1,0 +1,2305 @@
+month,job_family,location,filled_fte,established_fte
+2022-07-01,Registered Nurse,Perth North,149.6,155.7
+2022-07-01,Registered Nurse,Perth South,141.1,140.7
+2022-07-01,Registered Nurse,Bunbury,74.2,75.4
+2022-07-01,Registered Nurse,Geraldton,45.6,50.2
+2022-07-01,Registered Nurse,Kalgoorlie,39.8,42.7
+2022-07-01,Registered Nurse,Broome,36.6,37.7
+2022-07-01,Midwife,Perth North,15.4,14.6
+2022-07-01,Midwife,Perth South,12.0,13.2
+2022-07-01,Midwife,Bunbury,8.1,7.1
+2022-07-01,Midwife,Geraldton,5.4,4.7
+2022-07-01,Midwife,Kalgoorlie,3.4,2.8
+2022-07-01,Midwife,Broome,2.5,2.5
+2022-07-01,Enrolled Nurse,Perth North,29.5,36.5
+2022-07-01,Enrolled Nurse,Perth South,23.8,33.0
+2022-07-01,Enrolled Nurse,Bunbury,14.1,17.7
+2022-07-01,Enrolled Nurse,Geraldton,8.8,11.8
+2022-07-01,Enrolled Nurse,Kalgoorlie,9.7,10.0
+2022-07-01,Enrolled Nurse,Broome,6.9,8.8
+2022-07-01,Medical Practitioner,Perth North,38.0,38.9
+2022-07-01,Medical Practitioner,Perth South,33.2,35.2
+2022-07-01,Medical Practitioner,Bunbury,18.3,18.8
+2022-07-01,Medical Practitioner,Geraldton,12.6,12.6
+2022-07-01,Medical Practitioner,Kalgoorlie,11.5,10.7
+2022-07-01,Medical Practitioner,Broome,8.8,9.4
+2022-07-01,Allied Health,Perth North,42.3,43.8
+2022-07-01,Allied Health,Perth South,40.0,39.6
+2022-07-01,Allied Health,Bunbury,22.1,21.2
+2022-07-01,Allied Health,Geraldton,10.3,14.1
+2022-07-01,Allied Health,Kalgoorlie,10.8,12.0
+2022-07-01,Allied Health,Broome,10.0,10.6
+2022-07-01,Care Worker,Perth North,78.7,77.9
+2022-07-01,Care Worker,Perth South,65.7,70.3
+2022-07-01,Care Worker,Bunbury,36.7,37.7
+2022-07-01,Care Worker,Geraldton,25.4,25.1
+2022-07-01,Care Worker,Kalgoorlie,19.8,21.4
+2022-07-01,Care Worker,Broome,15.8,18.8
+2022-07-01,Administration,Perth North,65.3,70.6
+2022-07-01,Administration,Perth South,63.9,63.7
+2022-07-01,Administration,Bunbury,36.0,34.1
+2022-07-01,Administration,Geraldton,23.0,22.8
+2022-07-01,Administration,Kalgoorlie,18.7,19.4
+2022-07-01,Administration,Broome,16.0,17.1
+2022-07-01,Support Services,Perth North,48.8,48.7
+2022-07-01,Support Services,Perth South,42.4,44.0
+2022-07-01,Support Services,Bunbury,22.9,23.6
+2022-07-01,Support Services,Geraldton,15.6,15.7
+2022-07-01,Support Services,Kalgoorlie,12.5,13.3
+2022-07-01,Support Services,Broome,12.3,11.8
+2022-08-01,Registered Nurse,Perth North,154.9,155.7
+2022-08-01,Registered Nurse,Perth South,145.3,140.7
+2022-08-01,Registered Nurse,Bunbury,74.5,75.4
+2022-08-01,Registered Nurse,Geraldton,45.3,50.2
+2022-08-01,Registered Nurse,Kalgoorlie,40.5,42.7
+2022-08-01,Registered Nurse,Broome,37.6,37.7
+2022-08-01,Midwife,Perth North,14.4,14.6
+2022-08-01,Midwife,Perth South,13.0,13.2
+2022-08-01,Midwife,Bunbury,8.1,7.1
+2022-08-01,Midwife,Geraldton,5.4,4.7
+2022-08-01,Midwife,Kalgoorlie,3.4,2.8
+2022-08-01,Midwife,Broome,2.5,2.5
+2022-08-01,Enrolled Nurse,Perth North,29.7,36.5
+2022-08-01,Enrolled Nurse,Perth South,24.5,33.0
+2022-08-01,Enrolled Nurse,Bunbury,14.8,17.7
+2022-08-01,Enrolled Nurse,Geraldton,9.6,11.8
+2022-08-01,Enrolled Nurse,Kalgoorlie,8.7,10.0
+2022-08-01,Enrolled Nurse,Broome,6.9,8.8
+2022-08-01,Medical Practitioner,Perth North,37.0,38.9
+2022-08-01,Medical Practitioner,Perth South,32.2,35.2
+2022-08-01,Medical Practitioner,Bunbury,18.3,18.8
+2022-08-01,Medical Practitioner,Geraldton,12.6,12.6
+2022-08-01,Medical Practitioner,Kalgoorlie,11.5,10.7
+2022-08-01,Medical Practitioner,Broome,8.8,9.4
+2022-08-01,Allied Health,Perth North,42.8,43.8
+2022-08-01,Allied Health,Perth South,40.9,39.6
+2022-08-01,Allied Health,Bunbury,21.6,21.2
+2022-08-01,Allied Health,Geraldton,9.5,14.1
+2022-08-01,Allied Health,Kalgoorlie,11.4,12.0
+2022-08-01,Allied Health,Broome,10.0,10.6
+2022-08-01,Care Worker,Perth North,77.7,77.9
+2022-08-01,Care Worker,Perth South,69.0,70.3
+2022-08-01,Care Worker,Bunbury,36.1,37.7
+2022-08-01,Care Worker,Geraldton,26.2,25.1
+2022-08-01,Care Worker,Kalgoorlie,20.2,21.4
+2022-08-01,Care Worker,Broome,16.3,18.8
+2022-08-01,Administration,Perth North,66.2,70.6
+2022-08-01,Administration,Perth South,63.9,63.7
+2022-08-01,Administration,Bunbury,35.5,34.1
+2022-08-01,Administration,Geraldton,23.0,22.8
+2022-08-01,Administration,Kalgoorlie,18.7,19.4
+2022-08-01,Administration,Broome,15.7,17.1
+2022-08-01,Support Services,Perth North,48.3,48.7
+2022-08-01,Support Services,Perth South,42.4,44.0
+2022-08-01,Support Services,Bunbury,22.9,23.6
+2022-08-01,Support Services,Geraldton,15.0,15.7
+2022-08-01,Support Services,Kalgoorlie,12.5,13.3
+2022-08-01,Support Services,Broome,12.3,11.8
+2022-09-01,Registered Nurse,Perth North,154.6,155.7
+2022-09-01,Registered Nurse,Perth South,145.7,140.7
+2022-09-01,Registered Nurse,Bunbury,75.1,75.4
+2022-09-01,Registered Nurse,Geraldton,47.7,50.2
+2022-09-01,Registered Nurse,Kalgoorlie,40.2,42.7
+2022-09-01,Registered Nurse,Broome,36.6,37.7
+2022-09-01,Midwife,Perth North,14.4,14.6
+2022-09-01,Midwife,Perth South,13.7,13.2
+2022-09-01,Midwife,Bunbury,8.1,7.1
+2022-09-01,Midwife,Geraldton,5.4,4.7
+2022-09-01,Midwife,Kalgoorlie,3.4,2.8
+2022-09-01,Midwife,Broome,2.5,2.5
+2022-09-01,Enrolled Nurse,Perth North,29.7,36.5
+2022-09-01,Enrolled Nurse,Perth South,24.1,33.0
+2022-09-01,Enrolled Nurse,Bunbury,15.2,17.7
+2022-09-01,Enrolled Nurse,Geraldton,9.6,11.8
+2022-09-01,Enrolled Nurse,Kalgoorlie,8.7,10.0
+2022-09-01,Enrolled Nurse,Broome,6.9,8.8
+2022-09-01,Medical Practitioner,Perth North,37.0,38.9
+2022-09-01,Medical Practitioner,Perth South,34.1,35.2
+2022-09-01,Medical Practitioner,Bunbury,19.3,18.8
+2022-09-01,Medical Practitioner,Geraldton,12.6,12.6
+2022-09-01,Medical Practitioner,Kalgoorlie,11.5,10.7
+2022-09-01,Medical Practitioner,Broome,8.8,9.4
+2022-09-01,Allied Health,Perth North,42.1,43.8
+2022-09-01,Allied Health,Perth South,40.9,39.6
+2022-09-01,Allied Health,Bunbury,21.6,21.2
+2022-09-01,Allied Health,Geraldton,10.3,14.1
+2022-09-01,Allied Health,Kalgoorlie,11.4,12.0
+2022-09-01,Allied Health,Broome,10.0,10.6
+2022-09-01,Care Worker,Perth North,78.7,77.9
+2022-09-01,Care Worker,Perth South,68.2,70.3
+2022-09-01,Care Worker,Bunbury,36.1,37.7
+2022-09-01,Care Worker,Geraldton,24.4,25.1
+2022-09-01,Care Worker,Kalgoorlie,19.8,21.4
+2022-09-01,Care Worker,Broome,16.3,18.8
+2022-09-01,Administration,Perth North,66.2,70.6
+2022-09-01,Administration,Perth South,64.7,63.7
+2022-09-01,Administration,Bunbury,34.3,34.1
+2022-09-01,Administration,Geraldton,22.0,22.8
+2022-09-01,Administration,Kalgoorlie,17.7,19.4
+2022-09-01,Administration,Broome,15.7,17.1
+2022-09-01,Support Services,Perth North,48.0,48.7
+2022-09-01,Support Services,Perth South,41.6,44.0
+2022-09-01,Support Services,Bunbury,21.9,23.6
+2022-09-01,Support Services,Geraldton,15.0,15.7
+2022-09-01,Support Services,Kalgoorlie,13.2,13.3
+2022-09-01,Support Services,Broome,12.3,11.8
+2022-10-01,Registered Nurse,Perth North,158.0,155.7
+2022-10-01,Registered Nurse,Perth South,145.2,140.7
+2022-10-01,Registered Nurse,Bunbury,75.9,75.4
+2022-10-01,Registered Nurse,Geraldton,48.7,50.2
+2022-10-01,Registered Nurse,Kalgoorlie,40.2,42.7
+2022-10-01,Registered Nurse,Broome,39.2,37.7
+2022-10-01,Midwife,Perth North,14.4,14.6
+2022-10-01,Midwife,Perth South,13.7,13.2
+2022-10-01,Midwife,Bunbury,8.1,7.1
+2022-10-01,Midwife,Geraldton,5.4,4.7
+2022-10-01,Midwife,Kalgoorlie,3.4,2.8
+2022-10-01,Midwife,Broome,2.5,2.5
+2022-10-01,Enrolled Nurse,Perth North,29.7,36.5
+2022-10-01,Enrolled Nurse,Perth South,25.4,33.0
+2022-10-01,Enrolled Nurse,Bunbury,15.2,17.7
+2022-10-01,Enrolled Nurse,Geraldton,8.9,11.8
+2022-10-01,Enrolled Nurse,Kalgoorlie,8.7,10.0
+2022-10-01,Enrolled Nurse,Broome,6.9,8.8
+2022-10-01,Medical Practitioner,Perth North,37.0,38.9
+2022-10-01,Medical Practitioner,Perth South,34.1,35.2
+2022-10-01,Medical Practitioner,Bunbury,19.3,18.8
+2022-10-01,Medical Practitioner,Geraldton,13.6,12.6
+2022-10-01,Medical Practitioner,Kalgoorlie,11.5,10.7
+2022-10-01,Medical Practitioner,Broome,8.8,9.4
+2022-10-01,Allied Health,Perth North,41.8,43.8
+2022-10-01,Allied Health,Perth South,40.9,39.6
+2022-10-01,Allied Health,Bunbury,21.6,21.2
+2022-10-01,Allied Health,Geraldton,10.3,14.1
+2022-10-01,Allied Health,Kalgoorlie,11.4,12.0
+2022-10-01,Allied Health,Broome,11.0,10.6
+2022-10-01,Care Worker,Perth North,78.7,77.9
+2022-10-01,Care Worker,Perth South,67.6,70.3
+2022-10-01,Care Worker,Bunbury,36.5,37.7
+2022-10-01,Care Worker,Geraldton,24.4,25.1
+2022-10-01,Care Worker,Kalgoorlie,20.2,21.4
+2022-10-01,Care Worker,Broome,17.4,18.8
+2022-10-01,Administration,Perth North,66.2,70.6
+2022-10-01,Administration,Perth South,61.7,63.7
+2022-10-01,Administration,Bunbury,34.8,34.1
+2022-10-01,Administration,Geraldton,22.0,22.8
+2022-10-01,Administration,Kalgoorlie,17.3,19.4
+2022-10-01,Administration,Broome,17.7,17.1
+2022-10-01,Support Services,Perth North,46.3,48.7
+2022-10-01,Support Services,Perth South,43.0,44.0
+2022-10-01,Support Services,Bunbury,23.5,23.6
+2022-10-01,Support Services,Geraldton,14.0,15.7
+2022-10-01,Support Services,Kalgoorlie,14.2,13.3
+2022-10-01,Support Services,Broome,11.8,11.8
+2022-11-01,Registered Nurse,Perth North,157.5,155.7
+2022-11-01,Registered Nurse,Perth South,146.1,140.7
+2022-11-01,Registered Nurse,Bunbury,77.9,75.4
+2022-11-01,Registered Nurse,Geraldton,47.8,50.2
+2022-11-01,Registered Nurse,Kalgoorlie,39.2,42.7
+2022-11-01,Registered Nurse,Broome,39.2,37.7
+2022-11-01,Midwife,Perth North,14.4,14.6
+2022-11-01,Midwife,Perth South,13.7,13.2
+2022-11-01,Midwife,Bunbury,8.1,7.1
+2022-11-01,Midwife,Geraldton,5.4,4.7
+2022-11-01,Midwife,Kalgoorlie,3.4,2.8
+2022-11-01,Midwife,Broome,2.5,2.5
+2022-11-01,Enrolled Nurse,Perth North,29.7,36.5
+2022-11-01,Enrolled Nurse,Perth South,24.1,33.0
+2022-11-01,Enrolled Nurse,Bunbury,15.2,17.7
+2022-11-01,Enrolled Nurse,Geraldton,8.9,11.8
+2022-11-01,Enrolled Nurse,Kalgoorlie,8.7,10.0
+2022-11-01,Enrolled Nurse,Broome,6.4,8.8
+2022-11-01,Medical Practitioner,Perth North,37.0,38.9
+2022-11-01,Medical Practitioner,Perth South,33.8,35.2
+2022-11-01,Medical Practitioner,Bunbury,19.3,18.8
+2022-11-01,Medical Practitioner,Geraldton,13.6,12.6
+2022-11-01,Medical Practitioner,Kalgoorlie,11.5,10.7
+2022-11-01,Medical Practitioner,Broome,8.8,9.4
+2022-11-01,Allied Health,Perth North,41.8,43.8
+2022-11-01,Allied Health,Perth South,40.9,39.6
+2022-11-01,Allied Health,Bunbury,22.6,21.2
+2022-11-01,Allied Health,Geraldton,11.2,14.1
+2022-11-01,Allied Health,Kalgoorlie,10.6,12.0
+2022-11-01,Allied Health,Broome,11.0,10.6
+2022-11-01,Care Worker,Perth North,78.2,77.9
+2022-11-01,Care Worker,Perth South,67.6,70.3
+2022-11-01,Care Worker,Bunbury,36.9,37.7
+2022-11-01,Care Worker,Geraldton,23.6,25.1
+2022-11-01,Care Worker,Kalgoorlie,22.6,21.4
+2022-11-01,Care Worker,Broome,17.4,18.8
+2022-11-01,Administration,Perth North,66.9,70.6
+2022-11-01,Administration,Perth South,62.6,63.7
+2022-11-01,Administration,Bunbury,34.8,34.1
+2022-11-01,Administration,Geraldton,22.0,22.8
+2022-11-01,Administration,Kalgoorlie,18.3,19.4
+2022-11-01,Administration,Broome,17.7,17.1
+2022-11-01,Support Services,Perth North,45.8,48.7
+2022-11-01,Support Services,Perth South,42.7,44.0
+2022-11-01,Support Services,Bunbury,23.5,23.6
+2022-11-01,Support Services,Geraldton,14.0,15.7
+2022-11-01,Support Services,Kalgoorlie,13.2,13.3
+2022-11-01,Support Services,Broome,11.8,11.8
+2022-12-01,Registered Nurse,Perth North,157.3,155.7
+2022-12-01,Registered Nurse,Perth South,146.6,140.7
+2022-12-01,Registered Nurse,Bunbury,78.5,75.4
+2022-12-01,Registered Nurse,Geraldton,49.1,50.2
+2022-12-01,Registered Nurse,Kalgoorlie,39.2,42.7
+2022-12-01,Registered Nurse,Broome,38.6,37.7
+2022-12-01,Midwife,Perth North,14.4,14.6
+2022-12-01,Midwife,Perth South,13.7,13.2
+2022-12-01,Midwife,Bunbury,8.1,7.1
+2022-12-01,Midwife,Geraldton,5.4,4.7
+2022-12-01,Midwife,Kalgoorlie,3.4,2.8
+2022-12-01,Midwife,Broome,2.5,2.5
+2022-12-01,Enrolled Nurse,Perth North,27.2,36.5
+2022-12-01,Enrolled Nurse,Perth South,25.5,33.0
+2022-12-01,Enrolled Nurse,Bunbury,14.5,17.7
+2022-12-01,Enrolled Nurse,Geraldton,9.9,11.8
+2022-12-01,Enrolled Nurse,Kalgoorlie,8.0,10.0
+2022-12-01,Enrolled Nurse,Broome,6.4,8.8
+2022-12-01,Medical Practitioner,Perth North,37.0,38.9
+2022-12-01,Medical Practitioner,Perth South,33.8,35.2
+2022-12-01,Medical Practitioner,Bunbury,19.3,18.8
+2022-12-01,Medical Practitioner,Geraldton,13.6,12.6
+2022-12-01,Medical Practitioner,Kalgoorlie,10.5,10.7
+2022-12-01,Medical Practitioner,Broome,8.8,9.4
+2022-12-01,Allied Health,Perth North,40.8,43.8
+2022-12-01,Allied Health,Perth South,40.9,39.6
+2022-12-01,Allied Health,Bunbury,22.6,21.2
+2022-12-01,Allied Health,Geraldton,11.2,14.1
+2022-12-01,Allied Health,Kalgoorlie,10.6,12.0
+2022-12-01,Allied Health,Broome,11.0,10.6
+2022-12-01,Care Worker,Perth North,77.7,77.9
+2022-12-01,Care Worker,Perth South,67.7,70.3
+2022-12-01,Care Worker,Bunbury,36.8,37.7
+2022-12-01,Care Worker,Geraldton,24.1,25.1
+2022-12-01,Care Worker,Kalgoorlie,22.6,21.4
+2022-12-01,Care Worker,Broome,17.9,18.8
+2022-12-01,Administration,Perth North,66.9,70.6
+2022-12-01,Administration,Perth South,62.9,63.7
+2022-12-01,Administration,Bunbury,34.4,34.1
+2022-12-01,Administration,Geraldton,22.0,22.8
+2022-12-01,Administration,Kalgoorlie,18.5,19.4
+2022-12-01,Administration,Broome,16.7,17.1
+2022-12-01,Support Services,Perth North,47.4,48.7
+2022-12-01,Support Services,Perth South,42.7,44.0
+2022-12-01,Support Services,Bunbury,23.5,23.6
+2022-12-01,Support Services,Geraldton,15.0,15.7
+2022-12-01,Support Services,Kalgoorlie,13.2,13.3
+2022-12-01,Support Services,Broome,10.8,11.8
+2023-01-01,Registered Nurse,Perth North,158.5,155.7
+2023-01-01,Registered Nurse,Perth South,146.3,140.7
+2023-01-01,Registered Nurse,Bunbury,77.0,75.4
+2023-01-01,Registered Nurse,Geraldton,49.1,50.2
+2023-01-01,Registered Nurse,Kalgoorlie,38.3,42.7
+2023-01-01,Registered Nurse,Broome,38.8,37.7
+2023-01-01,Midwife,Perth North,14.7,14.6
+2023-01-01,Midwife,Perth South,13.7,13.2
+2023-01-01,Midwife,Bunbury,8.1,7.1
+2023-01-01,Midwife,Geraldton,5.4,4.7
+2023-01-01,Midwife,Kalgoorlie,3.4,2.8
+2023-01-01,Midwife,Broome,2.5,2.5
+2023-01-01,Enrolled Nurse,Perth North,28.9,36.5
+2023-01-01,Enrolled Nurse,Perth South,26.1,33.0
+2023-01-01,Enrolled Nurse,Bunbury,14.5,17.7
+2023-01-01,Enrolled Nurse,Geraldton,9.9,11.8
+2023-01-01,Enrolled Nurse,Kalgoorlie,8.7,10.0
+2023-01-01,Enrolled Nurse,Broome,7.0,8.8
+2023-01-01,Medical Practitioner,Perth North,37.0,38.9
+2023-01-01,Medical Practitioner,Perth South,33.8,35.2
+2023-01-01,Medical Practitioner,Bunbury,19.3,18.8
+2023-01-01,Medical Practitioner,Geraldton,13.6,12.6
+2023-01-01,Medical Practitioner,Kalgoorlie,9.9,10.7
+2023-01-01,Medical Practitioner,Broome,8.8,9.4
+2023-01-01,Allied Health,Perth North,39.7,43.8
+2023-01-01,Allied Health,Perth South,39.9,39.6
+2023-01-01,Allied Health,Bunbury,22.6,21.2
+2023-01-01,Allied Health,Geraldton,13.1,14.1
+2023-01-01,Allied Health,Kalgoorlie,10.6,12.0
+2023-01-01,Allied Health,Broome,11.0,10.6
+2023-01-01,Care Worker,Perth North,79.4,77.9
+2023-01-01,Care Worker,Perth South,67.5,70.3
+2023-01-01,Care Worker,Bunbury,37.8,37.7
+2023-01-01,Care Worker,Geraldton,24.2,25.1
+2023-01-01,Care Worker,Kalgoorlie,20.7,21.4
+2023-01-01,Care Worker,Broome,18.6,18.8
+2023-01-01,Administration,Perth North,66.9,70.6
+2023-01-01,Administration,Perth South,63.9,63.7
+2023-01-01,Administration,Bunbury,35.4,34.1
+2023-01-01,Administration,Geraldton,22.0,22.8
+2023-01-01,Administration,Kalgoorlie,18.5,19.4
+2023-01-01,Administration,Broome,16.7,17.1
+2023-01-01,Support Services,Perth North,48.1,48.7
+2023-01-01,Support Services,Perth South,43.7,44.0
+2023-01-01,Support Services,Bunbury,23.5,23.6
+2023-01-01,Support Services,Geraldton,14.0,15.7
+2023-01-01,Support Services,Kalgoorlie,13.6,13.3
+2023-01-01,Support Services,Broome,10.8,11.8
+2023-02-01,Registered Nurse,Perth North,164.1,155.7
+2023-02-01,Registered Nurse,Perth South,151.2,140.7
+2023-02-01,Registered Nurse,Bunbury,80.0,75.4
+2023-02-01,Registered Nurse,Geraldton,52.2,50.2
+2023-02-01,Registered Nurse,Kalgoorlie,38.3,42.7
+2023-02-01,Registered Nurse,Broome,38.8,37.7
+2023-02-01,Midwife,Perth North,14.7,14.6
+2023-02-01,Midwife,Perth South,13.7,13.2
+2023-02-01,Midwife,Bunbury,8.1,7.1
+2023-02-01,Midwife,Geraldton,5.4,4.7
+2023-02-01,Midwife,Kalgoorlie,3.4,2.8
+2023-02-01,Midwife,Broome,2.5,2.5
+2023-02-01,Enrolled Nurse,Perth North,29.1,36.5
+2023-02-01,Enrolled Nurse,Perth South,26.1,33.0
+2023-02-01,Enrolled Nurse,Bunbury,15.2,17.7
+2023-02-01,Enrolled Nurse,Geraldton,9.9,11.8
+2023-02-01,Enrolled Nurse,Kalgoorlie,8.7,10.0
+2023-02-01,Enrolled Nurse,Broome,7.0,8.8
+2023-02-01,Medical Practitioner,Perth North,36.4,38.9
+2023-02-01,Medical Practitioner,Perth South,33.8,35.2
+2023-02-01,Medical Practitioner,Bunbury,18.3,18.8
+2023-02-01,Medical Practitioner,Geraldton,13.6,12.6
+2023-02-01,Medical Practitioner,Kalgoorlie,9.9,10.7
+2023-02-01,Medical Practitioner,Broome,8.8,9.4
+2023-02-01,Allied Health,Perth North,40.7,43.8
+2023-02-01,Allied Health,Perth South,40.9,39.6
+2023-02-01,Allied Health,Bunbury,22.6,21.2
+2023-02-01,Allied Health,Geraldton,13.1,14.1
+2023-02-01,Allied Health,Kalgoorlie,10.6,12.0
+2023-02-01,Allied Health,Broome,10.0,10.6
+2023-02-01,Care Worker,Perth North,77.0,77.9
+2023-02-01,Care Worker,Perth South,67.2,70.3
+2023-02-01,Care Worker,Bunbury,37.4,37.7
+2023-02-01,Care Worker,Geraldton,23.7,25.1
+2023-02-01,Care Worker,Kalgoorlie,20.7,21.4
+2023-02-01,Care Worker,Broome,18.6,18.8
+2023-02-01,Administration,Perth North,65.5,70.6
+2023-02-01,Administration,Perth South,61.9,63.7
+2023-02-01,Administration,Bunbury,35.4,34.1
+2023-02-01,Administration,Geraldton,22.9,22.8
+2023-02-01,Administration,Kalgoorlie,17.5,19.4
+2023-02-01,Administration,Broome,16.7,17.1
+2023-02-01,Support Services,Perth North,46.1,48.7
+2023-02-01,Support Services,Perth South,42.8,44.0
+2023-02-01,Support Services,Bunbury,23.5,23.6
+2023-02-01,Support Services,Geraldton,14.4,15.7
+2023-02-01,Support Services,Kalgoorlie,13.6,13.3
+2023-02-01,Support Services,Broome,11.2,11.8
+2023-03-01,Registered Nurse,Perth North,161.4,155.7
+2023-03-01,Registered Nurse,Perth South,149.3,140.7
+2023-03-01,Registered Nurse,Bunbury,78.4,75.4
+2023-03-01,Registered Nurse,Geraldton,50.7,50.2
+2023-03-01,Registered Nurse,Kalgoorlie,38.3,42.7
+2023-03-01,Registered Nurse,Broome,37.9,37.7
+2023-03-01,Midwife,Perth North,14.7,14.6
+2023-03-01,Midwife,Perth South,13.3,13.2
+2023-03-01,Midwife,Bunbury,8.1,7.1
+2023-03-01,Midwife,Geraldton,5.4,4.7
+2023-03-01,Midwife,Kalgoorlie,3.4,2.8
+2023-03-01,Midwife,Broome,2.5,2.5
+2023-03-01,Enrolled Nurse,Perth North,29.5,36.5
+2023-03-01,Enrolled Nurse,Perth South,27.9,33.0
+2023-03-01,Enrolled Nurse,Bunbury,15.2,17.7
+2023-03-01,Enrolled Nurse,Geraldton,11.6,11.8
+2023-03-01,Enrolled Nurse,Kalgoorlie,7.7,10.0
+2023-03-01,Enrolled Nurse,Broome,7.0,8.8
+2023-03-01,Medical Practitioner,Perth North,36.4,38.9
+2023-03-01,Medical Practitioner,Perth South,33.8,35.2
+2023-03-01,Medical Practitioner,Bunbury,18.3,18.8
+2023-03-01,Medical Practitioner,Geraldton,13.6,12.6
+2023-03-01,Medical Practitioner,Kalgoorlie,9.9,10.7
+2023-03-01,Medical Practitioner,Broome,8.8,9.4
+2023-03-01,Allied Health,Perth North,40.6,43.8
+2023-03-01,Allied Health,Perth South,40.9,39.6
+2023-03-01,Allied Health,Bunbury,22.6,21.2
+2023-03-01,Allied Health,Geraldton,13.1,14.1
+2023-03-01,Allied Health,Kalgoorlie,10.6,12.0
+2023-03-01,Allied Health,Broome,10.0,10.6
+2023-03-01,Care Worker,Perth North,75.7,77.9
+2023-03-01,Care Worker,Perth South,64.0,70.3
+2023-03-01,Care Worker,Bunbury,37.5,37.7
+2023-03-01,Care Worker,Geraldton,24.7,25.1
+2023-03-01,Care Worker,Kalgoorlie,20.7,21.4
+2023-03-01,Care Worker,Broome,18.6,18.8
+2023-03-01,Administration,Perth North,66.5,70.6
+2023-03-01,Administration,Perth South,63.9,63.7
+2023-03-01,Administration,Bunbury,34.4,34.1
+2023-03-01,Administration,Geraldton,22.9,22.8
+2023-03-01,Administration,Kalgoorlie,18.5,19.4
+2023-03-01,Administration,Broome,16.7,17.1
+2023-03-01,Support Services,Perth North,48.1,48.7
+2023-03-01,Support Services,Perth South,43.1,44.0
+2023-03-01,Support Services,Bunbury,22.5,23.6
+2023-03-01,Support Services,Geraldton,14.4,15.7
+2023-03-01,Support Services,Kalgoorlie,13.6,13.3
+2023-03-01,Support Services,Broome,11.2,11.8
+2023-04-01,Registered Nurse,Perth North,162.1,155.7
+2023-04-01,Registered Nurse,Perth South,147.5,140.7
+2023-04-01,Registered Nurse,Bunbury,79.4,75.4
+2023-04-01,Registered Nurse,Geraldton,50.3,50.2
+2023-04-01,Registered Nurse,Kalgoorlie,38.3,42.7
+2023-04-01,Registered Nurse,Broome,38.3,37.7
+2023-04-01,Midwife,Perth North,14.7,14.6
+2023-04-01,Midwife,Perth South,13.3,13.2
+2023-04-01,Midwife,Bunbury,8.1,7.1
+2023-04-01,Midwife,Geraldton,5.4,4.7
+2023-04-01,Midwife,Kalgoorlie,3.4,2.8
+2023-04-01,Midwife,Broome,2.5,2.5
+2023-04-01,Enrolled Nurse,Perth North,29.5,36.5
+2023-04-01,Enrolled Nurse,Perth South,27.9,33.0
+2023-04-01,Enrolled Nurse,Bunbury,15.2,17.7
+2023-04-01,Enrolled Nurse,Geraldton,10.9,11.8
+2023-04-01,Enrolled Nurse,Kalgoorlie,7.7,10.0
+2023-04-01,Enrolled Nurse,Broome,7.0,8.8
+2023-04-01,Medical Practitioner,Perth North,36.4,38.9
+2023-04-01,Medical Practitioner,Perth South,34.3,35.2
+2023-04-01,Medical Practitioner,Bunbury,18.3,18.8
+2023-04-01,Medical Practitioner,Geraldton,13.6,12.6
+2023-04-01,Medical Practitioner,Kalgoorlie,9.9,10.7
+2023-04-01,Medical Practitioner,Broome,8.8,9.4
+2023-04-01,Allied Health,Perth North,41.6,43.8
+2023-04-01,Allied Health,Perth South,40.9,39.6
+2023-04-01,Allied Health,Bunbury,23.6,21.2
+2023-04-01,Allied Health,Geraldton,13.1,14.1
+2023-04-01,Allied Health,Kalgoorlie,10.2,12.0
+2023-04-01,Allied Health,Broome,9.2,10.6
+2023-04-01,Care Worker,Perth North,75.5,77.9
+2023-04-01,Care Worker,Perth South,65.8,70.3
+2023-04-01,Care Worker,Bunbury,37.9,37.7
+2023-04-01,Care Worker,Geraldton,23.7,25.1
+2023-04-01,Care Worker,Kalgoorlie,20.3,21.4
+2023-04-01,Care Worker,Broome,16.1,18.8
+2023-04-01,Administration,Perth North,66.2,70.6
+2023-04-01,Administration,Perth South,63.7,63.7
+2023-04-01,Administration,Bunbury,33.4,34.1
+2023-04-01,Administration,Geraldton,22.9,22.8
+2023-04-01,Administration,Kalgoorlie,18.5,19.4
+2023-04-01,Administration,Broome,16.7,17.1
+2023-04-01,Support Services,Perth North,46.7,48.7
+2023-04-01,Support Services,Perth South,43.1,44.0
+2023-04-01,Support Services,Bunbury,22.5,23.6
+2023-04-01,Support Services,Geraldton,14.4,15.7
+2023-04-01,Support Services,Kalgoorlie,13.6,13.3
+2023-04-01,Support Services,Broome,10.2,11.8
+2023-05-01,Registered Nurse,Perth North,161.1,155.7
+2023-05-01,Registered Nurse,Perth South,150.5,140.7
+2023-05-01,Registered Nurse,Bunbury,79.4,75.4
+2023-05-01,Registered Nurse,Geraldton,48.3,50.2
+2023-05-01,Registered Nurse,Kalgoorlie,38.3,42.7
+2023-05-01,Registered Nurse,Broome,38.3,37.7
+2023-05-01,Midwife,Perth North,14.7,14.6
+2023-05-01,Midwife,Perth South,14.3,13.2
+2023-05-01,Midwife,Bunbury,8.1,7.1
+2023-05-01,Midwife,Geraldton,5.4,4.7
+2023-05-01,Midwife,Kalgoorlie,3.4,2.8
+2023-05-01,Midwife,Broome,2.5,2.5
+2023-05-01,Enrolled Nurse,Perth North,29.5,36.5
+2023-05-01,Enrolled Nurse,Perth South,28.6,33.0
+2023-05-01,Enrolled Nurse,Bunbury,15.2,17.7
+2023-05-01,Enrolled Nurse,Geraldton,10.9,11.8
+2023-05-01,Enrolled Nurse,Kalgoorlie,8.4,10.0
+2023-05-01,Enrolled Nurse,Broome,7.0,8.8
+2023-05-01,Medical Practitioner,Perth North,36.4,38.9
+2023-05-01,Medical Practitioner,Perth South,34.3,35.2
+2023-05-01,Medical Practitioner,Bunbury,19.7,18.8
+2023-05-01,Medical Practitioner,Geraldton,13.6,12.6
+2023-05-01,Medical Practitioner,Kalgoorlie,9.9,10.7
+2023-05-01,Medical Practitioner,Broome,8.8,9.4
+2023-05-01,Allied Health,Perth North,42.6,43.8
+2023-05-01,Allied Health,Perth South,40.9,39.6
+2023-05-01,Allied Health,Bunbury,23.6,21.2
+2023-05-01,Allied Health,Geraldton,13.1,14.1
+2023-05-01,Allied Health,Kalgoorlie,10.2,12.0
+2023-05-01,Allied Health,Broome,9.0,10.6
+2023-05-01,Care Worker,Perth North,75.9,77.9
+2023-05-01,Care Worker,Perth South,65.9,70.3
+2023-05-01,Care Worker,Bunbury,36.5,37.7
+2023-05-01,Care Worker,Geraldton,22.4,25.1
+2023-05-01,Care Worker,Kalgoorlie,19.3,21.4
+2023-05-01,Care Worker,Broome,16.9,18.8
+2023-05-01,Administration,Perth North,65.2,70.6
+2023-05-01,Administration,Perth South,64.4,63.7
+2023-05-01,Administration,Bunbury,33.4,34.1
+2023-05-01,Administration,Geraldton,22.9,22.8
+2023-05-01,Administration,Kalgoorlie,18.0,19.4
+2023-05-01,Administration,Broome,16.7,17.1
+2023-05-01,Support Services,Perth North,46.7,48.7
+2023-05-01,Support Services,Perth South,42.2,44.0
+2023-05-01,Support Services,Bunbury,22.5,23.6
+2023-05-01,Support Services,Geraldton,13.4,15.7
+2023-05-01,Support Services,Kalgoorlie,12.6,13.3
+2023-05-01,Support Services,Broome,10.2,11.8
+2023-06-01,Registered Nurse,Perth North,161.9,155.7
+2023-06-01,Registered Nurse,Perth South,149.0,140.7
+2023-06-01,Registered Nurse,Bunbury,77.8,75.4
+2023-06-01,Registered Nurse,Geraldton,47.3,50.2
+2023-06-01,Registered Nurse,Kalgoorlie,38.3,42.7
+2023-06-01,Registered Nurse,Broome,38.3,37.7
+2023-06-01,Midwife,Perth North,14.4,14.6
+2023-06-01,Midwife,Perth South,14.3,13.2
+2023-06-01,Midwife,Bunbury,8.1,7.1
+2023-06-01,Midwife,Geraldton,5.4,4.7
+2023-06-01,Midwife,Kalgoorlie,3.4,2.8
+2023-06-01,Midwife,Broome,2.5,2.5
+2023-06-01,Enrolled Nurse,Perth North,28.8,36.5
+2023-06-01,Enrolled Nurse,Perth South,28.6,33.0
+2023-06-01,Enrolled Nurse,Bunbury,15.2,17.7
+2023-06-01,Enrolled Nurse,Geraldton,10.9,11.8
+2023-06-01,Enrolled Nurse,Kalgoorlie,9.4,10.0
+2023-06-01,Enrolled Nurse,Broome,7.0,8.8
+2023-06-01,Medical Practitioner,Perth North,36.4,38.9
+2023-06-01,Medical Practitioner,Perth South,34.3,35.2
+2023-06-01,Medical Practitioner,Bunbury,19.7,18.8
+2023-06-01,Medical Practitioner,Geraldton,13.6,12.6
+2023-06-01,Medical Practitioner,Kalgoorlie,9.9,10.7
+2023-06-01,Medical Practitioner,Broome,8.8,9.4
+2023-06-01,Allied Health,Perth North,41.0,43.8
+2023-06-01,Allied Health,Perth South,39.9,39.6
+2023-06-01,Allied Health,Bunbury,23.6,21.2
+2023-06-01,Allied Health,Geraldton,13.1,14.1
+2023-06-01,Allied Health,Kalgoorlie,10.9,12.0
+2023-06-01,Allied Health,Broome,9.0,10.6
+2023-06-01,Care Worker,Perth North,76.5,77.9
+2023-06-01,Care Worker,Perth South,64.9,70.3
+2023-06-01,Care Worker,Bunbury,38.0,37.7
+2023-06-01,Care Worker,Geraldton,22.6,25.1
+2023-06-01,Care Worker,Kalgoorlie,18.5,21.4
+2023-06-01,Care Worker,Broome,16.2,18.8
+2023-06-01,Administration,Perth North,65.0,70.6
+2023-06-01,Administration,Perth South,63.4,63.7
+2023-06-01,Administration,Bunbury,32.4,34.1
+2023-06-01,Administration,Geraldton,22.9,22.8
+2023-06-01,Administration,Kalgoorlie,19.0,19.4
+2023-06-01,Administration,Broome,15.7,17.1
+2023-06-01,Support Services,Perth North,46.7,48.7
+2023-06-01,Support Services,Perth South,42.2,44.0
+2023-06-01,Support Services,Bunbury,21.5,23.6
+2023-06-01,Support Services,Geraldton,13.9,15.7
+2023-06-01,Support Services,Kalgoorlie,12.6,13.3
+2023-06-01,Support Services,Broome,10.2,11.8
+2023-07-01,Registered Nurse,Perth North,161.9,160.4
+2023-07-01,Registered Nurse,Perth South,147.5,144.9
+2023-07-01,Registered Nurse,Bunbury,76.2,78.4
+2023-07-01,Registered Nurse,Geraldton,47.4,51.7
+2023-07-01,Registered Nurse,Kalgoorlie,37.3,44.0
+2023-07-01,Registered Nurse,Broome,39.3,39.2
+2023-07-01,Midwife,Perth North,15.4,14.9
+2023-07-01,Midwife,Perth South,14.0,13.5
+2023-07-01,Midwife,Bunbury,8.1,7.3
+2023-07-01,Midwife,Geraldton,5.4,4.8
+2023-07-01,Midwife,Kalgoorlie,3.4,2.9
+2023-07-01,Midwife,Broome,2.5,2.5
+2023-07-01,Enrolled Nurse,Perth North,28.0,37.2
+2023-07-01,Enrolled Nurse,Perth South,28.6,33.6
+2023-07-01,Enrolled Nurse,Bunbury,15.2,18.2
+2023-07-01,Enrolled Nurse,Geraldton,11.7,12.0
+2023-07-01,Enrolled Nurse,Kalgoorlie,9.4,10.2
+2023-07-01,Enrolled Nurse,Broome,7.0,9.1
+2023-07-01,Medical Practitioner,Perth North,36.4,39.9
+2023-07-01,Medical Practitioner,Perth South,34.3,36.0
+2023-07-01,Medical Practitioner,Bunbury,19.7,19.5
+2023-07-01,Medical Practitioner,Geraldton,12.6,12.9
+2023-07-01,Medical Practitioner,Kalgoorlie,9.9,10.9
+2023-07-01,Medical Practitioner,Broome,8.8,9.7
+2023-07-01,Allied Health,Perth North,43.0,45.1
+2023-07-01,Allied Health,Perth South,40.9,40.8
+2023-07-01,Allied Health,Bunbury,23.6,22.0
+2023-07-01,Allied Health,Geraldton,13.1,14.6
+2023-07-01,Allied Health,Kalgoorlie,10.9,12.4
+2023-07-01,Allied Health,Broome,9.8,11.0
+2023-07-01,Care Worker,Perth North,76.5,81.4
+2023-07-01,Care Worker,Perth South,66.3,73.5
+2023-07-01,Care Worker,Bunbury,37.9,39.8
+2023-07-01,Care Worker,Geraldton,23.6,26.3
+2023-07-01,Care Worker,Kalgoorlie,18.6,22.3
+2023-07-01,Care Worker,Broome,17.9,19.9
+2023-07-01,Administration,Perth North,68.0,70.9
+2023-07-01,Administration,Perth South,63.4,64.1
+2023-07-01,Administration,Bunbury,32.0,34.7
+2023-07-01,Administration,Geraldton,22.9,22.9
+2023-07-01,Administration,Kalgoorlie,19.1,19.4
+2023-07-01,Administration,Broome,15.7,17.3
+2023-07-01,Support Services,Perth North,47.0,49.2
+2023-07-01,Support Services,Perth South,41.8,44.4
+2023-07-01,Support Services,Bunbury,22.5,24.0
+2023-07-01,Support Services,Geraldton,13.9,15.9
+2023-07-01,Support Services,Kalgoorlie,13.6,13.5
+2023-07-01,Support Services,Broome,10.2,12.0
+2023-08-01,Registered Nurse,Perth North,160.8,160.4
+2023-08-01,Registered Nurse,Perth South,149.0,144.9
+2023-08-01,Registered Nurse,Bunbury,78.3,78.4
+2023-08-01,Registered Nurse,Geraldton,47.6,51.7
+2023-08-01,Registered Nurse,Kalgoorlie,40.1,44.0
+2023-08-01,Registered Nurse,Broome,38.1,39.2
+2023-08-01,Midwife,Perth North,15.4,14.9
+2023-08-01,Midwife,Perth South,14.0,13.5
+2023-08-01,Midwife,Bunbury,8.1,7.3
+2023-08-01,Midwife,Geraldton,4.4,4.8
+2023-08-01,Midwife,Kalgoorlie,3.4,2.9
+2023-08-01,Midwife,Broome,2.5,2.5
+2023-08-01,Enrolled Nurse,Perth North,28.6,37.2
+2023-08-01,Enrolled Nurse,Perth South,27.5,33.6
+2023-08-01,Enrolled Nurse,Bunbury,16.2,18.2
+2023-08-01,Enrolled Nurse,Geraldton,11.7,12.0
+2023-08-01,Enrolled Nurse,Kalgoorlie,8.1,10.2
+2023-08-01,Enrolled Nurse,Broome,7.0,9.1
+2023-08-01,Medical Practitioner,Perth North,36.4,39.9
+2023-08-01,Medical Practitioner,Perth South,34.3,36.0
+2023-08-01,Medical Practitioner,Bunbury,19.7,19.5
+2023-08-01,Medical Practitioner,Geraldton,12.6,12.9
+2023-08-01,Medical Practitioner,Kalgoorlie,9.9,10.9
+2023-08-01,Medical Practitioner,Broome,8.8,9.7
+2023-08-01,Allied Health,Perth North,42.0,45.1
+2023-08-01,Allied Health,Perth South,40.9,40.8
+2023-08-01,Allied Health,Bunbury,23.6,22.0
+2023-08-01,Allied Health,Geraldton,13.1,14.6
+2023-08-01,Allied Health,Kalgoorlie,10.9,12.4
+2023-08-01,Allied Health,Broome,9.8,11.0
+2023-08-01,Care Worker,Perth North,79.7,81.4
+2023-08-01,Care Worker,Perth South,71.7,73.5
+2023-08-01,Care Worker,Bunbury,37.9,39.8
+2023-08-01,Care Worker,Geraldton,25.5,26.3
+2023-08-01,Care Worker,Kalgoorlie,20.4,22.3
+2023-08-01,Care Worker,Broome,18.4,19.9
+2023-08-01,Administration,Perth North,67.0,70.9
+2023-08-01,Administration,Perth South,64.4,64.1
+2023-08-01,Administration,Bunbury,32.6,34.7
+2023-08-01,Administration,Geraldton,22.9,22.9
+2023-08-01,Administration,Kalgoorlie,21.1,19.4
+2023-08-01,Administration,Broome,15.7,17.3
+2023-08-01,Support Services,Perth North,48.0,49.2
+2023-08-01,Support Services,Perth South,40.8,44.4
+2023-08-01,Support Services,Bunbury,22.5,24.0
+2023-08-01,Support Services,Geraldton,13.9,15.9
+2023-08-01,Support Services,Kalgoorlie,13.6,13.5
+2023-08-01,Support Services,Broome,11.7,12.0
+2023-09-01,Registered Nurse,Perth North,159.8,160.4
+2023-09-01,Registered Nurse,Perth South,150.3,144.9
+2023-09-01,Registered Nurse,Bunbury,79.9,78.4
+2023-09-01,Registered Nurse,Geraldton,46.5,51.7
+2023-09-01,Registered Nurse,Kalgoorlie,41.1,44.0
+2023-09-01,Registered Nurse,Broome,38.4,39.2
+2023-09-01,Midwife,Perth North,15.4,14.9
+2023-09-01,Midwife,Perth South,13.0,13.5
+2023-09-01,Midwife,Bunbury,8.1,7.3
+2023-09-01,Midwife,Geraldton,4.4,4.8
+2023-09-01,Midwife,Kalgoorlie,3.4,2.9
+2023-09-01,Midwife,Broome,2.5,2.5
+2023-09-01,Enrolled Nurse,Perth North,28.6,37.2
+2023-09-01,Enrolled Nurse,Perth South,29.0,33.6
+2023-09-01,Enrolled Nurse,Bunbury,15.2,18.2
+2023-09-01,Enrolled Nurse,Geraldton,11.7,12.0
+2023-09-01,Enrolled Nurse,Kalgoorlie,8.1,10.2
+2023-09-01,Enrolled Nurse,Broome,6.0,9.1
+2023-09-01,Medical Practitioner,Perth North,35.4,39.9
+2023-09-01,Medical Practitioner,Perth South,35.3,36.0
+2023-09-01,Medical Practitioner,Bunbury,19.7,19.5
+2023-09-01,Medical Practitioner,Geraldton,12.6,12.9
+2023-09-01,Medical Practitioner,Kalgoorlie,9.9,10.9
+2023-09-01,Medical Practitioner,Broome,8.8,9.7
+2023-09-01,Allied Health,Perth North,42.5,45.1
+2023-09-01,Allied Health,Perth South,41.4,40.8
+2023-09-01,Allied Health,Bunbury,23.6,22.0
+2023-09-01,Allied Health,Geraldton,13.6,14.6
+2023-09-01,Allied Health,Kalgoorlie,10.9,12.4
+2023-09-01,Allied Health,Broome,9.8,11.0
+2023-09-01,Care Worker,Perth North,80.5,81.4
+2023-09-01,Care Worker,Perth South,72.7,73.5
+2023-09-01,Care Worker,Bunbury,35.7,39.8
+2023-09-01,Care Worker,Geraldton,26.4,26.3
+2023-09-01,Care Worker,Kalgoorlie,20.4,22.3
+2023-09-01,Care Worker,Broome,18.7,19.9
+2023-09-01,Administration,Perth North,66.2,70.9
+2023-09-01,Administration,Perth South,63.4,64.1
+2023-09-01,Administration,Bunbury,33.6,34.7
+2023-09-01,Administration,Geraldton,21.9,22.9
+2023-09-01,Administration,Kalgoorlie,21.1,19.4
+2023-09-01,Administration,Broome,15.7,17.3
+2023-09-01,Support Services,Perth North,48.0,49.2
+2023-09-01,Support Services,Perth South,42.0,44.4
+2023-09-01,Support Services,Bunbury,22.5,24.0
+2023-09-01,Support Services,Geraldton,13.9,15.9
+2023-09-01,Support Services,Kalgoorlie,13.2,13.5
+2023-09-01,Support Services,Broome,11.7,12.0
+2023-10-01,Registered Nurse,Perth North,160.9,160.4
+2023-10-01,Registered Nurse,Perth South,149.6,144.9
+2023-10-01,Registered Nurse,Bunbury,77.2,78.4
+2023-10-01,Registered Nurse,Geraldton,47.1,51.7
+2023-10-01,Registered Nurse,Kalgoorlie,41.1,44.0
+2023-10-01,Registered Nurse,Broome,39.4,39.2
+2023-10-01,Midwife,Perth North,15.4,14.9
+2023-10-01,Midwife,Perth South,13.8,13.5
+2023-10-01,Midwife,Bunbury,7.1,7.3
+2023-10-01,Midwife,Geraldton,4.4,4.8
+2023-10-01,Midwife,Kalgoorlie,3.4,2.9
+2023-10-01,Midwife,Broome,2.5,2.5
+2023-10-01,Enrolled Nurse,Perth North,29.1,37.2
+2023-10-01,Enrolled Nurse,Perth South,27.9,33.6
+2023-10-01,Enrolled Nurse,Bunbury,14.5,18.2
+2023-10-01,Enrolled Nurse,Geraldton,11.7,12.0
+2023-10-01,Enrolled Nurse,Kalgoorlie,8.5,10.2
+2023-10-01,Enrolled Nurse,Broome,6.0,9.1
+2023-10-01,Medical Practitioner,Perth North,36.4,39.9
+2023-10-01,Medical Practitioner,Perth South,35.3,36.0
+2023-10-01,Medical Practitioner,Bunbury,19.7,19.5
+2023-10-01,Medical Practitioner,Geraldton,12.6,12.9
+2023-10-01,Medical Practitioner,Kalgoorlie,9.9,10.9
+2023-10-01,Medical Practitioner,Broome,8.8,9.7
+2023-10-01,Allied Health,Perth North,42.2,45.1
+2023-10-01,Allied Health,Perth South,41.4,40.8
+2023-10-01,Allied Health,Bunbury,23.6,22.0
+2023-10-01,Allied Health,Geraldton,13.6,14.6
+2023-10-01,Allied Health,Kalgoorlie,10.9,12.4
+2023-10-01,Allied Health,Broome,8.8,11.0
+2023-10-01,Care Worker,Perth North,82.6,81.4
+2023-10-01,Care Worker,Perth South,71.7,73.5
+2023-10-01,Care Worker,Bunbury,35.7,39.8
+2023-10-01,Care Worker,Geraldton,25.1,26.3
+2023-10-01,Care Worker,Kalgoorlie,20.4,22.3
+2023-10-01,Care Worker,Broome,17.7,19.9
+2023-10-01,Administration,Perth North,68.2,70.9
+2023-10-01,Administration,Perth South,62.4,64.1
+2023-10-01,Administration,Bunbury,33.6,34.7
+2023-10-01,Administration,Geraldton,21.9,22.9
+2023-10-01,Administration,Kalgoorlie,20.1,19.4
+2023-10-01,Administration,Broome,15.7,17.3
+2023-10-01,Support Services,Perth North,48.8,49.2
+2023-10-01,Support Services,Perth South,42.0,44.4
+2023-10-01,Support Services,Bunbury,22.5,24.0
+2023-10-01,Support Services,Geraldton,13.9,15.9
+2023-10-01,Support Services,Kalgoorlie,14.2,13.5
+2023-10-01,Support Services,Broome,11.3,12.0
+2023-11-01,Registered Nurse,Perth North,160.9,160.4
+2023-11-01,Registered Nurse,Perth South,151.3,144.9
+2023-11-01,Registered Nurse,Bunbury,78.2,78.4
+2023-11-01,Registered Nurse,Geraldton,46.1,51.7
+2023-11-01,Registered Nurse,Kalgoorlie,41.1,44.0
+2023-11-01,Registered Nurse,Broome,39.4,39.2
+2023-11-01,Midwife,Perth North,15.4,14.9
+2023-11-01,Midwife,Perth South,14.8,13.5
+2023-11-01,Midwife,Bunbury,7.1,7.3
+2023-11-01,Midwife,Geraldton,3.6,4.8
+2023-11-01,Midwife,Kalgoorlie,3.4,2.9
+2023-11-01,Midwife,Broome,2.5,2.5
+2023-11-01,Enrolled Nurse,Perth North,28.7,37.2
+2023-11-01,Enrolled Nurse,Perth South,28.8,33.6
+2023-11-01,Enrolled Nurse,Bunbury,15.3,18.2
+2023-11-01,Enrolled Nurse,Geraldton,11.7,12.0
+2023-11-01,Enrolled Nurse,Kalgoorlie,8.5,10.2
+2023-11-01,Enrolled Nurse,Broome,6.0,9.1
+2023-11-01,Medical Practitioner,Perth North,36.4,39.9
+2023-11-01,Medical Practitioner,Perth South,35.3,36.0
+2023-11-01,Medical Practitioner,Bunbury,19.7,19.5
+2023-11-01,Medical Practitioner,Geraldton,12.6,12.9
+2023-11-01,Medical Practitioner,Kalgoorlie,9.9,10.9
+2023-11-01,Medical Practitioner,Broome,8.8,9.7
+2023-11-01,Allied Health,Perth North,42.2,45.1
+2023-11-01,Allied Health,Perth South,41.4,40.8
+2023-11-01,Allied Health,Bunbury,23.6,22.0
+2023-11-01,Allied Health,Geraldton,13.6,14.6
+2023-11-01,Allied Health,Kalgoorlie,10.9,12.4
+2023-11-01,Allied Health,Broome,8.8,11.0
+2023-11-01,Care Worker,Perth North,79.8,81.4
+2023-11-01,Care Worker,Perth South,69.0,73.5
+2023-11-01,Care Worker,Bunbury,36.7,39.8
+2023-11-01,Care Worker,Geraldton,25.4,26.3
+2023-11-01,Care Worker,Kalgoorlie,20.0,22.3
+2023-11-01,Care Worker,Broome,18.0,19.9
+2023-11-01,Administration,Perth North,67.9,70.9
+2023-11-01,Administration,Perth South,61.8,64.1
+2023-11-01,Administration,Bunbury,33.6,34.7
+2023-11-01,Administration,Geraldton,21.9,22.9
+2023-11-01,Administration,Kalgoorlie,20.9,19.4
+2023-11-01,Administration,Broome,16.1,17.3
+2023-11-01,Support Services,Perth North,48.8,49.2
+2023-11-01,Support Services,Perth South,41.5,44.4
+2023-11-01,Support Services,Bunbury,22.4,24.0
+2023-11-01,Support Services,Geraldton,13.9,15.9
+2023-11-01,Support Services,Kalgoorlie,14.2,13.5
+2023-11-01,Support Services,Broome,10.6,12.0
+2023-12-01,Registered Nurse,Perth North,161.1,160.4
+2023-12-01,Registered Nurse,Perth South,151.0,144.9
+2023-12-01,Registered Nurse,Bunbury,78.0,78.4
+2023-12-01,Registered Nurse,Geraldton,47.8,51.7
+2023-12-01,Registered Nurse,Kalgoorlie,41.1,44.0
+2023-12-01,Registered Nurse,Broome,40.8,39.2
+2023-12-01,Midwife,Perth North,15.4,14.9
+2023-12-01,Midwife,Perth South,13.8,13.5
+2023-12-01,Midwife,Bunbury,7.1,7.3
+2023-12-01,Midwife,Geraldton,3.6,4.8
+2023-12-01,Midwife,Kalgoorlie,3.4,2.9
+2023-12-01,Midwife,Broome,2.5,2.5
+2023-12-01,Enrolled Nurse,Perth North,27.9,37.2
+2023-12-01,Enrolled Nurse,Perth South,28.8,33.6
+2023-12-01,Enrolled Nurse,Bunbury,15.3,18.2
+2023-12-01,Enrolled Nurse,Geraldton,11.7,12.0
+2023-12-01,Enrolled Nurse,Kalgoorlie,8.5,10.2
+2023-12-01,Enrolled Nurse,Broome,6.0,9.1
+2023-12-01,Medical Practitioner,Perth North,37.0,39.9
+2023-12-01,Medical Practitioner,Perth South,35.3,36.0
+2023-12-01,Medical Practitioner,Bunbury,19.3,19.5
+2023-12-01,Medical Practitioner,Geraldton,12.6,12.9
+2023-12-01,Medical Practitioner,Kalgoorlie,9.9,10.9
+2023-12-01,Medical Practitioner,Broome,8.8,9.7
+2023-12-01,Allied Health,Perth North,43.2,45.1
+2023-12-01,Allied Health,Perth South,41.4,40.8
+2023-12-01,Allied Health,Bunbury,23.6,22.0
+2023-12-01,Allied Health,Geraldton,13.6,14.6
+2023-12-01,Allied Health,Kalgoorlie,10.9,12.4
+2023-12-01,Allied Health,Broome,8.8,11.0
+2023-12-01,Care Worker,Perth North,81.3,81.4
+2023-12-01,Care Worker,Perth South,70.4,73.5
+2023-12-01,Care Worker,Bunbury,36.7,39.8
+2023-12-01,Care Worker,Geraldton,25.4,26.3
+2023-12-01,Care Worker,Kalgoorlie,17.8,22.3
+2023-12-01,Care Worker,Broome,17.7,19.9
+2023-12-01,Administration,Perth North,68.4,70.9
+2023-12-01,Administration,Perth South,61.8,64.1
+2023-12-01,Administration,Bunbury,33.6,34.7
+2023-12-01,Administration,Geraldton,21.9,22.9
+2023-12-01,Administration,Kalgoorlie,18.9,19.4
+2023-12-01,Administration,Broome,16.1,17.3
+2023-12-01,Support Services,Perth North,47.8,49.2
+2023-12-01,Support Services,Perth South,40.9,44.4
+2023-12-01,Support Services,Bunbury,23.4,24.0
+2023-12-01,Support Services,Geraldton,13.9,15.9
+2023-12-01,Support Services,Kalgoorlie,15.2,13.5
+2023-12-01,Support Services,Broome,10.6,12.0
+2024-01-01,Registered Nurse,Perth North,160.4,160.4
+2024-01-01,Registered Nurse,Perth South,150.1,144.9
+2024-01-01,Registered Nurse,Bunbury,78.9,78.4
+2024-01-01,Registered Nurse,Geraldton,47.3,51.7
+2024-01-01,Registered Nurse,Kalgoorlie,41.1,44.0
+2024-01-01,Registered Nurse,Broome,40.7,39.2
+2024-01-01,Midwife,Perth North,15.4,14.9
+2024-01-01,Midwife,Perth South,13.8,13.5
+2024-01-01,Midwife,Bunbury,8.1,7.3
+2024-01-01,Midwife,Geraldton,3.6,4.8
+2024-01-01,Midwife,Kalgoorlie,2.4,2.9
+2024-01-01,Midwife,Broome,2.5,2.5
+2024-01-01,Enrolled Nurse,Perth North,29.2,37.2
+2024-01-01,Enrolled Nurse,Perth South,27.8,33.6
+2024-01-01,Enrolled Nurse,Bunbury,16.0,18.2
+2024-01-01,Enrolled Nurse,Geraldton,10.9,12.0
+2024-01-01,Enrolled Nurse,Kalgoorlie,7.5,10.2
+2024-01-01,Enrolled Nurse,Broome,7.0,9.1
+2024-01-01,Medical Practitioner,Perth North,38.0,39.9
+2024-01-01,Medical Practitioner,Perth South,35.3,36.0
+2024-01-01,Medical Practitioner,Bunbury,19.3,19.5
+2024-01-01,Medical Practitioner,Geraldton,12.6,12.9
+2024-01-01,Medical Practitioner,Kalgoorlie,8.5,10.9
+2024-01-01,Medical Practitioner,Broome,8.8,9.7
+2024-01-01,Allied Health,Perth North,43.2,45.1
+2024-01-01,Allied Health,Perth South,40.9,40.8
+2024-01-01,Allied Health,Bunbury,23.6,22.0
+2024-01-01,Allied Health,Geraldton,12.6,14.6
+2024-01-01,Allied Health,Kalgoorlie,10.9,12.4
+2024-01-01,Allied Health,Broome,8.8,11.0
+2024-01-01,Care Worker,Perth North,81.4,81.4
+2024-01-01,Care Worker,Perth South,67.5,73.5
+2024-01-01,Care Worker,Bunbury,36.7,39.8
+2024-01-01,Care Worker,Geraldton,23.9,26.3
+2024-01-01,Care Worker,Kalgoorlie,18.8,22.3
+2024-01-01,Care Worker,Broome,17.7,19.9
+2024-01-01,Administration,Perth North,68.4,70.9
+2024-01-01,Administration,Perth South,61.8,64.1
+2024-01-01,Administration,Bunbury,33.6,34.7
+2024-01-01,Administration,Geraldton,22.6,22.9
+2024-01-01,Administration,Kalgoorlie,19.3,19.4
+2024-01-01,Administration,Broome,16.1,17.3
+2024-01-01,Support Services,Perth North,48.3,49.2
+2024-01-01,Support Services,Perth South,40.9,44.4
+2024-01-01,Support Services,Bunbury,23.4,24.0
+2024-01-01,Support Services,Geraldton,13.9,15.9
+2024-01-01,Support Services,Kalgoorlie,15.2,13.5
+2024-01-01,Support Services,Broome,11.1,12.0
+2024-02-01,Registered Nurse,Perth North,164.4,160.4
+2024-02-01,Registered Nurse,Perth South,154.4,144.9
+2024-02-01,Registered Nurse,Bunbury,78.9,78.4
+2024-02-01,Registered Nurse,Geraldton,50.6,51.7
+2024-02-01,Registered Nurse,Kalgoorlie,39.1,44.0
+2024-02-01,Registered Nurse,Broome,41.5,39.2
+2024-02-01,Midwife,Perth North,15.4,14.9
+2024-02-01,Midwife,Perth South,13.8,13.5
+2024-02-01,Midwife,Bunbury,8.1,7.3
+2024-02-01,Midwife,Geraldton,4.5,4.8
+2024-02-01,Midwife,Kalgoorlie,1.4,2.9
+2024-02-01,Midwife,Broome,2.5,2.5
+2024-02-01,Enrolled Nurse,Perth North,30.2,37.2
+2024-02-01,Enrolled Nurse,Perth South,27.8,33.6
+2024-02-01,Enrolled Nurse,Bunbury,16.0,18.2
+2024-02-01,Enrolled Nurse,Geraldton,10.9,12.0
+2024-02-01,Enrolled Nurse,Kalgoorlie,7.5,10.2
+2024-02-01,Enrolled Nurse,Broome,7.4,9.1
+2024-02-01,Medical Practitioner,Perth North,38.0,39.9
+2024-02-01,Medical Practitioner,Perth South,34.3,36.0
+2024-02-01,Medical Practitioner,Bunbury,19.3,19.5
+2024-02-01,Medical Practitioner,Geraldton,12.6,12.9
+2024-02-01,Medical Practitioner,Kalgoorlie,8.5,10.9
+2024-02-01,Medical Practitioner,Broome,8.8,9.7
+2024-02-01,Allied Health,Perth North,43.8,45.1
+2024-02-01,Allied Health,Perth South,39.9,40.8
+2024-02-01,Allied Health,Bunbury,24.6,22.0
+2024-02-01,Allied Health,Geraldton,12.6,14.6
+2024-02-01,Allied Health,Kalgoorlie,10.9,12.4
+2024-02-01,Allied Health,Broome,9.8,11.0
+2024-02-01,Care Worker,Perth North,81.5,81.4
+2024-02-01,Care Worker,Perth South,67.1,73.5
+2024-02-01,Care Worker,Bunbury,36.7,39.8
+2024-02-01,Care Worker,Geraldton,24.9,26.3
+2024-02-01,Care Worker,Kalgoorlie,18.8,22.3
+2024-02-01,Care Worker,Broome,17.4,19.9
+2024-02-01,Administration,Perth North,67.4,70.9
+2024-02-01,Administration,Perth South,61.8,64.1
+2024-02-01,Administration,Bunbury,33.6,34.7
+2024-02-01,Administration,Geraldton,21.6,22.9
+2024-02-01,Administration,Kalgoorlie,18.6,19.4
+2024-02-01,Administration,Broome,15.1,17.3
+2024-02-01,Support Services,Perth North,47.8,49.2
+2024-02-01,Support Services,Perth South,41.6,44.4
+2024-02-01,Support Services,Bunbury,22.4,24.0
+2024-02-01,Support Services,Geraldton,13.9,15.9
+2024-02-01,Support Services,Kalgoorlie,15.2,13.5
+2024-02-01,Support Services,Broome,11.1,12.0
+2024-03-01,Registered Nurse,Perth North,161.8,160.4
+2024-03-01,Registered Nurse,Perth South,152.4,144.9
+2024-03-01,Registered Nurse,Bunbury,79.7,78.4
+2024-03-01,Registered Nurse,Geraldton,50.6,51.7
+2024-03-01,Registered Nurse,Kalgoorlie,39.1,44.0
+2024-03-01,Registered Nurse,Broome,41.5,39.2
+2024-03-01,Midwife,Perth North,15.4,14.9
+2024-03-01,Midwife,Perth South,13.8,13.5
+2024-03-01,Midwife,Bunbury,8.1,7.3
+2024-03-01,Midwife,Geraldton,5.0,4.8
+2024-03-01,Midwife,Kalgoorlie,1.4,2.9
+2024-03-01,Midwife,Broome,2.5,2.5
+2024-03-01,Enrolled Nurse,Perth North,29.4,37.2
+2024-03-01,Enrolled Nurse,Perth South,27.8,33.6
+2024-03-01,Enrolled Nurse,Bunbury,17.0,18.2
+2024-03-01,Enrolled Nurse,Geraldton,11.7,12.0
+2024-03-01,Enrolled Nurse,Kalgoorlie,8.0,10.2
+2024-03-01,Enrolled Nurse,Broome,8.4,9.1
+2024-03-01,Medical Practitioner,Perth North,38.0,39.9
+2024-03-01,Medical Practitioner,Perth South,35.3,36.0
+2024-03-01,Medical Practitioner,Bunbury,19.3,19.5
+2024-03-01,Medical Practitioner,Geraldton,12.6,12.9
+2024-03-01,Medical Practitioner,Kalgoorlie,8.5,10.9
+2024-03-01,Medical Practitioner,Broome,8.8,9.7
+2024-03-01,Allied Health,Perth North,43.8,45.1
+2024-03-01,Allied Health,Perth South,41.6,40.8
+2024-03-01,Allied Health,Bunbury,24.6,22.0
+2024-03-01,Allied Health,Geraldton,12.6,14.6
+2024-03-01,Allied Health,Kalgoorlie,11.4,12.4
+2024-03-01,Allied Health,Broome,9.8,11.0
+2024-03-01,Care Worker,Perth North,81.5,81.4
+2024-03-01,Care Worker,Perth South,67.4,73.5
+2024-03-01,Care Worker,Bunbury,36.7,39.8
+2024-03-01,Care Worker,Geraldton,24.6,26.3
+2024-03-01,Care Worker,Kalgoorlie,18.2,22.3
+2024-03-01,Care Worker,Broome,17.4,19.9
+2024-03-01,Administration,Perth North,67.4,70.9
+2024-03-01,Administration,Perth South,61.8,64.1
+2024-03-01,Administration,Bunbury,33.0,34.7
+2024-03-01,Administration,Geraldton,21.6,22.9
+2024-03-01,Administration,Kalgoorlie,20.0,19.4
+2024-03-01,Administration,Broome,15.1,17.3
+2024-03-01,Support Services,Perth North,49.2,49.2
+2024-03-01,Support Services,Perth South,41.6,44.4
+2024-03-01,Support Services,Bunbury,23.3,24.0
+2024-03-01,Support Services,Geraldton,12.9,15.9
+2024-03-01,Support Services,Kalgoorlie,15.2,13.5
+2024-03-01,Support Services,Broome,10.6,12.0
+2024-04-01,Registered Nurse,Perth North,161.2,160.4
+2024-04-01,Registered Nurse,Perth South,151.7,144.9
+2024-04-01,Registered Nurse,Bunbury,77.0,78.4
+2024-04-01,Registered Nurse,Geraldton,50.6,51.7
+2024-04-01,Registered Nurse,Kalgoorlie,38.1,44.0
+2024-04-01,Registered Nurse,Broome,41.5,39.2
+2024-04-01,Midwife,Perth North,15.0,14.9
+2024-04-01,Midwife,Perth South,13.8,13.5
+2024-04-01,Midwife,Bunbury,8.1,7.3
+2024-04-01,Midwife,Geraldton,5.0,4.8
+2024-04-01,Midwife,Kalgoorlie,1.4,2.9
+2024-04-01,Midwife,Broome,2.5,2.5
+2024-04-01,Enrolled Nurse,Perth North,29.4,37.2
+2024-04-01,Enrolled Nurse,Perth South,30.1,33.6
+2024-04-01,Enrolled Nurse,Bunbury,17.0,18.2
+2024-04-01,Enrolled Nurse,Geraldton,10.9,12.0
+2024-04-01,Enrolled Nurse,Kalgoorlie,7.3,10.2
+2024-04-01,Enrolled Nurse,Broome,8.4,9.1
+2024-04-01,Medical Practitioner,Perth North,38.0,39.9
+2024-04-01,Medical Practitioner,Perth South,35.3,36.0
+2024-04-01,Medical Practitioner,Bunbury,19.3,19.5
+2024-04-01,Medical Practitioner,Geraldton,12.6,12.9
+2024-04-01,Medical Practitioner,Kalgoorlie,8.5,10.9
+2024-04-01,Medical Practitioner,Broome,7.8,9.7
+2024-04-01,Allied Health,Perth North,43.8,45.1
+2024-04-01,Allied Health,Perth South,40.7,40.8
+2024-04-01,Allied Health,Bunbury,24.6,22.0
+2024-04-01,Allied Health,Geraldton,13.6,14.6
+2024-04-01,Allied Health,Kalgoorlie,11.4,12.4
+2024-04-01,Allied Health,Broome,9.8,11.0
+2024-04-01,Care Worker,Perth North,80.9,81.4
+2024-04-01,Care Worker,Perth South,67.5,73.5
+2024-04-01,Care Worker,Bunbury,36.1,39.8
+2024-04-01,Care Worker,Geraldton,24.2,26.3
+2024-04-01,Care Worker,Kalgoorlie,17.7,22.3
+2024-04-01,Care Worker,Broome,17.6,19.9
+2024-04-01,Administration,Perth North,67.4,70.9
+2024-04-01,Administration,Perth South,61.2,64.1
+2024-04-01,Administration,Bunbury,32.0,34.7
+2024-04-01,Administration,Geraldton,21.0,22.9
+2024-04-01,Administration,Kalgoorlie,19.0,19.4
+2024-04-01,Administration,Broome,17.1,17.3
+2024-04-01,Support Services,Perth North,48.6,49.2
+2024-04-01,Support Services,Perth South,41.1,44.4
+2024-04-01,Support Services,Bunbury,23.3,24.0
+2024-04-01,Support Services,Geraldton,13.9,15.9
+2024-04-01,Support Services,Kalgoorlie,14.6,13.5
+2024-04-01,Support Services,Broome,10.6,12.0
+2024-05-01,Registered Nurse,Perth North,158.7,160.4
+2024-05-01,Registered Nurse,Perth South,154.9,144.9
+2024-05-01,Registered Nurse,Bunbury,78.6,78.4
+2024-05-01,Registered Nurse,Geraldton,49.6,51.7
+2024-05-01,Registered Nurse,Kalgoorlie,38.5,44.0
+2024-05-01,Registered Nurse,Broome,41.5,39.2
+2024-05-01,Midwife,Perth North,16.0,14.9
+2024-05-01,Midwife,Perth South,13.8,13.5
+2024-05-01,Midwife,Bunbury,8.1,7.3
+2024-05-01,Midwife,Geraldton,5.0,4.8
+2024-05-01,Midwife,Kalgoorlie,2.1,2.9
+2024-05-01,Midwife,Broome,2.5,2.5
+2024-05-01,Enrolled Nurse,Perth North,31.4,37.2
+2024-05-01,Enrolled Nurse,Perth South,30.1,33.6
+2024-05-01,Enrolled Nurse,Bunbury,16.3,18.2
+2024-05-01,Enrolled Nurse,Geraldton,11.9,12.0
+2024-05-01,Enrolled Nurse,Kalgoorlie,7.3,10.2
+2024-05-01,Enrolled Nurse,Broome,9.4,9.1
+2024-05-01,Medical Practitioner,Perth North,39.0,39.9
+2024-05-01,Medical Practitioner,Perth South,34.3,36.0
+2024-05-01,Medical Practitioner,Bunbury,19.9,19.5
+2024-05-01,Medical Practitioner,Geraldton,11.6,12.9
+2024-05-01,Medical Practitioner,Kalgoorlie,8.5,10.9
+2024-05-01,Medical Practitioner,Broome,7.8,9.7
+2024-05-01,Allied Health,Perth North,43.8,45.1
+2024-05-01,Allied Health,Perth South,40.7,40.8
+2024-05-01,Allied Health,Bunbury,24.6,22.0
+2024-05-01,Allied Health,Geraldton,13.6,14.6
+2024-05-01,Allied Health,Kalgoorlie,11.4,12.4
+2024-05-01,Allied Health,Broome,8.8,11.0
+2024-05-01,Care Worker,Perth North,81.5,81.4
+2024-05-01,Care Worker,Perth South,66.1,73.5
+2024-05-01,Care Worker,Bunbury,37.4,39.8
+2024-05-01,Care Worker,Geraldton,25.5,26.3
+2024-05-01,Care Worker,Kalgoorlie,19.2,22.3
+2024-05-01,Care Worker,Broome,17.1,19.9
+2024-05-01,Administration,Perth North,67.4,70.9
+2024-05-01,Administration,Perth South,61.3,64.1
+2024-05-01,Administration,Bunbury,32.0,34.7
+2024-05-01,Administration,Geraldton,22.0,22.9
+2024-05-01,Administration,Kalgoorlie,19.5,19.4
+2024-05-01,Administration,Broome,15.1,17.3
+2024-05-01,Support Services,Perth North,48.6,49.2
+2024-05-01,Support Services,Perth South,41.8,44.4
+2024-05-01,Support Services,Bunbury,23.3,24.0
+2024-05-01,Support Services,Geraldton,13.5,15.9
+2024-05-01,Support Services,Kalgoorlie,15.6,13.5
+2024-05-01,Support Services,Broome,9.7,12.0
+2024-06-01,Registered Nurse,Perth North,160.0,160.4
+2024-06-01,Registered Nurse,Perth South,152.0,144.9
+2024-06-01,Registered Nurse,Bunbury,78.6,78.4
+2024-06-01,Registered Nurse,Geraldton,47.7,51.7
+2024-06-01,Registered Nurse,Kalgoorlie,37.1,44.0
+2024-06-01,Registered Nurse,Broome,41.5,39.2
+2024-06-01,Midwife,Perth North,16.0,14.9
+2024-06-01,Midwife,Perth South,13.8,13.5
+2024-06-01,Midwife,Bunbury,8.1,7.3
+2024-06-01,Midwife,Geraldton,5.0,4.8
+2024-06-01,Midwife,Kalgoorlie,2.1,2.9
+2024-06-01,Midwife,Broome,2.5,2.5
+2024-06-01,Enrolled Nurse,Perth North,31.4,37.2
+2024-06-01,Enrolled Nurse,Perth South,30.1,33.6
+2024-06-01,Enrolled Nurse,Bunbury,16.3,18.2
+2024-06-01,Enrolled Nurse,Geraldton,11.9,12.0
+2024-06-01,Enrolled Nurse,Kalgoorlie,8.3,10.2
+2024-06-01,Enrolled Nurse,Broome,9.9,9.1
+2024-06-01,Medical Practitioner,Perth North,39.0,39.9
+2024-06-01,Medical Practitioner,Perth South,35.3,36.0
+2024-06-01,Medical Practitioner,Bunbury,19.9,19.5
+2024-06-01,Medical Practitioner,Geraldton,11.6,12.9
+2024-06-01,Medical Practitioner,Kalgoorlie,8.5,10.9
+2024-06-01,Medical Practitioner,Broome,7.8,9.7
+2024-06-01,Allied Health,Perth North,42.6,45.1
+2024-06-01,Allied Health,Perth South,40.7,40.8
+2024-06-01,Allied Health,Bunbury,24.6,22.0
+2024-06-01,Allied Health,Geraldton,12.7,14.6
+2024-06-01,Allied Health,Kalgoorlie,11.4,12.4
+2024-06-01,Allied Health,Broome,8.8,11.0
+2024-06-01,Care Worker,Perth North,80.1,81.4
+2024-06-01,Care Worker,Perth South,64.6,73.5
+2024-06-01,Care Worker,Bunbury,37.4,39.8
+2024-06-01,Care Worker,Geraldton,24.6,26.3
+2024-06-01,Care Worker,Kalgoorlie,20.7,22.3
+2024-06-01,Care Worker,Broome,18.5,19.9
+2024-06-01,Administration,Perth North,66.4,70.9
+2024-06-01,Administration,Perth South,61.2,64.1
+2024-06-01,Administration,Bunbury,33.0,34.7
+2024-06-01,Administration,Geraldton,22.0,22.9
+2024-06-01,Administration,Kalgoorlie,19.1,19.4
+2024-06-01,Administration,Broome,15.1,17.3
+2024-06-01,Support Services,Perth North,48.6,49.2
+2024-06-01,Support Services,Perth South,41.8,44.4
+2024-06-01,Support Services,Bunbury,23.3,24.0
+2024-06-01,Support Services,Geraldton,13.5,15.9
+2024-06-01,Support Services,Kalgoorlie,15.6,13.5
+2024-06-01,Support Services,Broome,9.7,12.0
+2024-07-01,Registered Nurse,Perth North,161.1,165.2
+2024-07-01,Registered Nurse,Perth South,152.0,149.2
+2024-07-01,Registered Nurse,Bunbury,78.6,81.5
+2024-07-01,Registered Nurse,Geraldton,47.7,53.3
+2024-07-01,Registered Nurse,Kalgoorlie,37.1,45.3
+2024-07-01,Registered Nurse,Broome,39.0,40.8
+2024-07-01,Midwife,Perth North,16.0,15.2
+2024-07-01,Midwife,Perth South,12.8,13.7
+2024-07-01,Midwife,Bunbury,8.1,7.5
+2024-07-01,Midwife,Geraldton,5.0,4.9
+2024-07-01,Midwife,Kalgoorlie,3.1,2.9
+2024-07-01,Midwife,Broome,2.5,2.6
+2024-07-01,Enrolled Nurse,Perth North,30.9,38.0
+2024-07-01,Enrolled Nurse,Perth South,29.7,34.3
+2024-07-01,Enrolled Nurse,Bunbury,16.3,18.7
+2024-07-01,Enrolled Nurse,Geraldton,11.9,12.3
+2024-07-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2024-07-01,Enrolled Nurse,Broome,9.9,9.4
+2024-07-01,Medical Practitioner,Perth North,39.0,40.9
+2024-07-01,Medical Practitioner,Perth South,35.3,36.9
+2024-07-01,Medical Practitioner,Bunbury,20.7,20.2
+2024-07-01,Medical Practitioner,Geraldton,10.6,13.2
+2024-07-01,Medical Practitioner,Kalgoorlie,9.5,11.2
+2024-07-01,Medical Practitioner,Broome,7.8,10.1
+2024-07-01,Allied Health,Perth North,42.6,46.5
+2024-07-01,Allied Health,Perth South,41.2,42.0
+2024-07-01,Allied Health,Bunbury,24.6,22.9
+2024-07-01,Allied Health,Geraldton,12.7,15.0
+2024-07-01,Allied Health,Kalgoorlie,11.4,12.7
+2024-07-01,Allied Health,Broome,8.8,11.5
+2024-07-01,Care Worker,Perth North,81.9,85.0
+2024-07-01,Care Worker,Perth South,67.4,76.8
+2024-07-01,Care Worker,Bunbury,36.8,41.9
+2024-07-01,Care Worker,Geraldton,25.7,27.4
+2024-07-01,Care Worker,Kalgoorlie,20.7,23.3
+2024-07-01,Care Worker,Broome,18.5,21.0
+2024-07-01,Administration,Perth North,66.9,71.3
+2024-07-01,Administration,Perth South,61.2,64.4
+2024-07-01,Administration,Bunbury,33.5,35.2
+2024-07-01,Administration,Geraldton,22.0,23.0
+2024-07-01,Administration,Kalgoorlie,19.1,19.5
+2024-07-01,Administration,Broome,16.1,17.6
+2024-07-01,Support Services,Perth North,49.6,49.6
+2024-07-01,Support Services,Perth South,42.8,44.8
+2024-07-01,Support Services,Bunbury,22.8,24.5
+2024-07-01,Support Services,Geraldton,13.5,16.0
+2024-07-01,Support Services,Kalgoorlie,15.3,13.6
+2024-07-01,Support Services,Broome,10.1,12.3
+2024-08-01,Registered Nurse,Perth North,161.0,165.2
+2024-08-01,Registered Nurse,Perth South,155.2,149.2
+2024-08-01,Registered Nurse,Bunbury,79.0,81.5
+2024-08-01,Registered Nurse,Geraldton,48.7,53.3
+2024-08-01,Registered Nurse,Kalgoorlie,37.8,45.3
+2024-08-01,Registered Nurse,Broome,39.0,40.8
+2024-08-01,Midwife,Perth North,16.0,15.2
+2024-08-01,Midwife,Perth South,12.8,13.7
+2024-08-01,Midwife,Bunbury,6.1,7.5
+2024-08-01,Midwife,Geraldton,5.0,4.9
+2024-08-01,Midwife,Kalgoorlie,3.1,2.9
+2024-08-01,Midwife,Broome,2.5,2.6
+2024-08-01,Enrolled Nurse,Perth North,30.3,38.0
+2024-08-01,Enrolled Nurse,Perth South,30.5,34.3
+2024-08-01,Enrolled Nurse,Bunbury,16.1,18.7
+2024-08-01,Enrolled Nurse,Geraldton,11.9,12.3
+2024-08-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2024-08-01,Enrolled Nurse,Broome,9.9,9.4
+2024-08-01,Medical Practitioner,Perth North,39.0,40.9
+2024-08-01,Medical Practitioner,Perth South,35.3,36.9
+2024-08-01,Medical Practitioner,Bunbury,20.7,20.2
+2024-08-01,Medical Practitioner,Geraldton,10.6,13.2
+2024-08-01,Medical Practitioner,Kalgoorlie,9.5,11.2
+2024-08-01,Medical Practitioner,Broome,7.8,10.1
+2024-08-01,Allied Health,Perth North,44.5,46.5
+2024-08-01,Allied Health,Perth South,42.2,42.0
+2024-08-01,Allied Health,Bunbury,24.6,22.9
+2024-08-01,Allied Health,Geraldton,13.7,15.0
+2024-08-01,Allied Health,Kalgoorlie,11.4,12.7
+2024-08-01,Allied Health,Broome,8.8,11.5
+2024-08-01,Care Worker,Perth North,84.1,85.0
+2024-08-01,Care Worker,Perth South,69.1,76.8
+2024-08-01,Care Worker,Bunbury,38.2,41.9
+2024-08-01,Care Worker,Geraldton,27.7,27.4
+2024-08-01,Care Worker,Kalgoorlie,20.7,23.3
+2024-08-01,Care Worker,Broome,18.5,21.0
+2024-08-01,Administration,Perth North,67.7,71.3
+2024-08-01,Administration,Perth South,61.8,64.4
+2024-08-01,Administration,Bunbury,33.5,35.2
+2024-08-01,Administration,Geraldton,22.0,23.0
+2024-08-01,Administration,Kalgoorlie,19.1,19.5
+2024-08-01,Administration,Broome,16.1,17.6
+2024-08-01,Support Services,Perth North,49.6,49.6
+2024-08-01,Support Services,Perth South,42.8,44.8
+2024-08-01,Support Services,Bunbury,23.8,24.5
+2024-08-01,Support Services,Geraldton,13.5,16.0
+2024-08-01,Support Services,Kalgoorlie,15.3,13.6
+2024-08-01,Support Services,Broome,10.1,12.3
+2024-09-01,Registered Nurse,Perth North,166.4,165.2
+2024-09-01,Registered Nurse,Perth South,156.0,149.2
+2024-09-01,Registered Nurse,Bunbury,79.8,81.5
+2024-09-01,Registered Nurse,Geraldton,49.6,53.3
+2024-09-01,Registered Nurse,Kalgoorlie,37.8,45.3
+2024-09-01,Registered Nurse,Broome,39.9,40.8
+2024-09-01,Midwife,Perth North,16.0,15.2
+2024-09-01,Midwife,Perth South,12.8,13.7
+2024-09-01,Midwife,Bunbury,6.1,7.5
+2024-09-01,Midwife,Geraldton,5.0,4.9
+2024-09-01,Midwife,Kalgoorlie,3.1,2.9
+2024-09-01,Midwife,Broome,2.5,2.6
+2024-09-01,Enrolled Nurse,Perth North,30.0,38.0
+2024-09-01,Enrolled Nurse,Perth South,30.9,34.3
+2024-09-01,Enrolled Nurse,Bunbury,16.1,18.7
+2024-09-01,Enrolled Nurse,Geraldton,11.9,12.3
+2024-09-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2024-09-01,Enrolled Nurse,Broome,9.9,9.4
+2024-09-01,Medical Practitioner,Perth North,39.0,40.9
+2024-09-01,Medical Practitioner,Perth South,35.7,36.9
+2024-09-01,Medical Practitioner,Bunbury,20.7,20.2
+2024-09-01,Medical Practitioner,Geraldton,10.6,13.2
+2024-09-01,Medical Practitioner,Kalgoorlie,9.5,11.2
+2024-09-01,Medical Practitioner,Broome,7.8,10.1
+2024-09-01,Allied Health,Perth North,44.5,46.5
+2024-09-01,Allied Health,Perth South,41.2,42.0
+2024-09-01,Allied Health,Bunbury,25.6,22.9
+2024-09-01,Allied Health,Geraldton,13.7,15.0
+2024-09-01,Allied Health,Kalgoorlie,11.4,12.7
+2024-09-01,Allied Health,Broome,8.8,11.5
+2024-09-01,Care Worker,Perth North,82.1,85.0
+2024-09-01,Care Worker,Perth South,70.1,76.8
+2024-09-01,Care Worker,Bunbury,37.4,41.9
+2024-09-01,Care Worker,Geraldton,27.7,27.4
+2024-09-01,Care Worker,Kalgoorlie,21.7,23.3
+2024-09-01,Care Worker,Broome,18.7,21.0
+2024-09-01,Administration,Perth North,66.7,71.3
+2024-09-01,Administration,Perth South,59.8,64.4
+2024-09-01,Administration,Bunbury,32.9,35.2
+2024-09-01,Administration,Geraldton,22.0,23.0
+2024-09-01,Administration,Kalgoorlie,19.1,19.5
+2024-09-01,Administration,Broome,16.1,17.6
+2024-09-01,Support Services,Perth North,48.9,49.6
+2024-09-01,Support Services,Perth South,42.1,44.8
+2024-09-01,Support Services,Bunbury,23.0,24.5
+2024-09-01,Support Services,Geraldton,13.5,16.0
+2024-09-01,Support Services,Kalgoorlie,14.3,13.6
+2024-09-01,Support Services,Broome,9.1,12.3
+2024-10-01,Registered Nurse,Perth North,165.4,165.2
+2024-10-01,Registered Nurse,Perth South,158.9,149.2
+2024-10-01,Registered Nurse,Bunbury,78.8,81.5
+2024-10-01,Registered Nurse,Geraldton,48.7,53.3
+2024-10-01,Registered Nurse,Kalgoorlie,36.8,45.3
+2024-10-01,Registered Nurse,Broome,41.2,40.8
+2024-10-01,Midwife,Perth North,15.2,15.2
+2024-10-01,Midwife,Perth South,12.8,13.7
+2024-10-01,Midwife,Bunbury,7.1,7.5
+2024-10-01,Midwife,Geraldton,5.0,4.9
+2024-10-01,Midwife,Kalgoorlie,3.1,2.9
+2024-10-01,Midwife,Broome,2.5,2.6
+2024-10-01,Enrolled Nurse,Perth North,30.0,38.0
+2024-10-01,Enrolled Nurse,Perth South,30.9,34.3
+2024-10-01,Enrolled Nurse,Bunbury,16.9,18.7
+2024-10-01,Enrolled Nurse,Geraldton,11.9,12.3
+2024-10-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2024-10-01,Enrolled Nurse,Broome,8.9,9.4
+2024-10-01,Medical Practitioner,Perth North,40.0,40.9
+2024-10-01,Medical Practitioner,Perth South,34.7,36.9
+2024-10-01,Medical Practitioner,Bunbury,20.7,20.2
+2024-10-01,Medical Practitioner,Geraldton,11.6,13.2
+2024-10-01,Medical Practitioner,Kalgoorlie,10.5,11.2
+2024-10-01,Medical Practitioner,Broome,7.8,10.1
+2024-10-01,Allied Health,Perth North,43.5,46.5
+2024-10-01,Allied Health,Perth South,41.2,42.0
+2024-10-01,Allied Health,Bunbury,24.1,22.9
+2024-10-01,Allied Health,Geraldton,13.1,15.0
+2024-10-01,Allied Health,Kalgoorlie,11.4,12.7
+2024-10-01,Allied Health,Broome,8.8,11.5
+2024-10-01,Care Worker,Perth North,82.8,85.0
+2024-10-01,Care Worker,Perth South,68.7,76.8
+2024-10-01,Care Worker,Bunbury,36.7,41.9
+2024-10-01,Care Worker,Geraldton,24.4,27.4
+2024-10-01,Care Worker,Kalgoorlie,21.7,23.3
+2024-10-01,Care Worker,Broome,17.8,21.0
+2024-10-01,Administration,Perth North,68.2,71.3
+2024-10-01,Administration,Perth South,61.4,64.4
+2024-10-01,Administration,Bunbury,33.7,35.2
+2024-10-01,Administration,Geraldton,22.0,23.0
+2024-10-01,Administration,Kalgoorlie,19.1,19.5
+2024-10-01,Administration,Broome,16.1,17.6
+2024-10-01,Support Services,Perth North,48.9,49.6
+2024-10-01,Support Services,Perth South,42.6,44.8
+2024-10-01,Support Services,Bunbury,24.0,24.5
+2024-10-01,Support Services,Geraldton,13.5,16.0
+2024-10-01,Support Services,Kalgoorlie,14.3,13.6
+2024-10-01,Support Services,Broome,9.1,12.3
+2024-11-01,Registered Nurse,Perth North,164.2,165.2
+2024-11-01,Registered Nurse,Perth South,159.8,149.2
+2024-11-01,Registered Nurse,Bunbury,81.1,81.5
+2024-11-01,Registered Nurse,Geraldton,50.4,53.3
+2024-11-01,Registered Nurse,Kalgoorlie,37.3,45.3
+2024-11-01,Registered Nurse,Broome,40.3,40.8
+2024-11-01,Midwife,Perth North,15.2,15.2
+2024-11-01,Midwife,Perth South,12.8,13.7
+2024-11-01,Midwife,Bunbury,7.1,7.5
+2024-11-01,Midwife,Geraldton,5.0,4.9
+2024-11-01,Midwife,Kalgoorlie,3.1,2.9
+2024-11-01,Midwife,Broome,2.5,2.6
+2024-11-01,Enrolled Nurse,Perth North,31.0,38.0
+2024-11-01,Enrolled Nurse,Perth South,29.9,34.3
+2024-11-01,Enrolled Nurse,Bunbury,16.9,18.7
+2024-11-01,Enrolled Nurse,Geraldton,11.1,12.3
+2024-11-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2024-11-01,Enrolled Nurse,Broome,8.9,9.4
+2024-11-01,Medical Practitioner,Perth North,40.0,40.9
+2024-11-01,Medical Practitioner,Perth South,34.7,36.9
+2024-11-01,Medical Practitioner,Bunbury,21.3,20.2
+2024-11-01,Medical Practitioner,Geraldton,11.6,13.2
+2024-11-01,Medical Practitioner,Kalgoorlie,9.8,11.2
+2024-11-01,Medical Practitioner,Broome,7.8,10.1
+2024-11-01,Allied Health,Perth North,44.5,46.5
+2024-11-01,Allied Health,Perth South,42.2,42.0
+2024-11-01,Allied Health,Bunbury,24.1,22.9
+2024-11-01,Allied Health,Geraldton,13.1,15.0
+2024-11-01,Allied Health,Kalgoorlie,10.4,12.7
+2024-11-01,Allied Health,Broome,9.8,11.5
+2024-11-01,Care Worker,Perth North,81.4,85.0
+2024-11-01,Care Worker,Perth South,70.1,76.8
+2024-11-01,Care Worker,Bunbury,38.7,41.9
+2024-11-01,Care Worker,Geraldton,24.5,27.4
+2024-11-01,Care Worker,Kalgoorlie,21.7,23.3
+2024-11-01,Care Worker,Broome,17.8,21.0
+2024-11-01,Administration,Perth North,68.0,71.3
+2024-11-01,Administration,Perth South,62.2,64.4
+2024-11-01,Administration,Bunbury,33.2,35.2
+2024-11-01,Administration,Geraldton,22.0,23.0
+2024-11-01,Administration,Kalgoorlie,19.1,19.5
+2024-11-01,Administration,Broome,15.1,17.6
+2024-11-01,Support Services,Perth North,48.7,49.6
+2024-11-01,Support Services,Perth South,42.6,44.8
+2024-11-01,Support Services,Bunbury,23.1,24.5
+2024-11-01,Support Services,Geraldton,13.5,16.0
+2024-11-01,Support Services,Kalgoorlie,13.3,13.6
+2024-11-01,Support Services,Broome,9.1,12.3
+2024-12-01,Registered Nurse,Perth North,164.9,165.2
+2024-12-01,Registered Nurse,Perth South,158.0,149.2
+2024-12-01,Registered Nurse,Bunbury,81.3,81.5
+2024-12-01,Registered Nurse,Geraldton,51.4,53.3
+2024-12-01,Registered Nurse,Kalgoorlie,36.6,45.3
+2024-12-01,Registered Nurse,Broome,40.3,40.8
+2024-12-01,Midwife,Perth North,15.7,15.2
+2024-12-01,Midwife,Perth South,12.8,13.7
+2024-12-01,Midwife,Bunbury,8.1,7.5
+2024-12-01,Midwife,Geraldton,5.0,4.9
+2024-12-01,Midwife,Kalgoorlie,3.1,2.9
+2024-12-01,Midwife,Broome,2.5,2.6
+2024-12-01,Enrolled Nurse,Perth North,30.4,38.0
+2024-12-01,Enrolled Nurse,Perth South,28.9,34.3
+2024-12-01,Enrolled Nurse,Bunbury,16.9,18.7
+2024-12-01,Enrolled Nurse,Geraldton,11.1,12.3
+2024-12-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2024-12-01,Enrolled Nurse,Broome,8.9,9.4
+2024-12-01,Medical Practitioner,Perth North,40.0,40.9
+2024-12-01,Medical Practitioner,Perth South,35.7,36.9
+2024-12-01,Medical Practitioner,Bunbury,21.3,20.2
+2024-12-01,Medical Practitioner,Geraldton,12.6,13.2
+2024-12-01,Medical Practitioner,Kalgoorlie,9.8,11.2
+2024-12-01,Medical Practitioner,Broome,7.8,10.1
+2024-12-01,Allied Health,Perth North,46.0,46.5
+2024-12-01,Allied Health,Perth South,42.2,42.0
+2024-12-01,Allied Health,Bunbury,24.7,22.9
+2024-12-01,Allied Health,Geraldton,12.1,15.0
+2024-12-01,Allied Health,Kalgoorlie,9.4,12.7
+2024-12-01,Allied Health,Broome,9.8,11.5
+2024-12-01,Care Worker,Perth North,81.9,85.0
+2024-12-01,Care Worker,Perth South,69.8,76.8
+2024-12-01,Care Worker,Bunbury,39.7,41.9
+2024-12-01,Care Worker,Geraldton,24.1,27.4
+2024-12-01,Care Worker,Kalgoorlie,21.7,23.3
+2024-12-01,Care Worker,Broome,16.5,21.0
+2024-12-01,Administration,Perth North,68.4,71.3
+2024-12-01,Administration,Perth South,61.7,64.4
+2024-12-01,Administration,Bunbury,33.2,35.2
+2024-12-01,Administration,Geraldton,22.0,23.0
+2024-12-01,Administration,Kalgoorlie,18.1,19.5
+2024-12-01,Administration,Broome,15.1,17.6
+2024-12-01,Support Services,Perth North,49.2,49.6
+2024-12-01,Support Services,Perth South,42.6,44.8
+2024-12-01,Support Services,Bunbury,23.5,24.5
+2024-12-01,Support Services,Geraldton,14.0,16.0
+2024-12-01,Support Services,Kalgoorlie,11.3,13.6
+2024-12-01,Support Services,Broome,10.0,12.3
+2025-01-01,Registered Nurse,Perth North,163.5,165.2
+2025-01-01,Registered Nurse,Perth South,156.9,149.2
+2025-01-01,Registered Nurse,Bunbury,82.3,81.5
+2025-01-01,Registered Nurse,Geraldton,51.4,53.3
+2025-01-01,Registered Nurse,Kalgoorlie,36.6,45.3
+2025-01-01,Registered Nurse,Broome,40.3,40.8
+2025-01-01,Midwife,Perth North,15.7,15.2
+2025-01-01,Midwife,Perth South,12.8,13.7
+2025-01-01,Midwife,Bunbury,8.1,7.5
+2025-01-01,Midwife,Geraldton,5.0,4.9
+2025-01-01,Midwife,Kalgoorlie,3.1,2.9
+2025-01-01,Midwife,Broome,2.5,2.6
+2025-01-01,Enrolled Nurse,Perth North,30.4,38.0
+2025-01-01,Enrolled Nurse,Perth South,28.9,34.3
+2025-01-01,Enrolled Nurse,Bunbury,16.9,18.7
+2025-01-01,Enrolled Nurse,Geraldton,11.1,12.3
+2025-01-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2025-01-01,Enrolled Nurse,Broome,8.9,9.4
+2025-01-01,Medical Practitioner,Perth North,40.0,40.9
+2025-01-01,Medical Practitioner,Perth South,36.7,36.9
+2025-01-01,Medical Practitioner,Bunbury,21.3,20.2
+2025-01-01,Medical Practitioner,Geraldton,12.6,13.2
+2025-01-01,Medical Practitioner,Kalgoorlie,8.8,11.2
+2025-01-01,Medical Practitioner,Broome,7.8,10.1
+2025-01-01,Allied Health,Perth North,46.0,46.5
+2025-01-01,Allied Health,Perth South,42.2,42.0
+2025-01-01,Allied Health,Bunbury,23.7,22.9
+2025-01-01,Allied Health,Geraldton,12.1,15.0
+2025-01-01,Allied Health,Kalgoorlie,10.4,12.7
+2025-01-01,Allied Health,Broome,9.8,11.5
+2025-01-01,Care Worker,Perth North,81.1,85.0
+2025-01-01,Care Worker,Perth South,71.1,76.8
+2025-01-01,Care Worker,Bunbury,39.4,41.9
+2025-01-01,Care Worker,Geraldton,25.1,27.4
+2025-01-01,Care Worker,Kalgoorlie,21.4,23.3
+2025-01-01,Care Worker,Broome,16.9,21.0
+2025-01-01,Administration,Perth North,68.4,71.3
+2025-01-01,Administration,Perth South,62.7,64.4
+2025-01-01,Administration,Bunbury,34.2,35.2
+2025-01-01,Administration,Geraldton,21.0,23.0
+2025-01-01,Administration,Kalgoorlie,19.1,19.5
+2025-01-01,Administration,Broome,15.1,17.6
+2025-01-01,Support Services,Perth North,49.2,49.6
+2025-01-01,Support Services,Perth South,42.6,44.8
+2025-01-01,Support Services,Bunbury,24.0,24.5
+2025-01-01,Support Services,Geraldton,14.0,16.0
+2025-01-01,Support Services,Kalgoorlie,12.3,13.6
+2025-01-01,Support Services,Broome,10.0,12.3
+2025-02-01,Registered Nurse,Perth North,168.5,165.2
+2025-02-01,Registered Nurse,Perth South,161.5,149.2
+2025-02-01,Registered Nurse,Bunbury,85.2,81.5
+2025-02-01,Registered Nurse,Geraldton,53.4,53.3
+2025-02-01,Registered Nurse,Kalgoorlie,37.8,45.3
+2025-02-01,Registered Nurse,Broome,43.3,40.8
+2025-02-01,Midwife,Perth North,15.7,15.2
+2025-02-01,Midwife,Perth South,12.8,13.7
+2025-02-01,Midwife,Bunbury,8.1,7.5
+2025-02-01,Midwife,Geraldton,5.0,4.9
+2025-02-01,Midwife,Kalgoorlie,3.1,2.9
+2025-02-01,Midwife,Broome,2.5,2.6
+2025-02-01,Enrolled Nurse,Perth North,30.4,38.0
+2025-02-01,Enrolled Nurse,Perth South,29.2,34.3
+2025-02-01,Enrolled Nurse,Bunbury,18.9,18.7
+2025-02-01,Enrolled Nurse,Geraldton,11.1,12.3
+2025-02-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2025-02-01,Enrolled Nurse,Broome,8.9,9.4
+2025-02-01,Medical Practitioner,Perth North,39.0,40.9
+2025-02-01,Medical Practitioner,Perth South,36.7,36.9
+2025-02-01,Medical Practitioner,Bunbury,21.3,20.2
+2025-02-01,Medical Practitioner,Geraldton,12.6,13.2
+2025-02-01,Medical Practitioner,Kalgoorlie,8.8,11.2
+2025-02-01,Medical Practitioner,Broome,7.8,10.1
+2025-02-01,Allied Health,Perth North,46.0,46.5
+2025-02-01,Allied Health,Perth South,42.2,42.0
+2025-02-01,Allied Health,Bunbury,22.7,22.9
+2025-02-01,Allied Health,Geraldton,12.1,15.0
+2025-02-01,Allied Health,Kalgoorlie,10.4,12.7
+2025-02-01,Allied Health,Broome,9.8,11.5
+2025-02-01,Care Worker,Perth North,83.3,85.0
+2025-02-01,Care Worker,Perth South,71.1,76.8
+2025-02-01,Care Worker,Bunbury,40.4,41.9
+2025-02-01,Care Worker,Geraldton,24.6,27.4
+2025-02-01,Care Worker,Kalgoorlie,21.4,23.3
+2025-02-01,Care Worker,Broome,18.2,21.0
+2025-02-01,Administration,Perth North,66.6,71.3
+2025-02-01,Administration,Perth South,61.9,64.4
+2025-02-01,Administration,Bunbury,34.2,35.2
+2025-02-01,Administration,Geraldton,21.0,23.0
+2025-02-01,Administration,Kalgoorlie,18.5,19.5
+2025-02-01,Administration,Broome,16.1,17.6
+2025-02-01,Support Services,Perth North,49.2,49.6
+2025-02-01,Support Services,Perth South,42.6,44.8
+2025-02-01,Support Services,Bunbury,24.0,24.5
+2025-02-01,Support Services,Geraldton,14.0,16.0
+2025-02-01,Support Services,Kalgoorlie,12.3,13.6
+2025-02-01,Support Services,Broome,10.0,12.3
+2025-03-01,Registered Nurse,Perth North,166.8,165.2
+2025-03-01,Registered Nurse,Perth South,161.0,149.2
+2025-03-01,Registered Nurse,Bunbury,83.8,81.5
+2025-03-01,Registered Nurse,Geraldton,52.7,53.3
+2025-03-01,Registered Nurse,Kalgoorlie,36.8,45.3
+2025-03-01,Registered Nurse,Broome,43.1,40.8
+2025-03-01,Midwife,Perth North,15.2,15.2
+2025-03-01,Midwife,Perth South,12.8,13.7
+2025-03-01,Midwife,Bunbury,8.1,7.5
+2025-03-01,Midwife,Geraldton,4.1,4.9
+2025-03-01,Midwife,Kalgoorlie,3.1,2.9
+2025-03-01,Midwife,Broome,1.5,2.6
+2025-03-01,Enrolled Nurse,Perth North,31.3,38.0
+2025-03-01,Enrolled Nurse,Perth South,29.6,34.3
+2025-03-01,Enrolled Nurse,Bunbury,18.6,18.7
+2025-03-01,Enrolled Nurse,Geraldton,11.1,12.3
+2025-03-01,Enrolled Nurse,Kalgoorlie,8.3,10.4
+2025-03-01,Enrolled Nurse,Broome,8.9,9.4
+2025-03-01,Medical Practitioner,Perth North,38.0,40.9
+2025-03-01,Medical Practitioner,Perth South,34.7,36.9
+2025-03-01,Medical Practitioner,Bunbury,21.3,20.2
+2025-03-01,Medical Practitioner,Geraldton,12.6,13.2
+2025-03-01,Medical Practitioner,Kalgoorlie,8.8,11.2
+2025-03-01,Medical Practitioner,Broome,7.8,10.1
+2025-03-01,Allied Health,Perth North,45.4,46.5
+2025-03-01,Allied Health,Perth South,42.2,42.0
+2025-03-01,Allied Health,Bunbury,23.6,22.9
+2025-03-01,Allied Health,Geraldton,12.1,15.0
+2025-03-01,Allied Health,Kalgoorlie,10.4,12.7
+2025-03-01,Allied Health,Broome,7.4,11.5
+2025-03-01,Care Worker,Perth North,82.2,85.0
+2025-03-01,Care Worker,Perth South,70.3,76.8
+2025-03-01,Care Worker,Bunbury,39.4,41.9
+2025-03-01,Care Worker,Geraldton,24.2,27.4
+2025-03-01,Care Worker,Kalgoorlie,22.1,23.3
+2025-03-01,Care Worker,Broome,17.2,21.0
+2025-03-01,Administration,Perth North,67.6,71.3
+2025-03-01,Administration,Perth South,61.2,64.4
+2025-03-01,Administration,Bunbury,34.2,35.2
+2025-03-01,Administration,Geraldton,21.0,23.0
+2025-03-01,Administration,Kalgoorlie,17.9,19.5
+2025-03-01,Administration,Broome,15.5,17.6
+2025-03-01,Support Services,Perth North,48.4,49.6
+2025-03-01,Support Services,Perth South,43.1,44.8
+2025-03-01,Support Services,Bunbury,23.5,24.5
+2025-03-01,Support Services,Geraldton,14.0,16.0
+2025-03-01,Support Services,Kalgoorlie,11.3,13.6
+2025-03-01,Support Services,Broome,10.0,12.3
+2025-04-01,Registered Nurse,Perth North,168.0,165.2
+2025-04-01,Registered Nurse,Perth South,160.9,149.2
+2025-04-01,Registered Nurse,Bunbury,82.9,81.5
+2025-04-01,Registered Nurse,Geraldton,53.6,53.3
+2025-04-01,Registered Nurse,Kalgoorlie,37.8,45.3
+2025-04-01,Registered Nurse,Broome,42.1,40.8
+2025-04-01,Midwife,Perth North,15.2,15.2
+2025-04-01,Midwife,Perth South,12.8,13.7
+2025-04-01,Midwife,Bunbury,8.1,7.5
+2025-04-01,Midwife,Geraldton,4.1,4.9
+2025-04-01,Midwife,Kalgoorlie,3.1,2.9
+2025-04-01,Midwife,Broome,2.5,2.6
+2025-04-01,Enrolled Nurse,Perth North,30.3,38.0
+2025-04-01,Enrolled Nurse,Perth South,28.8,34.3
+2025-04-01,Enrolled Nurse,Bunbury,17.7,18.7
+2025-04-01,Enrolled Nurse,Geraldton,11.1,12.3
+2025-04-01,Enrolled Nurse,Kalgoorlie,7.5,10.4
+2025-04-01,Enrolled Nurse,Broome,8.9,9.4
+2025-04-01,Medical Practitioner,Perth North,39.0,40.9
+2025-04-01,Medical Practitioner,Perth South,35.1,36.9
+2025-04-01,Medical Practitioner,Bunbury,21.3,20.2
+2025-04-01,Medical Practitioner,Geraldton,12.6,13.2
+2025-04-01,Medical Practitioner,Kalgoorlie,9.8,11.2
+2025-04-01,Medical Practitioner,Broome,7.8,10.1
+2025-04-01,Allied Health,Perth North,45.4,46.5
+2025-04-01,Allied Health,Perth South,42.2,42.0
+2025-04-01,Allied Health,Bunbury,24.6,22.9
+2025-04-01,Allied Health,Geraldton,12.1,15.0
+2025-04-01,Allied Health,Kalgoorlie,10.4,12.7
+2025-04-01,Allied Health,Broome,7.4,11.5
+2025-04-01,Care Worker,Perth North,83.4,85.0
+2025-04-01,Care Worker,Perth South,69.4,76.8
+2025-04-01,Care Worker,Bunbury,39.4,41.9
+2025-04-01,Care Worker,Geraldton,24.3,27.4
+2025-04-01,Care Worker,Kalgoorlie,22.1,23.3
+2025-04-01,Care Worker,Broome,17.7,21.0
+2025-04-01,Administration,Perth North,67.6,71.3
+2025-04-01,Administration,Perth South,62.9,64.4
+2025-04-01,Administration,Bunbury,34.2,35.2
+2025-04-01,Administration,Geraldton,21.0,23.0
+2025-04-01,Administration,Kalgoorlie,18.9,19.5
+2025-04-01,Administration,Broome,16.5,17.6
+2025-04-01,Support Services,Perth North,48.1,49.6
+2025-04-01,Support Services,Perth South,42.7,44.8
+2025-04-01,Support Services,Bunbury,24.5,24.5
+2025-04-01,Support Services,Geraldton,14.0,16.0
+2025-04-01,Support Services,Kalgoorlie,11.8,13.6
+2025-04-01,Support Services,Broome,10.0,12.3
+2025-05-01,Registered Nurse,Perth North,167.4,165.2
+2025-05-01,Registered Nurse,Perth South,158.8,149.2
+2025-05-01,Registered Nurse,Bunbury,83.4,81.5
+2025-05-01,Registered Nurse,Geraldton,51.6,53.3
+2025-05-01,Registered Nurse,Kalgoorlie,37.8,45.3
+2025-05-01,Registered Nurse,Broome,41.1,40.8
+2025-05-01,Midwife,Perth North,16.2,15.2
+2025-05-01,Midwife,Perth South,12.8,13.7
+2025-05-01,Midwife,Bunbury,8.1,7.5
+2025-05-01,Midwife,Geraldton,4.1,4.9
+2025-05-01,Midwife,Kalgoorlie,3.1,2.9
+2025-05-01,Midwife,Broome,2.5,2.6
+2025-05-01,Enrolled Nurse,Perth North,30.7,38.0
+2025-05-01,Enrolled Nurse,Perth South,28.8,34.3
+2025-05-01,Enrolled Nurse,Bunbury,17.7,18.7
+2025-05-01,Enrolled Nurse,Geraldton,11.1,12.3
+2025-05-01,Enrolled Nurse,Kalgoorlie,7.5,10.4
+2025-05-01,Enrolled Nurse,Broome,8.1,9.4
+2025-05-01,Medical Practitioner,Perth North,39.0,40.9
+2025-05-01,Medical Practitioner,Perth South,34.9,36.9
+2025-05-01,Medical Practitioner,Bunbury,21.3,20.2
+2025-05-01,Medical Practitioner,Geraldton,12.6,13.2
+2025-05-01,Medical Practitioner,Kalgoorlie,9.8,11.2
+2025-05-01,Medical Practitioner,Broome,7.8,10.1
+2025-05-01,Allied Health,Perth North,46.3,46.5
+2025-05-01,Allied Health,Perth South,42.2,42.0
+2025-05-01,Allied Health,Bunbury,23.6,22.9
+2025-05-01,Allied Health,Geraldton,13.1,15.0
+2025-05-01,Allied Health,Kalgoorlie,9.4,12.7
+2025-05-01,Allied Health,Broome,9.1,11.5
+2025-05-01,Care Worker,Perth North,83.5,85.0
+2025-05-01,Care Worker,Perth South,71.2,76.8
+2025-05-01,Care Worker,Bunbury,39.4,41.9
+2025-05-01,Care Worker,Geraldton,25.0,27.4
+2025-05-01,Care Worker,Kalgoorlie,21.6,23.3
+2025-05-01,Care Worker,Broome,18.5,21.0
+2025-05-01,Administration,Perth North,67.6,71.3
+2025-05-01,Administration,Perth South,61.9,64.4
+2025-05-01,Administration,Bunbury,34.7,35.2
+2025-05-01,Administration,Geraldton,21.0,23.0
+2025-05-01,Administration,Kalgoorlie,18.2,19.5
+2025-05-01,Administration,Broome,16.5,17.6
+2025-05-01,Support Services,Perth North,49.6,49.6
+2025-05-01,Support Services,Perth South,43.2,44.8
+2025-05-01,Support Services,Bunbury,24.5,24.5
+2025-05-01,Support Services,Geraldton,14.0,16.0
+2025-05-01,Support Services,Kalgoorlie,11.8,13.6
+2025-05-01,Support Services,Broome,10.0,12.3
+2025-06-01,Registered Nurse,Perth North,165.4,165.2
+2025-06-01,Registered Nurse,Perth South,160.3,149.2
+2025-06-01,Registered Nurse,Bunbury,83.8,81.5
+2025-06-01,Registered Nurse,Geraldton,52.6,53.3
+2025-06-01,Registered Nurse,Kalgoorlie,39.5,45.3
+2025-06-01,Registered Nurse,Broome,42.1,40.8
+2025-06-01,Midwife,Perth North,16.2,15.2
+2025-06-01,Midwife,Perth South,12.8,13.7
+2025-06-01,Midwife,Bunbury,8.1,7.5
+2025-06-01,Midwife,Geraldton,5.1,4.9
+2025-06-01,Midwife,Kalgoorlie,3.1,2.9
+2025-06-01,Midwife,Broome,2.5,2.6
+2025-06-01,Enrolled Nurse,Perth North,30.9,38.0
+2025-06-01,Enrolled Nurse,Perth South,28.8,34.3
+2025-06-01,Enrolled Nurse,Bunbury,18.6,18.7
+2025-06-01,Enrolled Nurse,Geraldton,11.1,12.3
+2025-06-01,Enrolled Nurse,Kalgoorlie,8.5,10.4
+2025-06-01,Enrolled Nurse,Broome,8.1,9.4
+2025-06-01,Medical Practitioner,Perth North,39.0,40.9
+2025-06-01,Medical Practitioner,Perth South,34.9,36.9
+2025-06-01,Medical Practitioner,Bunbury,20.9,20.2
+2025-06-01,Medical Practitioner,Geraldton,12.6,13.2
+2025-06-01,Medical Practitioner,Kalgoorlie,9.8,11.2
+2025-06-01,Medical Practitioner,Broome,7.8,10.1
+2025-06-01,Allied Health,Perth North,46.3,46.5
+2025-06-01,Allied Health,Perth South,40.7,42.0
+2025-06-01,Allied Health,Bunbury,23.6,22.9
+2025-06-01,Allied Health,Geraldton,13.1,15.0
+2025-06-01,Allied Health,Kalgoorlie,9.9,12.7
+2025-06-01,Allied Health,Broome,9.1,11.5
+2025-06-01,Care Worker,Perth North,82.8,85.0
+2025-06-01,Care Worker,Perth South,68.8,76.8
+2025-06-01,Care Worker,Bunbury,39.4,41.9
+2025-06-01,Care Worker,Geraldton,25.0,27.4
+2025-06-01,Care Worker,Kalgoorlie,21.6,23.3
+2025-06-01,Care Worker,Broome,18.0,21.0
+2025-06-01,Administration,Perth North,67.2,71.3
+2025-06-01,Administration,Perth South,62.9,64.4
+2025-06-01,Administration,Bunbury,34.7,35.2
+2025-06-01,Administration,Geraldton,21.0,23.0
+2025-06-01,Administration,Kalgoorlie,18.2,19.5
+2025-06-01,Administration,Broome,16.5,17.6
+2025-06-01,Support Services,Perth North,50.6,49.6
+2025-06-01,Support Services,Perth South,42.6,44.8
+2025-06-01,Support Services,Bunbury,24.5,24.5
+2025-06-01,Support Services,Geraldton,14.0,16.0
+2025-06-01,Support Services,Kalgoorlie,10.8,13.6
+2025-06-01,Support Services,Broome,10.0,12.3
+2025-07-01,Registered Nurse,Perth North,167.4,170.2
+2025-07-01,Registered Nurse,Perth South,161.6,153.7
+2025-07-01,Registered Nurse,Bunbury,83.0,84.8
+2025-07-01,Registered Nurse,Geraldton,53.2,54.9
+2025-07-01,Registered Nurse,Kalgoorlie,39.5,46.7
+2025-07-01,Registered Nurse,Broome,41.1,42.4
+2025-07-01,Midwife,Perth North,16.2,15.5
+2025-07-01,Midwife,Perth South,12.8,14.0
+2025-07-01,Midwife,Bunbury,8.1,7.7
+2025-07-01,Midwife,Geraldton,5.1,5.0
+2025-07-01,Midwife,Kalgoorlie,3.1,3.0
+2025-07-01,Midwife,Broome,2.5,2.7
+2025-07-01,Enrolled Nurse,Perth North,30.9,38.7
+2025-07-01,Enrolled Nurse,Perth South,29.5,35.0
+2025-07-01,Enrolled Nurse,Bunbury,18.6,19.3
+2025-07-01,Enrolled Nurse,Geraldton,11.1,12.5
+2025-07-01,Enrolled Nurse,Kalgoorlie,8.5,10.6
+2025-07-01,Enrolled Nurse,Broome,8.6,9.7
+2025-07-01,Medical Practitioner,Perth North,39.0,41.9
+2025-07-01,Medical Practitioner,Perth South,34.9,37.9
+2025-07-01,Medical Practitioner,Bunbury,20.9,20.9
+2025-07-01,Medical Practitioner,Geraldton,12.6,13.5
+2025-07-01,Medical Practitioner,Kalgoorlie,9.8,11.5
+2025-07-01,Medical Practitioner,Broome,7.8,10.4
+2025-07-01,Allied Health,Perth North,46.3,47.9
+2025-07-01,Allied Health,Perth South,39.7,43.2
+2025-07-01,Allied Health,Bunbury,23.6,23.8
+2025-07-01,Allied Health,Geraldton,13.1,15.4
+2025-07-01,Allied Health,Kalgoorlie,8.9,13.1
+2025-07-01,Allied Health,Broome,9.6,11.9
+2025-07-01,Care Worker,Perth North,87.7,88.9
+2025-07-01,Care Worker,Perth South,71.6,80.3
+2025-07-01,Care Worker,Bunbury,38.7,44.2
+2025-07-01,Care Worker,Geraldton,24.3,28.7
+2025-07-01,Care Worker,Kalgoorlie,22.5,24.4
+2025-07-01,Care Worker,Broome,19.0,22.1
+2025-07-01,Administration,Perth North,67.2,71.6
+2025-07-01,Administration,Perth South,62.9,64.7
+2025-07-01,Administration,Bunbury,34.7,35.7
+2025-07-01,Administration,Geraldton,21.0,23.1
+2025-07-01,Administration,Kalgoorlie,19.1,19.6
+2025-07-01,Administration,Broome,16.5,17.9
+2025-07-01,Support Services,Perth North,50.6,50.1
+2025-07-01,Support Services,Perth South,42.6,45.3
+2025-07-01,Support Services,Bunbury,24.7,25.0
+2025-07-01,Support Services,Geraldton,13.6,16.2
+2025-07-01,Support Services,Kalgoorlie,11.8,13.7
+2025-07-01,Support Services,Broome,10.0,12.5
+2025-08-01,Registered Nurse,Perth North,167.4,170.2
+2025-08-01,Registered Nurse,Perth South,167.2,153.7
+2025-08-01,Registered Nurse,Bunbury,83.1,84.8
+2025-08-01,Registered Nurse,Geraldton,53.2,54.9
+2025-08-01,Registered Nurse,Kalgoorlie,40.4,46.7
+2025-08-01,Registered Nurse,Broome,43.1,42.4
+2025-08-01,Midwife,Perth North,16.2,15.5
+2025-08-01,Midwife,Perth South,12.8,14.0
+2025-08-01,Midwife,Bunbury,8.1,7.7
+2025-08-01,Midwife,Geraldton,5.1,5.0
+2025-08-01,Midwife,Kalgoorlie,3.1,3.0
+2025-08-01,Midwife,Broome,2.5,2.7
+2025-08-01,Enrolled Nurse,Perth North,30.1,38.7
+2025-08-01,Enrolled Nurse,Perth South,29.5,35.0
+2025-08-01,Enrolled Nurse,Bunbury,18.6,19.3
+2025-08-01,Enrolled Nurse,Geraldton,11.1,12.5
+2025-08-01,Enrolled Nurse,Kalgoorlie,8.5,10.6
+2025-08-01,Enrolled Nurse,Broome,8.6,9.7
+2025-08-01,Medical Practitioner,Perth North,40.0,41.9
+2025-08-01,Medical Practitioner,Perth South,35.9,37.9
+2025-08-01,Medical Practitioner,Bunbury,20.9,20.9
+2025-08-01,Medical Practitioner,Geraldton,12.6,13.5
+2025-08-01,Medical Practitioner,Kalgoorlie,9.8,11.5
+2025-08-01,Medical Practitioner,Broome,7.8,10.4
+2025-08-01,Allied Health,Perth North,46.0,47.9
+2025-08-01,Allied Health,Perth South,40.7,43.2
+2025-08-01,Allied Health,Bunbury,24.0,23.8
+2025-08-01,Allied Health,Geraldton,13.1,15.4
+2025-08-01,Allied Health,Kalgoorlie,9.9,13.1
+2025-08-01,Allied Health,Broome,9.6,11.9
+2025-08-01,Care Worker,Perth North,87.6,88.9
+2025-08-01,Care Worker,Perth South,72.0,80.3
+2025-08-01,Care Worker,Bunbury,39.8,44.2
+2025-08-01,Care Worker,Geraldton,24.6,28.7
+2025-08-01,Care Worker,Kalgoorlie,23.4,24.4
+2025-08-01,Care Worker,Broome,16.8,22.1
+2025-08-01,Administration,Perth North,67.2,71.6
+2025-08-01,Administration,Perth South,62.8,64.7
+2025-08-01,Administration,Bunbury,34.7,35.7
+2025-08-01,Administration,Geraldton,21.0,23.1
+2025-08-01,Administration,Kalgoorlie,19.1,19.6
+2025-08-01,Administration,Broome,16.5,17.9
+2025-08-01,Support Services,Perth North,52.5,50.1
+2025-08-01,Support Services,Perth South,42.6,45.3
+2025-08-01,Support Services,Bunbury,25.7,25.0
+2025-08-01,Support Services,Geraldton,13.6,16.2
+2025-08-01,Support Services,Kalgoorlie,11.8,13.7
+2025-08-01,Support Services,Broome,10.0,12.5
+2025-09-01,Registered Nurse,Perth North,170.0,170.2
+2025-09-01,Registered Nurse,Perth South,165.3,153.7
+2025-09-01,Registered Nurse,Bunbury,84.7,84.8
+2025-09-01,Registered Nurse,Geraldton,53.4,54.9
+2025-09-01,Registered Nurse,Kalgoorlie,40.4,46.7
+2025-09-01,Registered Nurse,Broome,41.6,42.4
+2025-09-01,Midwife,Perth North,16.2,15.5
+2025-09-01,Midwife,Perth South,12.8,14.0
+2025-09-01,Midwife,Bunbury,8.1,7.7
+2025-09-01,Midwife,Geraldton,5.1,5.0
+2025-09-01,Midwife,Kalgoorlie,3.1,3.0
+2025-09-01,Midwife,Broome,2.5,2.7
+2025-09-01,Enrolled Nurse,Perth North,31.9,38.7
+2025-09-01,Enrolled Nurse,Perth South,30.5,35.0
+2025-09-01,Enrolled Nurse,Bunbury,18.6,19.3
+2025-09-01,Enrolled Nurse,Geraldton,11.1,12.5
+2025-09-01,Enrolled Nurse,Kalgoorlie,8.5,10.6
+2025-09-01,Enrolled Nurse,Broome,8.6,9.7
+2025-09-01,Medical Practitioner,Perth North,39.0,41.9
+2025-09-01,Medical Practitioner,Perth South,35.9,37.9
+2025-09-01,Medical Practitioner,Bunbury,20.9,20.9
+2025-09-01,Medical Practitioner,Geraldton,12.6,13.5
+2025-09-01,Medical Practitioner,Kalgoorlie,9.8,11.5
+2025-09-01,Medical Practitioner,Broome,7.8,10.4
+2025-09-01,Allied Health,Perth North,47.0,47.9
+2025-09-01,Allied Health,Perth South,40.7,43.2
+2025-09-01,Allied Health,Bunbury,23.0,23.8
+2025-09-01,Allied Health,Geraldton,13.1,15.4
+2025-09-01,Allied Health,Kalgoorlie,9.9,13.1
+2025-09-01,Allied Health,Broome,9.6,11.9
+2025-09-01,Care Worker,Perth North,85.5,88.9
+2025-09-01,Care Worker,Perth South,72.9,80.3
+2025-09-01,Care Worker,Bunbury,39.8,44.2
+2025-09-01,Care Worker,Geraldton,24.1,28.7
+2025-09-01,Care Worker,Kalgoorlie,22.4,24.4
+2025-09-01,Care Worker,Broome,17.7,22.1
+2025-09-01,Administration,Perth North,66.0,71.6
+2025-09-01,Administration,Perth South,62.8,64.7
+2025-09-01,Administration,Bunbury,35.7,35.7
+2025-09-01,Administration,Geraldton,21.0,23.1
+2025-09-01,Administration,Kalgoorlie,18.3,19.6
+2025-09-01,Administration,Broome,14.1,17.9
+2025-09-01,Support Services,Perth North,52.0,50.1
+2025-09-01,Support Services,Perth South,42.6,45.3
+2025-09-01,Support Services,Bunbury,25.7,25.0
+2025-09-01,Support Services,Geraldton,13.6,16.2
+2025-09-01,Support Services,Kalgoorlie,11.8,13.7
+2025-09-01,Support Services,Broome,9.1,12.5
+2025-10-01,Registered Nurse,Perth North,169.7,170.2
+2025-10-01,Registered Nurse,Perth South,166.7,153.7
+2025-10-01,Registered Nurse,Bunbury,86.0,84.8
+2025-10-01,Registered Nurse,Geraldton,53.4,54.9
+2025-10-01,Registered Nurse,Kalgoorlie,39.6,46.7
+2025-10-01,Registered Nurse,Broome,40.6,42.4
+2025-10-01,Midwife,Perth North,16.2,15.5
+2025-10-01,Midwife,Perth South,12.8,14.0
+2025-10-01,Midwife,Bunbury,8.1,7.7
+2025-10-01,Midwife,Geraldton,5.1,5.0
+2025-10-01,Midwife,Kalgoorlie,3.1,3.0
+2025-10-01,Midwife,Broome,2.5,2.7
+2025-10-01,Enrolled Nurse,Perth North,31.9,38.7
+2025-10-01,Enrolled Nurse,Perth South,30.1,35.0
+2025-10-01,Enrolled Nurse,Bunbury,18.6,19.3
+2025-10-01,Enrolled Nurse,Geraldton,11.1,12.5
+2025-10-01,Enrolled Nurse,Kalgoorlie,8.5,10.6
+2025-10-01,Enrolled Nurse,Broome,8.6,9.7
+2025-10-01,Medical Practitioner,Perth North,39.0,41.9
+2025-10-01,Medical Practitioner,Perth South,35.9,37.9
+2025-10-01,Medical Practitioner,Bunbury,20.9,20.9
+2025-10-01,Medical Practitioner,Geraldton,12.6,13.5
+2025-10-01,Medical Practitioner,Kalgoorlie,9.8,11.5
+2025-10-01,Medical Practitioner,Broome,7.8,10.4
+2025-10-01,Allied Health,Perth North,45.1,47.9
+2025-10-01,Allied Health,Perth South,41.6,43.2
+2025-10-01,Allied Health,Bunbury,23.0,23.8
+2025-10-01,Allied Health,Geraldton,13.1,15.4
+2025-10-01,Allied Health,Kalgoorlie,9.9,13.1
+2025-10-01,Allied Health,Broome,9.6,11.9
+2025-10-01,Care Worker,Perth North,85.2,88.9
+2025-10-01,Care Worker,Perth South,72.9,80.3
+2025-10-01,Care Worker,Bunbury,42.4,44.2
+2025-10-01,Care Worker,Geraldton,24.1,28.7
+2025-10-01,Care Worker,Kalgoorlie,21.4,24.4
+2025-10-01,Care Worker,Broome,18.0,22.1
+2025-10-01,Administration,Perth North,65.5,71.6
+2025-10-01,Administration,Perth South,61.8,64.7
+2025-10-01,Administration,Bunbury,35.7,35.7
+2025-10-01,Administration,Geraldton,21.0,23.1
+2025-10-01,Administration,Kalgoorlie,18.3,19.6
+2025-10-01,Administration,Broome,16.1,17.9
+2025-10-01,Support Services,Perth North,52.0,50.1
+2025-10-01,Support Services,Perth South,41.4,45.3
+2025-10-01,Support Services,Bunbury,25.5,25.0
+2025-10-01,Support Services,Geraldton,13.6,16.2
+2025-10-01,Support Services,Kalgoorlie,11.8,13.7
+2025-10-01,Support Services,Broome,10.1,12.5
+2025-11-01,Registered Nurse,Perth North,171.7,170.2
+2025-11-01,Registered Nurse,Perth South,168.5,153.7
+2025-11-01,Registered Nurse,Bunbury,86.4,84.8
+2025-11-01,Registered Nurse,Geraldton,53.4,54.9
+2025-11-01,Registered Nurse,Kalgoorlie,40.6,46.7
+2025-11-01,Registered Nurse,Broome,39.6,42.4
+2025-11-01,Midwife,Perth North,16.2,15.5
+2025-11-01,Midwife,Perth South,12.8,14.0
+2025-11-01,Midwife,Bunbury,8.1,7.7
+2025-11-01,Midwife,Geraldton,5.1,5.0
+2025-11-01,Midwife,Kalgoorlie,3.1,3.0
+2025-11-01,Midwife,Broome,2.5,2.7
+2025-11-01,Enrolled Nurse,Perth North,31.9,38.7
+2025-11-01,Enrolled Nurse,Perth South,30.1,35.0
+2025-11-01,Enrolled Nurse,Bunbury,18.6,19.3
+2025-11-01,Enrolled Nurse,Geraldton,11.1,12.5
+2025-11-01,Enrolled Nurse,Kalgoorlie,8.5,10.6
+2025-11-01,Enrolled Nurse,Broome,8.6,9.7
+2025-11-01,Medical Practitioner,Perth North,39.0,41.9
+2025-11-01,Medical Practitioner,Perth South,35.4,37.9
+2025-11-01,Medical Practitioner,Bunbury,20.9,20.9
+2025-11-01,Medical Practitioner,Geraldton,12.6,13.5
+2025-11-01,Medical Practitioner,Kalgoorlie,9.8,11.5
+2025-11-01,Medical Practitioner,Broome,7.8,10.4
+2025-11-01,Allied Health,Perth North,46.0,47.9
+2025-11-01,Allied Health,Perth South,40.2,43.2
+2025-11-01,Allied Health,Bunbury,22.6,23.8
+2025-11-01,Allied Health,Geraldton,13.1,15.4
+2025-11-01,Allied Health,Kalgoorlie,9.9,13.1
+2025-11-01,Allied Health,Broome,9.6,11.9
+2025-11-01,Care Worker,Perth North,87.5,88.9
+2025-11-01,Care Worker,Perth South,72.9,80.3
+2025-11-01,Care Worker,Bunbury,41.4,44.2
+2025-11-01,Care Worker,Geraldton,24.3,28.7
+2025-11-01,Care Worker,Kalgoorlie,22.4,24.4
+2025-11-01,Care Worker,Broome,18.6,22.1
+2025-11-01,Administration,Perth North,65.8,71.6
+2025-11-01,Administration,Perth South,61.8,64.7
+2025-11-01,Administration,Bunbury,34.7,35.7
+2025-11-01,Administration,Geraldton,21.0,23.1
+2025-11-01,Administration,Kalgoorlie,18.3,19.6
+2025-11-01,Administration,Broome,16.1,17.9
+2025-11-01,Support Services,Perth North,51.0,50.1
+2025-11-01,Support Services,Perth South,42.4,45.3
+2025-11-01,Support Services,Bunbury,25.5,25.0
+2025-11-01,Support Services,Geraldton,13.6,16.2
+2025-11-01,Support Services,Kalgoorlie,10.8,13.7
+2025-11-01,Support Services,Broome,10.1,12.5
+2025-12-01,Registered Nurse,Perth North,169.1,170.2
+2025-12-01,Registered Nurse,Perth South,168.3,153.7
+2025-12-01,Registered Nurse,Bunbury,86.4,84.8
+2025-12-01,Registered Nurse,Geraldton,53.6,54.9
+2025-12-01,Registered Nurse,Kalgoorlie,41.3,46.7
+2025-12-01,Registered Nurse,Broome,40.1,42.4
+2025-12-01,Midwife,Perth North,16.2,15.5
+2025-12-01,Midwife,Perth South,12.8,14.0
+2025-12-01,Midwife,Bunbury,8.1,7.7
+2025-12-01,Midwife,Geraldton,5.1,5.0
+2025-12-01,Midwife,Kalgoorlie,3.1,3.0
+2025-12-01,Midwife,Broome,2.5,2.7
+2025-12-01,Enrolled Nurse,Perth North,31.4,38.7
+2025-12-01,Enrolled Nurse,Perth South,29.6,35.0
+2025-12-01,Enrolled Nurse,Bunbury,19.6,19.3
+2025-12-01,Enrolled Nurse,Geraldton,11.1,12.5
+2025-12-01,Enrolled Nurse,Kalgoorlie,8.5,10.6
+2025-12-01,Enrolled Nurse,Broome,8.6,9.7
+2025-12-01,Medical Practitioner,Perth North,39.0,41.9
+2025-12-01,Medical Practitioner,Perth South,34.4,37.9
+2025-12-01,Medical Practitioner,Bunbury,20.9,20.9
+2025-12-01,Medical Practitioner,Geraldton,12.6,13.5
+2025-12-01,Medical Practitioner,Kalgoorlie,9.8,11.5
+2025-12-01,Medical Practitioner,Broome,7.8,10.4
+2025-12-01,Allied Health,Perth North,46.0,47.9
+2025-12-01,Allied Health,Perth South,41.7,43.2
+2025-12-01,Allied Health,Bunbury,22.6,23.8
+2025-12-01,Allied Health,Geraldton,12.1,15.4
+2025-12-01,Allied Health,Kalgoorlie,10.2,13.1
+2025-12-01,Allied Health,Broome,9.6,11.9
+2025-12-01,Care Worker,Perth North,85.5,88.9
+2025-12-01,Care Worker,Perth South,72.7,80.3
+2025-12-01,Care Worker,Bunbury,42.1,44.2
+2025-12-01,Care Worker,Geraldton,24.3,28.7
+2025-12-01,Care Worker,Kalgoorlie,21.3,24.4
+2025-12-01,Care Worker,Broome,17.6,22.1
+2025-12-01,Administration,Perth North,65.8,71.6
+2025-12-01,Administration,Perth South,63.4,64.7
+2025-12-01,Administration,Bunbury,34.7,35.7
+2025-12-01,Administration,Geraldton,21.0,23.1
+2025-12-01,Administration,Kalgoorlie,18.6,19.6
+2025-12-01,Administration,Broome,16.1,17.9
+2025-12-01,Support Services,Perth North,52.0,50.1
+2025-12-01,Support Services,Perth South,42.5,45.3
+2025-12-01,Support Services,Bunbury,25.5,25.0
+2025-12-01,Support Services,Geraldton,13.6,16.2
+2025-12-01,Support Services,Kalgoorlie,10.8,13.7
+2025-12-01,Support Services,Broome,10.1,12.5
+2026-01-01,Registered Nurse,Perth North,170.6,170.2
+2026-01-01,Registered Nurse,Perth South,168.3,153.7
+2026-01-01,Registered Nurse,Bunbury,87.3,84.8
+2026-01-01,Registered Nurse,Geraldton,52.6,54.9
+2026-01-01,Registered Nurse,Kalgoorlie,40.4,46.7
+2026-01-01,Registered Nurse,Broome,38.8,42.4
+2026-01-01,Midwife,Perth North,16.2,15.5
+2026-01-01,Midwife,Perth South,12.8,14.0
+2026-01-01,Midwife,Bunbury,8.1,7.7
+2026-01-01,Midwife,Geraldton,5.1,5.0
+2026-01-01,Midwife,Kalgoorlie,3.1,3.0
+2026-01-01,Midwife,Broome,2.5,2.7
+2026-01-01,Enrolled Nurse,Perth North,31.4,38.7
+2026-01-01,Enrolled Nurse,Perth South,31.2,35.0
+2026-01-01,Enrolled Nurse,Bunbury,18.6,19.3
+2026-01-01,Enrolled Nurse,Geraldton,11.1,12.5
+2026-01-01,Enrolled Nurse,Kalgoorlie,8.6,10.6
+2026-01-01,Enrolled Nurse,Broome,7.6,9.7
+2026-01-01,Medical Practitioner,Perth North,38.0,41.9
+2026-01-01,Medical Practitioner,Perth South,31.5,37.9
+2026-01-01,Medical Practitioner,Bunbury,21.4,20.9
+2026-01-01,Medical Practitioner,Geraldton,12.6,13.5
+2026-01-01,Medical Practitioner,Kalgoorlie,9.8,11.5
+2026-01-01,Medical Practitioner,Broome,7.8,10.4
+2026-01-01,Allied Health,Perth North,47.0,47.9
+2026-01-01,Allied Health,Perth South,42.7,43.2
+2026-01-01,Allied Health,Bunbury,23.6,23.8
+2026-01-01,Allied Health,Geraldton,12.1,15.4
+2026-01-01,Allied Health,Kalgoorlie,9.7,13.1
+2026-01-01,Allied Health,Broome,9.6,11.9
+2026-01-01,Care Worker,Perth North,85.9,88.9
+2026-01-01,Care Worker,Perth South,71.2,80.3
+2026-01-01,Care Worker,Bunbury,41.1,44.2
+2026-01-01,Care Worker,Geraldton,24.8,28.7
+2026-01-01,Care Worker,Kalgoorlie,21.1,24.4
+2026-01-01,Care Worker,Broome,16.3,22.1
+2026-01-01,Administration,Perth North,65.8,71.6
+2026-01-01,Administration,Perth South,62.2,64.7
+2026-01-01,Administration,Bunbury,33.7,35.7
+2026-01-01,Administration,Geraldton,21.0,23.1
+2026-01-01,Administration,Kalgoorlie,19.6,19.6
+2026-01-01,Administration,Broome,16.1,17.9
+2026-01-01,Support Services,Perth North,52.0,50.1
+2026-01-01,Support Services,Perth South,43.0,45.3
+2026-01-01,Support Services,Bunbury,25.5,25.0
+2026-01-01,Support Services,Geraldton,13.6,16.2
+2026-01-01,Support Services,Kalgoorlie,11.8,13.7
+2026-01-01,Support Services,Broome,10.1,12.5
+2026-02-01,Registered Nurse,Perth North,173.6,170.2
+2026-02-01,Registered Nurse,Perth South,168.8,153.7
+2026-02-01,Registered Nurse,Bunbury,89.0,84.8
+2026-02-01,Registered Nurse,Geraldton,55.6,54.9
+2026-02-01,Registered Nurse,Kalgoorlie,42.0,46.7
+2026-02-01,Registered Nurse,Broome,39.7,42.4
+2026-02-01,Midwife,Perth North,16.2,15.5
+2026-02-01,Midwife,Perth South,12.8,14.0
+2026-02-01,Midwife,Bunbury,7.1,7.7
+2026-02-01,Midwife,Geraldton,5.1,5.0
+2026-02-01,Midwife,Kalgoorlie,3.1,3.0
+2026-02-01,Midwife,Broome,2.5,2.7
+2026-02-01,Enrolled Nurse,Perth North,31.0,38.7
+2026-02-01,Enrolled Nurse,Perth South,32.2,35.0
+2026-02-01,Enrolled Nurse,Bunbury,19.1,19.3
+2026-02-01,Enrolled Nurse,Geraldton,11.1,12.5
+2026-02-01,Enrolled Nurse,Kalgoorlie,8.6,10.6
+2026-02-01,Enrolled Nurse,Broome,7.6,9.7
+2026-02-01,Medical Practitioner,Perth North,37.0,41.9
+2026-02-01,Medical Practitioner,Perth South,31.5,37.9
+2026-02-01,Medical Practitioner,Bunbury,21.4,20.9
+2026-02-01,Medical Practitioner,Geraldton,12.6,13.5
+2026-02-01,Medical Practitioner,Kalgoorlie,10.3,11.5
+2026-02-01,Medical Practitioner,Broome,7.8,10.4
+2026-02-01,Allied Health,Perth North,46.0,47.9
+2026-02-01,Allied Health,Perth South,42.7,43.2
+2026-02-01,Allied Health,Bunbury,22.6,23.8
+2026-02-01,Allied Health,Geraldton,12.1,15.4
+2026-02-01,Allied Health,Kalgoorlie,8.7,13.1
+2026-02-01,Allied Health,Broome,9.6,11.9
+2026-02-01,Care Worker,Perth North,83.7,88.9
+2026-02-01,Care Worker,Perth South,73.5,80.3
+2026-02-01,Care Worker,Bunbury,41.4,44.2
+2026-02-01,Care Worker,Geraldton,24.0,28.7
+2026-02-01,Care Worker,Kalgoorlie,21.6,24.4
+2026-02-01,Care Worker,Broome,17.3,22.1
+2026-02-01,Administration,Perth North,66.1,71.6
+2026-02-01,Administration,Perth South,63.2,64.7
+2026-02-01,Administration,Bunbury,34.7,35.7
+2026-02-01,Administration,Geraldton,21.0,23.1
+2026-02-01,Administration,Kalgoorlie,17.6,19.6
+2026-02-01,Administration,Broome,16.1,17.9
+2026-02-01,Support Services,Perth North,52.0,50.1
+2026-02-01,Support Services,Perth South,43.0,45.3
+2026-02-01,Support Services,Bunbury,25.5,25.0
+2026-02-01,Support Services,Geraldton,13.6,16.2
+2026-02-01,Support Services,Kalgoorlie,11.3,13.7
+2026-02-01,Support Services,Broome,10.1,12.5
+2026-03-01,Registered Nurse,Perth North,173.6,170.2
+2026-03-01,Registered Nurse,Perth South,166.8,153.7
+2026-03-01,Registered Nurse,Bunbury,89.0,84.8
+2026-03-01,Registered Nurse,Geraldton,55.6,54.9
+2026-03-01,Registered Nurse,Kalgoorlie,42.5,46.7
+2026-03-01,Registered Nurse,Broome,40.8,42.4
+2026-03-01,Midwife,Perth North,16.2,15.5
+2026-03-01,Midwife,Perth South,12.8,14.0
+2026-03-01,Midwife,Bunbury,7.1,7.7
+2026-03-01,Midwife,Geraldton,5.1,5.0
+2026-03-01,Midwife,Kalgoorlie,3.1,3.0
+2026-03-01,Midwife,Broome,2.5,2.7
+2026-03-01,Enrolled Nurse,Perth North,33.7,38.7
+2026-03-01,Enrolled Nurse,Perth South,33.2,35.0
+2026-03-01,Enrolled Nurse,Bunbury,18.1,19.3
+2026-03-01,Enrolled Nurse,Geraldton,10.9,12.5
+2026-03-01,Enrolled Nurse,Kalgoorlie,8.6,10.6
+2026-03-01,Enrolled Nurse,Broome,7.6,9.7
+2026-03-01,Medical Practitioner,Perth North,38.0,41.9
+2026-03-01,Medical Practitioner,Perth South,33.7,37.9
+2026-03-01,Medical Practitioner,Bunbury,20.9,20.9
+2026-03-01,Medical Practitioner,Geraldton,12.6,13.5
+2026-03-01,Medical Practitioner,Kalgoorlie,10.3,11.5
+2026-03-01,Medical Practitioner,Broome,7.8,10.4
+2026-03-01,Allied Health,Perth North,44.6,47.9
+2026-03-01,Allied Health,Perth South,42.7,43.2
+2026-03-01,Allied Health,Bunbury,23.6,23.8
+2026-03-01,Allied Health,Geraldton,12.1,15.4
+2026-03-01,Allied Health,Kalgoorlie,7.7,13.1
+2026-03-01,Allied Health,Broome,9.6,11.9
+2026-03-01,Care Worker,Perth North,83.9,88.9
+2026-03-01,Care Worker,Perth South,72.7,80.3
+2026-03-01,Care Worker,Bunbury,39.1,44.2
+2026-03-01,Care Worker,Geraldton,24.5,28.7
+2026-03-01,Care Worker,Kalgoorlie,20.9,24.4
+2026-03-01,Care Worker,Broome,18.0,22.1
+2026-03-01,Administration,Perth North,66.1,71.6
+2026-03-01,Administration,Perth South,63.2,64.7
+2026-03-01,Administration,Bunbury,34.7,35.7
+2026-03-01,Administration,Geraldton,21.0,23.1
+2026-03-01,Administration,Kalgoorlie,17.6,19.6
+2026-03-01,Administration,Broome,16.1,17.9
+2026-03-01,Support Services,Perth North,52.0,50.1
+2026-03-01,Support Services,Perth South,42.4,45.3
+2026-03-01,Support Services,Bunbury,25.5,25.0
+2026-03-01,Support Services,Geraldton,13.6,16.2
+2026-03-01,Support Services,Kalgoorlie,12.2,13.7
+2026-03-01,Support Services,Broome,10.1,12.5
+2026-04-01,Registered Nurse,Perth North,173.2,170.2
+2026-04-01,Registered Nurse,Perth South,166.8,153.7
+2026-04-01,Registered Nurse,Bunbury,88.0,84.8
+2026-04-01,Registered Nurse,Geraldton,55.7,54.9
+2026-04-01,Registered Nurse,Kalgoorlie,41.5,46.7
+2026-04-01,Registered Nurse,Broome,41.8,42.4
+2026-04-01,Midwife,Perth North,16.2,15.5
+2026-04-01,Midwife,Perth South,12.8,14.0
+2026-04-01,Midwife,Bunbury,8.1,7.7
+2026-04-01,Midwife,Geraldton,5.1,5.0
+2026-04-01,Midwife,Kalgoorlie,2.7,3.0
+2026-04-01,Midwife,Broome,2.5,2.7
+2026-04-01,Enrolled Nurse,Perth North,33.7,38.7
+2026-04-01,Enrolled Nurse,Perth South,33.2,35.0
+2026-04-01,Enrolled Nurse,Bunbury,19.1,19.3
+2026-04-01,Enrolled Nurse,Geraldton,10.9,12.5
+2026-04-01,Enrolled Nurse,Kalgoorlie,8.6,10.6
+2026-04-01,Enrolled Nurse,Broome,7.6,9.7
+2026-04-01,Medical Practitioner,Perth North,41.0,41.9
+2026-04-01,Medical Practitioner,Perth South,34.7,37.9
+2026-04-01,Medical Practitioner,Bunbury,20.9,20.9
+2026-04-01,Medical Practitioner,Geraldton,12.6,13.5
+2026-04-01,Medical Practitioner,Kalgoorlie,10.3,11.5
+2026-04-01,Medical Practitioner,Broome,5.8,10.4
+2026-04-01,Allied Health,Perth North,46.1,47.9
+2026-04-01,Allied Health,Perth South,42.7,43.2
+2026-04-01,Allied Health,Bunbury,23.6,23.8
+2026-04-01,Allied Health,Geraldton,11.9,15.4
+2026-04-01,Allied Health,Kalgoorlie,9.3,13.1
+2026-04-01,Allied Health,Broome,9.6,11.9
+2026-04-01,Care Worker,Perth North,81.8,88.9
+2026-04-01,Care Worker,Perth South,73.4,80.3
+2026-04-01,Care Worker,Bunbury,41.6,44.2
+2026-04-01,Care Worker,Geraldton,24.0,28.7
+2026-04-01,Care Worker,Kalgoorlie,21.6,24.4
+2026-04-01,Care Worker,Broome,16.6,22.1
+2026-04-01,Administration,Perth North,66.1,71.6
+2026-04-01,Administration,Perth South,63.2,64.7
+2026-04-01,Administration,Bunbury,34.7,35.7
+2026-04-01,Administration,Geraldton,21.0,23.1
+2026-04-01,Administration,Kalgoorlie,17.6,19.6
+2026-04-01,Administration,Broome,15.5,17.9
+2026-04-01,Support Services,Perth North,52.0,50.1
+2026-04-01,Support Services,Perth South,42.4,45.3
+2026-04-01,Support Services,Bunbury,24.5,25.0
+2026-04-01,Support Services,Geraldton,13.6,16.2
+2026-04-01,Support Services,Kalgoorlie,12.2,13.7
+2026-04-01,Support Services,Broome,9.7,12.5
+2026-05-01,Registered Nurse,Perth North,172.2,170.2
+2026-05-01,Registered Nurse,Perth South,167.8,153.7
+2026-05-01,Registered Nurse,Bunbury,86.6,84.8
+2026-05-01,Registered Nurse,Geraldton,55.6,54.9
+2026-05-01,Registered Nurse,Kalgoorlie,41.5,46.7
+2026-05-01,Registered Nurse,Broome,44.0,42.4
+2026-05-01,Midwife,Perth North,16.2,15.5
+2026-05-01,Midwife,Perth South,12.8,14.0
+2026-05-01,Midwife,Bunbury,8.1,7.7
+2026-05-01,Midwife,Geraldton,5.1,5.0
+2026-05-01,Midwife,Kalgoorlie,3.7,3.0
+2026-05-01,Midwife,Broome,2.0,2.7
+2026-05-01,Enrolled Nurse,Perth North,32.7,38.7
+2026-05-01,Enrolled Nurse,Perth South,33.2,35.0
+2026-05-01,Enrolled Nurse,Bunbury,19.1,19.3
+2026-05-01,Enrolled Nurse,Geraldton,11.6,12.5
+2026-05-01,Enrolled Nurse,Kalgoorlie,9.6,10.6
+2026-05-01,Enrolled Nurse,Broome,8.4,9.7
+2026-05-01,Medical Practitioner,Perth North,39.0,41.9
+2026-05-01,Medical Practitioner,Perth South,34.7,37.9
+2026-05-01,Medical Practitioner,Bunbury,19.9,20.9
+2026-05-01,Medical Practitioner,Geraldton,12.6,13.5
+2026-05-01,Medical Practitioner,Kalgoorlie,10.3,11.5
+2026-05-01,Medical Practitioner,Broome,5.8,10.4
+2026-05-01,Allied Health,Perth North,47.5,47.9
+2026-05-01,Allied Health,Perth South,42.7,43.2
+2026-05-01,Allied Health,Bunbury,23.6,23.8
+2026-05-01,Allied Health,Geraldton,11.9,15.4
+2026-05-01,Allied Health,Kalgoorlie,10.3,13.1
+2026-05-01,Allied Health,Broome,9.6,11.9
+2026-05-01,Care Worker,Perth North,82.2,88.9
+2026-05-01,Care Worker,Perth South,71.8,80.3
+2026-05-01,Care Worker,Bunbury,41.5,44.2
+2026-05-01,Care Worker,Geraldton,24.4,28.7
+2026-05-01,Care Worker,Kalgoorlie,22.6,24.4
+2026-05-01,Care Worker,Broome,15.7,22.1
+2026-05-01,Administration,Perth North,66.1,71.6
+2026-05-01,Administration,Perth South,63.2,64.7
+2026-05-01,Administration,Bunbury,33.7,35.7
+2026-05-01,Administration,Geraldton,20.0,23.1
+2026-05-01,Administration,Kalgoorlie,18.4,19.6
+2026-05-01,Administration,Broome,15.5,17.9
+2026-05-01,Support Services,Perth North,52.3,50.1
+2026-05-01,Support Services,Perth South,41.5,45.3
+2026-05-01,Support Services,Bunbury,24.4,25.0
+2026-05-01,Support Services,Geraldton,13.6,16.2
+2026-05-01,Support Services,Kalgoorlie,12.2,13.7
+2026-05-01,Support Services,Broome,10.7,12.5
+2026-06-01,Registered Nurse,Perth North,171.4,170.2
+2026-06-01,Registered Nurse,Perth South,167.8,153.7
+2026-06-01,Registered Nurse,Bunbury,84.6,84.8
+2026-06-01,Registered Nurse,Geraldton,54.7,54.9
+2026-06-01,Registered Nurse,Kalgoorlie,41.9,46.7
+2026-06-01,Registered Nurse,Broome,44.0,42.4
+2026-06-01,Midwife,Perth North,16.2,15.5
+2026-06-01,Midwife,Perth South,12.8,14.0
+2026-06-01,Midwife,Bunbury,8.1,7.7
+2026-06-01,Midwife,Geraldton,5.1,5.0
+2026-06-01,Midwife,Kalgoorlie,3.7,3.0
+2026-06-01,Midwife,Broome,2.0,2.7
+2026-06-01,Enrolled Nurse,Perth North,33.7,38.7
+2026-06-01,Enrolled Nurse,Perth South,33.7,35.0
+2026-06-01,Enrolled Nurse,Bunbury,19.1,19.3
+2026-06-01,Enrolled Nurse,Geraldton,11.5,12.5
+2026-06-01,Enrolled Nurse,Kalgoorlie,9.6,10.6
+2026-06-01,Enrolled Nurse,Broome,7.4,9.7
+2026-06-01,Medical Practitioner,Perth North,39.0,41.9
+2026-06-01,Medical Practitioner,Perth South,35.4,37.9
+2026-06-01,Medical Practitioner,Bunbury,19.9,20.9
+2026-06-01,Medical Practitioner,Geraldton,12.6,13.5
+2026-06-01,Medical Practitioner,Kalgoorlie,10.3,11.5
+2026-06-01,Medical Practitioner,Broome,5.8,10.4
+2026-06-01,Allied Health,Perth North,47.5,47.9
+2026-06-01,Allied Health,Perth South,42.7,43.2
+2026-06-01,Allied Health,Bunbury,23.1,23.8
+2026-06-01,Allied Health,Geraldton,11.9,15.4
+2026-06-01,Allied Health,Kalgoorlie,10.3,13.1
+2026-06-01,Allied Health,Broome,9.6,11.9
+2026-06-01,Care Worker,Perth North,81.1,88.9
+2026-06-01,Care Worker,Perth South,72.5,80.3
+2026-06-01,Care Worker,Bunbury,43.0,44.2
+2026-06-01,Care Worker,Geraldton,24.4,28.7
+2026-06-01,Care Worker,Kalgoorlie,22.3,24.4
+2026-06-01,Care Worker,Broome,15.5,22.1
+2026-06-01,Administration,Perth North,65.1,71.6
+2026-06-01,Administration,Perth South,63.2,64.7
+2026-06-01,Administration,Bunbury,33.7,35.7
+2026-06-01,Administration,Geraldton,20.0,23.1
+2026-06-01,Administration,Kalgoorlie,18.4,19.6
+2026-06-01,Administration,Broome,16.5,17.9
+2026-06-01,Support Services,Perth North,53.3,50.1
+2026-06-01,Support Services,Perth South,41.3,45.3
+2026-06-01,Support Services,Bunbury,25.4,25.0
+2026-06-01,Support Services,Geraldton,13.6,16.2
+2026-06-01,Support Services,Kalgoorlie,12.2,13.7
+2026-06-01,Support Services,Broome,10.7,12.5

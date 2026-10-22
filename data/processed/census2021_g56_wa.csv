@@ -1,0 +1,631 @@
+dataset,industry_code,industry,occupation_code,occupation,region_code,region,period,period_start,value,unit,unit_mult,value_scaled,obs_status,fy
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,5014,,0,5014,,FY2022
+Census 2021 G56,F,Wholesale Trade,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,3643,,0,3643,,FY2022
+Census 2021 G56,P,Education and Training,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,5286,,0,5286,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,206,,0,206,,FY2022
+Census 2021 G56,S,Other Services,6,Sales Workers,5,Western Australia,2021,2021-08-10,786,,0,786,,FY2022
+Census 2021 G56,P,Education and Training,2,Professionals,5,Western Australia,2021,2021-08-10,61654,,0,61654,,FY2022
+Census 2021 G56,G,Retail Trade,8,Labourers,5,Western Australia,2021,2021-08-10,11855,,0,11855,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,246,,0,246,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,57,,0,57,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,221,,0,221,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,666,,0,666,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,937,,0,937,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,659,,0,659,,FY2022
+Census 2021 G56,S,Other Services,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,21470,,0,21470,,FY2022
+Census 2021 G56,F,Wholesale Trade,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,5252,,0,5252,,FY2022
+Census 2021 G56,B,Mining,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,223,,0,223,,FY2022
+Census 2021 G56,N,Administrative and Support Services,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,4148,,0,4148,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,100,,0,100,,FY2022
+Census 2021 G56,F,Wholesale Trade,_T,Total,5GPER,Greater Perth,2021,2021-08-10,26954,,0,26954,,FY2022
+Census 2021 G56,C,Manufacturing,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,7654,,0,7654,,FY2022
+Census 2021 G56,P,Education and Training,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,3174,,0,3174,,FY2022
+Census 2021 G56,G,Retail Trade,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2552,,0,2552,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,2487,,0,2487,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,6,Sales Workers,5,Western Australia,2021,2021-08-10,10562,,0,10562,,FY2022
+Census 2021 G56,S,Other Services,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,154,,0,154,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",1,Managers,5GPER,Greater Perth,2021,2021-08-10,4640,,0,4640,,FY2022
+Census 2021 G56,O,Public Administration and Safety,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,5702,,0,5702,,FY2022
+Census 2021 G56,B,Mining,1,Managers,5,Western Australia,2021,2021-08-10,10982,,0,10982,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,2062,,0,2062,,FY2022
+Census 2021 G56,_T,Total,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,35748,,0,35748,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",8,Labourers,5,Western Australia,2021,2021-08-10,1290,,0,1290,,FY2022
+Census 2021 G56,S,Other Services,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,682,,0,682,,FY2022
+Census 2021 G56,O,Public Administration and Safety,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,3772,,0,3772,,FY2022
+Census 2021 G56,B,Mining,6,Sales Workers,5,Western Australia,2021,2021-08-10,273,,0,273,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,11812,,0,11812,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",2,Professionals,5GPER,Greater Perth,2021,2021-08-10,45965,,0,45965,,FY2022
+Census 2021 G56,_T,Total,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,25334,,0,25334,,FY2022
+Census 2021 G56,O,Public Administration and Safety,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1643,,0,1643,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",8,Labourers,5,Western Australia,2021,2021-08-10,7412,,0,7412,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,2475,,0,2475,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,376,,0,376,,FY2022
+Census 2021 G56,P,Education and Training,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,405,,0,405,,FY2022
+Census 2021 G56,P,Education and Training,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,3171,,0,3171,,FY2022
+Census 2021 G56,B,Mining,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,18059,,0,18059,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,9379,,0,9379,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,374,,0,374,,FY2022
+Census 2021 G56,B,Mining,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,3598,,0,3598,,FY2022
+Census 2021 G56,P,Education and Training,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,4026,,0,4026,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,374,,0,374,,FY2022
+Census 2021 G56,O,Public Administration and Safety,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,1259,,0,1259,,FY2022
+Census 2021 G56,S,Other Services,1,Managers,5,Western Australia,2021,2021-08-10,4384,,0,4384,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,6372,,0,6372,,FY2022
+Census 2021 G56,E,Construction,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,65,,0,65,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,3146,,0,3146,,FY2022
+Census 2021 G56,E,Construction,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,203,,0,203,,FY2022
+Census 2021 G56,N,Administrative and Support Services,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,559,,0,559,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,652,,0,652,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,6,Sales Workers,5,Western Australia,2021,2021-08-10,1221,,0,1221,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,60,,0,60,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,1,Managers,5GPER,Greater Perth,2021,2021-08-10,1386,,0,1386,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,99,,0,99,,FY2022
+Census 2021 G56,O,Public Administration and Safety,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,74,,0,74,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,1200,,0,1200,,FY2022
+Census 2021 G56,B,Mining,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,791,,0,791,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,3279,,0,3279,,FY2022
+Census 2021 G56,N,Administrative and Support Services,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,389,,0,389,,FY2022
+Census 2021 G56,E,Construction,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,450,,0,450,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,232,,0,232,,FY2022
+Census 2021 G56,G,Retail Trade,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,536,,0,536,,FY2022
+Census 2021 G56,B,Mining,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,27636,,0,27636,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",1,Managers,5,Western Australia,2021,2021-08-10,2221,,0,2221,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,1287,,0,1287,,FY2022
+Census 2021 G56,C,Manufacturing,1,Managers,5GPER,Greater Perth,2021,2021-08-10,8882,,0,8882,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",2,Professionals,5,Western Australia,2021,2021-08-10,1679,,0,1679,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,89,,0,89,,FY2022
+Census 2021 G56,G,Retail Trade,1,Managers,5GPER,Greater Perth,2021,2021-08-10,14033,,0,14033,,FY2022
+Census 2021 G56,P,Education and Training,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,98,,0,98,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,6139,,0,6139,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,6,Sales Workers,5,Western Australia,2021,2021-08-10,976,,0,976,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",_T,Total,5RWAU,Rest of WA,2021,2021-08-10,3371,,0,3371,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",1,Managers,5RWAU,Rest of WA,2021,2021-08-10,339,,0,339,,FY2022
+Census 2021 G56,O,Public Administration and Safety,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,679,,0,679,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,902,,0,902,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,899,,0,899,,FY2022
+Census 2021 G56,G,Retail Trade,_T,Total,5,Western Australia,2021,2021-08-10,114617,,0,114617,,FY2022
+Census 2021 G56,_T,Total,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,154341,,0,154341,,FY2022
+Census 2021 G56,F,Wholesale Trade,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,423,,0,423,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,1305,,0,1305,,FY2022
+Census 2021 G56,P,Education and Training,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,46,,0,46,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,1732,,0,1732,,FY2022
+Census 2021 G56,F,Wholesale Trade,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,323,,0,323,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,8007,,0,8007,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,3188,,0,3188,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,225,,0,225,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",8,Labourers,5GPER,Greater Perth,2021,2021-08-10,857,,0,857,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,176,,0,176,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,8,Labourers,5,Western Australia,2021,2021-08-10,365,,0,365,,FY2022
+Census 2021 G56,O,Public Administration and Safety,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,1523,,0,1523,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,46954,,0,46954,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,729,,0,729,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,12,,0,12,,FY2022
+Census 2021 G56,_T,Total,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,132123,,0,132123,,FY2022
+Census 2021 G56,B,Mining,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,2473,,0,2473,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,6846,,0,6846,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,9605,,0,9605,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,_T,Total,5GPER,Greater Perth,2021,2021-08-10,18637,,0,18637,,FY2022
+Census 2021 G56,B,Mining,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,14510,,0,14510,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,1,Managers,5,Western Australia,2021,2021-08-10,13047,,0,13047,,FY2022
+Census 2021 G56,P,Education and Training,_T,Total,5,Western Australia,2021,2021-08-10,114415,,0,114415,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,6,Sales Workers,5,Western Australia,2021,2021-08-10,1001,,0,1001,,FY2022
+Census 2021 G56,G,Retail Trade,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,550,,0,550,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,1,Managers,5GPER,Greater Perth,2021,2021-08-10,7934,,0,7934,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,6827,,0,6827,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,129,,0,129,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,514,,0,514,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,_T,Total,5,Western Australia,2021,2021-08-10,177570,,0,177570,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,_T,Total,5,Western Australia,2021,2021-08-10,59901,,0,59901,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1422,,0,1422,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",2,Professionals,5GPER,Greater Perth,2021,2021-08-10,2777,,0,2777,,FY2022
+Census 2021 G56,_T,Total,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,155805,,0,155805,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",1,Managers,5RWAU,Rest of WA,2021,2021-08-10,337,,0,337,,FY2022
+Census 2021 G56,B,Mining,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,26780,,0,26780,,FY2022
+Census 2021 G56,E,Construction,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,12896,,0,12896,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",8,Labourers,5GPER,Greater Perth,2021,2021-08-10,888,,0,888,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,2295,,0,2295,,FY2022
+Census 2021 G56,F,Wholesale Trade,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,3587,,0,3587,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,125,,0,125,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,591,,0,591,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,11725,,0,11725,,FY2022
+Census 2021 G56,F,Wholesale Trade,1,Managers,5GPER,Greater Perth,2021,2021-08-10,5404,,0,5404,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,320,,0,320,,FY2022
+Census 2021 G56,C,Manufacturing,1,Managers,5,Western Australia,2021,2021-08-10,10521,,0,10521,,FY2022
+Census 2021 G56,E,Construction,_T,Total,5,Western Australia,2021,2021-08-10,115090,,0,115090,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,401,,0,401,,FY2022
+Census 2021 G56,C,Manufacturing,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,5466,,0,5466,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,1528,,0,1528,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,_T,Total,5,Western Australia,2021,2021-08-10,28251,,0,28251,,FY2022
+Census 2021 G56,C,Manufacturing,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,643,,0,643,,FY2022
+Census 2021 G56,F,Wholesale Trade,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,389,,0,389,,FY2022
+Census 2021 G56,S,Other Services,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,769,,0,769,,FY2022
+Census 2021 G56,_T,Total,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,4566,,0,4566,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,134,,0,134,,FY2022
+Census 2021 G56,F,Wholesale Trade,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,935,,0,935,,FY2022
+Census 2021 G56,_T,Total,_T,Total,5,Western Australia,2021,2021-08-10,1306249,,0,1306249,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,340,,0,340,,FY2022
+Census 2021 G56,F,Wholesale Trade,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,328,,0,328,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,9969,,0,9969,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",2,Professionals,5,Western Australia,2021,2021-08-10,49201,,0,49201,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,_T,Total,5GPER,Greater Perth,2021,2021-08-10,149312,,0,149312,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,9506,,0,9506,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,910,,0,910,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,129,,0,129,,FY2022
+Census 2021 G56,O,Public Administration and Safety,2,Professionals,5,Western Australia,2021,2021-08-10,17606,,0,17606,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",1,Managers,5GPER,Greater Perth,2021,2021-08-10,1878,,0,1878,,FY2022
+Census 2021 G56,E,Construction,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,9766,,0,9766,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1195,,0,1195,,FY2022
+Census 2021 G56,O,Public Administration and Safety,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,245,,0,245,,FY2022
+Census 2021 G56,N,Administrative and Support Services,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,4494,,0,4494,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",_T,Total,5GPER,Greater Perth,2021,2021-08-10,47803,,0,47803,,FY2022
+Census 2021 G56,_T,Total,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,22204,,0,22204,,FY2022
+Census 2021 G56,F,Wholesale Trade,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,11,,0,11,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",8,Labourers,5GPER,Greater Perth,2021,2021-08-10,2236,,0,2236,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,58,,0,58,,FY2022
+Census 2021 G56,B,Mining,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,9558,,0,9558,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,7137,,0,7137,,FY2022
+Census 2021 G56,O,Public Administration and Safety,_T,Total,5,Western Australia,2021,2021-08-10,77420,,0,77420,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,849,,0,849,,FY2022
+Census 2021 G56,C,Manufacturing,6,Sales Workers,5,Western Australia,2021,2021-08-10,3340,,0,3340,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,5867,,0,5867,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,1787,,0,1787,,FY2022
+Census 2021 G56,E,Construction,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,6904,,0,6904,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,9,,0,9,,FY2022
+Census 2021 G56,O,Public Administration and Safety,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1091,,0,1091,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,3799,,0,3799,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,105,,0,105,,FY2022
+Census 2021 G56,E,Construction,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,2018,,0,2018,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1619,,0,1619,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",_T,Total,5,Western Australia,2021,2021-08-10,18626,,0,18626,,FY2022
+Census 2021 G56,F,Wholesale Trade,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,4923,,0,4923,,FY2022
+Census 2021 G56,E,Construction,6,Sales Workers,5,Western Australia,2021,2021-08-10,1538,,0,1538,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,11875,,0,11875,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",6,Sales Workers,5,Western Australia,2021,2021-08-10,441,,0,441,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,3148,,0,3148,,FY2022
+Census 2021 G56,_T,Total,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,250973,,0,250973,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,2,Professionals,5,Western Australia,2021,2021-08-10,10143,,0,10143,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,64,,0,64,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,213,,0,213,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,1710,,0,1710,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,55,,0,55,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,19861,,0,19861,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",1,Managers,5GPER,Greater Perth,2021,2021-08-10,2318,,0,2318,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,2,Professionals,5,Western Australia,2021,2021-08-10,7578,,0,7578,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1189,,0,1189,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,1,Managers,5GPER,Greater Perth,2021,2021-08-10,2958,,0,2958,,FY2022
+Census 2021 G56,O,Public Administration and Safety,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,213,,0,213,,FY2022
+Census 2021 G56,G,Retail Trade,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,649,,0,649,,FY2022
+Census 2021 G56,N,Administrative and Support Services,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,3391,,0,3391,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,2,Professionals,5,Western Australia,2021,2021-08-10,3531,,0,3531,,FY2022
+Census 2021 G56,F,Wholesale Trade,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,867,,0,867,,FY2022
+Census 2021 G56,G,Retail Trade,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,5113,,0,5113,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,527,,0,527,,FY2022
+Census 2021 G56,O,Public Administration and Safety,8,Labourers,5,Western Australia,2021,2021-08-10,3928,,0,3928,,FY2022
+Census 2021 G56,O,Public Administration and Safety,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,14946,,0,14946,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",_T,Total,5,Western Australia,2021,2021-08-10,15135,,0,15135,,FY2022
+Census 2021 G56,P,Education and Training,_T,Total,5GPER,Greater Perth,2021,2021-08-10,93309,,0,93309,,FY2022
+Census 2021 G56,_T,Total,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,35016,,0,35016,,FY2022
+Census 2021 G56,_T,Total,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,17528,,0,17528,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,2993,,0,2993,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,1138,,0,1138,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,8,,0,8,,FY2022
+Census 2021 G56,N,Administrative and Support Services,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,59,,0,59,,FY2022
+Census 2021 G56,_T,Total,6,Sales Workers,5,Western Australia,2021,2021-08-10,101670,,0,101670,,FY2022
+Census 2021 G56,C,Manufacturing,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,6778,,0,6778,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,1257,,0,1257,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,5053,,0,5053,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,10616,,0,10616,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1425,,0,1425,,FY2022
+Census 2021 G56,_T,Total,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,199379,,0,199379,,FY2022
+Census 2021 G56,B,Mining,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,1559,,0,1559,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,488,,0,488,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,3899,,0,3899,,FY2022
+Census 2021 G56,S,Other Services,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,9262,,0,9262,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,983,,0,983,,FY2022
+Census 2021 G56,B,Mining,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1486,,0,1486,,FY2022
+Census 2021 G56,F,Wholesale Trade,2,Professionals,5,Western Australia,2021,2021-08-10,4031,,0,4031,,FY2022
+Census 2021 G56,S,Other Services,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,16997,,0,16997,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,_T,Total,5GPER,Greater Perth,2021,2021-08-10,49910,,0,49910,,FY2022
+Census 2021 G56,G,Retail Trade,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,3134,,0,3134,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",1,Managers,5,Western Australia,2021,2021-08-10,14971,,0,14971,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,59698,,0,59698,,FY2022
+Census 2021 G56,G,Retail Trade,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,86,,0,86,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,172,,0,172,,FY2022
+Census 2021 G56,F,Wholesale Trade,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,5181,,0,5181,,FY2022
+Census 2021 G56,S,Other Services,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,762,,0,762,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,845,,0,845,,FY2022
+Census 2021 G56,O,Public Administration and Safety,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,2999,,0,2999,,FY2022
+Census 2021 G56,E,Construction,2,Professionals,5,Western Australia,2021,2021-08-10,7113,,0,7113,,FY2022
+Census 2021 G56,O,Public Administration and Safety,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,2663,,0,2663,,FY2022
+Census 2021 G56,G,Retail Trade,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,5189,,0,5189,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",2,Professionals,5GPER,Greater Perth,2021,2021-08-10,3793,,0,3793,,FY2022
+Census 2021 G56,C,Manufacturing,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1630,,0,1630,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,1903,,0,1903,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",8,Labourers,5GPER,Greater Perth,2021,2021-08-10,2314,,0,2314,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,1,Managers,5,Western Australia,2021,2021-08-10,1538,,0,1538,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1028,,0,1028,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,_T,Total,5GPER,Greater Perth,2021,2021-08-10,25917,,0,25917,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,25,,0,25,,FY2022
+Census 2021 G56,B,Mining,2,Professionals,5,Western Australia,2021,2021-08-10,20557,,0,20557,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,11295,,0,11295,,FY2022
+Census 2021 G56,F,Wholesale Trade,8,Labourers,5,Western Australia,2021,2021-08-10,2072,,0,2072,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,659,,0,659,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,939,,0,939,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,123,,0,123,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,88,,0,88,,FY2022
+Census 2021 G56,_T,Total,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,26859,,0,26859,,FY2022
+Census 2021 G56,S,Other Services,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,9113,,0,9113,,FY2022
+Census 2021 G56,E,Construction,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,10201,,0,10201,,FY2022
+Census 2021 G56,S,Other Services,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,3307,,0,3307,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1947,,0,1947,,FY2022
+Census 2021 G56,N,Administrative and Support Services,8,Labourers,5,Western Australia,2021,2021-08-10,17205,,0,17205,,FY2022
+Census 2021 G56,_T,Total,_T,Total,5GPER,Greater Perth,2021,2021-08-10,1058890,,0,1058890,,FY2022
+Census 2021 G56,_T,Total,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,26465,,0,26465,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,309,,0,309,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,37,,0,37,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,13,,0,13,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1661,,0,1661,,FY2022
+Census 2021 G56,C,Manufacturing,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,822,,0,822,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,656,,0,656,,FY2022
+Census 2021 G56,G,Retail Trade,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,9287,,0,9287,,FY2022
+Census 2021 G56,B,Mining,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,7129,,0,7129,,FY2022
+Census 2021 G56,G,Retail Trade,1,Managers,5,Western Australia,2021,2021-08-10,17174,,0,17174,,FY2022
+Census 2021 G56,E,Construction,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,9794,,0,9794,,FY2022
+Census 2021 G56,C,Manufacturing,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,12815,,0,12815,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,2286,,0,2286,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,94,,0,94,,FY2022
+Census 2021 G56,F,Wholesale Trade,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,72,,0,72,,FY2022
+Census 2021 G56,B,Mining,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1363,,0,1363,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,1631,,0,1631,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,834,,0,834,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,3978,,0,3978,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1203,,0,1203,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,9962,,0,9962,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,9869,,0,9869,,FY2022
+Census 2021 G56,B,Mining,1,Managers,5GPER,Greater Perth,2021,2021-08-10,9267,,0,9267,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",_T,Total,5GPER,Greater Perth,2021,2021-08-10,11744,,0,11744,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,2636,,0,2636,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,227,,0,227,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,1128,,0,1128,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,_T,Total,5,Western Australia,2021,2021-08-10,21131,,0,21131,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,121,,0,121,,FY2022
+Census 2021 G56,_T,Total,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,91834,,0,91834,,FY2022
+Census 2021 G56,G,Retail Trade,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,10782,,0,10782,,FY2022
+Census 2021 G56,_T,Total,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,245471,,0,245471,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",2,Professionals,5,Western Australia,2021,2021-08-10,2992,,0,2992,,FY2022
+Census 2021 G56,P,Education and Training,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,21036,,0,21036,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,132,,0,132,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,12447,,0,12447,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",_T,Total,5GPER,Greater Perth,2021,2021-08-10,15691,,0,15691,,FY2022
+Census 2021 G56,E,Construction,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1112,,0,1112,,FY2022
+Census 2021 G56,S,Other Services,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,624,,0,624,,FY2022
+Census 2021 G56,B,Mining,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,51,,0,51,,FY2022
+Census 2021 G56,C,Manufacturing,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,212,,0,212,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,_T,Total,5,Western Australia,2021,2021-08-10,10087,,0,10087,,FY2022
+Census 2021 G56,P,Education and Training,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,845,,0,845,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,271,,0,271,,FY2022
+Census 2021 G56,P,Education and Training,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,51245,,0,51245,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,173,,0,173,,FY2022
+Census 2021 G56,F,Wholesale Trade,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1086,,0,1086,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,8884,,0,8884,,FY2022
+Census 2021 G56,P,Education and Training,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,244,,0,244,,FY2022
+Census 2021 G56,O,Public Administration and Safety,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,13956,,0,13956,,FY2022
+Census 2021 G56,O,Public Administration and Safety,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,840,,0,840,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,25,,0,25,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,582,,0,582,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,2469,,0,2469,,FY2022
+Census 2021 G56,N,Administrative and Support Services,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,3478,,0,3478,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,635,,0,635,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,1,Managers,5GPER,Greater Perth,2021,2021-08-10,10026,,0,10026,,FY2022
+Census 2021 G56,_T,Total,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,43221,,0,43221,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,23836,,0,23836,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,987,,0,987,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,630,,0,630,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,5199,,0,5199,,FY2022
+Census 2021 G56,B,Mining,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,464,,0,464,,FY2022
+Census 2021 G56,O,Public Administration and Safety,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1140,,0,1140,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,39,,0,39,,FY2022
+Census 2021 G56,P,Education and Training,1,Managers,5GPER,Greater Perth,2021,2021-08-10,7177,,0,7177,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,207,,0,207,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,24961,,0,24961,,FY2022
+Census 2021 G56,S,Other Services,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1027,,0,1027,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,33,,0,33,,FY2022
+Census 2021 G56,B,Mining,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,581,,0,581,,FY2022
+Census 2021 G56,O,Public Administration and Safety,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,19421,,0,19421,,FY2022
+Census 2021 G56,B,Mining,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1021,,0,1021,,FY2022
+Census 2021 G56,E,Construction,8,Labourers,5,Western Australia,2021,2021-08-10,16233,,0,16233,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,1095,,0,1095,,FY2022
+Census 2021 G56,F,Wholesale Trade,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,3614,,0,3614,,FY2022
+Census 2021 G56,O,Public Administration and Safety,1,Managers,5GPER,Greater Perth,2021,2021-08-10,7957,,0,7957,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,506,,0,506,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,6260,,0,6260,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,241,,0,241,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",_T,Total,5,Western Australia,2021,2021-08-10,90117,,0,90117,,FY2022
+Census 2021 G56,S,Other Services,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,157,,0,157,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,21462,,0,21462,,FY2022
+Census 2021 G56,N,Administrative and Support Services,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,340,,0,340,,FY2022
+Census 2021 G56,E,Construction,1,Managers,5,Western Australia,2021,2021-08-10,13696,,0,13696,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,736,,0,736,,FY2022
+Census 2021 G56,O,Public Administration and Safety,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,15363,,0,15363,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",1,Managers,5GPER,Greater Perth,2021,2021-08-10,2529,,0,2529,,FY2022
+Census 2021 G56,E,Construction,1,Managers,5GPER,Greater Perth,2021,2021-08-10,11666,,0,11666,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,172,,0,172,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,5105,,0,5105,,FY2022
+Census 2021 G56,E,Construction,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,42779,,0,42779,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",1,Managers,5,Western Australia,2021,2021-08-10,2661,,0,2661,,FY2022
+Census 2021 G56,S,Other Services,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,566,,0,566,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,1775,,0,1775,,FY2022
+Census 2021 G56,G,Retail Trade,2,Professionals,5,Western Australia,2021,2021-08-10,5037,,0,5037,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,210,,0,210,,FY2022
+Census 2021 G56,G,Retail Trade,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,969,,0,969,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,9762,,0,9762,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,430,,0,430,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",_T,Total,5RWAU,Rest of WA,2021,2021-08-10,21982,,0,21982,,FY2022
+Census 2021 G56,S,Other Services,1,Managers,5GPER,Greater Perth,2021,2021-08-10,3693,,0,3693,,FY2022
+Census 2021 G56,B,Mining,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,17124,,0,17124,,FY2022
+Census 2021 G56,E,Construction,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,390,,0,390,,FY2022
+Census 2021 G56,C,Manufacturing,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,9577,,0,9577,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,148,,0,148,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,150,,0,150,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",8,Labourers,5,Western Australia,2021,2021-08-10,912,,0,912,,FY2022
+Census 2021 G56,C,Manufacturing,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,2753,,0,2753,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,2033,,0,2033,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",2,Professionals,5,Western Australia,2021,2021-08-10,1107,,0,1107,,FY2022
+Census 2021 G56,E,Construction,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1314,,0,1314,,FY2022
+Census 2021 G56,_T,Total,1,Managers,5GPER,Greater Perth,2021,2021-08-10,125556,,0,125556,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,1,Managers,5,Western Australia,2021,2021-08-10,7026,,0,7026,,FY2022
+Census 2021 G56,P,Education and Training,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,20182,,0,20182,,FY2022
+Census 2021 G56,C,Manufacturing,_T,Total,5,Western Australia,2021,2021-08-10,68785,,0,68785,,FY2022
+Census 2021 G56,N,Administrative and Support Services,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,85,,0,85,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,285,,0,285,,FY2022
+Census 2021 G56,O,Public Administration and Safety,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,17948,,0,17948,,FY2022
+Census 2021 G56,P,Education and Training,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,509,,0,509,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,179,,0,179,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,1,Managers,5,Western Australia,2021,2021-08-10,9359,,0,9359,,FY2022
+Census 2021 G56,P,Education and Training,8,Labourers,5,Western Australia,2021,2021-08-10,4346,,0,4346,,FY2022
+Census 2021 G56,P,Education and Training,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1462,,0,1462,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,33,,0,33,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",_T,Total,5,Western Australia,2021,2021-08-10,59111,,0,59111,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,1632,,0,1632,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,307,,0,307,,FY2022
+Census 2021 G56,B,Mining,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1717,,0,1717,,FY2022
+Census 2021 G56,P,Education and Training,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,200,,0,200,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",2,Professionals,5GPER,Greater Perth,2021,2021-08-10,522,,0,522,,FY2022
+Census 2021 G56,F,Wholesale Trade,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,4214,,0,4214,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1692,,0,1692,,FY2022
+Census 2021 G56,_T,Total,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,17595,,0,17595,,FY2022
+Census 2021 G56,_T,Total,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,30737,,0,30737,,FY2022
+Census 2021 G56,B,Mining,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,5755,,0,5755,,FY2022
+Census 2021 G56,E,Construction,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,6616,,0,6616,,FY2022
+Census 2021 G56,S,Other Services,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1250,,0,1250,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,14087,,0,14087,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,688,,0,688,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",6,Sales Workers,5,Western Australia,2021,2021-08-10,901,,0,901,,FY2022
+Census 2021 G56,F,Wholesale Trade,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,705,,0,705,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",6,Sales Workers,5,Western Australia,2021,2021-08-10,7532,,0,7532,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",1,Managers,5RWAU,Rest of WA,2021,2021-08-10,12438,,0,12438,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,258,,0,258,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,105,,0,105,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1131,,0,1131,,FY2022
+Census 2021 G56,G,Retail Trade,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,6078,,0,6078,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,6,Sales Workers,5,Western Australia,2021,2021-08-10,3092,,0,3092,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,1880,,0,1880,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",_T,Total,5RWAU,Rest of WA,2021,2021-08-10,11189,,0,11189,,FY2022
+Census 2021 G56,C,Manufacturing,2,Professionals,5,Western Australia,2021,2021-08-10,6298,,0,6298,,FY2022
+Census 2021 G56,B,Mining,_T,Total,5GPER,Greater Perth,2021,2021-08-10,70130,,0,70130,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,9868,,0,9868,,FY2022
+Census 2021 G56,C,Manufacturing,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2627,,0,2627,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,349,,0,349,,FY2022
+Census 2021 G56,C,Manufacturing,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,1049,,0,1049,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",8,Labourers,5,Western Australia,2021,2021-08-10,1100,,0,1100,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,1848,,0,1848,,FY2022
+Census 2021 G56,P,Education and Training,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,10379,,0,10379,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1107,,0,1107,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",6,Sales Workers,5,Western Australia,2021,2021-08-10,1722,,0,1722,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",1,Managers,5GPER,Greater Perth,2021,2021-08-10,10861,,0,10861,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",_T,Total,5GPER,Greater Perth,2021,2021-08-10,82670,,0,82670,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,100,,0,100,,FY2022
+Census 2021 G56,N,Administrative and Support Services,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,400,,0,400,,FY2022
+Census 2021 G56,S,Other Services,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,8008,,0,8008,,FY2022
+Census 2021 G56,_T,Total,1,Managers,5,Western Australia,2021,2021-08-10,160687,,0,160687,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,2237,,0,2237,,FY2022
+Census 2021 G56,N,Administrative and Support Services,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,1679,,0,1679,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",2,Professionals,5GPER,Greater Perth,2021,2021-08-10,1542,,0,1542,,FY2022
+Census 2021 G56,E,Construction,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,12325,,0,12325,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,547,,0,547,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,8,Labourers,5,Western Australia,2021,2021-08-10,19518,,0,19518,,FY2022
+Census 2021 G56,N,Administrative and Support Services,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,1284,,0,1284,,FY2022
+Census 2021 G56,P,Education and Training,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,151,,0,151,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,7,,0,7,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,232,,0,232,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,8,Labourers,5,Western Australia,2021,2021-08-10,1524,,0,1524,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",_T,Total,5,Western Australia,2021,2021-08-10,29641,,0,29641,,FY2022
+Census 2021 G56,G,Retail Trade,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,190,,0,190,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,214,,0,214,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,_T,Total,5GPER,Greater Perth,2021,2021-08-10,68330,,0,68330,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",_T,Total,5GPER,Greater Perth,2021,2021-08-10,7522,,0,7522,,FY2022
+Census 2021 G56,S,Other Services,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,5184,,0,5184,,FY2022
+Census 2021 G56,O,Public Administration and Safety,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,4610,,0,4610,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,102,,0,102,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",1,Managers,5,Western Australia,2021,2021-08-10,11447,,0,11447,,FY2022
+Census 2021 G56,P,Education and Training,1,Managers,5,Western Australia,2021,2021-08-10,8889,,0,8889,,FY2022
+Census 2021 G56,N,Administrative and Support Services,_T,Total,5,Western Australia,2021,2021-08-10,40292,,0,40292,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,10307,,0,10307,,FY2022
+Census 2021 G56,S,Other Services,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,66,,0,66,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,891,,0,891,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,5829,,0,5829,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,2138,,0,2138,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,132,,0,132,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,83,,0,83,,FY2022
+Census 2021 G56,N,Administrative and Support Services,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,4501,,0,4501,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,212,,0,212,,FY2022
+Census 2021 G56,E,Construction,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,2844,,0,2844,,FY2022
+Census 2021 G56,N,Administrative and Support Services,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,7110,,0,7110,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,108,,0,108,,FY2022
+Census 2021 G56,B,Mining,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,10251,,0,10251,,FY2022
+Census 2021 G56,G,Retail Trade,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,1164,,0,1164,,FY2022
+Census 2021 G56,_T,Total,2,Professionals,5,Western Australia,2021,2021-08-10,287009,,0,287009,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,14962,,0,14962,,FY2022
+Census 2021 G56,G,Retail Trade,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1349,,0,1349,,FY2022
+Census 2021 G56,S,Other Services,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,4153,,0,4153,,FY2022
+Census 2021 G56,S,Other Services,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,339,,0,339,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,94,,0,94,,FY2022
+Census 2021 G56,F,Wholesale Trade,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,4527,,0,4527,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,2,Professionals,5,Western Australia,2021,2021-08-10,1014,,0,1014,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,458,,0,458,,FY2022
+Census 2021 G56,B,Mining,_T,Total,5,Western Australia,2021,2021-08-10,98036,,0,98036,,FY2022
+Census 2021 G56,S,Other Services,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,3715,,0,3715,,FY2022
+Census 2021 G56,P,Education and Training,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,1174,,0,1174,,FY2022
+Census 2021 G56,P,Education and Training,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,7560,,0,7560,,FY2022
+Census 2021 G56,C,Manufacturing,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,16457,,0,16457,,FY2022
+Census 2021 G56,C,Manufacturing,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,806,,0,806,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,159,,0,159,,FY2022
+Census 2021 G56,_T,Total,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,84068,,0,84068,,FY2022
+Census 2021 G56,_T,Total,8,Labourers,5,Western Australia,2021,2021-08-10,122961,,0,122961,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,536,,0,536,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,30,,0,30,,FY2022
+Census 2021 G56,N,Administrative and Support Services,2,Professionals,5,Western Australia,2021,2021-08-10,4717,,0,4717,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,83,,0,83,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,322,,0,322,,FY2022
+Census 2021 G56,P,Education and Training,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1704,,0,1704,,FY2022
+Census 2021 G56,N,Administrative and Support Services,6,Sales Workers,5,Western Australia,2021,2021-08-10,595,,0,595,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,6855,,0,6855,,FY2022
+Census 2021 G56,O,Public Administration and Safety,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,15631,,0,15631,,FY2022
+Census 2021 G56,E,Construction,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,52624,,0,52624,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,56978,,0,56978,,FY2022
+Census 2021 G56,F,Wholesale Trade,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,102,,0,102,,FY2022
+Census 2021 G56,_T,Total,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,100392,,0,100392,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,8,Labourers,5,Western Australia,2021,2021-08-10,127,,0,127,,FY2022
+Census 2021 G56,F,Wholesale Trade,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,830,,0,830,,FY2022
+Census 2021 G56,G,Retail Trade,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,20299,,0,20299,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,323,,0,323,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,25,,0,25,,FY2022
+Census 2021 G56,C,Manufacturing,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,20372,,0,20372,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,20962,,0,20962,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,_T,Total,5,Western Australia,2021,2021-08-10,85241,,0,85241,,FY2022
+Census 2021 G56,G,Retail Trade,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,5047,,0,5047,,FY2022
+Census 2021 G56,B,Mining,8,Labourers,5,Western Australia,2021,2021-08-10,5190,,0,5190,,FY2022
+Census 2021 G56,C,Manufacturing,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,161,,0,161,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,453,,0,453,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",1,Managers,5,Western Australia,2021,2021-08-10,5846,,0,5846,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,2313,,0,2313,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,4483,,0,4483,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,8,Labourers,5,Western Australia,2021,2021-08-10,6305,,0,6305,,FY2022
+Census 2021 G56,N,Administrative and Support Services,_T,Total,5GPER,Greater Perth,2021,2021-08-10,33115,,0,33115,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,3533,,0,3533,,FY2022
+Census 2021 G56,_T,Total,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,73685,,0,73685,,FY2022
+Census 2021 G56,N,Administrative and Support Services,1,Managers,5,Western Australia,2021,2021-08-10,3703,,0,3703,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,2,Professionals,5,Western Australia,2021,2021-08-10,69727,,0,69727,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,761,,0,761,,FY2022
+Census 2021 G56,C,Manufacturing,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,1921,,0,1921,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",6,Sales Workers,5,Western Australia,2021,2021-08-10,262,,0,262,,FY2022
+Census 2021 G56,G,Retail Trade,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,6472,,0,6472,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,1934,,0,1934,,FY2022
+Census 2021 G56,P,Education and Training,6,Sales Workers,5,Western Australia,2021,2021-08-10,287,,0,287,,FY2022
+Census 2021 G56,C,Manufacturing,_T,Total,5GPER,Greater Perth,2021,2021-08-10,55904,,0,55904,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,286,,0,286,,FY2022
+Census 2021 G56,B,Mining,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,209,,0,209,,FY2022
+Census 2021 G56,E,Construction,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,173,,0,173,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,1,Managers,5,Western Australia,2021,2021-08-10,3337,,0,3337,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,517,,0,517,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,244,,0,244,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,3199,,0,3199,,FY2022
+Census 2021 G56,N,Administrative and Support Services,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,13788,,0,13788,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,192,,0,192,,FY2022
+Census 2021 G56,F,Wholesale Trade,6,Sales Workers,5,Western Australia,2021,2021-08-10,4735,,0,4735,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,200,,0,200,,FY2022
+Census 2021 G56,N,Administrative and Support Services,1,Managers,5GPER,Greater Perth,2021,2021-08-10,3166,,0,3166,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1164,,0,1164,,FY2022
+Census 2021 G56,_T,Total,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,127252,,0,127252,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,224,,0,224,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,9,,0,9,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1028,,0,1028,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,1058,,0,1058,,FY2022
+Census 2021 G56,S,Other Services,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,4450,,0,4450,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,1045,,0,1045,,FY2022
+Census 2021 G56,N,Administrative and Support Services,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,533,,0,533,,FY2022
+Census 2021 G56,G,Retail Trade,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,4537,,0,4537,,FY2022
+Census 2021 G56,N,Administrative and Support Services,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,486,,0,486,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,1,Managers,5,Western Australia,2021,2021-08-10,4004,,0,4004,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,26556,,0,26556,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,1378,,0,1378,,FY2022
+Census 2021 G56,E,Construction,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,1361,,0,1361,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,1666,,0,1666,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,17,,0,17,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,1287,,0,1287,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,8,Labourers,5,Western Australia,2021,2021-08-10,6522,,0,6522,,FY2022
+Census 2021 G56,N,Administrative and Support Services,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,600,,0,600,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",8,Labourers,5,Western Australia,2021,2021-08-10,2947,,0,2947,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,7661,,0,7661,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,71,,0,71,,FY2022
+Census 2021 G56,G,Retail Trade,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1021,,0,1021,,FY2022
+Census 2021 G56,G,Retail Trade,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,50286,,0,50286,,FY2022
+Census 2021 G56,E,Construction,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,3283,,0,3283,,FY2022
+Census 2021 G56,O,Public Administration and Safety,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1360,,0,1360,,FY2022
+Census 2021 G56,S,Other Services,2,Professionals,5,Western Australia,2021,2021-08-10,4285,,0,4285,,FY2022
+Census 2021 G56,O,Public Administration and Safety,_T,Total,5GPER,Greater Perth,2021,2021-08-10,63394,,0,63394,,FY2022
+Census 2021 G56,C,Manufacturing,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,578,,0,578,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,3003,,0,3003,,FY2022
+Census 2021 G56,P,Education and Training,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,25489,,0,25489,,FY2022
+Census 2021 G56,N,Administrative and Support Services,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,515,,0,515,,FY2022
+Census 2021 G56,F,Wholesale Trade,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,1745,,0,1745,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,969,,0,969,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,636,,0,636,,FY2022
+Census 2021 G56,C,Manufacturing,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,961,,0,961,,FY2022
+Census 2021 G56,O,Public Administration and Safety,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,2229,,0,2229,,FY2022
+Census 2021 G56,N,Administrative and Support Services,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,2498,,0,2498,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,1,Managers,5GPER,Greater Perth,2021,2021-08-10,6077,,0,6077,,FY2022
+Census 2021 G56,E,Construction,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,493,,0,493,,FY2022
+Census 2021 G56,S,Other Services,_T,Total,5GPER,Greater Perth,2021,2021-08-10,41377,,0,41377,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,782,,0,782,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,190,,0,190,,FY2022
+Census 2021 G56,A,"Agriculture, Forestry and Fishing",7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,1262,,0,1262,,FY2022
+Census 2021 G56,S,Other Services,8,Labourers,5,Western Australia,2021,2021-08-10,4067,,0,4067,,FY2022
+Census 2021 G56,_N,Inadequately described/Not stated,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,4877,,0,4877,,FY2022
+Census 2021 G56,G,Retail Trade,6,Sales Workers,5,Western Australia,2021,2021-08-10,61104,,0,61104,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",_T,Total,5RWAU,Rest of WA,2021,2021-08-10,7354,,0,7354,,FY2022
+Census 2021 G56,P,Education and Training,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,9022,,0,9022,,FY2022
+Census 2021 G56,G,Retail Trade,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,4499,,0,4499,,FY2022
+Census 2021 G56,F,Wholesale Trade,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,93,,0,93,,FY2022
+Census 2021 G56,S,Other Services,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,611,,0,611,,FY2022
+Census 2021 G56,F,Wholesale Trade,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,4347,,0,4347,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",_T,Total,5RWAU,Rest of WA,2021,2021-08-10,2929,,0,2929,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",1,Managers,5RWAU,Rest of WA,2021,2021-08-10,574,,0,574,,FY2022
+Census 2021 G56,C,Manufacturing,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,7403,,0,7403,,FY2022
+Census 2021 G56,S,Other Services,_T,Total,5,Western Australia,2021,2021-08-10,50545,,0,50545,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,2189,,0,2189,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,6,Sales Workers,5,Western Australia,2021,2021-08-10,986,,0,986,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,1949,,0,1949,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",2,Professionals,5,Western Australia,2021,2021-08-10,4572,,0,4572,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,2840,,0,2840,,FY2022
+Census 2021 G56,C,Manufacturing,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,838,,0,838,,FY2022
+Census 2021 G56,E,Construction,_T,Total,5GPER,Greater Perth,2021,2021-08-10,93927,,0,93927,,FY2022
+Census 2021 G56,C,Manufacturing,8,Labourers,5,Western Australia,2021,2021-08-10,10046,,0,10046,,FY2022
+Census 2021 G56,C,Manufacturing,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,5819,,0,5819,,FY2022
+Census 2021 G56,_T,Total,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,157610,,0,157610,,FY2022
+Census 2021 G56,B,Mining,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,24848,,0,24848,,FY2022
+Census 2021 G56,O,Public Administration and Safety,1,Managers,5,Western Australia,2021,2021-08-10,9605,,0,9605,,FY2022
+Census 2021 G56,F,Wholesale Trade,_T,Total,5,Western Australia,2021,2021-08-10,32226,,0,32226,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,2,Professionals,5,Western Australia,2021,2021-08-10,4169,,0,4169,,FY2022
+Census 2021 G56,N,Administrative and Support Services,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1004,,0,1004,,FY2022
+Census 2021 G56,D,"Electricity, Gas, Water and Waste Services",4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,70,,0,70,,FY2022
+Census 2021 G56,P,Education and Training,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,40,,0,40,,FY2022
+Census 2021 G56,N,Administrative and Support Services,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,3000,,0,3000,,FY2022
+Census 2021 G56,E,Construction,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,2110,,0,2110,,FY2022
+Census 2021 G56,J,Information Media and Telecommunications,_T,Total,5GPER,Greater Perth,2021,2021-08-10,9013,,0,9013,,FY2022
+Census 2021 G56,M,"Professional, Scientific and Technical Services",6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,814,,0,814,,FY2022
+Census 2021 G56,Q,Health Care and Social Assistance,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,28100,,0,28100,,FY2022
+Census 2021 G56,S,Other Services,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,268,,0,268,,FY2022
+Census 2021 G56,H,Accommodation and Food Services,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,16673,,0,16673,,FY2022
+Census 2021 G56,F,Wholesale Trade,1,Managers,5,Western Australia,2021,2021-08-10,6268,,0,6268,,FY2022
+Census 2021 G56,G,Retail Trade,_T,Total,5GPER,Greater Perth,2021,2021-08-10,94230,,0,94230,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,1,Managers,5GPER,Greater Perth,2021,2021-08-10,3699,,0,3699,,FY2022
+Census 2021 G56,C,Manufacturing,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,3898,,0,3898,,FY2022
+Census 2021 G56,O,Public Administration and Safety,6,Sales Workers,5,Western Australia,2021,2021-08-10,312,,0,312,,FY2022
+Census 2021 G56,E,Construction,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,20959,,0,20959,,FY2022
+Census 2021 G56,G,Retail Trade,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,465,,0,465,,FY2022
+Census 2021 G56,K,Financial and Insurance Services,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,18,,0,18,,FY2022
+Census 2021 G56,N,Administrative and Support Services,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,3903,,0,3903,,FY2022
+Census 2021 G56,I,"Transport, Postal and Warehousing",6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,338,,0,338,,FY2022
+Census 2021 G56,L,"Rental, Hiring and Real Estate Services",8,Labourers,5GPER,Greater Perth,2021,2021-08-10,720,,0,720,,FY2022
+Census 2021 G56,R,Arts and Recreation Services,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,1962,,0,1962,,FY2022

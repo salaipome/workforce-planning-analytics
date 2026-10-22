@@ -1,0 +1,193 @@
+job_family,location,closing,hires,separations,transfers_in,transfers_out,role_change_in,role_change_out,opening,fy
+Administration,Broome,17.0,2.0,3.0,0.0,0.0,0.0,0.0,18.0,FY2023
+Administration,Bunbury,36.0,8.0,11.0,3.0,0.0,0.0,0.0,36.0,FY2023
+Administration,Geraldton,25.0,1.0,1.0,0.0,0.0,0.0,0.0,25.0,FY2023
+Administration,Kalgoorlie,22.0,6.0,5.0,2.0,2.0,0.0,0.0,21.0,FY2023
+Administration,Perth North,77.0,12.0,9.0,0.0,2.0,0.0,0.0,76.0,FY2023
+Administration,Perth South,72.0,18.0,13.0,2.0,3.0,0.0,0.0,68.0,FY2023
+Allied Health,Broome,11.0,2.0,4.0,1.0,0.0,0.0,0.0,12.0,FY2023
+Allied Health,Bunbury,25.0,2.0,1.0,0.0,1.0,0.0,0.0,25.0,FY2023
+Allied Health,Geraldton,16.0,5.0,1.0,0.0,2.0,0.0,0.0,14.0,FY2023
+Allied Health,Kalgoorlie,13.0,3.0,4.0,0.0,0.0,0.0,0.0,14.0,FY2023
+Allied Health,Perth North,48.0,10.0,13.0,2.0,0.0,0.0,0.0,49.0,FY2023
+Allied Health,Perth South,45.0,2.0,3.0,0.0,0.0,0.0,0.0,46.0,FY2023
+Care Worker,Broome,22.0,7.0,8.0,0.0,2.0,0.0,0.0,25.0,FY2023
+Care Worker,Bunbury,54.0,17.0,13.0,3.0,3.0,0.0,0.0,50.0,FY2023
+Care Worker,Geraldton,33.0,15.0,14.0,2.0,1.0,0.0,0.0,31.0,FY2023
+Care Worker,Kalgoorlie,25.0,9.0,10.0,1.0,1.0,0.0,0.0,26.0,FY2023
+Care Worker,Perth North,101.0,24.0,27.0,6.0,3.0,0.0,0.0,101.0,FY2023
+Care Worker,Perth South,91.0,21.0,19.0,1.0,3.0,0.0,0.0,91.0,FY2023
+Enrolled Nurse,Broome,11.0,2.0,2.0,0.0,0.0,0.0,0.0,11.0,FY2023
+Enrolled Nurse,Bunbury,22.0,3.0,3.0,0.0,0.0,0.0,1.0,23.0,FY2023
+Enrolled Nurse,Geraldton,17.0,8.0,2.0,1.0,0.0,0.0,2.0,12.0,FY2023
+Enrolled Nurse,Kalgoorlie,12.0,3.0,3.0,0.0,0.0,0.0,0.0,12.0,FY2023
+Enrolled Nurse,Perth North,44.0,8.0,7.0,1.0,0.0,0.0,1.0,43.0,FY2023
+Enrolled Nurse,Perth South,45.0,22.0,7.0,0.0,2.0,0.0,5.0,37.0,FY2023
+Medical Practitioner,Broome,9.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,FY2023
+Medical Practitioner,Bunbury,22.0,2.0,1.0,0.0,0.0,0.0,0.0,21.0,FY2023
+Medical Practitioner,Geraldton,14.0,1.0,1.0,0.0,0.0,0.0,0.0,14.0,FY2023
+Medical Practitioner,Kalgoorlie,11.0,0.0,2.0,0.0,0.0,0.0,0.0,13.0,FY2023
+Medical Practitioner,Perth North,42.0,2.0,2.0,0.0,0.0,0.0,0.0,42.0,FY2023
+Medical Practitioner,Perth South,38.0,4.0,2.0,0.0,0.0,0.0,0.0,36.0,FY2023
+Midwife,Broome,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,FY2023
+Midwife,Bunbury,9.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,FY2023
+Midwife,Geraldton,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,FY2023
+Midwife,Kalgoorlie,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,FY2023
+Midwife,Perth North,18.0,1.0,2.0,0.0,0.0,0.0,0.0,19.0,FY2023
+Midwife,Perth South,18.0,3.0,1.0,0.0,0.0,0.0,0.0,16.0,FY2023
+Registered Nurse,Broome,45.0,9.0,8.0,2.0,1.0,0.0,0.0,43.0,FY2023
+Registered Nurse,Bunbury,90.0,15.0,12.0,1.0,1.0,1.0,0.0,86.0,FY2023
+Registered Nurse,Geraldton,60.0,14.0,15.0,0.0,1.0,2.0,0.0,60.0,FY2023
+Registered Nurse,Kalgoorlie,47.0,1.0,3.0,0.0,1.0,0.0,0.0,50.0,FY2023
+Registered Nurse,Perth North,196.0,43.0,28.0,2.0,2.0,1.0,0.0,180.0,FY2023
+Registered Nurse,Perth South,180.0,33.0,24.0,3.0,2.0,5.0,0.0,165.0,FY2023
+Support Services,Broome,11.0,2.0,5.0,1.0,1.0,0.0,0.0,14.0,FY2023
+Support Services,Bunbury,28.0,3.0,3.0,1.0,1.0,0.0,0.0,28.0,FY2023
+Support Services,Geraldton,17.0,7.0,7.0,1.0,1.0,0.0,0.0,17.0,FY2023
+Support Services,Kalgoorlie,15.0,3.0,3.0,0.0,1.0,0.0,0.0,16.0,FY2023
+Support Services,Perth North,60.0,25.0,18.0,3.0,2.0,0.0,0.0,52.0,FY2023
+Support Services,Perth South,49.0,6.0,7.0,2.0,2.0,0.0,0.0,50.0,FY2023
+Administration,Broome,16.0,4.0,4.0,0.0,1.0,0.0,0.0,17.0,FY2024
+Administration,Bunbury,38.0,6.0,4.0,1.0,1.0,0.0,0.0,36.0,FY2024
+Administration,Geraldton,24.0,2.0,3.0,1.0,1.0,0.0,0.0,25.0,FY2024
+Administration,Kalgoorlie,22.0,8.0,9.0,1.0,0.0,0.0,0.0,22.0,FY2024
+Administration,Perth North,78.0,11.0,9.0,0.0,1.0,0.0,0.0,77.0,FY2024
+Administration,Perth South,71.0,5.0,7.0,1.0,0.0,0.0,0.0,72.0,FY2024
+Allied Health,Broome,11.0,2.0,2.0,0.0,0.0,0.0,0.0,11.0,FY2024
+Allied Health,Bunbury,26.0,3.0,2.0,0.0,0.0,0.0,0.0,25.0,FY2024
+Allied Health,Geraldton,16.0,2.0,2.0,0.0,0.0,0.0,0.0,16.0,FY2024
+Allied Health,Kalgoorlie,14.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,FY2024
+Allied Health,Perth North,49.0,7.0,6.0,0.0,0.0,0.0,0.0,48.0,FY2024
+Allied Health,Perth South,46.0,4.0,3.0,0.0,0.0,0.0,0.0,45.0,FY2024
+Care Worker,Broome,27.0,12.0,6.0,1.0,2.0,0.0,0.0,22.0,FY2024
+Care Worker,Bunbury,55.0,7.0,8.0,2.0,0.0,0.0,0.0,54.0,FY2024
+Care Worker,Geraldton,36.0,13.0,9.0,0.0,1.0,0.0,0.0,33.0,FY2024
+Care Worker,Kalgoorlie,29.0,16.0,11.0,1.0,2.0,0.0,0.0,25.0,FY2024
+Care Worker,Perth North,102.0,31.0,30.0,2.0,2.0,0.0,0.0,101.0,FY2024
+Care Worker,Perth South,93.0,30.0,29.0,3.0,2.0,0.0,0.0,91.0,FY2024
+Enrolled Nurse,Broome,12.0,5.0,2.0,0.0,0.0,0.0,2.0,11.0,FY2024
+Enrolled Nurse,Bunbury,22.0,8.0,7.0,0.0,1.0,0.0,0.0,22.0,FY2024
+Enrolled Nurse,Geraldton,17.0,3.0,3.0,0.0,0.0,0.0,0.0,17.0,FY2024
+Enrolled Nurse,Kalgoorlie,12.0,3.0,4.0,1.0,0.0,0.0,0.0,12.0,FY2024
+Enrolled Nurse,Perth North,45.0,9.0,5.0,0.0,0.0,0.0,3.0,44.0,FY2024
+Enrolled Nurse,Perth South,46.0,9.0,5.0,0.0,0.0,0.0,3.0,45.0,FY2024
+Medical Practitioner,Broome,8.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0,FY2024
+Medical Practitioner,Bunbury,22.0,1.0,2.0,1.0,0.0,0.0,0.0,22.0,FY2024
+Medical Practitioner,Geraldton,13.0,0.0,2.0,1.0,0.0,0.0,0.0,14.0,FY2024
+Medical Practitioner,Kalgoorlie,9.0,1.0,2.0,0.0,1.0,0.0,0.0,11.0,FY2024
+Medical Practitioner,Perth North,43.0,3.0,1.0,1.0,2.0,0.0,0.0,42.0,FY2024
+Medical Practitioner,Perth South,39.0,3.0,2.0,0.0,0.0,0.0,0.0,38.0,FY2024
+Midwife,Broome,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,FY2024
+Midwife,Bunbury,9.0,1.0,1.0,0.0,0.0,0.0,0.0,9.0,FY2024
+Midwife,Geraldton,6.0,2.0,2.0,0.0,0.0,0.0,0.0,6.0,FY2024
+Midwife,Kalgoorlie,3.0,1.0,2.0,0.0,0.0,0.0,0.0,4.0,FY2024
+Midwife,Perth North,19.0,2.0,1.0,0.0,0.0,0.0,0.0,18.0,FY2024
+Midwife,Perth South,17.0,2.0,3.0,0.0,0.0,0.0,0.0,18.0,FY2024
+Registered Nurse,Broome,48.0,7.0,6.0,1.0,1.0,2.0,0.0,45.0,FY2024
+Registered Nurse,Bunbury,92.0,17.0,15.0,1.0,1.0,0.0,0.0,90.0,FY2024
+Registered Nurse,Geraldton,59.0,14.0,14.0,1.0,2.0,0.0,0.0,60.0,FY2024
+Registered Nurse,Kalgoorlie,46.0,5.0,8.0,3.0,1.0,0.0,0.0,47.0,FY2024
+Registered Nurse,Perth North,197.0,25.0,28.0,5.0,4.0,3.0,0.0,196.0,FY2024
+Registered Nurse,Perth South,186.0,29.0,24.0,1.0,3.0,3.0,0.0,180.0,FY2024
+Support Services,Broome,11.0,4.0,5.0,1.0,0.0,0.0,0.0,11.0,FY2024
+Support Services,Bunbury,29.0,4.0,3.0,0.0,0.0,0.0,0.0,28.0,FY2024
+Support Services,Geraldton,16.0,1.0,2.0,1.0,1.0,0.0,0.0,17.0,FY2024
+Support Services,Kalgoorlie,16.0,4.0,3.0,2.0,2.0,0.0,0.0,15.0,FY2024
+Support Services,Perth North,61.0,13.0,11.0,3.0,4.0,0.0,0.0,60.0,FY2024
+Support Services,Perth South,48.0,8.0,9.0,1.0,1.0,0.0,0.0,49.0,FY2024
+Administration,Broome,18.0,4.0,3.0,1.0,0.0,0.0,0.0,16.0,FY2025
+Administration,Bunbury,39.0,4.0,2.0,0.0,1.0,0.0,0.0,38.0,FY2025
+Administration,Geraldton,23.0,1.0,2.0,0.0,0.0,0.0,0.0,24.0,FY2025
+Administration,Kalgoorlie,22.0,2.0,4.0,2.0,0.0,0.0,0.0,22.0,FY2025
+Administration,Perth North,78.0,13.0,11.0,0.0,2.0,0.0,0.0,78.0,FY2025
+Administration,Perth South,72.0,10.0,9.0,0.0,0.0,0.0,0.0,71.0,FY2025
+Allied Health,Broome,11.0,4.0,4.0,0.0,0.0,0.0,0.0,11.0,FY2025
+Allied Health,Bunbury,26.0,4.0,5.0,1.0,0.0,0.0,0.0,26.0,FY2025
+Allied Health,Geraldton,16.0,2.0,2.0,0.0,0.0,0.0,0.0,16.0,FY2025
+Allied Health,Kalgoorlie,13.0,2.0,3.0,0.0,0.0,0.0,0.0,14.0,FY2025
+Allied Health,Perth North,52.0,8.0,4.0,0.0,1.0,0.0,0.0,49.0,FY2025
+Allied Health,Perth South,46.0,3.0,3.0,0.0,0.0,0.0,0.0,46.0,FY2025
+Care Worker,Broome,26.0,9.0,10.0,2.0,2.0,0.0,0.0,27.0,FY2025
+Care Worker,Bunbury,57.0,14.0,12.0,1.0,1.0,0.0,0.0,55.0,FY2025
+Care Worker,Geraldton,38.0,12.0,11.0,2.0,1.0,0.0,0.0,36.0,FY2025
+Care Worker,Kalgoorlie,28.0,3.0,3.0,0.0,1.0,0.0,0.0,29.0,FY2025
+Care Worker,Perth North,106.0,29.0,24.0,3.0,4.0,0.0,0.0,102.0,FY2025
+Care Worker,Perth South,97.0,25.0,22.0,3.0,2.0,0.0,0.0,93.0,FY2025
+Enrolled Nurse,Broome,9.0,0.0,2.0,0.0,0.0,0.0,1.0,12.0,FY2025
+Enrolled Nurse,Bunbury,23.0,9.0,5.0,0.0,0.0,0.0,3.0,22.0,FY2025
+Enrolled Nurse,Geraldton,16.0,0.0,1.0,0.0,0.0,0.0,0.0,17.0,FY2025
+Enrolled Nurse,Kalgoorlie,12.0,1.0,1.0,0.0,0.0,0.0,0.0,12.0,FY2025
+Enrolled Nurse,Perth North,44.0,8.0,8.0,0.0,0.0,0.0,1.0,45.0,FY2025
+Enrolled Nurse,Perth South,45.0,8.0,6.0,0.0,0.0,0.0,3.0,46.0,FY2025
+Medical Practitioner,Broome,8.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,FY2025
+Medical Practitioner,Bunbury,23.0,3.0,2.0,0.0,0.0,0.0,0.0,22.0,FY2025
+Medical Practitioner,Geraldton,14.0,2.0,1.0,0.0,0.0,0.0,0.0,13.0,FY2025
+Medical Practitioner,Kalgoorlie,10.0,3.0,2.0,0.0,0.0,0.0,0.0,9.0,FY2025
+Medical Practitioner,Perth North,43.0,2.0,2.0,0.0,0.0,0.0,0.0,43.0,FY2025
+Medical Practitioner,Perth South,39.0,6.0,6.0,0.0,0.0,0.0,0.0,39.0,FY2025
+Midwife,Broome,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,FY2025
+Midwife,Bunbury,9.0,2.0,2.0,0.0,0.0,0.0,0.0,9.0,FY2025
+Midwife,Geraldton,6.0,1.0,1.0,0.0,0.0,0.0,0.0,6.0,FY2025
+Midwife,Kalgoorlie,4.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,FY2025
+Midwife,Perth North,19.0,2.0,2.0,0.0,0.0,0.0,0.0,19.0,FY2025
+Midwife,Perth South,16.0,0.0,1.0,0.0,0.0,0.0,0.0,17.0,FY2025
+Registered Nurse,Broome,52.0,9.0,8.0,2.0,0.0,1.0,0.0,48.0,FY2025
+Registered Nurse,Bunbury,99.0,19.0,14.0,1.0,2.0,3.0,0.0,92.0,FY2025
+Registered Nurse,Geraldton,65.0,12.0,7.0,1.0,0.0,0.0,0.0,59.0,FY2025
+Registered Nurse,Kalgoorlie,48.0,14.0,10.0,2.0,4.0,0.0,0.0,46.0,FY2025
+Registered Nurse,Perth North,204.0,23.0,16.0,4.0,5.0,1.0,0.0,197.0,FY2025
+Registered Nurse,Perth South,191.0,28.0,27.0,3.0,2.0,3.0,0.0,186.0,FY2025
+Support Services,Broome,12.0,2.0,1.0,0.0,0.0,0.0,0.0,11.0,FY2025
+Support Services,Bunbury,30.0,7.0,6.0,0.0,0.0,0.0,0.0,29.0,FY2025
+Support Services,Geraldton,16.0,1.0,0.0,0.0,1.0,0.0,0.0,16.0,FY2025
+Support Services,Kalgoorlie,13.0,3.0,7.0,1.0,0.0,0.0,0.0,16.0,FY2025
+Support Services,Perth North,62.0,8.0,8.0,1.0,0.0,0.0,0.0,61.0,FY2025
+Support Services,Perth South,49.0,9.0,7.0,0.0,1.0,0.0,0.0,48.0,FY2025
+Administration,Broome,17.0,3.0,4.0,0.0,0.0,0.0,0.0,18.0,FY2026
+Administration,Bunbury,38.0,3.0,4.0,0.0,0.0,0.0,0.0,39.0,FY2026
+Administration,Geraldton,23.0,0.0,1.0,1.0,0.0,0.0,0.0,23.0,FY2026
+Administration,Kalgoorlie,22.0,6.0,5.0,0.0,1.0,0.0,0.0,22.0,FY2026
+Administration,Perth North,75.0,5.0,8.0,0.0,0.0,0.0,0.0,78.0,FY2026
+Administration,Perth South,72.0,9.0,9.0,0.0,0.0,0.0,0.0,72.0,FY2026
+Allied Health,Broome,12.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,FY2026
+Allied Health,Bunbury,26.0,4.0,4.0,0.0,0.0,0.0,0.0,26.0,FY2026
+Allied Health,Geraldton,14.0,0.0,2.0,0.0,0.0,0.0,0.0,16.0,FY2026
+Allied Health,Kalgoorlie,14.0,5.0,4.0,0.0,0.0,0.0,0.0,13.0,FY2026
+Allied Health,Perth North,54.0,10.0,8.0,2.0,2.0,0.0,0.0,52.0,FY2026
+Allied Health,Perth South,49.0,7.0,4.0,2.0,2.0,0.0,0.0,46.0,FY2026
+Care Worker,Broome,23.0,8.0,11.0,0.0,0.0,0.0,0.0,26.0,FY2026
+Care Worker,Bunbury,60.0,18.0,12.0,0.0,3.0,0.0,0.0,57.0,FY2026
+Care Worker,Geraldton,37.0,11.0,12.0,2.0,2.0,0.0,0.0,38.0,FY2026
+Care Worker,Kalgoorlie,31.0,13.0,13.0,4.0,1.0,0.0,0.0,28.0,FY2026
+Care Worker,Perth North,107.0,40.0,40.0,4.0,3.0,0.0,0.0,106.0,FY2026
+Care Worker,Perth South,103.0,24.0,17.0,2.0,3.0,0.0,0.0,97.0,FY2026
+Enrolled Nurse,Broome,9.0,2.0,2.0,1.0,1.0,0.0,0.0,9.0,FY2026
+Enrolled Nurse,Bunbury,24.0,4.0,2.0,0.0,0.0,0.0,1.0,23.0,FY2026
+Enrolled Nurse,Geraldton,16.0,3.0,2.0,0.0,0.0,0.0,1.0,16.0,FY2026
+Enrolled Nurse,Kalgoorlie,12.0,2.0,1.0,1.0,1.0,0.0,1.0,12.0,FY2026
+Enrolled Nurse,Perth North,44.0,8.0,7.0,1.0,0.0,0.0,2.0,44.0,FY2026
+Enrolled Nurse,Perth South,46.0,7.0,2.0,1.0,2.0,0.0,3.0,45.0,FY2026
+Medical Practitioner,Broome,6.0,0.0,2.0,0.0,0.0,0.0,0.0,8.0,FY2026
+Medical Practitioner,Bunbury,22.0,1.0,2.0,0.0,0.0,0.0,0.0,23.0,FY2026
+Medical Practitioner,Geraldton,14.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,FY2026
+Medical Practitioner,Kalgoorlie,11.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,FY2026
+Medical Practitioner,Perth North,43.0,6.0,6.0,0.0,0.0,0.0,0.0,43.0,FY2026
+Medical Practitioner,Perth South,40.0,9.0,8.0,0.0,0.0,0.0,0.0,39.0,FY2026
+Midwife,Broome,2.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,FY2026
+Midwife,Bunbury,9.0,1.0,1.0,0.0,0.0,0.0,0.0,9.0,FY2026
+Midwife,Geraldton,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,FY2026
+Midwife,Kalgoorlie,4.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,FY2026
+Midwife,Perth North,19.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,FY2026
+Midwife,Perth South,16.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,FY2026
+Registered Nurse,Broome,54.0,10.0,8.0,0.0,0.0,0.0,0.0,52.0,FY2026
+Registered Nurse,Bunbury,102.0,12.0,12.0,2.0,0.0,1.0,0.0,99.0,FY2026
+Registered Nurse,Geraldton,65.0,9.0,8.0,1.0,3.0,1.0,0.0,65.0,FY2026
+Registered Nurse,Kalgoorlie,52.0,9.0,5.0,0.0,1.0,1.0,0.0,48.0,FY2026
+Registered Nurse,Perth North,211.0,26.0,18.0,1.0,4.0,2.0,0.0,204.0,FY2026
+Registered Nurse,Perth South,202.0,19.0,15.0,5.0,1.0,3.0,0.0,191.0,FY2026
+Support Services,Broome,12.0,2.0,2.0,1.0,1.0,0.0,0.0,12.0,FY2026
+Support Services,Bunbury,31.0,6.0,5.0,0.0,0.0,0.0,0.0,30.0,FY2026
+Support Services,Geraldton,15.0,0.0,1.0,0.0,0.0,0.0,0.0,16.0,FY2026
+Support Services,Kalgoorlie,14.0,3.0,2.0,0.0,0.0,0.0,0.0,13.0,FY2026
+Support Services,Perth North,63.0,8.0,6.0,1.0,2.0,0.0,0.0,62.0,FY2026
+Support Services,Perth South,49.0,7.0,8.0,2.0,1.0,0.0,0.0,49.0,FY2026

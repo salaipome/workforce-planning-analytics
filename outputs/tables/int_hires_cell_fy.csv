@@ -1,0 +1,48 @@
+job_family,location,FY2023,FY2024,FY2025,FY2026
+Administration,Broome,2.0,4.0,4.0,3.0
+Administration,Bunbury,8.0,6.0,4.0,3.0
+Administration,Geraldton,1.0,2.0,1.0,0.0
+Administration,Kalgoorlie,6.0,8.0,2.0,6.0
+Administration,Perth North,12.0,11.0,13.0,5.0
+Administration,Perth South,18.0,5.0,10.0,9.0
+Allied Health,Broome,2.0,2.0,4.0,1.0
+Allied Health,Bunbury,2.0,3.0,4.0,4.0
+Allied Health,Geraldton,5.0,2.0,2.0,0.0
+Allied Health,Kalgoorlie,3.0,1.0,2.0,5.0
+Allied Health,Perth North,10.0,7.0,8.0,10.0
+Allied Health,Perth South,2.0,4.0,3.0,7.0
+Care Worker,Broome,7.0,12.0,9.0,8.0
+Care Worker,Bunbury,17.0,7.0,14.0,18.0
+Care Worker,Geraldton,15.0,13.0,12.0,11.0
+Care Worker,Kalgoorlie,9.0,16.0,3.0,13.0
+Care Worker,Perth North,24.0,31.0,29.0,40.0
+Care Worker,Perth South,21.0,30.0,25.0,24.0
+Enrolled Nurse,Broome,2.0,5.0,0.0,2.0
+Enrolled Nurse,Bunbury,3.0,8.0,9.0,4.0
+Enrolled Nurse,Geraldton,8.0,3.0,0.0,3.0
+Enrolled Nurse,Kalgoorlie,3.0,3.0,1.0,2.0
+Enrolled Nurse,Perth North,8.0,9.0,8.0,8.0
+Enrolled Nurse,Perth South,22.0,9.0,8.0,7.0
+Medical Practitioner,Bunbury,2.0,1.0,3.0,1.0
+Medical Practitioner,Geraldton,1.0,0.0,2.0,0.0
+Medical Practitioner,Kalgoorlie,0.0,1.0,3.0,1.0
+Medical Practitioner,Perth North,2.0,3.0,2.0,6.0
+Medical Practitioner,Perth South,4.0,3.0,6.0,9.0
+Midwife,Broome,0.0,0.0,1.0,0.0
+Midwife,Bunbury,0.0,1.0,2.0,1.0
+Midwife,Geraldton,0.0,2.0,1.0,0.0
+Midwife,Kalgoorlie,0.0,1.0,1.0,1.0
+Midwife,Perth North,1.0,2.0,2.0,0.0
+Midwife,Perth South,3.0,2.0,0.0,0.0
+Registered Nurse,Broome,9.0,7.0,9.0,10.0
+Registered Nurse,Bunbury,15.0,17.0,19.0,12.0
+Registered Nurse,Geraldton,14.0,14.0,12.0,9.0
+Registered Nurse,Kalgoorlie,1.0,5.0,14.0,9.0
+Registered Nurse,Perth North,43.0,25.0,23.0,26.0
+Registered Nurse,Perth South,33.0,29.0,28.0,19.0
+Support Services,Broome,2.0,4.0,2.0,2.0
+Support Services,Bunbury,3.0,4.0,7.0,6.0
+Support Services,Geraldton,7.0,1.0,1.0,0.0
+Support Services,Kalgoorlie,3.0,4.0,3.0,3.0
+Support Services,Perth North,25.0,13.0,8.0,8.0
+Support Services,Perth South,6.0,8.0,9.0,7.0

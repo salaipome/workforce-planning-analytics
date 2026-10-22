@@ -1,0 +1,108 @@
+{
+  "wa_unemployment_rate_latest": [
+    "2026-09-01",
+    4.22
+  ],
+  "aus_unemployment_rate_latest": [
+    "2026-09-01",
+    4.72
+  ],
+  "wa_participation_rate_latest": 69.08,
+  "wa_employed_000_latest": 1706.6,
+  "wa_employment_growth_12m": 0.037,
+  "wa_jv_000_latest_original": [
+    "2026-07-01",
+    40.9
+  ],
+  "wa_jv_000_latest_4q_avg": 43.1,
+  "wa_v_u_ratio_latest": 0.562,
+  "wa_v_u_ratio_2015_2019_avg": 0.24,
+  "wa_v_u_ratio_peak": [
+    "2022-04-01",
+    1.217
+  ],
+  "aus_hcsa_job_vacancies_000_latest": [
+    "2026-07-01",
+    54.3
+  ],
+  "aus_hcsa_vacant_job_pct_latest": 2.185,
+  "aus_hcsa_vacant_job_pct_2019_avg": 1.544,
+  "aus_hcsa_filled_jobs_5y_cagr": 0.0562,
+  "aus_hcsa_labour_cost_per_hour_latest": 66.87,
+  "wpi_yoy_aus_hcsa_latest": [
+    "2026-Q2",
+    3.8
+  ],
+  "wpi_yoy_wa_all_latest": [
+    "2026-Q2",
+    3.3
+  ],
+  "wpi_yoy_aus_hcsa_avg_last8q": 3.71,
+  "wa_population_latest": [
+    "2026-Q1",
+    3096222
+  ],
+  "wa_pop_5y_cagr": 0.0248,
+  "wa_pop_75plus_5y_cagr": 0.0539,
+  "wa_pop_65plus_share_latest": 0.1645,
+  "census2021_hcsa_wa_pct_55_plus": 0.2292,
+  "census2021_hcsa_rest_of_wa_pct_55_plus": 0.2771,
+  "abs_hcsa_left_employment_rate_feb2026": 0.0533,
+  "abs_hcsa_job_changer_rate_feb2026": 0.0544,
+  "abs_hcsa_outflow_proxy_feb2026": 0.1077,
+  "reos_recruitment_difficulty_latest": {
+    "quarter": "2026-09-01",
+    "All recruiting employers": 0.45,
+    "Western Australia": 0.46,
+    "Health Care and Social Assistance": 0.44
+  },
+  "osl_key_findings_2025_26": [
+    {
+      "figure": "Figure 4: Vacancy fill rates (%), 2025-26",
+      "group": "Shortage",
+      "value": 0.57
+    },
+    {
+      "figure": "Figure 4: Vacancy fill rates (%), 2025-26",
+      "group": "No shortage",
+      "value": 0.78
+    },
+    {
+      "figure": "Figure 4: Vacancy fill rates (%), 2025-26",
+      "group": "All occupations",
+      "value": 0.72
+    },
+    {
+      "figure": "Figure 5: Recruitment difficulty rates (%), 2025-26",
+      "group": "Shortage",
+      "value": 0.538
+    },
+    {
+      "figure": "Figure 5: Recruitment difficulty rates (%), 2025-26",
+      "group": "No shortage",
+      "value": 0.357
+    },
+    {
+      "figure": "Figure 5: Recruitment difficulty rates (%), 2025-26",
+      "group": "All occupations",
+      "value": 0.438
+    },
+    {
+      "figure": "Figure 6: Vacancy durations (no.), 2025-26",
+      "group": "Shortage",
+      "value": 10.64
+    },
+    {
+      "figure": "Figure 6: Vacancy durations (no.), 2025-26",
+      "group": "No shortage",
+      "value": 7.755
+    },
+    {
+      "figure": "Figure 6: Vacancy durations (no.), 2025-26",
+      "group": "All occupations",
+      "value": 8.545
+    }
+  ],
+  "ivi_latest_month": "2026-09-01",
+  "eq08_latest_month": "2026-02-01"
+}

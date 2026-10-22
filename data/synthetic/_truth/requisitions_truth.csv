@@ -1,0 +1,1700 @@
+requisition_id,job_family,location,open_date,reason,applicants,status,filled_date,filled_by,source,cancel_date,time_to_fill_days
+REQ000001,Registered Nurse,Perth North,2022-06-02,Replacement,16,Filled,2022-08-07,101885,External,,66.0
+REQ000002,Registered Nurse,Perth North,2022-05-05,Replacement,11,Filled,2022-07-01,101820,External,,57.0
+REQ000003,Registered Nurse,Perth North,2022-05-08,Replacement,17,Filled,2022-08-12,101886,External,,96.0
+REQ000004,Registered Nurse,Perth North,2022-06-27,Replacement,15,Filled,2022-08-30,101887,External,,64.0
+REQ000005,Registered Nurse,Perth North,2022-05-13,Replacement,12,Filled,2022-07-01,101821,External,,49.0
+REQ000006,Registered Nurse,Perth North,2022-05-31,Replacement,8,Cancelled,,,,2022-07-26,
+REQ000007,Registered Nurse,Perth North,2022-05-13,Replacement,7,Cancelled,,,,2022-08-16,
+REQ000008,Registered Nurse,Perth North,2022-05-17,Replacement,12,Filled,2022-08-11,100414,Internal transfer,,86.0
+REQ000009,Registered Nurse,Perth North,2022-06-01,Replacement,7,Filled,2022-07-12,101822,External,,41.0
+REQ000010,Registered Nurse,Perth North,2022-05-25,Replacement,7,Filled,2022-07-13,101823,External,,49.0
+REQ000011,Registered Nurse,Perth North,2022-05-09,Replacement,4,Filled,2022-08-14,101888,External,,97.0
+REQ000012,Registered Nurse,Perth North,2022-06-09,Replacement,11,Cancelled,,,,2022-07-23,
+REQ000013,Registered Nurse,Perth North,2022-06-19,Replacement,10,Filled,2022-10-17,101954,External,,120.0
+REQ000014,Registered Nurse,Perth North,2022-05-13,Replacement,15,Filled,2022-08-04,101889,External,,83.0
+REQ000015,Registered Nurse,Perth North,2022-05-10,Replacement,16,Filled,2022-07-11,100296,Internal transfer,,62.0
+REQ000016,Registered Nurse,Perth North,2022-05-30,Replacement,10,Filled,2022-10-05,101955,External,,128.0
+REQ000017,Registered Nurse,Perth North,2022-05-21,Replacement,13,Filled,2022-07-25,101824,External,,65.0
+REQ000018,Registered Nurse,Perth South,2022-05-25,Replacement,11,Filled,2022-07-16,101825,External,,52.0
+REQ000019,Registered Nurse,Perth South,2022-06-29,Replacement,14,Filled,2022-08-27,101890,External,,59.0
+REQ000020,Registered Nurse,Perth South,2022-05-31,Replacement,15,Filled,2022-07-23,101826,External,,53.0
+REQ000021,Registered Nurse,Perth South,2022-06-29,Replacement,9,Filled,2022-11-28,101990,External,,152.0
+REQ000022,Registered Nurse,Perth South,2022-05-05,Replacement,12,Filled,2022-09-13,101930,External,,131.0
+REQ000023,Registered Nurse,Perth South,2022-05-31,Replacement,6,Filled,2022-07-05,101827,External,,35.0
+REQ000024,Registered Nurse,Perth South,2022-06-14,Replacement,13,Filled,2022-08-02,101891,External,,49.0
+REQ000025,Registered Nurse,Perth South,2022-06-01,Replacement,11,Filled,2022-08-23,100022,Internal transfer,,83.0
+REQ000026,Registered Nurse,Perth South,2022-05-30,Replacement,15,Filled,2022-09-02,101931,External,,95.0
+REQ000027,Registered Nurse,Perth South,2022-06-01,Replacement,10,Filled,2022-08-01,101892,External,,61.0
+REQ000028,Registered Nurse,Perth South,2022-05-24,Replacement,14,Filled,2022-07-14,101828,External,,51.0
+REQ000029,Registered Nurse,Perth South,2022-05-09,Replacement,9,Filled,2022-07-13,100452,Internal transfer,,65.0
+REQ000030,Registered Nurse,Perth South,2022-06-01,Replacement,15,Filled,2022-08-09,101893,External,,69.0
+REQ000031,Registered Nurse,Perth South,2022-05-21,Replacement,6,Filled,2022-07-01,101829,External,,41.0
+REQ000032,Registered Nurse,Perth South,2022-05-06,Replacement,5,Filled,2022-07-01,101830,External,,56.0
+REQ000033,Registered Nurse,Bunbury,2022-05-17,Replacement,10,Filled,2022-07-10,100567,Internal transfer,,54.0
+REQ000034,Registered Nurse,Bunbury,2022-06-19,Replacement,13,Filled,2022-08-02,101894,External,,44.0
+REQ000035,Registered Nurse,Bunbury,2022-05-12,Replacement,7,Cancelled,,,,2022-06-16,
+REQ000036,Registered Nurse,Bunbury,2022-05-19,Replacement,10,Filled,2022-07-08,101831,External,,50.0
+REQ000037,Registered Nurse,Bunbury,2022-05-18,Replacement,11,Filled,2022-07-01,101832,External,,44.0
+REQ000038,Registered Nurse,Bunbury,2022-06-17,Replacement,7,Filled,2022-08-02,101895,External,,46.0
+REQ000039,Registered Nurse,Bunbury,2022-05-21,Replacement,9,Filled,2022-12-07,102018,External,,200.0
+REQ000040,Registered Nurse,Geraldton,2022-05-16,Replacement,10,Cancelled,,,,2022-07-28,
+REQ000041,Registered Nurse,Geraldton,2022-06-01,Replacement,5,Filled,2022-08-15,101896,External,,75.0
+REQ000042,Registered Nurse,Geraldton,2022-05-19,Replacement,11,Filled,2022-09-25,101932,External,,129.0
+REQ000043,Registered Nurse,Kalgoorlie,2022-05-13,Replacement,7,Cancelled,,,,2022-06-12,
+REQ000044,Registered Nurse,Kalgoorlie,2022-06-13,Replacement,4,Filled,2022-08-23,101897,External,,71.0
+REQ000045,Registered Nurse,Broome,2022-06-25,Replacement,2,Cancelled,,,,2022-09-05,
+REQ000046,Registered Nurse,Broome,2022-05-08,Replacement,7,Filled,2022-10-23,101956,External,,168.0
+REQ000047,Registered Nurse,Broome,2022-05-11,Replacement,4,Filled,2022-07-08,101833,External,,58.0
+REQ000048,Registered Nurse,Broome,2022-06-22,Replacement,4,Filled,2022-10-03,101957,External,,103.0
+REQ000049,Registered Nurse,Broome,2022-05-10,Replacement,4,Cancelled,,,,2022-08-13,
+REQ000050,Registered Nurse,Broome,2022-05-06,Replacement,5,Filled,2022-08-29,101898,External,,115.0
+REQ000051,Midwife,Perth South,2022-05-21,Replacement,8,Filled,2022-08-13,101899,External,,84.0
+REQ000052,Midwife,Perth South,2022-05-27,Replacement,7,Filled,2022-09-08,101933,External,,104.0
+REQ000053,Enrolled Nurse,Perth North,2022-05-14,Replacement,16,Filled,2022-07-01,101834,External,,48.0
+REQ000054,Enrolled Nurse,Perth North,2022-05-15,Replacement,11,Filled,2022-07-02,101835,External,,48.0
+REQ000055,Enrolled Nurse,Perth North,2022-05-22,Replacement,17,Filled,2022-07-01,100700,Internal transfer,,40.0
+REQ000056,Enrolled Nurse,Perth North,2022-05-23,Replacement,7,Filled,2022-07-15,101836,External,,53.0
+REQ000057,Enrolled Nurse,Perth South,2022-06-27,Replacement,7,Filled,2022-08-14,101900,External,,48.0
+REQ000058,Enrolled Nurse,Perth South,2022-05-08,Replacement,18,Filled,2022-07-11,101837,External,,64.0
+REQ000059,Enrolled Nurse,Perth South,2022-05-11,Replacement,11,Filled,2022-07-01,101838,External,,51.0
+REQ000060,Enrolled Nurse,Perth South,2022-06-25,Replacement,12,Filled,2022-08-17,101901,External,,53.0
+REQ000061,Enrolled Nurse,Perth South,2022-06-07,Replacement,11,Filled,2022-08-01,101902,External,,55.0
+REQ000062,Enrolled Nurse,Perth South,2022-05-28,Replacement,16,Filled,2022-07-02,101839,External,,35.0
+REQ000063,Enrolled Nurse,Perth South,2022-06-05,Replacement,13,Filled,2022-07-26,101840,External,,51.0
+REQ000064,Enrolled Nurse,Perth South,2022-05-09,Replacement,12,Cancelled,,,,2022-06-06,
+REQ000065,Enrolled Nurse,Perth South,2022-05-26,Replacement,9,Filled,2022-07-02,101841,External,,37.0
+REQ000066,Enrolled Nurse,Geraldton,2022-05-03,Replacement,7,Filled,2022-07-01,101842,External,,59.0
+REQ000067,Enrolled Nurse,Geraldton,2022-05-14,Replacement,3,Filled,2022-08-20,101903,External,,98.0
+REQ000068,Enrolled Nurse,Geraldton,2022-06-20,Replacement,7,Filled,2022-08-02,100714,Internal transfer,,43.0
+REQ000069,Enrolled Nurse,Geraldton,2022-06-04,Replacement,4,Filled,2022-09-25,101934,External,,113.0
+REQ000070,Enrolled Nurse,Geraldton,2022-05-22,Replacement,8,Filled,2022-07-03,101843,External,,42.0
+REQ000071,Enrolled Nurse,Geraldton,2022-06-16,Replacement,6,Filled,2022-08-20,101904,External,,65.0
+REQ000072,Enrolled Nurse,Broome,2022-05-19,Replacement,4,Filled,2022-07-01,101844,External,,43.0
+REQ000073,Medical Practitioner,Perth South,2022-05-08,Replacement,18,Filled,2022-09-17,101935,External,,132.0
+REQ000074,Medical Practitioner,Perth South,2022-06-04,Replacement,13,Filled,2022-09-20,101936,External,,108.0
+REQ000075,Medical Practitioner,Bunbury,2022-05-05,Replacement,1,Filled,2022-09-18,101937,External,,136.0
+REQ000076,Medical Practitioner,Broome,2022-05-18,Replacement,6,Cancelled,,,,2022-08-26,
+REQ000077,Allied Health,Perth North,2022-05-26,Replacement,21,Filled,2022-07-25,101845,External,,60.0
+REQ000078,Allied Health,Perth North,2022-06-10,Replacement,7,Filled,2022-09-03,101042,Internal transfer,,85.0
+REQ000079,Allied Health,Perth North,2022-05-17,Replacement,7,Filled,2022-07-01,101046,Internal transfer,,45.0
+REQ000080,Allied Health,Geraldton,2022-05-22,Replacement,7,Filled,2022-11-24,101991,External,,186.0
+REQ000081,Allied Health,Geraldton,2022-05-20,Replacement,7,Filled,2022-08-02,101905,External,,74.0
+REQ000082,Allied Health,Broome,2022-06-02,Replacement,7,Filled,2022-10-11,101958,External,,131.0
+REQ000083,Care Worker,Perth North,2022-06-30,Replacement,18,Filled,2022-08-15,101380,Internal transfer,,46.0
+REQ000084,Care Worker,Perth North,2022-06-04,Replacement,11,Filled,2022-07-08,101846,External,,34.0
+REQ000085,Care Worker,Perth North,2022-06-19,Replacement,14,Filled,2022-07-09,101847,External,,20.0
+REQ000086,Care Worker,Perth North,2022-05-10,Replacement,8,Filled,2022-07-01,101848,External,,52.0
+REQ000087,Care Worker,Perth North,2022-06-28,Replacement,8,Filled,2022-07-15,101377,Internal transfer,,17.0
+REQ000088,Care Worker,Perth South,2022-06-25,Replacement,9,Filled,2022-08-03,101906,External,,39.0
+REQ000089,Care Worker,Perth South,2022-06-09,Replacement,8,Filled,2022-07-06,101849,External,,27.0
+REQ000090,Care Worker,Perth South,2022-06-03,Replacement,14,Filled,2022-07-15,101850,External,,42.0
+REQ000091,Care Worker,Perth South,2022-06-25,Replacement,7,Filled,2022-08-17,101907,External,,53.0
+REQ000092,Care Worker,Perth South,2022-05-19,Replacement,20,Filled,2022-07-10,101851,External,,52.0
+REQ000093,Care Worker,Perth South,2022-05-30,Replacement,15,Filled,2022-07-04,101852,External,,35.0
+REQ000094,Care Worker,Perth South,2022-06-30,Replacement,10,Filled,2022-09-25,101938,External,,87.0
+REQ000095,Care Worker,Bunbury,2022-05-16,Replacement,10,Filled,2022-07-15,101853,External,,60.0
+REQ000096,Care Worker,Bunbury,2022-06-19,Replacement,12,Filled,2022-07-28,101854,External,,39.0
+REQ000097,Care Worker,Bunbury,2022-06-01,Replacement,8,Filled,2022-07-24,101855,External,,53.0
+REQ000098,Care Worker,Bunbury,2022-05-04,Replacement,11,Filled,2022-07-01,101856,External,,58.0
+REQ000099,Care Worker,Bunbury,2022-06-14,Replacement,8,Filled,2022-07-08,101857,External,,24.0
+REQ000100,Care Worker,Bunbury,2022-06-02,Replacement,13,Filled,2022-07-28,101858,External,,56.0
+REQ000101,Care Worker,Geraldton,2022-05-07,Replacement,5,Filled,2022-07-01,101859,External,,55.0
+REQ000102,Care Worker,Geraldton,2022-05-25,Replacement,7,Filled,2022-07-09,101255,Internal transfer,,45.0
+REQ000103,Care Worker,Geraldton,2022-06-06,Replacement,10,Filled,2022-08-26,101908,External,,81.0
+REQ000104,Care Worker,Geraldton,2022-06-15,Replacement,5,Filled,2022-08-29,101909,External,,75.0
+REQ000105,Care Worker,Geraldton,2022-06-30,Replacement,7,Filled,2022-07-31,101860,External,,31.0
+REQ000106,Care Worker,Kalgoorlie,2022-06-10,Replacement,8,Filled,2022-08-04,101910,External,,55.0
+REQ000107,Care Worker,Kalgoorlie,2022-05-23,Replacement,5,Filled,2022-08-03,101911,External,,72.0
+REQ000108,Care Worker,Kalgoorlie,2022-05-26,Replacement,11,Filled,2022-07-24,101861,External,,59.0
+REQ000109,Care Worker,Kalgoorlie,2022-06-27,Replacement,7,Filled,2022-08-13,101912,External,,47.0
+REQ000110,Administration,Perth North,2022-05-10,Replacement,6,Filled,2022-08-13,101913,External,,95.0
+REQ000111,Administration,Perth North,2022-05-27,Replacement,15,Filled,2022-07-04,101862,External,,38.0
+REQ000112,Administration,Perth North,2022-05-09,Replacement,13,Cancelled,,,,2022-05-30,
+REQ000113,Administration,Perth North,2022-06-25,Replacement,12,Filled,2022-07-16,101863,External,,21.0
+REQ000114,Administration,Perth North,2022-05-14,Replacement,13,Filled,2022-07-14,101864,External,,61.0
+REQ000115,Administration,Perth North,2022-05-08,Replacement,10,Filled,2022-07-01,101865,External,,54.0
+REQ000116,Administration,Perth South,2022-05-23,Replacement,9,Filled,2022-07-01,101866,External,,39.0
+REQ000117,Administration,Perth South,2022-06-27,Replacement,9,Filled,2022-07-31,101867,External,,34.0
+REQ000118,Administration,Perth South,2022-05-26,Replacement,10,Filled,2022-07-13,101402,Internal transfer,,48.0
+REQ000119,Administration,Perth South,2022-06-02,Replacement,14,Filled,2022-07-01,101868,External,,29.0
+REQ000120,Administration,Perth South,2022-06-15,Replacement,15,Filled,2022-07-24,101869,External,,39.0
+REQ000121,Administration,Perth South,2022-06-24,Replacement,4,Filled,2022-07-06,101870,External,,12.0
+REQ000122,Administration,Bunbury,2022-05-13,Replacement,6,Filled,2022-07-10,101871,External,,58.0
+REQ000123,Administration,Bunbury,2022-05-31,Replacement,6,Filled,2022-07-07,101872,External,,37.0
+REQ000124,Administration,Kalgoorlie,2022-05-04,Replacement,4,Filled,2022-07-02,101873,External,,59.0
+REQ000125,Administration,Kalgoorlie,2022-06-23,Replacement,4,Filled,2022-07-24,101530,Internal transfer,,31.0
+REQ000126,Administration,Kalgoorlie,2022-06-02,Replacement,6,Filled,2022-07-30,101874,External,,58.0
+REQ000127,Administration,Broome,2022-06-18,Replacement,6,Filled,2022-10-13,101959,External,,117.0
+REQ000128,Support Services,Perth North,2022-06-11,Replacement,11,Filled,2022-07-21,101875,External,,40.0
+REQ000129,Support Services,Perth North,2022-05-21,Replacement,16,Filled,2022-07-01,101876,External,,41.0
+REQ000130,Support Services,Perth North,2022-05-08,Replacement,10,Filled,2022-07-01,101775,Internal transfer,,54.0
+REQ000131,Support Services,Perth North,2022-06-09,Replacement,3,Filled,2022-07-25,101877,External,,46.0
+REQ000132,Support Services,Perth North,2022-06-06,Replacement,13,Filled,2022-07-13,101878,External,,37.0
+REQ000133,Support Services,Perth North,2022-06-20,Replacement,8,Filled,2022-07-07,101792,Internal transfer,,17.0
+REQ000134,Support Services,Perth North,2022-05-19,Replacement,7,Filled,2022-07-01,101879,External,,43.0
+REQ000135,Support Services,Perth North,2022-06-17,Replacement,9,Filled,2022-08-10,101914,External,,54.0
+REQ000136,Support Services,Perth North,2022-05-29,Replacement,16,Filled,2022-07-06,101880,External,,38.0
+REQ000137,Support Services,Perth North,2022-05-08,Replacement,16,Filled,2022-07-02,101881,External,,55.0
+REQ000138,Support Services,Bunbury,2022-06-13,Replacement,12,Filled,2022-07-06,101882,External,,23.0
+REQ000139,Registered Nurse,Perth North,2022-07-04,Replacement,17,Filled,2022-08-22,101915,External,,49.0
+REQ000140,Registered Nurse,Perth North,2022-06-20,Replacement,9,Filled,2022-08-24,101916,External,,65.0
+REQ000141,Registered Nurse,Perth North,2022-07-19,Replacement,9,Filled,2022-10-19,101960,External,,92.0
+REQ000142,Registered Nurse,Bunbury,2022-06-27,Replacement,4,Filled,2022-09-07,101939,External,,72.0
+REQ000143,Registered Nurse,Geraldton,2022-07-07,Replacement,8,Filled,2022-10-06,101961,External,,91.0
+REQ000144,Enrolled Nurse,Perth North,2022-07-09,Replacement,13,Filled,2022-08-09,101917,External,,31.0
+REQ000145,Enrolled Nurse,Bunbury,2022-06-29,Replacement,10,Filled,2022-08-29,101918,External,,61.0
+REQ000146,Medical Practitioner,Geraldton,2022-07-01,Replacement,8,Filled,2022-10-09,101962,External,,100.0
+REQ000147,Allied Health,Perth North,2022-06-15,Replacement,11,Filled,2022-08-14,101919,External,,60.0
+REQ000148,Allied Health,Perth South,2022-07-10,Replacement,14,Filled,2022-08-15,101920,External,,36.0
+REQ000149,Allied Health,Kalgoorlie,2022-06-27,Replacement,6,Filled,2022-08-20,101921,External,,54.0
+REQ000150,Allied Health,Broome,2022-06-27,Replacement,5,Filled,2022-12-27,101012,Internal transfer,,183.0
+REQ000151,Care Worker,Perth North,2022-07-20,Replacement,11,Filled,2022-08-29,101922,External,,40.0
+REQ000152,Care Worker,Perth North,2022-06-30,Replacement,11,Filled,2022-07-31,101883,External,,31.0
+REQ000153,Care Worker,Perth South,2022-07-06,Replacement,10,Filled,2022-08-15,101923,External,,40.0
+REQ000154,Care Worker,Bunbury,2022-06-30,Replacement,11,Filled,2022-07-31,101884,External,,31.0
+REQ000155,Care Worker,Broome,2022-06-27,Replacement,6,Cancelled,,,,2022-07-28,
+REQ000156,Care Worker,Broome,2022-07-17,Replacement,11,Filled,2022-09-07,101940,External,,52.0
+REQ000157,Administration,Bunbury,2022-07-06,Replacement,6,Filled,2022-08-23,101535,Internal transfer,,48.0
+REQ000158,Support Services,Perth South,2022-07-13,Replacement,11,Cancelled,,,,2022-08-04,
+REQ000159,Registered Nurse,Perth North,2022-08-17,Re-advertised,9,Filled,2022-11-21,101992,External,,96.0
+REQ000160,Registered Nurse,Perth North,2022-08-13,Re-advertised,5,Filled,2022-11-02,101993,External,,81.0
+REQ000161,Registered Nurse,Perth South,2022-07-11,Replacement (internal move),14,Filled,2022-08-28,101924,External,,48.0
+REQ000162,Registered Nurse,Geraldton,2022-07-13,Replacement (internal move),3,Filled,2022-12-18,102019,External,,158.0
+REQ000163,Registered Nurse,Broome,2022-07-10,Replacement (internal move),4,Filled,2022-10-19,101963,External,,101.0
+REQ000164,Registered Nurse,Bunbury,2022-07-19,Re-advertised,8,Filled,2022-10-05,101964,External,,78.0
+REQ000165,Enrolled Nurse,Perth South,2022-07-01,Replacement (internal move),15,Cancelled,,,,2022-07-22,
+REQ000166,Enrolled Nurse,Perth South,2022-07-19,Re-advertised,17,Filled,2022-09-03,101941,External,,46.0
+REQ000167,Allied Health,Geraldton,2022-07-01,Replacement (internal move),8,Filled,2022-09-07,101942,External,,68.0
+REQ000168,Care Worker,Broome,2022-07-15,Replacement (internal move),3,Filled,2022-08-16,101925,External,,32.0
+REQ000169,Care Worker,Perth South,2022-07-09,Replacement (internal move),11,Filled,2022-08-08,101926,External,,30.0
+REQ000170,Administration,Perth North,2022-07-13,Re-advertised,6,Filled,2022-08-15,101927,External,,33.0
+REQ000171,Administration,Perth North,2022-07-13,Replacement (internal move),12,Filled,2022-10-02,101965,External,,81.0
+REQ000172,Administration,Perth South,2022-07-24,Replacement (internal move),11,Filled,2022-09-02,101943,External,,40.0
+REQ000173,Support Services,Geraldton,2022-07-01,Replacement (internal move),5,Filled,2022-08-01,101928,External,,31.0
+REQ000174,Support Services,Kalgoorlie,2022-07-07,Replacement (internal move),7,Filled,2022-10-23,101966,External,,108.0
+REQ000175,Care Worker,Broome,2022-09-01,Re-advertised,5,Filled,2022-10-15,101967,External,,44.0
+REQ000176,Registered Nurse,Perth North,2022-08-07,Replacement,11,Filled,2022-10-01,101968,External,,55.0
+REQ000177,Registered Nurse,Perth South,2022-08-15,Replacement,9,Filled,2022-11-17,101994,External,,94.0
+REQ000178,Registered Nurse,Bunbury,2022-08-26,Replacement,6,Filled,2022-11-02,101995,External,,68.0
+REQ000179,Registered Nurse,Geraldton,2022-08-08,Replacement,8,Cancelled,,,,2022-09-24,
+REQ000180,Registered Nurse,Geraldton,2022-07-27,Replacement,5,Filled,2022-09-22,101944,External,,57.0
+REQ000181,Midwife,Perth North,2022-08-04,Replacement,9,Filled,2023-01-16,102044,External,,165.0
+REQ000182,Enrolled Nurse,Perth South,2022-07-14,Replacement,7,Cancelled,,,,2022-08-21,
+REQ000183,Enrolled Nurse,Bunbury,2022-08-04,Replacement,10,Filled,2022-09-02,101945,External,,29.0
+REQ000184,Enrolled Nurse,Kalgoorlie,2022-07-17,Replacement,7,Cancelled,,,,2022-09-15,
+REQ000185,Medical Practitioner,Perth North,2022-08-18,Replacement,11,Filled,2023-02-21,102073,External,,187.0
+REQ000186,Medical Practitioner,Perth South,2022-08-07,Replacement,25,Filled,2022-11-30,101996,External,,115.0
+REQ000187,Allied Health,Perth North,2022-08-11,Replacement,5,Filled,2022-12-05,102020,External,,116.0
+REQ000188,Allied Health,Bunbury,2022-08-01,Replacement,5,Filled,2022-11-19,101997,External,,110.0
+REQ000189,Allied Health,Geraldton,2022-07-12,Replacement,4,Filled,2023-01-08,102045,External,,180.0
+REQ000190,Care Worker,Perth North,2022-08-11,Replacement,5,Filled,2022-09-20,101946,External,,40.0
+REQ000191,Care Worker,Perth North,2022-07-19,Replacement,16,Filled,2022-09-07,101947,External,,50.0
+REQ000192,Care Worker,Bunbury,2022-08-03,Replacement,5,Filled,2022-10-15,101969,External,,73.0
+REQ000193,Care Worker,Kalgoorlie,2022-08-23,Replacement,4,Filled,2022-11-12,101998,External,,81.0
+REQ000194,Care Worker,Kalgoorlie,2022-08-14,Replacement,2,Filled,2022-10-17,101970,External,,64.0
+REQ000195,Administration,Bunbury,2022-08-02,Replacement,11,Filled,2022-10-09,101521,Internal transfer,,68.0
+REQ000196,Administration,Broome,2022-08-12,Replacement,5,Filled,2022-10-21,101971,External,,70.0
+REQ000197,Support Services,Perth North,2022-07-21,Replacement,4,Filled,2022-08-29,101698,Internal transfer,,39.0
+REQ000198,Support Services,Geraldton,2022-08-06,Replacement,7,Filled,2022-09-09,101756,Internal transfer,,34.0
+REQ000199,Support Services,Geraldton,2022-07-30,Replacement,5,Filled,2022-08-22,101929,External,,23.0
+REQ000200,Registered Nurse,Perth North,2022-08-31,Re-advertised,8,Filled,2022-10-03,101972,External,,33.0
+REQ000201,Registered Nurse,Bunbury,2022-08-11,Replacement (internal move),9,Filled,2022-11-05,101999,External,,86.0
+REQ000202,Registered Nurse,Perth North,2022-08-23,Replacement (internal move),20,Filled,2022-10-24,101973,External,,62.0
+REQ000203,Registered Nurse,Broome,2022-09-09,Re-advertised,10,Filled,2023-01-17,100265,Internal transfer,,130.0
+REQ000204,Enrolled Nurse,Perth South,2022-08-02,Replacement (internal move),9,Filled,2022-09-17,101948,External,,46.0
+REQ000205,Care Worker,Broome,2022-08-15,Replacement (internal move),4,Filled,2022-09-05,101949,External,,21.0
+REQ000206,Administration,Perth South,2022-08-23,Replacement (internal move),12,Filled,2022-09-22,101950,External,,30.0
+REQ000207,Enrolled Nurse,Perth South,2022-08-23,Re-advertised,7,Filled,2022-10-08,101974,External,,46.0
+REQ000208,Enrolled Nurse,Perth South,2022-09-22,Re-advertised,11,Filled,2022-11-13,102000,External,,52.0
+REQ000209,Support Services,Perth South,2022-08-29,Replacement (internal move),13,Cancelled,,,,2022-09-28,
+REQ000210,Registered Nurse,Perth North,2022-09-14,Replacement,9,Filled,2022-11-29,102001,External,,76.0
+REQ000211,Registered Nurse,Perth South,2022-09-13,Replacement,9,Filled,2022-11-07,102002,External,,55.0
+REQ000212,Registered Nurse,Perth South,2022-09-01,Replacement,9,Filled,2022-12-06,102021,External,,96.0
+REQ000213,Registered Nurse,Bunbury,2022-08-26,Replacement,9,Filled,2022-10-07,101975,External,,42.0
+REQ000214,Registered Nurse,Kalgoorlie,2022-08-18,Replacement,11,Cancelled,,,,2022-11-11,
+REQ000215,Registered Nurse,Broome,2022-09-11,Replacement,3,Filled,2023-07-13,102204,External,,305.0
+REQ000216,Allied Health,Perth North,2022-08-27,Replacement,12,Cancelled,,,,2022-10-16,
+REQ000217,Care Worker,Perth North,2022-09-23,Replacement,6,Filled,2022-11-08,102003,External,,46.0
+REQ000218,Care Worker,Perth South,2022-09-16,Replacement,7,Filled,2022-10-09,101976,External,,23.0
+REQ000219,Care Worker,Perth South,2022-09-11,Replacement,14,Filled,2022-10-30,101977,External,,49.0
+REQ000220,Care Worker,Geraldton,2022-08-31,Replacement,8,Cancelled,,,,2022-09-22,
+REQ000221,Care Worker,Geraldton,2022-08-14,Replacement,10,Filled,2022-09-28,101951,External,,45.0
+REQ000222,Care Worker,Geraldton,2022-09-07,Replacement,5,Filled,2022-11-24,101310,Internal transfer,,78.0
+REQ000223,Care Worker,Kalgoorlie,2022-09-12,Replacement,7,Filled,2022-11-04,102004,External,,53.0
+REQ000224,Care Worker,Broome,2022-09-06,Replacement,4,Filled,2023-01-18,102046,External,,134.0
+REQ000225,Administration,Bunbury,2022-09-05,Replacement,9,Filled,2022-10-06,101978,External,,31.0
+REQ000226,Administration,Bunbury,2022-08-30,Replacement,7,Filled,2022-10-28,101979,External,,59.0
+REQ000227,Administration,Geraldton,2022-09-03,Replacement,4,Filled,2023-02-05,102074,External,,155.0
+REQ000228,Administration,Kalgoorlie,2022-08-29,Replacement,3,Filled,2022-11-08,102005,External,,71.0
+REQ000229,Support Services,Perth North,2022-08-24,Replacement,10,Filled,2022-09-22,101952,External,,29.0
+REQ000230,Support Services,Perth North,2022-08-29,Replacement,11,Filled,2022-10-03,101980,External,,35.0
+REQ000231,Support Services,Perth South,2022-09-22,Replacement,13,Filled,2022-10-10,101981,External,,18.0
+REQ000232,Support Services,Bunbury,2022-09-09,Replacement,5,Filled,2022-10-21,101982,External,,42.0
+REQ000233,Support Services,Kalgoorlie,2022-08-23,Replacement,2,Filled,2022-09-27,101953,External,,35.0
+REQ000234,Enrolled Nurse,Perth South,2022-08-31,Replacement,6,Filled,2022-12-12,102022,External,,103.0
+REQ000235,Enrolled Nurse,Perth South,2022-08-15,Replacement,7,Filled,2022-10-23,101983,External,,69.0
+REQ000236,Registered Nurse,Perth South,2022-08-28,Replacement,8,Filled,2022-10-02,100146,Internal transfer,,35.0
+REQ000237,Care Worker,Broome,2022-09-24,Replacement,2,Filled,2022-10-24,101984,External,,30.0
+REQ000238,Registered Nurse,Broome,2022-09-30,Re-advertised,4,Cancelled,,,,2022-12-04,
+REQ000239,Allied Health,Geraldton,2022-09-03,Replacement (internal move),6,Filled,2023-01-28,102047,External,,147.0
+REQ000240,Registered Nurse,Geraldton,2022-10-13,Re-advertised,3,Filled,2022-12-16,102023,External,,64.0
+REQ000241,Enrolled Nurse,Kalgoorlie,2022-10-11,Re-advertised,3,Cancelled,,,,2022-12-10,
+REQ000242,Support Services,Bunbury,2022-09-09,Replacement (internal move),11,Filled,2022-10-06,101985,External,,27.0
+REQ000243,Support Services,Perth South,2022-10-25,Re-advertised,14,Filled,2022-11-17,102006,External,,23.0
+REQ000244,Care Worker,Geraldton,2022-10-09,Re-advertised,4,Filled,2022-12-15,102024,External,,67.0
+REQ000245,Registered Nurse,Perth North,2022-10-22,Replacement,9,Filled,2022-11-15,102007,External,,24.0
+REQ000246,Registered Nurse,Perth South,2022-10-08,Replacement,15,Filled,2022-11-14,102008,External,,37.0
+REQ000247,Registered Nurse,Bunbury,2022-10-06,Replacement,12,Cancelled,,,,2022-11-11,
+REQ000248,Registered Nurse,Bunbury,2022-10-08,Replacement,13,Filled,2023-01-02,102048,External,,86.0
+REQ000249,Enrolled Nurse,Geraldton,2022-09-22,Replacement,2,Filled,2022-12-10,102025,External,,79.0
+REQ000250,Allied Health,Perth North,2022-09-26,Replacement,12,Filled,2022-10-31,101986,External,,35.0
+REQ000251,Care Worker,Perth South,2022-10-07,Replacement,16,Cancelled,,,,2022-11-04,
+REQ000252,Care Worker,Bunbury,2022-10-13,Replacement,19,Filled,2022-11-18,102009,External,,36.0
+REQ000253,Care Worker,Kalgoorlie,2022-10-16,Replacement,3,Filled,2022-11-24,102010,External,,39.0
+REQ000254,Administration,Perth North,2022-10-05,Replacement,16,Filled,2022-11-28,102011,External,,54.0
+REQ000255,Administration,Perth South,2022-10-12,Replacement,21,Cancelled,,,,2022-11-01,
+REQ000256,Administration,Perth South,2022-10-08,Replacement,16,Filled,2022-11-02,102012,External,,25.0
+REQ000257,Administration,Perth South,2022-10-31,Replacement,14,Filled,2022-11-30,102013,External,,30.0
+REQ000258,Administration,Bunbury,2022-10-01,Replacement,13,Filled,2022-10-22,101987,External,,21.0
+REQ000259,Administration,Bunbury,2022-09-26,Replacement,5,Filled,2022-10-30,101988,External,,34.0
+REQ000260,Administration,Kalgoorlie,2022-10-03,Replacement,8,Filled,2022-12-10,102026,External,,68.0
+REQ000261,Support Services,Perth North,2022-10-17,Replacement,14,Filled,2022-11-30,102014,External,,44.0
+REQ000262,Support Services,Perth North,2022-10-01,Replacement,13,Filled,2022-10-15,101989,External,,14.0
+REQ000263,Support Services,Perth North,2022-10-16,Replacement,12,Filled,2022-12-12,102027,External,,57.0
+REQ000264,Support Services,Perth North,2022-10-21,Replacement,14,Filled,2022-11-11,102015,External,,21.0
+REQ000265,Support Services,Geraldton,2022-10-15,Replacement,6,Filled,2022-11-06,102016,External,,22.0
+REQ000266,Administration,Perth South,2022-10-09,Replacement (internal move),13,Filled,2022-11-12,102017,External,,34.0
+REQ000267,Allied Health,Perth North,2022-11-10,Re-advertised,13,Filled,2023-01-03,102049,External,,54.0
+REQ000268,Registered Nurse,Perth North,2022-10-02,Replacement (internal move),15,Filled,2022-12-16,102028,External,,75.0
+REQ000269,Registered Nurse,Perth North,2022-11-12,Replacement,12,Filled,2022-12-29,102029,External,,47.0
+REQ000270,Registered Nurse,Perth North,2022-11-08,Replacement,14,Filled,2023-01-21,102050,External,,74.0
+REQ000271,Registered Nurse,Perth North,2022-10-15,Replacement,14,Filled,2022-12-29,102030,External,,75.0
+REQ000272,Registered Nurse,Perth North,2022-10-29,Replacement,11,Filled,2023-01-11,102051,External,,74.0
+REQ000273,Registered Nurse,Perth North,2022-11-04,Replacement,12,Filled,2023-01-01,102052,External,,58.0
+REQ000274,Registered Nurse,Perth South,2022-11-08,Replacement,16,Filled,2023-02-04,102075,Graduate program,,88.0
+REQ000275,Registered Nurse,Perth South,2022-11-13,Replacement,16,Filled,2022-12-10,102031,External,,27.0
+REQ000276,Registered Nurse,Geraldton,2022-11-01,Replacement,7,Filled,2023-02-04,102076,Graduate program,,95.0
+REQ000277,Registered Nurse,Broome,2022-10-31,Replacement,4,Filled,2023-01-09,102053,External,,70.0
+REQ000278,Registered Nurse,Broome,2022-10-25,Replacement,6,Filled,2023-04-18,102132,External,,175.0
+REQ000279,Enrolled Nurse,Perth South,2022-11-30,Replacement,10,Filled,2023-01-02,102054,External,,33.0
+REQ000280,Enrolled Nurse,Perth South,2022-11-25,Replacement,11,Filled,2023-01-12,102055,External,,48.0
+REQ000281,Medical Practitioner,Perth South,2022-11-10,Replacement,16,Filled,2023-04-22,102133,External,,163.0
+REQ000282,Allied Health,Kalgoorlie,2022-11-21,Replacement,10,Filled,2023-06-26,102177,External,,217.0
+REQ000283,Care Worker,Perth North,2022-11-14,Replacement,16,Filled,2022-12-25,102032,External,,41.0
+REQ000284,Care Worker,Perth North,2022-11-02,Replacement,11,Filled,2022-12-10,102033,External,,38.0
+REQ000285,Care Worker,Bunbury,2022-11-15,Replacement,12,Filled,2023-01-24,102056,External,,70.0
+REQ000286,Support Services,Perth North,2022-11-05,Replacement,13,Cancelled,,,,2022-11-26,
+REQ000287,Support Services,Perth North,2022-11-05,Replacement,14,Filled,2022-12-02,102034,External,,27.0
+REQ000288,Support Services,Perth South,2022-11-25,Replacement,12,Filled,2023-01-02,102057,External,,38.0
+REQ000289,Support Services,Geraldton,2022-11-21,Replacement,3,Filled,2022-12-20,102035,External,,29.0
+REQ000290,Support Services,Kalgoorlie,2022-11-12,Replacement,8,Filled,2023-01-12,102058,External,,61.0
+REQ000291,Enrolled Nurse,Broome,2022-11-20,Replacement,6,Filled,2023-01-17,102059,External,,58.0
+REQ000292,Care Worker,Geraldton,2022-11-23,Replacement,10,Filled,2022-12-15,102036,External,,22.0
+REQ000293,Enrolled Nurse,Perth South,2022-11-11,Replacement,16,Filled,2022-12-15,102037,External,,34.0
+REQ000294,Care Worker,Bunbury,2022-11-24,Replacement (internal move),13,Filled,2022-12-12,102038,External,,18.0
+REQ000295,Registered Nurse,Bunbury,2022-12-08,Re-advertised,10,Filled,2023-02-04,102077,Graduate program,,58.0
+REQ000296,Administration,Perth South,2022-11-16,Re-advertised,19,Filled,2022-12-31,102039,External,,45.0
+REQ000297,Support Services,Perth North,2022-12-14,Re-advertised,13,Filled,2023-01-06,102060,External,,23.0
+REQ000298,Registered Nurse,Perth North,2022-11-21,Replacement,17,Filled,2023-02-04,102078,Graduate program,,75.0
+REQ000299,Registered Nurse,Perth North,2022-12-19,Replacement,13,Filled,2023-02-04,102079,Graduate program,,47.0
+REQ000300,Registered Nurse,Perth North,2022-12-04,Replacement,11,Filled,2023-02-04,102080,Graduate program,,62.0
+REQ000301,Registered Nurse,Geraldton,2022-12-09,Replacement,5,Filled,2023-02-04,102081,Graduate program,,57.0
+REQ000302,Enrolled Nurse,Perth North,2022-11-23,Replacement,17,Filled,2023-01-15,102061,External,,53.0
+REQ000303,Enrolled Nurse,Kalgoorlie,2022-12-03,Replacement,6,Filled,2023-01-26,102062,External,,54.0
+REQ000304,Medical Practitioner,Kalgoorlie,2022-12-11,Replacement,7,Cancelled,,,,2023-02-25,
+REQ000305,Allied Health,Perth North,2022-11-25,Replacement,14,Filled,2023-02-17,102082,External,,84.0
+REQ000306,Allied Health,Perth North,2022-11-25,Replacement,15,Filled,2023-03-14,102108,External,,109.0
+REQ000307,Care Worker,Perth North,2022-11-30,Replacement,13,Filled,2022-12-19,102040,External,,19.0
+REQ000308,Care Worker,Perth North,2022-12-02,Replacement,11,Filled,2023-01-17,102063,External,,46.0
+REQ000309,Care Worker,Perth South,2022-12-12,Replacement,11,Filled,2022-12-22,102041,External,,10.0
+REQ000310,Care Worker,Perth South,2022-12-19,Replacement,15,Filled,2023-01-24,102064,External,,36.0
+REQ000311,Care Worker,Bunbury,2022-12-01,Replacement,14,Filled,2023-01-03,102065,External,,33.0
+REQ000312,Care Worker,Geraldton,2022-12-05,Replacement,10,Filled,2023-01-23,102066,External,,49.0
+REQ000313,Administration,Perth South,2022-12-10,Replacement,20,Filled,2023-01-05,102067,External,,26.0
+REQ000314,Administration,Perth South,2022-11-20,Replacement,7,Filled,2022-12-15,102042,External,,25.0
+REQ000315,Support Services,Broome,2022-12-04,Replacement,8,Filled,2023-01-16,102068,External,,43.0
+REQ000316,Care Worker,Perth North,2022-11-20,Replacement,13,Filled,2023-01-08,102069,External,,49.0
+REQ000317,Enrolled Nurse,Perth North,2022-11-17,Replacement,13,Filled,2023-01-21,102070,External,,65.0
+REQ000318,Registered Nurse,Broome,2022-12-16,Replacement,4,Filled,2023-03-01,102109,External,,75.0
+REQ000319,Administration,Bunbury,2022-11-28,Replacement,9,Filled,2023-01-11,102071,External,,44.0
+REQ000320,Registered Nurse,Perth South,2022-12-08,Replacement,13,Filled,2022-12-26,102043,External,,18.0
+REQ000321,Allied Health,Bunbury,2022-12-27,Replacement (internal move),13,Filled,2023-04-12,102134,External,,106.0
+REQ000322,Registered Nurse,Broome,2023-01-05,Re-advertised,4,Cancelled,,,,2023-07-15,
+REQ000323,Enrolled Nurse,Kalgoorlie,2023-01-21,Re-advertised,3,Filled,2023-05-13,102151,External,,112.0
+REQ000324,Registered Nurse,Perth South,2023-01-02,Replacement,13,Filled,2023-02-04,102083,Graduate program,,33.0
+REQ000325,Registered Nurse,Bunbury,2023-01-26,Replacement,7,Filled,2023-02-04,102084,Graduate program,,9.0
+REQ000326,Registered Nurse,Bunbury,2023-01-09,Replacement,12,Filled,2023-02-04,102085,Graduate program,,26.0
+REQ000327,Enrolled Nurse,Perth South,2023-01-01,Replacement,12,Cancelled,,,,2023-02-05,
+REQ000328,Enrolled Nurse,Broome,2022-12-31,Replacement,5,Cancelled,,,,2023-04-27,
+REQ000329,Medical Practitioner,Kalgoorlie,2023-01-08,Replacement,4,Filled,2024-01-30,102398,External,,387.0
+REQ000330,Allied Health,Perth North,2023-01-06,Replacement,15,Filled,2023-05-21,102152,External,,135.0
+REQ000331,Allied Health,Perth South,2022-12-28,Replacement,14,Filled,2023-02-14,102086,External,,48.0
+REQ000332,Care Worker,Perth North,2023-01-01,Replacement,6,Filled,2023-03-25,102110,External,,83.0
+REQ000333,Care Worker,Perth North,2022-12-14,Replacement,9,Cancelled,,,,2022-12-30,
+REQ000334,Care Worker,Perth South,2023-01-03,Replacement,19,Filled,2023-02-14,102087,External,,42.0
+REQ000335,Care Worker,Geraldton,2023-01-01,Replacement,7,Filled,2023-01-21,102072,External,,20.0
+REQ000336,Care Worker,Kalgoorlie,2023-01-07,Replacement,10,Filled,2023-03-19,101909,Internal transfer,,71.0
+REQ000337,Support Services,Geraldton,2023-01-14,Replacement,5,Filled,2023-02-19,102088,External,,36.0
+REQ000338,Support Services,Broome,2023-01-02,Replacement,3,Filled,2023-02-27,102089,External,,56.0
+REQ000339,Care Worker,Geraldton,2023-01-27,Replacement,9,Filled,2023-03-10,102111,External,,42.0
+REQ000340,Care Worker,Kalgoorlie,2023-01-11,Replacement,6,Cancelled,,,,2023-02-19,
+REQ000341,Registered Nurse,Perth North,2023-01-07,Replacement,11,Filled,2023-02-04,102090,Graduate program,,28.0
+REQ000342,Registered Nurse,Perth North,2023-01-15,Replacement,7,Filled,2023-02-04,102091,Graduate program,,20.0
+REQ000343,Enrolled Nurse,Perth North,2023-01-15,Replacement,13,Filled,2023-02-26,102092,External,,42.0
+REQ000344,Enrolled Nurse,Perth South,2023-01-15,Replacement,21,Filled,2023-02-13,102093,External,,29.0
+REQ000345,Enrolled Nurse,Bunbury,2023-01-15,Replacement,10,Filled,2023-02-18,102094,External,,34.0
+REQ000346,Enrolled Nurse,Perth South,2023-01-15,Replacement,12,Filled,2023-03-12,102112,External,,56.0
+REQ000347,Enrolled Nurse,Perth South,2023-01-15,Replacement,7,Filled,2023-05-12,102153,External,,117.0
+REQ000348,Enrolled Nurse,Perth South,2023-01-15,Replacement,14,Filled,2023-03-29,102113,External,,73.0
+REQ000349,Enrolled Nurse,Geraldton,2023-01-15,Replacement,8,Filled,2023-03-22,102114,External,,66.0
+REQ000350,Enrolled Nurse,Geraldton,2023-01-15,Replacement,7,Filled,2023-03-26,102115,External,,70.0
+REQ000351,Enrolled Nurse,Perth South,2023-01-15,Replacement,11,Filled,2023-02-26,102095,External,,42.0
+REQ000352,Registered Nurse,Perth South,2023-01-17,Replacement (internal move),11,Filled,2023-02-04,102096,Graduate program,,18.0
+REQ000353,Registered Nurse,Perth North,2023-02-16,Replacement,16,Filled,2023-02-16,102097,Graduate program,,0.0
+REQ000354,Registered Nurse,Perth North,2023-02-14,Replacement,12,Filled,2023-02-14,102098,Graduate program,,0.0
+REQ000355,Registered Nurse,Perth South,2023-02-14,Replacement,13,Filled,2023-02-14,102099,Graduate program,,0.0
+REQ000356,Registered Nurse,Perth South,2023-02-05,Replacement,11,Filled,2023-02-05,102100,Graduate program,,0.0
+REQ000357,Registered Nurse,Geraldton,2023-01-28,Replacement,12,Filled,2023-02-04,102101,Graduate program,,7.0
+REQ000358,Registered Nurse,Geraldton,2023-02-03,Replacement,7,Filled,2023-02-04,102102,Graduate program,,1.0
+REQ000359,Registered Nurse,Geraldton,2023-02-09,Replacement,8,Filled,2023-02-09,102103,Graduate program,,0.0
+REQ000360,Enrolled Nurse,Perth North,2023-02-03,Replacement,13,Filled,2023-03-13,102116,External,,38.0
+REQ000361,Medical Practitioner,Perth North,2023-01-19,Replacement,9,Filled,2023-05-24,102154,External,,125.0
+REQ000362,Medical Practitioner,Bunbury,2023-02-18,Replacement,6,Filled,2023-05-01,102155,External,,72.0
+REQ000363,Allied Health,Perth North,2023-01-18,Replacement,10,Filled,2023-02-24,102104,External,,37.0
+REQ000364,Allied Health,Perth North,2023-01-28,Replacement,11,Filled,2023-04-06,102135,External,,68.0
+REQ000365,Allied Health,Broome,2023-01-19,Replacement,3,Filled,2023-05-11,102156,External,,112.0
+REQ000366,Care Worker,Perth North,2023-02-14,Replacement,8,Filled,2023-03-11,101206,Internal transfer,,25.0
+REQ000367,Care Worker,Perth North,2023-02-16,Replacement,13,Filled,2023-03-23,102117,External,,35.0
+REQ000368,Care Worker,Perth North,2023-02-06,Replacement,14,Filled,2023-02-27,102105,External,,21.0
+REQ000369,Administration,Perth North,2023-01-24,Replacement,14,Filled,2023-02-07,102106,External,,14.0
+REQ000370,Administration,Perth North,2023-02-26,Replacement,16,Filled,2023-03-25,102118,External,,27.0
+REQ000371,Administration,Perth South,2023-01-25,Replacement,11,Filled,2023-03-10,102119,External,,44.0
+REQ000372,Administration,Perth South,2023-02-03,Replacement,8,Filled,2023-02-25,101607,Internal transfer,,22.0
+REQ000373,Administration,Perth South,2023-02-02,Replacement,16,Filled,2023-03-20,102120,External,,46.0
+REQ000374,Administration,Kalgoorlie,2023-02-18,Replacement,6,Filled,2023-03-12,102121,External,,22.0
+REQ000375,Support Services,Perth North,2023-02-06,Replacement,8,Filled,2023-03-17,102122,External,,39.0
+REQ000376,Support Services,Perth North,2023-02-13,Replacement,16,Filled,2023-03-25,102123,External,,40.0
+REQ000377,Support Services,Perth South,2023-02-05,Replacement,16,Filled,2023-03-12,102124,External,,35.0
+REQ000378,Support Services,Broome,2023-02-12,Replacement,5,Filled,2023-04-17,101662,Internal transfer,,64.0
+REQ000379,Care Worker,Bunbury,2023-02-18,Replacement,9,Filled,2023-04-14,102136,External,,55.0
+REQ000380,Care Worker,Geraldton,2023-01-31,Replacement,6,Filled,2023-03-17,102125,External,,45.0
+REQ000381,Care Worker,Perth South,2023-02-05,Replacement,6,Filled,2023-04-01,101149,Internal transfer,,55.0
+REQ000382,Care Worker,Perth North,2023-02-02,Replacement,11,Filled,2023-02-25,102065,Internal transfer,,23.0
+REQ000383,Registered Nurse,Geraldton,2023-01-26,Replacement,5,Filled,2023-02-04,102107,Graduate program,,9.0
+REQ000384,Administration,Kalgoorlie,2023-02-25,Replacement (internal move),8,Cancelled,,,,2023-04-01,
+REQ000385,Care Worker,Bunbury,2023-02-25,Replacement (internal move),15,Filled,2023-03-30,102126,External,,33.0
+REQ000386,Registered Nurse,Perth North,2023-03-17,Replacement,15,Filled,2023-05-28,102157,External,,72.0
+REQ000387,Registered Nurse,Perth North,2023-02-18,Replacement,16,Filled,2023-04-10,102137,External,,51.0
+REQ000388,Registered Nurse,Perth South,2023-03-03,Replacement,13,Cancelled,,,,2023-04-29,
+REQ000389,Registered Nurse,Perth South,2023-03-14,Replacement,14,Filled,2023-06-14,102178,External,,92.0
+REQ000390,Registered Nurse,Perth South,2023-02-11,Replacement,12,Filled,2023-04-14,102138,External,,62.0
+REQ000391,Registered Nurse,Bunbury,2023-03-11,Replacement,7,Filled,2023-04-23,102139,External,,43.0
+REQ000392,Registered Nurse,Broome,2023-03-06,Replacement,7,Filled,2023-05-08,102158,External,,63.0
+REQ000393,Registered Nurse,Broome,2023-03-16,Replacement,5,Filled,2023-06-18,100508,Internal transfer,,94.0
+REQ000394,Midwife,Perth South,2023-03-12,Replacement,13,Filled,2023-05-03,102159,External,,52.0
+REQ000395,Registered Nurse,Perth North,2023-03-24,Replacement,7,Filled,2023-04-15,102140,External,,22.0
+REQ000396,Enrolled Nurse,Kalgoorlie,2023-03-28,Replacement,6,Filled,2023-06-03,102179,External,,67.0
+REQ000397,Allied Health,Perth North,2023-02-28,Replacement,12,Filled,2023-09-10,102285,External,,194.0
+REQ000398,Care Worker,Perth North,2023-02-23,Replacement,13,Filled,2023-03-13,102127,External,,18.0
+REQ000399,Care Worker,Perth North,2023-03-20,Replacement,14,Filled,2023-04-23,102141,External,,34.0
+REQ000400,Care Worker,Perth South,2023-03-07,Replacement,9,Filled,2023-03-31,102128,External,,24.0
+REQ000401,Care Worker,Perth South,2023-03-16,Replacement,10,Filled,2023-05-05,102160,External,,50.0
+REQ000402,Care Worker,Perth South,2023-02-19,Replacement,11,Filled,2023-04-27,102142,External,,67.0
+REQ000403,Care Worker,Bunbury,2023-03-25,Replacement,4,Filled,2023-05-01,101175,Internal transfer,,37.0
+REQ000404,Care Worker,Bunbury,2023-02-21,Replacement,8,Filled,2023-04-21,102143,External,,59.0
+REQ000405,Care Worker,Geraldton,2023-02-28,Replacement,5,Cancelled,,,,2023-04-15,
+REQ000406,Administration,Perth South,2023-03-05,Replacement,10,Filled,2023-03-28,102129,External,,23.0
+REQ000407,Support Services,Perth South,2023-02-14,Replacement,19,Filled,2023-03-16,102130,External,,30.0
+REQ000408,Support Services,Bunbury,2023-03-09,Replacement,10,Filled,2023-04-05,101726,Internal transfer,,27.0
+REQ000409,Care Worker,Perth North,2023-02-27,Replacement,16,Cancelled,,,,2023-03-12,
+REQ000410,Care Worker,Perth South,2023-02-21,Replacement,14,Filled,2023-04-05,102144,External,,43.0
+REQ000411,Registered Nurse,Geraldton,2023-02-26,Replacement,5,Filled,2023-03-26,102131,External,,28.0
+REQ000412,Care Worker,Perth North,2023-03-26,Replacement,20,Filled,2023-06-05,102180,External,,71.0
+REQ000413,Care Worker,Perth North,2023-03-15,Replacement,8,Cancelled,,,,2023-03-30,
+REQ000414,Care Worker,Geraldton,2023-03-19,Replacement (internal move),11,Filled,2023-05-28,102161,External,,70.0
+REQ000415,Care Worker,Perth South,2023-03-11,Replacement (internal move),9,Filled,2023-04-24,102145,External,,44.0
+REQ000416,Care Worker,Perth North,2023-04-23,Re-advertised,17,Filled,2023-05-18,102162,External,,25.0
+REQ000417,Care Worker,Perth North,2023-04-28,Re-advertised,18,Filled,2023-06-14,102181,External,,47.0
+REQ000418,Registered Nurse,Perth North,2023-03-12,Replacement,7,Filled,2023-04-28,102146,External,,47.0
+REQ000419,Registered Nurse,Perth South,2023-03-30,Replacement,12,Filled,2023-05-20,102163,External,,51.0
+REQ000420,Registered Nurse,Perth South,2023-03-20,Replacement,16,Filled,2023-04-16,102147,External,,27.0
+REQ000421,Registered Nurse,Perth South,2023-04-10,Replacement,7,Filled,2023-05-09,102164,External,,29.0
+REQ000422,Registered Nurse,Perth South,2023-04-02,Replacement,12,Filled,2023-04-12,102148,External,,10.0
+REQ000423,Enrolled Nurse,Geraldton,2023-03-26,Replacement,10,Cancelled,,,,2023-05-22,
+REQ000424,Allied Health,Kalgoorlie,2023-04-08,Replacement,7,Filled,2023-06-06,102182,External,,59.0
+REQ000425,Allied Health,Broome,2023-03-15,Replacement,5,Filled,2023-07-06,102205,External,,113.0
+REQ000426,Care Worker,Perth North,2023-04-08,Replacement,13,Filled,2023-04-29,101198,Internal transfer,,21.0
+REQ000427,Care Worker,Perth North,2023-04-02,Replacement,11,Filled,2023-04-29,102136,Internal transfer,,27.0
+REQ000428,Care Worker,Perth South,2023-04-19,Replacement,13,Filled,2023-06-04,102183,External,,46.0
+REQ000429,Care Worker,Bunbury,2023-04-25,Replacement,10,Cancelled,,,,2023-05-25,
+REQ000430,Care Worker,Geraldton,2023-03-29,Replacement,7,Filled,2023-06-04,102184,External,,67.0
+REQ000431,Care Worker,Broome,2023-03-29,Replacement,11,Filled,2023-05-04,102165,External,,36.0
+REQ000432,Care Worker,Broome,2023-04-17,Replacement,8,Cancelled,,,,2023-05-13,
+REQ000433,Administration,Perth North,2023-03-26,Replacement,14,Filled,2023-04-09,102149,External,,14.0
+REQ000434,Administration,Perth South,2023-03-27,Replacement,5,Filled,2023-05-14,102166,External,,48.0
+REQ000435,Support Services,Perth North,2023-03-29,Replacement,7,Filled,2023-04-20,102150,External,,22.0
+REQ000436,Support Services,Broome,2023-04-17,Replacement,2,Filled,2023-07-18,102206,External,,92.0
+REQ000437,Registered Nurse,Perth South,2023-04-16,Replacement,15,Filled,2023-05-11,102167,External,,25.0
+REQ000438,Registered Nurse,Perth North,2023-04-06,Replacement,11,Filled,2023-06-26,102185,External,,81.0
+REQ000439,Care Worker,Kalgoorlie,2023-03-18,Replacement,6,Filled,2023-06-21,102186,External,,95.0
+REQ000440,Care Worker,Broome,2023-04-14,Replacement,6,Filled,2023-07-12,102207,External,,89.0
+REQ000441,Registered Nurse,Geraldton,2023-03-26,Replacement,6,Filled,2023-05-22,102168,External,,57.0
+REQ000442,Support Services,Perth North,2023-04-21,Replacement,12,Filled,2023-05-18,102169,External,,27.0
+REQ000443,Administration,Bunbury,2023-04-25,Replacement,7,Filled,2023-05-20,101612,Internal transfer,,25.0
+REQ000444,Registered Nurse,Perth South,2023-03-25,Replacement,12,Filled,2023-05-12,102170,External,,48.0
+REQ000445,Enrolled Nurse,Broome,2023-05-12,Re-advertised,5,Filled,2023-10-02,102320,External,,143.0
+REQ000446,Support Services,Perth North,2023-04-17,Replacement (internal move),9,Filled,2023-06-07,102187,External,,51.0
+REQ000447,Care Worker,Perth North,2023-04-01,Replacement (internal move),18,Filled,2023-05-26,102171,External,,55.0
+REQ000448,Administration,Kalgoorlie,2023-04-24,Re-advertised,5,Filled,2023-06-05,101407,Internal transfer,,42.0
+REQ000449,Care Worker,Geraldton,2023-05-16,Re-advertised,10,Filled,2023-08-06,102238,External,,82.0
+REQ000450,Support Services,Perth South,2023-04-05,Replacement (internal move),11,Filled,2023-05-12,101663,Internal transfer,,37.0
+REQ000451,Care Worker,Perth South,2023-04-29,Replacement (internal move),10,Filled,2023-06-02,102188,External,,34.0
+REQ000452,Care Worker,Bunbury,2023-04-29,Replacement (internal move),7,Filled,2023-06-08,102189,External,,40.0
+REQ000453,Registered Nurse,Perth North,2023-05-11,Replacement,13,Filled,2023-06-21,102190,External,,41.0
+REQ000454,Registered Nurse,Perth North,2023-05-01,Replacement,10,Filled,2023-06-17,102191,External,,47.0
+REQ000455,Registered Nurse,Perth North,2023-05-13,Replacement,12,Filled,2023-06-16,102192,External,,34.0
+REQ000456,Care Worker,Bunbury,2023-05-18,Replacement,9,Filled,2023-06-16,101910,Internal transfer,,29.0
+REQ000457,Care Worker,Bunbury,2023-05-14,Replacement,10,Filled,2023-06-13,102162,Internal transfer,,30.0
+REQ000458,Care Worker,Geraldton,2023-05-04,Replacement,8,Filled,2023-06-16,102193,External,,43.0
+REQ000459,Care Worker,Geraldton,2023-05-09,Replacement,7,Filled,2023-06-22,102194,External,,44.0
+REQ000460,Administration,Perth North,2023-05-12,Replacement,13,Cancelled,,,,2023-05-25,
+REQ000461,Administration,Perth South,2023-04-26,Replacement,5,Filled,2023-05-19,102172,External,,23.0
+REQ000462,Administration,Kalgoorlie,2023-05-04,Replacement,5,Filled,2023-08-05,102239,External,,93.0
+REQ000463,Support Services,Perth North,2023-04-25,Replacement,10,Filled,2023-05-27,102173,External,,32.0
+REQ000464,Support Services,Perth North,2023-04-28,Replacement,12,Filled,2023-05-25,102174,External,,27.0
+REQ000465,Support Services,Perth South,2023-05-29,Replacement,13,Filled,2023-06-17,101810,Internal transfer,,19.0
+REQ000466,Support Services,Perth South,2023-04-27,Replacement,14,Filled,2023-05-25,102175,External,,28.0
+REQ000467,Support Services,Geraldton,2023-05-01,Replacement,6,Filled,2023-06-12,102195,External,,42.0
+REQ000468,Support Services,Kalgoorlie,2023-04-29,Replacement,4,Filled,2023-07-20,102208,External,,82.0
+REQ000469,Care Worker,Kalgoorlie,2023-04-24,Replacement,8,Filled,2023-07-18,101251,Internal transfer,,85.0
+REQ000470,Care Worker,Perth South,2023-05-25,Replacement,9,Filled,2023-07-03,102197,Internal transfer,,39.0
+REQ000471,Allied Health,Broome,2023-05-10,Replacement,5,Cancelled,,,,2023-07-24,
+REQ000472,Administration,Bunbury,2023-04-11,Replacement,4,Filled,2023-05-01,102176,External,,20.0
+REQ000473,Registered Nurse,Geraldton,2023-05-09,Replacement,4,Filled,2023-08-05,102240,External,,88.0
+REQ000474,Support Services,Perth North,2023-04-20,Replacement,11,Cancelled,,,,2023-05-31,
+REQ000475,Registered Nurse,Geraldton,2023-05-15,Replacement,1,Filled,2023-07-15,102209,External,,61.0
+REQ000476,Registered Nurse,Broome,2023-05-15,Replacement,5,Filled,2023-09-23,102286,External,,131.0
+REQ000477,Care Worker,Bunbury,2023-05-02,Replacement,14,Filled,2023-06-28,102196,External,,57.0
+REQ000478,Registered Nurse,Perth South,2023-04-21,Replacement,10,Filled,2023-08-17,102241,External,,118.0
+REQ000479,Care Worker,Perth North,2023-05-01,Replacement (internal move),14,Filled,2023-06-05,102197,External,,35.0
+REQ000480,Enrolled Nurse,Geraldton,2023-06-09,Re-advertised,9,Filled,2023-07-29,102210,External,,50.0
+REQ000481,Care Worker,Broome,2023-05-27,Re-advertised,2,Filled,2023-07-05,102211,External,,39.0
+REQ000482,Administration,Kalgoorlie,2023-05-20,Replacement (internal move),4,Filled,2023-06-19,102198,External,,30.0
+REQ000483,Support Services,Perth North,2023-05-12,Replacement (internal move),10,Filled,2023-06-24,102199,External,,43.0
+REQ000484,Administration,Perth North,2023-06-14,Re-advertised,9,Filled,2023-07-04,102212,External,,20.0
+REQ000485,Support Services,Perth North,2023-06-17,Re-advertised,11,Filled,2023-07-29,102213,External,,42.0
+REQ000486,Registered Nurse,Perth South,2023-06-05,Replacement,12,Filled,2023-09-24,102287,External,,111.0
+REQ000487,Registered Nurse,Perth South,2023-05-20,Replacement,12,Filled,2023-08-11,102242,External,,83.0
+REQ000488,Registered Nurse,Perth South,2023-06-09,Replacement,15,Filled,2023-07-27,102214,External,,48.0
+REQ000489,Registered Nurse,Bunbury,2023-06-06,Replacement,5,Filled,2023-09-01,102288,External,,87.0
+REQ000490,Registered Nurse,Geraldton,2023-06-09,Replacement,9,Filled,2023-10-10,101823,Internal transfer,,123.0
+REQ000491,Allied Health,Perth North,2023-06-09,Replacement,16,Filled,2023-07-31,102215,External,,52.0
+REQ000492,Allied Health,Perth South,2023-06-03,Replacement,9,Filled,2023-07-18,102216,External,,45.0
+REQ000493,Allied Health,Kalgoorlie,2023-06-14,Replacement,7,Filled,2024-03-30,102456,External,,290.0
+REQ000494,Care Worker,Perth North,2023-06-19,Replacement,8,Filled,2023-07-23,102217,External,,34.0
+REQ000495,Care Worker,Perth North,2023-06-03,Replacement,14,Filled,2023-06-20,102200,External,,17.0
+REQ000496,Care Worker,Perth South,2023-06-03,Replacement,17,Filled,2023-07-11,102218,External,,38.0
+REQ000497,Care Worker,Perth South,2023-06-08,Replacement,14,Filled,2023-07-25,102219,External,,47.0
+REQ000498,Care Worker,Perth South,2023-06-19,Replacement,4,Filled,2023-07-31,102220,External,,42.0
+REQ000499,Care Worker,Kalgoorlie,2023-06-05,Replacement,8,Filled,2023-08-13,102243,External,,69.0
+REQ000500,Administration,Perth North,2023-06-28,Replacement,15,Filled,2023-07-12,102221,External,,14.0
+REQ000501,Administration,Perth North,2023-05-19,Replacement,16,Filled,2023-06-15,102201,External,,27.0
+REQ000502,Administration,Perth South,2023-06-25,Replacement,12,Filled,2023-08-10,102244,External,,46.0
+REQ000503,Administration,Bunbury,2023-06-09,Replacement,10,Filled,2023-07-08,102222,External,,29.0
+REQ000504,Administration,Broome,2023-06-09,Replacement,6,Filled,2023-07-10,102223,External,,31.0
+REQ000505,Support Services,Bunbury,2023-06-12,Replacement,10,Filled,2023-07-24,102224,External,,42.0
+REQ000506,Allied Health,Perth North,2023-06-24,Replacement,11,Filled,2023-09-10,102289,External,,78.0
+REQ000507,Support Services,Perth North,2023-06-09,Replacement,11,Filled,2023-06-24,102202,External,,15.0
+REQ000508,Registered Nurse,Perth North,2023-06-03,Replacement,14,Filled,2023-09-11,102290,External,,100.0
+REQ000509,Support Services,Perth North,2023-06-14,Replacement,16,Filled,2023-07-19,101773,Internal transfer,,35.0
+REQ000510,Support Services,Geraldton,2023-05-24,Replacement,13,Filled,2023-06-19,102203,External,,26.0
+REQ000511,Midwife,Perth North,2023-05-28,Replacement,12,Filled,2023-07-18,102225,External,,51.0
+REQ000512,Care Worker,Broome,2023-06-08,Replacement,6,Filled,2023-07-21,102226,External,,43.0
+REQ000513,Enrolled Nurse,Perth North,2023-06-01,Replacement,13,Filled,2023-07-01,102227,External,,30.0
+REQ000514,Care Worker,Geraldton,2023-05-16,Replacement,7,Filled,2023-08-13,102245,External,,89.0
+REQ000515,Care Worker,Geraldton,2023-05-27,Replacement,4,Filled,2023-07-04,102228,External,,38.0
+REQ000516,Registered Nurse,Kalgoorlie,2023-06-18,Replacement (internal move),4,Filled,2023-09-09,102291,External,,83.0
+REQ000517,Administration,Perth North,2023-06-05,Replacement (internal move),11,Filled,2023-07-01,102229,External,,26.0
+REQ000518,Care Worker,Kalgoorlie,2023-06-16,Replacement (internal move),5,Filled,2023-08-05,102246,External,,50.0
+REQ000519,Care Worker,Perth North,2023-06-13,Replacement (internal move),11,Filled,2023-10-07,102321,External,,116.0
+REQ000520,Support Services,Broome,2023-06-17,Replacement (internal move),3,Filled,2023-08-22,102247,External,,66.0
+REQ000521,Registered Nurse,Perth North,2023-07-08,New position,13,Filled,2023-10-17,102322,External,,101.0
+REQ000522,Registered Nurse,Perth North,2023-07-13,New position,11,Filled,2023-11-09,102345,External,,119.0
+REQ000523,Registered Nurse,Perth North,2023-07-04,New position,21,Filled,2023-10-31,102323,External,,119.0
+REQ000524,Registered Nurse,Perth North,2023-07-03,New position,11,Filled,2023-09-13,102292,External,,72.0
+REQ000525,Registered Nurse,Perth North,2023-07-01,New position,19,Filled,2023-08-10,102248,External,,40.0
+REQ000526,Registered Nurse,Perth North,2023-07-19,New position,11,Filled,2023-08-30,102249,External,,42.0
+REQ000527,Registered Nurse,Perth South,2023-07-06,New position,13,Filled,2023-09-03,102293,External,,59.0
+REQ000528,Registered Nurse,Perth South,2023-07-04,New position,7,Filled,2023-08-03,102250,External,,30.0
+REQ000529,Registered Nurse,Perth South,2023-07-19,New position,12,Filled,2023-08-20,102251,External,,32.0
+REQ000530,Registered Nurse,Perth South,2023-07-20,New position,15,Filled,2023-09-17,100161,Internal transfer,,59.0
+REQ000531,Registered Nurse,Perth South,2023-07-15,New position,15,Filled,2023-08-26,102252,External,,42.0
+REQ000532,Registered Nurse,Bunbury,2023-07-13,New position,10,Filled,2023-08-28,102253,External,,46.0
+REQ000533,Registered Nurse,Bunbury,2023-07-16,New position,9,Filled,2023-09-08,102294,External,,54.0
+REQ000534,Registered Nurse,Bunbury,2023-07-04,New position,12,Filled,2023-08-10,102254,External,,37.0
+REQ000535,Registered Nurse,Bunbury,2023-07-19,New position,11,Filled,2023-10-05,102324,External,,78.0
+REQ000536,Registered Nurse,Geraldton,2023-07-03,New position,7,Filled,2023-08-13,102255,External,,41.0
+REQ000537,Registered Nurse,Geraldton,2023-07-06,New position,7,Filled,2023-07-29,102230,External,,23.0
+REQ000538,Registered Nurse,Kalgoorlie,2023-07-18,New position,4,Filled,2023-08-13,102256,External,,26.0
+REQ000539,Registered Nurse,Kalgoorlie,2023-07-04,New position,13,Filled,2023-08-23,102257,External,,50.0
+REQ000540,Registered Nurse,Broome,2023-07-20,New position,7,Filled,2024-01-15,102399,External,,179.0
+REQ000541,Registered Nurse,Broome,2023-07-17,New position,2,Cancelled,,,,2023-09-08,
+REQ000542,Enrolled Nurse,Perth North,2023-07-08,New position,8,Filled,2023-08-13,102258,External,,36.0
+REQ000543,Enrolled Nurse,Perth South,2023-07-20,New position,13,Filled,2023-09-23,102295,External,,65.0
+REQ000544,Enrolled Nurse,Bunbury,2023-07-20,New position,8,Filled,2023-08-31,102259,External,,42.0
+REQ000545,Medical Practitioner,Perth North,2023-07-20,New position,15,Filled,2023-12-24,102372,External,,157.0
+REQ000546,Medical Practitioner,Perth South,2023-07-09,New position,18,Filled,2023-09-17,102296,External,,70.0
+REQ000547,Medical Practitioner,Bunbury,2023-07-17,New position,14,Filled,2024-05-18,102491,External,,306.0
+REQ000548,Allied Health,Perth North,2023-07-06,New position,10,Filled,2023-07-29,102231,External,,23.0
+REQ000549,Allied Health,Perth South,2023-07-05,New position,11,Filled,2023-09-30,102297,External,,87.0
+REQ000550,Allied Health,Bunbury,2023-07-12,New position,9,Filled,2023-09-14,102298,External,,64.0
+REQ000551,Allied Health,Geraldton,2023-07-16,New position,5,Filled,2023-09-16,102299,External,,62.0
+REQ000552,Care Worker,Perth North,2023-07-02,New position,19,Filled,2023-08-28,102260,External,,57.0
+REQ000553,Care Worker,Perth North,2023-07-10,New position,15,Filled,2023-08-20,102261,External,,41.0
+REQ000554,Care Worker,Perth North,2023-07-19,New position,10,Filled,2023-08-22,102262,External,,34.0
+REQ000555,Care Worker,Perth North,2023-07-16,New position,8,Filled,2023-09-07,101385,Internal transfer,,53.0
+REQ000556,Care Worker,Perth North,2023-07-01,New position,11,Filled,2023-08-10,102263,External,,40.0
+REQ000557,Care Worker,Perth South,2023-07-04,New position,9,Filled,2023-07-31,102232,External,,27.0
+REQ000558,Care Worker,Perth South,2023-07-06,New position,15,Filled,2023-07-24,102233,External,,18.0
+REQ000559,Care Worker,Perth South,2023-07-13,New position,10,Cancelled,,,,2023-07-26,
+REQ000560,Care Worker,Perth South,2023-07-15,New position,10,Filled,2023-08-14,102264,External,,30.0
+REQ000561,Care Worker,Bunbury,2023-07-08,New position,12,Filled,2023-08-01,101103,Internal transfer,,24.0
+REQ000562,Care Worker,Bunbury,2023-07-19,New position,12,Filled,2023-09-11,102300,External,,54.0
+REQ000563,Care Worker,Bunbury,2023-07-02,New position,4,Filled,2023-07-26,102234,External,,24.0
+REQ000564,Care Worker,Geraldton,2023-07-01,New position,7,Filled,2023-09-13,102301,External,,74.0
+REQ000565,Care Worker,Geraldton,2023-07-19,New position,6,Filled,2023-08-28,102265,External,,40.0
+REQ000566,Care Worker,Kalgoorlie,2023-07-13,New position,11,Filled,2023-08-28,102266,External,,46.0
+REQ000567,Care Worker,Broome,2023-07-01,New position,5,Filled,2023-09-09,102302,External,,70.0
+REQ000568,Care Worker,Broome,2023-07-04,New position,5,Filled,2023-09-02,102303,External,,60.0
+REQ000569,Administration,Bunbury,2023-07-12,New position,9,Filled,2023-08-01,102267,External,,20.0
+REQ000570,Support Services,Perth North,2023-07-08,New position,15,Filled,2023-08-03,102268,External,,26.0
+REQ000571,Registered Nurse,Perth North,2023-06-24,Replacement,9,Filled,2023-07-28,102235,External,,34.0
+REQ000572,Registered Nurse,Perth South,2023-06-17,Replacement,10,Filled,2023-11-20,102346,External,,156.0
+REQ000573,Registered Nurse,Perth South,2023-06-29,Replacement,14,Filled,2023-08-13,102269,External,,45.0
+REQ000574,Registered Nurse,Bunbury,2023-07-22,Replacement,18,Filled,2023-11-24,102347,External,,125.0
+REQ000575,Registered Nurse,Geraldton,2023-07-09,Replacement,7,Filled,2023-09-13,102304,External,,66.0
+REQ000576,Registered Nurse,Geraldton,2023-07-07,Replacement,9,Cancelled,,,,2023-10-08,
+REQ000577,Registered Nurse,Kalgoorlie,2023-07-23,Replacement,7,Filled,2023-11-21,102348,External,,121.0
+REQ000578,Midwife,Perth South,2023-06-24,Replacement,11,Filled,2023-11-23,102349,External,,152.0
+REQ000579,Enrolled Nurse,Perth North,2023-07-12,Replacement,11,Filled,2023-09-26,102305,External,,76.0
+REQ000580,Medical Practitioner,Geraldton,2023-06-26,Replacement,10,Filled,2023-10-22,100798,Internal transfer,,118.0
+REQ000581,Care Worker,Perth North,2023-07-07,Replacement,13,Filled,2023-08-04,102270,External,,28.0
+REQ000582,Care Worker,Perth South,2023-07-27,Replacement,14,Filled,2023-08-22,102271,External,,26.0
+REQ000583,Care Worker,Perth South,2023-07-08,Replacement,14,Filled,2023-08-12,102272,External,,35.0
+REQ000584,Care Worker,Bunbury,2023-06-19,Replacement,6,Filled,2023-07-23,102236,External,,34.0
+REQ000585,Care Worker,Kalgoorlie,2023-06-30,Replacement,5,Filled,2023-08-02,102273,External,,33.0
+REQ000586,Administration,Bunbury,2023-07-16,Replacement,6,Filled,2023-08-18,102274,External,,33.0
+REQ000587,Administration,Kalgoorlie,2023-06-29,Replacement,8,Filled,2023-08-10,102275,External,,42.0
+REQ000588,Administration,Broome,2023-07-08,Replacement,5,Filled,2023-11-17,102350,External,,132.0
+REQ000589,Support Services,Perth South,2023-07-18,Replacement,13,Filled,2023-08-05,102276,External,,18.0
+REQ000590,Support Services,Broome,2023-07-12,Replacement,5,Filled,2023-08-30,102277,External,,49.0
+REQ000591,Care Worker,Bunbury,2023-06-19,Replacement,11,Filled,2023-07-12,102128,Internal transfer,,23.0
+REQ000592,Care Worker,Perth North,2023-07-04,Replacement,16,Cancelled,,,,2023-09-01,
+REQ000593,Registered Nurse,Bunbury,2023-06-15,Replacement,6,Filled,2023-08-05,102278,External,,51.0
+REQ000594,Registered Nurse,Geraldton,2023-06-30,Replacement,9,Filled,2023-08-02,102279,External,,33.0
+REQ000595,Care Worker,Perth South,2023-06-11,Replacement,16,Filled,2023-07-23,102237,External,,42.0
+REQ000596,Registered Nurse,Broome,2023-08-24,Re-advertised,1,Filled,2023-12-31,102373,External,,129.0
+REQ000597,Care Worker,Perth South,2023-07-18,Replacement (internal move),9,Filled,2023-08-13,102280,External,,26.0
+REQ000598,Care Worker,Perth North,2023-07-03,Replacement (internal move),9,Filled,2023-08-01,102281,External,,29.0
+REQ000599,Allied Health,Broome,2023-09-05,Re-advertised,8,Cancelled,,,,2023-10-24,
+REQ000600,Support Services,Geraldton,2023-07-19,Replacement (internal move),7,Filled,2023-08-14,101803,Internal transfer,,26.0
+REQ000601,Care Worker,Perth South,2023-08-11,Re-advertised,12,Filled,2023-09-11,102306,External,,31.0
+REQ000602,Care Worker,Perth South,2023-07-12,Replacement (internal move),12,Filled,2023-08-21,102282,External,,40.0
+REQ000603,Registered Nurse,Perth North,2023-08-23,Replacement,13,Filled,2023-10-05,102325,External,,43.0
+REQ000604,Registered Nurse,Perth North,2023-07-28,Replacement,13,Filled,2023-09-26,102307,External,,60.0
+REQ000605,Registered Nurse,Perth North,2023-08-12,Replacement,14,Filled,2023-11-05,102351,External,,85.0
+REQ000606,Registered Nurse,Perth South,2023-08-22,Replacement,7,Filled,2023-09-18,102308,External,,27.0
+REQ000607,Registered Nurse,Perth South,2023-08-15,Replacement,15,Filled,2023-11-19,102352,External,,96.0
+REQ000608,Registered Nurse,Broome,2023-08-06,Replacement,4,Filled,2023-12-11,102374,External,,127.0
+REQ000609,Midwife,Geraldton,2023-08-07,Replacement,8,Filled,2024-02-19,102424,External,,196.0
+REQ000610,Enrolled Nurse,Perth South,2023-07-24,Replacement,8,Filled,2023-10-27,102326,External,,95.0
+REQ000611,Enrolled Nurse,Kalgoorlie,2023-08-30,Replacement,7,Filled,2023-10-21,102327,External,,52.0
+REQ000612,Care Worker,Perth North,2023-08-25,Replacement,10,Filled,2023-09-12,102309,External,,18.0
+REQ000613,Care Worker,Perth South,2023-08-09,Replacement,11,Filled,2023-08-22,102283,External,,13.0
+REQ000614,Care Worker,Perth South,2023-08-13,Replacement,14,Filled,2023-08-31,102284,External,,18.0
+REQ000615,Care Worker,Kalgoorlie,2023-07-28,Replacement,7,Filled,2023-09-21,102310,External,,55.0
+REQ000616,Administration,Perth North,2023-08-13,Replacement,13,Filled,2023-09-07,102311,External,,25.0
+REQ000617,Administration,Bunbury,2023-08-19,Replacement,11,Filled,2023-09-13,102312,External,,25.0
+REQ000618,Support Services,Perth South,2023-08-21,Replacement,14,Filled,2023-09-24,102313,External,,34.0
+REQ000619,Support Services,Perth South,2023-08-16,Replacement,15,Filled,2023-09-15,102314,External,,30.0
+REQ000620,Enrolled Nurse,Perth South,2023-07-27,Replacement,9,Filled,2023-09-28,102315,External,,63.0
+REQ000621,Enrolled Nurse,Kalgoorlie,2023-08-07,Replacement,5,Cancelled,,,,2023-10-29,
+REQ000622,Registered Nurse,Perth South,2023-08-08,Replacement,13,Filled,2023-10-06,102328,External,,59.0
+REQ000623,Registered Nurse,Geraldton,2023-08-10,Replacement,6,Filled,2023-10-24,102329,External,,75.0
+REQ000624,Allied Health,Perth North,2023-08-18,Replacement,14,Filled,2023-10-16,102330,External,,59.0
+REQ000625,Care Worker,Perth North,2023-08-01,Replacement (internal move),20,Filled,2023-09-01,102316,External,,31.0
+REQ000626,Support Services,Kalgoorlie,2023-08-14,Replacement (internal move),6,Filled,2023-09-10,102317,External,,27.0
+REQ000627,Registered Nurse,Perth North,2023-09-18,Replacement,18,Filled,2023-11-16,102353,External,,59.0
+REQ000628,Registered Nurse,Perth North,2023-08-30,Replacement,20,Filled,2023-12-13,102375,External,,105.0
+REQ000629,Registered Nurse,Geraldton,2023-09-24,Replacement,9,Cancelled,,,,2023-12-19,
+REQ000630,Registered Nurse,Broome,2023-09-17,Replacement,2,Cancelled,,,,2023-11-18,
+REQ000631,Midwife,Perth South,2023-08-30,Replacement,12,Filled,2023-10-19,102331,External,,50.0
+REQ000632,Enrolled Nurse,Perth North,2023-09-24,Replacement,12,Filled,2023-10-30,102332,External,,36.0
+REQ000633,Medical Practitioner,Perth North,2023-09-16,Replacement,12,Filled,2023-10-27,102333,External,,41.0
+REQ000634,Allied Health,Perth North,2023-09-26,Replacement,13,Filled,2023-12-06,102376,External,,71.0
+REQ000635,Allied Health,Bunbury,2023-09-11,Replacement,12,Filled,2023-12-18,102377,External,,98.0
+REQ000636,Care Worker,Perth North,2023-09-29,Replacement,13,Filled,2023-10-09,102334,External,,10.0
+REQ000637,Care Worker,Bunbury,2023-09-10,Replacement,12,Cancelled,,,,2023-10-09,
+REQ000638,Care Worker,Broome,2023-08-19,Replacement,6,Filled,2023-11-22,102354,External,,95.0
+REQ000639,Administration,Perth North,2023-09-08,Replacement,14,Filled,2023-11-24,102355,External,,77.0
+REQ000640,Administration,Perth North,2023-09-08,Replacement,15,Filled,2023-10-12,102335,External,,34.0
+REQ000641,Administration,Perth South,2023-09-26,Replacement,6,Cancelled,,,,2023-10-19,
+REQ000642,Administration,Geraldton,2023-08-18,Replacement,9,Filled,2023-09-13,101863,Internal transfer,,26.0
+REQ000643,Support Services,Perth South,2023-09-03,Replacement,17,Filled,2023-09-28,102318,External,,25.0
+REQ000644,Support Services,Perth South,2023-08-24,Replacement,13,Filled,2023-09-18,101673,Internal transfer,,25.0
+REQ000645,Support Services,Kalgoorlie,2023-09-11,Replacement,6,Filled,2023-10-14,102336,External,,33.0
+REQ000646,Support Services,Kalgoorlie,2023-08-29,Replacement,11,Filled,2023-10-20,101681,Internal transfer,,52.0
+REQ000647,Registered Nurse,Geraldton,2023-09-06,Replacement,8,Filled,2023-12-10,102378,External,,95.0
+REQ000648,Care Worker,Kalgoorlie,2023-08-31,Replacement,7,Filled,2023-11-19,102356,External,,80.0
+REQ000649,Enrolled Nurse,Broome,2023-08-16,Replacement,2,Filled,2024-01-22,102400,External,,159.0
+REQ000650,Care Worker,Perth North,2023-08-21,Replacement,12,Filled,2023-09-22,102319,External,,32.0
+REQ000651,Registered Nurse,Geraldton,2023-09-13,Replacement,6,Filled,2023-12-21,102379,External,,99.0
+REQ000652,Care Worker,Bunbury,2023-09-21,Replacement,10,Filled,2023-10-12,102337,External,,21.0
+REQ000653,Registered Nurse,Perth North,2023-09-12,Replacement,9,Filled,2023-12-09,101994,Internal transfer,,88.0
+REQ000654,Enrolled Nurse,Bunbury,2023-09-22,Replacement,6,Filled,2023-11-17,102357,External,,56.0
+REQ000655,Registered Nurse,Perth North,2023-09-17,Replacement (internal move),15,Filled,2023-11-20,102358,External,,64.0
+REQ000656,Registered Nurse,Broome,2023-10-05,Re-advertised,4,Filled,2024-02-24,102425,External,,142.0
+REQ000657,Care Worker,Broome,2023-09-07,Replacement (internal move),4,Filled,2023-11-17,102359,External,,71.0
+REQ000658,Care Worker,Perth North,2023-10-11,Re-advertised,8,Filled,2023-10-24,102338,External,,13.0
+REQ000659,Administration,Perth North,2023-09-13,Replacement (internal move),14,Filled,2023-10-25,102339,External,,42.0
+REQ000660,Support Services,Perth North,2023-09-18,Replacement (internal move),14,Filled,2023-10-14,102340,External,,26.0
+REQ000661,Registered Nurse,Perth South,2023-10-21,Replacement,16,Filled,2023-12-05,102380,External,,45.0
+REQ000662,Registered Nurse,Perth South,2023-10-04,Replacement,11,Cancelled,,,,2023-11-05,
+REQ000663,Registered Nurse,Perth South,2023-10-12,Replacement,7,Filled,2023-11-29,102360,External,,48.0
+REQ000664,Registered Nurse,Bunbury,2023-10-27,Replacement,5,Filled,2024-01-09,102401,External,,74.0
+REQ000665,Registered Nurse,Bunbury,2023-10-12,Replacement,10,Filled,2024-01-01,102402,External,,81.0
+REQ000666,Registered Nurse,Bunbury,2023-10-05,Replacement,13,Filled,2023-12-23,102381,External,,79.0
+REQ000667,Midwife,Bunbury,2023-09-27,Replacement,14,Filled,2024-01-12,102403,External,,107.0
+REQ000668,Enrolled Nurse,Perth South,2023-10-07,Replacement,14,Filled,2023-11-07,102361,External,,31.0
+REQ000669,Enrolled Nurse,Bunbury,2023-09-25,Replacement,10,Filled,2023-10-16,102341,External,,21.0
+REQ000670,Enrolled Nurse,Bunbury,2023-10-20,Replacement,13,Cancelled,,,,2023-11-21,
+REQ000671,Allied Health,Perth North,2023-10-31,Replacement,14,Filled,2024-02-01,102426,External,,93.0
+REQ000672,Allied Health,Broome,2023-10-21,Replacement,6,Filled,2024-02-27,102427,External,,129.0
+REQ000673,Care Worker,Perth North,2023-09-21,Replacement,12,Filled,2023-12-15,102382,External,,85.0
+REQ000674,Care Worker,Bunbury,2023-10-09,Replacement,9,Filled,2023-11-11,102362,External,,33.0
+REQ000675,Care Worker,Geraldton,2023-10-08,Replacement,6,Filled,2023-11-18,102363,External,,41.0
+REQ000676,Administration,Perth South,2023-10-05,Replacement,9,Filled,2023-10-20,101871,Internal transfer,,15.0
+REQ000677,Administration,Kalgoorlie,2023-10-22,Replacement,6,Filled,2023-11-09,102364,External,,18.0
+REQ000678,Registered Nurse,Bunbury,2023-10-11,Replacement,12,Filled,2024-01-16,102404,External,,97.0
+REQ000679,Support Services,Perth North,2023-10-05,Replacement,22,Filled,2023-10-23,102342,External,,18.0
+REQ000680,Care Worker,Broome,2023-10-06,Replacement,4,Filled,2023-12-15,102383,External,,70.0
+REQ000681,Care Worker,Geraldton,2023-10-22,Replacement,9,Filled,2023-11-28,102365,External,,37.0
+REQ000682,Care Worker,Perth North,2023-09-22,Replacement,15,Filled,2023-10-10,102343,External,,18.0
+REQ000683,Care Worker,Perth South,2023-10-16,Replacement,11,Filled,2023-12-08,102384,External,,53.0
+REQ000684,Enrolled Nurse,Perth South,2023-09-17,Replacement,13,Filled,2023-10-12,102344,External,,25.0
+REQ000685,Registered Nurse,Perth North,2023-10-10,Replacement (internal move),10,Filled,2023-12-16,102385,External,,67.0
+REQ000686,Registered Nurse,Geraldton,2023-11-14,Re-advertised,5,Filled,2024-02-04,102428,Graduate program,,82.0
+REQ000687,Medical Practitioner,Perth North,2023-10-22,Replacement (internal move),8,Cancelled,,,,2024-02-05,
+REQ000688,Enrolled Nurse,Kalgoorlie,2023-11-26,Re-advertised,10,Filled,2024-01-03,100725,Internal transfer,,38.0
+REQ000689,Support Services,Perth North,2023-10-20,Replacement (internal move),21,Filled,2023-11-22,102366,External,,33.0
+REQ000690,Administration,Bunbury,2023-10-20,Replacement (internal move),10,Filled,2023-12-01,101587,Internal transfer,,42.0
+REQ000691,Registered Nurse,Perth North,2023-10-31,Replacement,11,Cancelled,,,,2023-12-14,
+REQ000692,Registered Nurse,Perth North,2023-11-03,Replacement,16,Filled,2023-12-07,102386,External,,34.0
+REQ000693,Registered Nurse,Geraldton,2023-10-21,Replacement,5,Filled,2023-12-09,102387,External,,49.0
+REQ000694,Registered Nurse,Kalgoorlie,2023-11-14,Replacement,8,Filled,2024-01-15,100205,Internal transfer,,62.0
+REQ000695,Midwife,Geraldton,2023-10-23,Replacement,8,Filled,2024-03-29,102457,External,,158.0
+REQ000696,Care Worker,Perth North,2023-11-12,Replacement,20,Filled,2023-11-24,102367,External,,12.0
+REQ000697,Care Worker,Perth South,2023-10-26,Replacement,12,Filled,2023-11-11,102368,External,,16.0
+REQ000698,Care Worker,Perth North,2023-11-17,Replacement,12,Filled,2023-12-28,102388,External,,41.0
+REQ000699,Care Worker,Perth South,2023-11-07,Replacement,17,Filled,2023-12-05,102389,External,,28.0
+REQ000700,Care Worker,Perth North,2023-10-25,Replacement,9,Filled,2023-12-03,102390,External,,39.0
+REQ000701,Care Worker,Broome,2023-11-11,Replacement,6,Filled,2024-02-06,101368,Internal transfer,,87.0
+REQ000702,Administration,Perth North,2023-11-11,Replacement,11,Filled,2024-01-31,102405,External,,81.0
+REQ000703,Administration,Perth South,2023-10-27,Replacement,13,Filled,2023-11-09,102369,External,,13.0
+REQ000704,Support Services,Perth North,2023-11-14,Replacement,15,Filled,2024-01-05,102406,External,,52.0
+REQ000705,Support Services,Bunbury,2023-11-02,Replacement,11,Filled,2023-11-23,102370,External,,21.0
+REQ000706,Support Services,Bunbury,2023-10-28,Replacement,12,Filled,2023-12-04,102391,External,,37.0
+REQ000707,Support Services,Broome,2023-11-11,Replacement,5,Cancelled,,,,2023-11-20,
+REQ000708,Registered Nurse,Perth North,2023-11-11,Replacement,19,Filled,2024-02-04,102429,Graduate program,,85.0
+REQ000709,Care Worker,Perth South,2023-11-05,Replacement,16,Filled,2023-12-12,102392,External,,37.0
+REQ000710,Support Services,Perth North,2023-11-10,Replacement,9,Filled,2023-11-24,102371,External,,14.0
+REQ000711,Care Worker,Kalgoorlie,2023-10-19,Replacement,7,Filled,2023-12-27,102393,External,,69.0
+REQ000712,Support Services,Perth South,2023-10-30,Replacement,11,Filled,2023-12-01,102394,External,,32.0
+REQ000713,Registered Nurse,Perth South,2023-12-19,Re-advertised,13,Filled,2024-02-04,102430,Graduate program,,47.0
+REQ000714,Enrolled Nurse,Bunbury,2023-12-16,Re-advertised,9,Filled,2024-01-06,102407,External,,21.0
+REQ000715,Support Services,Broome,2023-12-14,Re-advertised,6,Filled,2024-01-11,102408,External,,28.0
+REQ000716,Registered Nurse,Perth South,2023-12-03,Replacement,14,Filled,2023-12-21,102395,External,,18.0
+REQ000717,Registered Nurse,Bunbury,2023-11-25,Replacement,10,Filled,2023-12-23,102396,External,,28.0
+REQ000718,Registered Nurse,Geraldton,2023-12-03,Replacement,10,Filled,2024-02-04,102431,Graduate program,,63.0
+REQ000719,Enrolled Nurse,Perth North,2023-12-02,Replacement,11,Filled,2024-01-10,102409,External,,39.0
+REQ000720,Registered Nurse,Perth South,2023-11-30,Replacement,17,Filled,2024-01-11,102410,External,,42.0
+REQ000721,Medical Practitioner,Bunbury,2023-12-22,Replacement,10,Filled,2024-02-24,102154,Internal transfer,,64.0
+REQ000722,Allied Health,Bunbury,2023-11-30,Replacement,6,Filled,2024-02-11,102432,External,,73.0
+REQ000723,Care Worker,Perth North,2023-12-15,Replacement,21,Filled,2024-01-05,101951,Internal transfer,,21.0
+REQ000724,Care Worker,Kalgoorlie,2023-12-15,Replacement,4,Filled,2024-01-25,102411,External,,41.0
+REQ000725,Administration,Perth North,2023-11-30,Replacement,14,Filled,2023-12-16,102397,External,,16.0
+REQ000726,Support Services,Perth South,2023-12-15,Replacement,10,Filled,2024-01-12,102412,External,,28.0
+REQ000727,Care Worker,Kalgoorlie,2023-12-15,Replacement,4,Filled,2024-01-20,102413,External,,36.0
+REQ000728,Registered Nurse,Bunbury,2023-12-03,Replacement,7,Filled,2024-01-27,102414,External,,55.0
+REQ000729,Administration,Kalgoorlie,2023-12-01,Replacement,2,Filled,2024-01-29,101631,Internal transfer,,59.0
+REQ000730,Registered Nurse,Perth North,2023-12-05,Replacement,13,Cancelled,,,,2024-01-05,
+REQ000731,Care Worker,Perth North,2023-12-23,Replacement,24,Filled,2024-01-12,102415,External,,20.0
+REQ000732,Registered Nurse,Broome,2023-12-01,Replacement,7,Filled,2024-02-08,102433,External,,69.0
+REQ000733,Care Worker,Broome,2023-12-02,Replacement,3,Filled,2024-02-09,102434,External,,69.0
+REQ000734,Support Services,Perth North,2023-11-30,Replacement,13,Filled,2024-01-16,102416,External,,47.0
+REQ000735,Administration,Kalgoorlie,2023-12-24,Replacement,6,Filled,2024-01-17,102417,External,,24.0
+REQ000736,Care Worker,Kalgoorlie,2023-11-20,Replacement,10,Filled,2024-01-03,102418,External,,44.0
+REQ000737,Care Worker,Perth South,2023-12-04,Replacement,22,Filled,2024-01-12,102419,External,,39.0
+REQ000738,Registered Nurse,Perth South,2023-12-09,Replacement (internal move),18,Filled,2024-02-04,102435,Graduate program,,57.0
+REQ000739,Administration,Geraldton,2023-12-01,Replacement (internal move),5,Filled,2024-01-14,102420,External,,44.0
+REQ000740,Registered Nurse,Perth North,2024-01-09,Re-advertised,8,Filled,2024-02-04,102436,Graduate program,,26.0
+REQ000741,Registered Nurse,Bunbury,2023-12-31,Replacement,12,Cancelled,,,,2024-02-08,
+REQ000742,Registered Nurse,Bunbury,2024-01-08,Replacement,11,Filled,2024-02-04,102437,Graduate program,,27.0
+REQ000743,Registered Nurse,Broome,2024-01-13,Replacement,8,Cancelled,,,,2024-07-04,
+REQ000744,Registered Nurse,Broome,2024-01-13,Replacement,10,Filled,2024-03-26,100073,Internal transfer,,73.0
+REQ000745,Midwife,Kalgoorlie,2024-01-03,Replacement,9,Filled,2024-07-03,102552,External,,182.0
+REQ000746,Enrolled Nurse,Perth South,2024-01-09,Replacement,12,Filled,2024-02-03,102438,External,,25.0
+REQ000747,Enrolled Nurse,Bunbury,2024-01-13,Replacement,9,Filled,2024-03-04,102458,External,,51.0
+REQ000748,Enrolled Nurse,Kalgoorlie,2024-01-02,Replacement,9,Filled,2024-03-03,102459,External,,61.0
+REQ000749,Medical Practitioner,Kalgoorlie,2023-12-20,Replacement,5,Filled,2024-07-15,102553,External,,208.0
+REQ000750,Allied Health,Geraldton,2023-12-31,Replacement,9,Filled,2024-04-13,102476,External,,104.0
+REQ000751,Care Worker,Perth North,2023-12-22,Replacement,16,Filled,2024-01-25,102421,External,,34.0
+REQ000752,Care Worker,Perth North,2023-12-23,Replacement,6,Filled,2024-03-04,102460,External,,72.0
+REQ000753,Administration,Perth North,2024-01-05,Replacement,8,Filled,2024-02-01,102439,External,,27.0
+REQ000754,Support Services,Perth North,2023-12-26,Replacement,11,Filled,2024-01-12,101804,Internal transfer,,17.0
+REQ000755,Support Services,Perth South,2024-01-25,Replacement,15,Filled,2024-02-15,102440,External,,21.0
+REQ000756,Support Services,Perth North,2024-01-05,Replacement,15,Cancelled,,,,2024-01-18,
+REQ000757,Registered Nurse,Perth South,2024-01-04,Replacement,9,Filled,2024-02-04,102441,Graduate program,,31.0
+REQ000758,Enrolled Nurse,Geraldton,2024-01-05,Replacement,6,Filled,2024-03-13,102461,External,,68.0
+REQ000759,Care Worker,Geraldton,2024-01-19,Replacement,6,Filled,2024-03-15,102462,External,,56.0
+REQ000760,Registered Nurse,Perth North,2024-01-12,Replacement,14,Filled,2024-02-04,102442,Graduate program,,23.0
+REQ000761,Care Worker,Geraldton,2024-01-08,Replacement,9,Filled,2024-01-23,102422,External,,15.0
+REQ000762,Care Worker,Perth South,2024-01-05,Replacement,10,Filled,2024-02-03,102443,External,,29.0
+REQ000763,Care Worker,Perth South,2024-01-14,Replacement,15,Cancelled,,,,2024-02-02,
+REQ000764,Registered Nurse,Geraldton,2024-01-13,Replacement,9,Filled,2024-02-04,102444,Graduate program,,22.0
+REQ000765,Allied Health,Perth South,2024-01-26,Replacement,12,Filled,2024-03-29,102463,External,,63.0
+REQ000766,Care Worker,Kalgoorlie,2024-01-05,Replacement,0,Filled,2024-05-20,102492,External,,136.0
+REQ000767,Care Worker,Kalgoorlie,2024-01-23,Replacement,6,Cancelled,,,,2024-03-05,
+REQ000768,Care Worker,Perth South,2024-01-13,Replacement,14,Filled,2024-02-01,102445,External,,19.0
+REQ000769,Enrolled Nurse,Perth North,2024-01-15,Replacement,18,Cancelled,,,,2024-02-23,
+REQ000770,Enrolled Nurse,Perth North,2024-01-15,Replacement,16,Filled,2024-02-16,102446,External,,32.0
+REQ000771,Enrolled Nurse,Perth South,2024-01-15,Replacement,5,Filled,2024-04-06,102477,External,,82.0
+REQ000772,Enrolled Nurse,Broome,2024-01-15,Replacement,6,Filled,2024-05-03,102493,External,,109.0
+REQ000773,Enrolled Nurse,Perth North,2024-01-15,Replacement,9,Filled,2024-01-30,102423,External,,15.0
+REQ000774,Enrolled Nurse,Perth South,2024-01-15,Replacement,18,Filled,2024-04-23,102478,External,,99.0
+REQ000775,Enrolled Nurse,Perth South,2024-01-15,Replacement,10,Filled,2024-04-05,102479,External,,81.0
+REQ000776,Enrolled Nurse,Broome,2024-01-15,Replacement,4,Filled,2024-03-31,102464,External,,76.0
+REQ000777,Enrolled Nurse,Bunbury,2024-01-03,Replacement (internal move),12,Filled,2024-03-03,102465,External,,60.0
+REQ000778,Registered Nurse,Perth South,2024-01-15,Replacement (internal move),18,Filled,2024-02-04,102447,Graduate program,,20.0
+REQ000779,Care Worker,Geraldton,2024-01-05,Replacement (internal move),14,Filled,2024-02-15,102448,External,,41.0
+REQ000780,Administration,Broome,2024-01-29,Replacement (internal move),5,Filled,2024-04-11,102480,External,,73.0
+REQ000781,Registered Nurse,Perth North,2024-02-08,Re-advertised,13,Filled,2024-02-08,102449,Graduate program,,0.0
+REQ000782,Support Services,Kalgoorlie,2024-01-12,Replacement (internal move),10,Filled,2024-03-12,101654,Internal transfer,,60.0
+REQ000783,Registered Nurse,Perth South,2024-02-12,Replacement,8,Filled,2024-02-12,102450,Graduate program,,0.0
+REQ000784,Registered Nurse,Perth South,2024-02-19,Replacement,27,Filled,2024-02-19,102451,Graduate program,,0.0
+REQ000785,Registered Nurse,Bunbury,2024-02-09,Replacement,16,Filled,2024-02-09,102452,Graduate program,,0.0
+REQ000786,Registered Nurse,Geraldton,2024-02-11,Replacement,8,Filled,2024-02-11,102453,Graduate program,,0.0
+REQ000787,Registered Nurse,Kalgoorlie,2024-02-12,Replacement,10,Filled,2024-05-17,102279,Internal transfer,,95.0
+REQ000788,Registered Nurse,Kalgoorlie,2024-02-01,Replacement,7,Filled,2024-03-14,100086,Internal transfer,,42.0
+REQ000789,Registered Nurse,Kalgoorlie,2024-01-27,Replacement,9,Filled,2024-05-08,102494,External,,102.0
+REQ000790,Midwife,Kalgoorlie,2024-02-08,Replacement,10,Filled,2024-05-04,102495,External,,86.0
+REQ000791,Enrolled Nurse,Broome,2024-02-16,Replacement,8,Filled,2024-06-24,102531,External,,129.0
+REQ000792,Medical Practitioner,Perth South,2024-01-27,Replacement,12,Filled,2024-03-20,102466,External,,53.0
+REQ000793,Allied Health,Perth South,2024-01-28,Replacement,13,Filled,2024-03-30,102467,External,,62.0
+REQ000794,Care Worker,Perth North,2024-01-17,Replacement,12,Cancelled,,,,2024-01-30,
+REQ000795,Care Worker,Perth North,2024-02-02,Replacement,13,Filled,2024-02-24,102454,External,,22.0
+REQ000796,Care Worker,Perth South,2024-01-30,Replacement,14,Filled,2024-03-12,102468,External,,42.0
+REQ000797,Administration,Perth North,2024-02-07,Replacement,7,Filled,2024-03-02,102469,External,,24.0
+REQ000798,Administration,Kalgoorlie,2024-02-11,Replacement,3,Filled,2024-03-18,102470,External,,36.0
+REQ000799,Support Services,Bunbury,2024-02-28,Replacement,6,Filled,2024-03-11,102471,External,,12.0
+REQ000800,Support Services,Perth North,2024-02-10,Replacement,23,Filled,2024-03-05,102472,External,,24.0
+REQ000801,Administration,Broome,2024-01-22,Replacement,7,Filled,2024-04-05,102481,External,,74.0
+REQ000802,Care Worker,Perth South,2024-02-07,Replacement,11,Cancelled,,,,2024-03-21,
+REQ000803,Care Worker,Perth North,2024-01-25,Replacement,10,Filled,2024-02-21,102455,External,,27.0
+REQ000804,Care Worker,Broome,2024-02-19,Replacement,7,Filled,2024-06-21,102532,External,,123.0
+REQ000805,Medical Practitioner,Perth North,2024-03-10,Re-advertised,19,Filled,2024-04-25,102398,Internal transfer,,46.0
+REQ000806,Care Worker,Kalgoorlie,2024-02-06,Replacement (internal move),5,Cancelled,,,,2024-03-20,
+REQ000807,Medical Practitioner,Perth North,2024-02-24,Replacement (internal move),17,Filled,2024-05-22,102496,External,,88.0
+REQ000808,Care Worker,Perth South,2024-02-28,Re-advertised,18,Filled,2024-03-25,102211,Internal transfer,,26.0
+REQ000809,Enrolled Nurse,Perth North,2024-03-31,Re-advertised,14,Filled,2024-05-16,102497,External,,46.0
+REQ000810,Registered Nurse,Perth North,2024-03-17,Replacement,19,Cancelled,,,,2024-04-04,
+REQ000811,Registered Nurse,Perth North,2024-03-16,Replacement,16,Filled,2024-04-13,101830,Internal transfer,,28.0
+REQ000812,Registered Nurse,Perth North,2024-03-22,Replacement,9,Filled,2024-06-20,102533,External,,90.0
+REQ000813,Registered Nurse,Perth North,2024-03-05,Replacement,13,Filled,2024-04-04,100355,Internal transfer,,30.0
+REQ000814,Registered Nurse,Perth South,2024-03-01,Replacement,18,Filled,2024-04-22,102482,External,,52.0
+REQ000815,Enrolled Nurse,Perth North,2024-03-11,Replacement,8,Filled,2024-05-05,102498,External,,55.0
+REQ000816,Care Worker,Perth South,2024-02-21,Replacement,15,Filled,2024-04-01,102483,External,,40.0
+REQ000817,Administration,Kalgoorlie,2024-02-19,Replacement,11,Filled,2024-03-21,102473,External,,31.0
+REQ000818,Support Services,Perth North,2024-03-06,Replacement,9,Filled,2024-03-18,102474,External,,12.0
+REQ000819,Support Services,Geraldton,2024-03-04,Replacement,9,Filled,2024-04-28,102484,External,,55.0
+REQ000820,Care Worker,Perth North,2024-03-19,Replacement,17,Filled,2024-04-13,102485,External,,25.0
+REQ000821,Registered Nurse,Perth South,2024-03-25,Replacement,14,Filled,2024-05-08,102499,External,,44.0
+REQ000822,Administration,Bunbury,2024-03-08,Replacement,9,Filled,2024-03-31,102475,External,,23.0
+REQ000823,Support Services,Broome,2024-03-22,Replacement,6,Filled,2024-05-28,101876,Internal transfer,,67.0
+REQ000824,Care Worker,Kalgoorlie,2024-02-15,Replacement,5,Filled,2024-05-13,102500,External,,88.0
+REQ000825,Care Worker,Geraldton,2024-03-11,Replacement,4,Filled,2024-05-01,102501,External,,51.0
+REQ000826,Registered Nurse,Perth North,2024-03-26,Replacement (internal move),10,Filled,2024-05-25,102502,External,,60.0
+REQ000827,Care Worker,Kalgoorlie,2024-04-09,Re-advertised,9,Filled,2024-05-16,102503,External,,37.0
+REQ000828,Support Services,Perth North,2024-03-12,Replacement (internal move),18,Filled,2024-04-13,102486,External,,32.0
+REQ000829,Registered Nurse,Perth North,2024-03-14,Replacement (internal move),14,Filled,2024-05-12,100548,Internal transfer,,59.0
+REQ000830,Care Worker,Perth South,2024-04-22,Re-advertised,15,Filled,2024-05-11,102504,External,,19.0
+REQ000831,Care Worker,Kalgoorlie,2024-04-25,Re-advertised,4,Filled,2024-06-18,102534,External,,54.0
+REQ000832,Care Worker,Broome,2024-03-25,Replacement (internal move),2,Filled,2024-04-20,102487,External,,26.0
+REQ000833,Registered Nurse,Perth North,2024-03-29,Replacement,14,Filled,2024-06-05,102535,External,,68.0
+REQ000834,Registered Nurse,Bunbury,2024-03-31,Replacement,14,Filled,2024-05-16,100524,Internal transfer,,46.0
+REQ000835,Registered Nurse,Bunbury,2024-03-26,Replacement,16,Filled,2024-05-15,102505,External,,50.0
+REQ000836,Registered Nurse,Bunbury,2024-03-22,Replacement,12,Filled,2024-07-15,100040,Internal transfer,,115.0
+REQ000837,Registered Nurse,Kalgoorlie,2024-03-27,Replacement,7,Filled,2024-07-13,100415,Internal transfer,,108.0
+REQ000838,Midwife,Perth North,2024-03-22,Replacement,9,Filled,2024-05-04,102506,External,,43.0
+REQ000839,Medical Practitioner,Broome,2024-04-06,Replacement,4,Cancelled,,,,2024-09-11,
+REQ000840,Care Worker,Perth North,2024-04-07,Replacement,13,Filled,2024-05-18,102507,External,,41.0
+REQ000841,Care Worker,Perth South,2024-04-15,Replacement,12,Filled,2024-05-02,102508,External,,17.0
+REQ000842,Care Worker,Bunbury,2024-03-24,Replacement,7,Filled,2024-05-30,102509,External,,67.0
+REQ000843,Administration,Perth South,2024-04-03,Replacement,13,Filled,2024-05-06,102510,External,,33.0
+REQ000844,Administration,Bunbury,2024-04-13,Replacement,7,Filled,2024-06-30,102536,External,,78.0
+REQ000845,Support Services,Perth South,2024-04-27,Replacement,14,Filled,2024-05-18,102511,External,,21.0
+REQ000846,Support Services,Kalgoorlie,2024-04-26,Replacement,4,Filled,2024-05-20,102512,External,,24.0
+REQ000847,Administration,Geraldton,2024-04-05,Replacement,8,Filled,2024-05-19,102513,External,,44.0
+REQ000848,Enrolled Nurse,Geraldton,2024-04-01,Replacement,8,Filled,2024-05-17,102514,External,,46.0
+REQ000849,Allied Health,Perth South,2024-03-27,Replacement,19,Filled,2024-07-24,102554,External,,119.0
+REQ000850,Care Worker,Perth North,2024-03-21,Replacement,23,Filled,2024-04-25,102488,External,,35.0
+REQ000851,Care Worker,Perth South,2024-03-21,Replacement,13,Filled,2024-04-30,102489,External,,40.0
+REQ000852,Care Worker,Perth North,2024-03-17,Replacement,10,Filled,2024-05-26,102515,External,,70.0
+REQ000853,Enrolled Nurse,Kalgoorlie,2024-03-18,Replacement,7,Filled,2024-06-15,102537,External,,89.0
+REQ000854,Care Worker,Perth South,2024-04-06,Replacement,12,Filled,2024-04-23,102490,External,,17.0
+REQ000855,Care Worker,Perth South,2024-03-30,Replacement,5,Filled,2024-05-03,102516,External,,34.0
+REQ000856,Administration,Kalgoorlie,2024-04-01,Replacement,9,Filled,2024-05-03,102517,External,,32.0
+REQ000857,Registered Nurse,Perth South,2024-04-01,Replacement,18,Filled,2024-05-07,102518,External,,36.0
+REQ000858,Support Services,Perth North,2024-03-31,Replacement,21,Filled,2024-04-26,101705,Internal transfer,,26.0
+REQ000859,Care Worker,Geraldton,2024-03-27,Replacement,7,Filled,2024-05-18,102519,External,,52.0
+REQ000860,Care Worker,Kalgoorlie,2024-04-07,Replacement,10,Filled,2024-05-06,102520,External,,29.0
+REQ000861,Registered Nurse,Perth South,2024-04-07,Replacement,13,Filled,2024-05-24,102521,External,,47.0
+REQ000862,Medical Practitioner,Kalgoorlie,2024-04-25,Replacement (internal move),12,Cancelled,,,,2024-06-20,
+REQ000863,Registered Nurse,Perth North,2024-05-01,Re-advertised,12,Filled,2024-06-23,100465,Internal transfer,,53.0
+REQ000864,Registered Nurse,Perth South,2024-04-13,Replacement (internal move),17,Filled,2024-05-25,102522,External,,42.0
+REQ000865,Registered Nurse,Bunbury,2024-04-04,Replacement (internal move),13,Filled,2024-05-19,102523,External,,45.0
+REQ000866,Support Services,Perth South,2024-04-26,Replacement (internal move),19,Cancelled,,,,2024-05-17,
+REQ000867,Registered Nurse,Perth North,2024-05-08,Replacement,15,Filled,2024-09-19,100351,Internal transfer,,134.0
+REQ000868,Registered Nurse,Perth North,2024-04-24,Replacement,16,Filled,2024-06-25,102538,External,,62.0
+REQ000869,Registered Nurse,Perth North,2024-05-16,Replacement,16,Filled,2024-08-01,102581,External,,77.0
+REQ000870,Registered Nurse,Perth North,2024-05-25,Replacement,16,Filled,2024-09-08,100528,Internal transfer,,106.0
+REQ000871,Registered Nurse,Perth South,2024-05-03,Replacement,13,Filled,2024-05-30,102524,External,,27.0
+REQ000872,Registered Nurse,Geraldton,2024-05-15,Replacement,9,Filled,2025-02-04,102765,Graduate program,,265.0
+REQ000873,Enrolled Nurse,Bunbury,2024-04-25,Replacement,10,Filled,2024-05-18,102525,External,,23.0
+REQ000874,Medical Practitioner,Perth South,2024-04-14,Replacement,17,Filled,2024-06-14,102539,External,,61.0
+REQ000875,Medical Practitioner,Bunbury,2024-04-30,Replacement,10,Filled,2024-07-19,102555,External,,80.0
+REQ000876,Medical Practitioner,Geraldton,2024-04-22,Replacement,8,Filled,2024-10-22,102651,External,,183.0
+REQ000877,Care Worker,Perth North,2024-05-22,Replacement,10,Filled,2024-06-12,102540,External,,21.0
+REQ000878,Care Worker,Perth South,2024-05-08,Replacement,15,Filled,2024-06-01,102541,External,,24.0
+REQ000879,Care Worker,Perth South,2024-04-18,Replacement,12,Filled,2024-05-20,101369,Internal transfer,,32.0
+REQ000880,Administration,Perth South,2024-04-30,Replacement,16,Filled,2024-06-06,102542,External,,37.0
+REQ000881,Administration,Kalgoorlie,2024-05-01,Replacement,11,Filled,2024-06-01,102543,External,,31.0
+REQ000882,Administration,Perth South,2024-05-05,Replacement,12,Filled,2024-05-29,102526,External,,24.0
+REQ000883,Administration,Broome,2024-04-27,Replacement,12,Filled,2024-07-03,101927,Internal transfer,,67.0
+REQ000884,Support Services,Perth North,2024-04-28,Replacement,16,Filled,2024-05-15,102527,External,,17.0
+REQ000885,Registered Nurse,Perth North,2024-04-20,Replacement,17,Filled,2024-06-21,102544,External,,62.0
+REQ000886,Care Worker,Bunbury,2024-05-11,Replacement,5,Filled,2024-05-21,102528,External,,10.0
+REQ000887,Care Worker,Broome,2024-05-05,Replacement,4,Filled,2024-06-24,102545,External,,50.0
+REQ000888,Care Worker,Geraldton,2024-05-12,Replacement,10,Filled,2024-05-30,102529,External,,18.0
+REQ000889,Support Services,Broome,2024-05-20,Replacement,10,Filled,2024-07-09,102556,External,,50.0
+REQ000890,Care Worker,Perth South,2024-05-18,Replacement,12,Filled,2024-06-06,102546,External,,19.0
+REQ000891,Enrolled Nurse,Bunbury,2024-04-29,Replacement,15,Filled,2024-06-17,102547,External,,49.0
+REQ000892,Care Worker,Perth North,2024-04-24,Replacement,12,Filled,2024-05-30,102530,External,,36.0
+REQ000893,Care Worker,Perth North,2024-05-26,Replacement,12,Filled,2024-06-30,102548,External,,35.0
+REQ000894,Allied Health,Broome,2024-05-12,Replacement,9,Cancelled,,,,2024-08-01,
+REQ000895,Administration,Broome,2024-05-26,Replacement,7,Filled,2024-07-13,102557,External,,48.0
+REQ000896,Registered Nurse,Geraldton,2024-05-17,Replacement (internal move),13,Filled,2024-08-05,102582,External,,80.0
+REQ000897,Support Services,Perth North,2024-05-28,Replacement (internal move),10,Filled,2024-06-20,102549,External,,23.0
+REQ000898,Registered Nurse,Broome,2024-05-12,Replacement (internal move),7,Filled,2024-10-14,102652,External,,155.0
+REQ000899,Registered Nurse,Kalgoorlie,2024-05-16,Replacement (internal move),4,Filled,2024-08-17,102583,External,,93.0
+REQ000900,Support Services,Perth South,2024-06-23,Re-advertised,18,Filled,2024-07-20,102558,External,,27.0
+REQ000901,Care Worker,Kalgoorlie,2024-05-20,Replacement (internal move),8,Filled,2024-06-29,102550,External,,40.0
+REQ000902,Registered Nurse,Perth North,2024-06-21,Replacement,7,Filled,2024-07-25,102559,External,,34.0
+REQ000903,Registered Nurse,Perth North,2024-06-04,Replacement,13,Filled,2024-07-12,102560,External,,38.0
+REQ000904,Registered Nurse,Perth South,2024-06-22,Replacement,10,Filled,2024-08-31,102584,External,,70.0
+REQ000905,Registered Nurse,Perth South,2024-06-12,Replacement,7,Cancelled,,,,2024-07-05,
+REQ000906,Registered Nurse,Geraldton,2024-06-13,Replacement,12,Cancelled,,,,2024-08-22,
+REQ000907,Enrolled Nurse,Bunbury,2024-06-09,Replacement,14,Filled,2024-08-07,102585,External,,59.0
+REQ000908,Allied Health,Perth North,2024-06-06,Replacement,15,Filled,2024-08-15,102586,External,,70.0
+REQ000909,Care Worker,Perth North,2024-05-23,Replacement,9,Filled,2024-06-13,102551,External,,21.0
+REQ000910,Administration,Kalgoorlie,2024-06-06,Replacement,8,Filled,2024-07-11,102469,Internal transfer,,35.0
+REQ000911,Allied Health,Geraldton,2024-05-17,Replacement,7,Filled,2024-08-08,102587,External,,83.0
+REQ000912,Allied Health,Perth North,2024-05-27,Replacement,15,Filled,2024-08-06,102588,External,,71.0
+REQ000913,Registered Nurse,Perth South,2024-06-26,Replacement,19,Filled,2024-08-11,102589,External,,46.0
+REQ000914,Care Worker,Perth North,2024-06-02,Replacement,11,Filled,2024-07-09,102561,External,,37.0
+REQ000915,Care Worker,Perth South,2024-06-05,Replacement,8,Filled,2024-08-06,102590,External,,62.0
+REQ000916,Care Worker,Perth South,2024-05-25,Replacement,15,Filled,2024-07-09,102562,External,,45.0
+REQ000917,Registered Nurse,Kalgoorlie,2024-06-16,Replacement,5,Filled,2024-08-11,102591,External,,56.0
+REQ000918,Care Worker,Geraldton,2024-05-31,Replacement,7,Filled,2024-07-22,102563,External,,52.0
+REQ000919,Registered Nurse,Geraldton,2024-05-27,Replacement,12,Filled,2024-08-20,102592,External,,85.0
+REQ000920,Care Worker,Perth South,2024-06-15,Replacement,9,Filled,2024-07-24,102564,External,,39.0
+REQ000921,Administration,Perth North,2024-06-05,Replacement,8,Filled,2024-07-18,102565,External,,43.0
+REQ000922,Care Worker,Perth North,2024-06-29,Replacement,11,Filled,2024-08-12,102593,External,,44.0
+REQ000923,Support Services,Perth North,2024-05-22,Replacement,11,Filled,2024-07-03,102566,External,,42.0
+REQ000924,Care Worker,Perth North,2024-06-17,Replacement,11,Filled,2024-07-16,102567,External,,29.0
+REQ000925,Registered Nurse,Kalgoorlie,2024-06-09,Replacement,8,Filled,2024-08-29,102594,External,,81.0
+REQ000926,Administration,Perth South,2024-05-30,Replacement,15,Filled,2024-07-06,102568,External,,37.0
+REQ000927,Medical Practitioner,Kalgoorlie,2024-07-20,Re-advertised,8,Filled,2024-10-28,102653,External,,100.0
+REQ000928,Registered Nurse,Geraldton,2024-06-23,Replacement (internal move),5,Filled,2024-08-28,102595,External,,66.0
+REQ000929,Registered Nurse,Perth North,2024-07-14,New position,16,Filled,2024-08-24,100500,Internal transfer,,41.0
+REQ000930,Registered Nurse,Perth North,2024-07-19,New position,21,Filled,2024-09-01,102622,External,,44.0
+REQ000931,Registered Nurse,Perth North,2024-07-11,New position,23,Filled,2024-08-10,102596,External,,30.0
+REQ000932,Registered Nurse,Perth North,2024-07-17,New position,16,Filled,2024-09-03,100212,Internal transfer,,48.0
+REQ000933,Registered Nurse,Perth North,2024-07-02,New position,13,Filled,2024-09-18,102623,External,,78.0
+REQ000934,Registered Nurse,Perth North,2024-07-14,New position,17,Filled,2024-08-23,102597,External,,40.0
+REQ000935,Registered Nurse,Perth South,2024-07-20,New position,19,Filled,2024-08-18,102598,External,,29.0
+REQ000936,Registered Nurse,Perth South,2024-07-18,New position,17,Filled,2024-10-06,102654,External,,80.0
+REQ000937,Registered Nurse,Perth South,2024-07-09,New position,10,Filled,2024-08-20,102599,External,,42.0
+REQ000938,Registered Nurse,Perth South,2024-07-20,New position,11,Filled,2024-09-09,102624,External,,51.0
+REQ000939,Registered Nurse,Perth South,2024-07-18,New position,21,Filled,2024-09-29,102625,External,,73.0
+REQ000940,Registered Nurse,Bunbury,2024-07-10,New position,8,Filled,2024-09-05,102626,External,,57.0
+REQ000941,Registered Nurse,Bunbury,2024-07-03,New position,10,Filled,2024-08-04,102600,External,,32.0
+REQ000942,Registered Nurse,Bunbury,2024-07-19,New position,12,Filled,2024-09-08,102627,External,,51.0
+REQ000943,Registered Nurse,Bunbury,2024-07-14,New position,12,Filled,2024-09-20,102628,External,,68.0
+REQ000944,Registered Nurse,Geraldton,2024-07-19,New position,6,Filled,2024-11-05,102676,External,,109.0
+REQ000945,Registered Nurse,Geraldton,2024-07-09,New position,12,Filled,2024-09-18,102629,External,,71.0
+REQ000946,Registered Nurse,Kalgoorlie,2024-07-08,New position,10,Filled,2024-09-26,102630,External,,80.0
+REQ000947,Registered Nurse,Kalgoorlie,2024-07-10,New position,8,Filled,2024-10-18,100665,Internal transfer,,100.0
+REQ000948,Registered Nurse,Broome,2024-07-08,New position,5,Cancelled,,,,2024-08-27,
+REQ000949,Registered Nurse,Broome,2024-07-07,New position,7,Filled,2024-08-15,100335,Internal transfer,,39.0
+REQ000950,Enrolled Nurse,Perth North,2024-07-03,New position,17,Filled,2024-11-07,102677,External,,127.0
+REQ000951,Enrolled Nurse,Perth South,2024-07-19,New position,16,Filled,2024-09-19,102631,External,,62.0
+REQ000952,Enrolled Nurse,Bunbury,2024-07-14,New position,10,Filled,2024-09-19,102632,External,,67.0
+REQ000953,Medical Practitioner,Perth North,2024-07-17,New position,12,Filled,2024-10-20,102655,External,,95.0
+REQ000954,Medical Practitioner,Perth South,2024-07-06,New position,17,Filled,2024-09-10,102633,External,,66.0
+REQ000955,Medical Practitioner,Bunbury,2024-07-05,New position,10,Filled,2024-09-28,102634,External,,85.0
+REQ000956,Allied Health,Perth North,2024-07-11,New position,17,Filled,2024-11-11,102678,External,,123.0
+REQ000957,Allied Health,Perth North,2024-07-05,New position,19,Filled,2024-08-23,102601,External,,49.0
+REQ000958,Allied Health,Perth South,2024-07-05,New position,15,Filled,2024-08-24,102602,External,,50.0
+REQ000959,Allied Health,Bunbury,2024-07-10,New position,12,Filled,2024-09-02,102635,External,,54.0
+REQ000960,Allied Health,Broome,2024-07-14,New position,7,Filled,2024-11-27,102679,External,,136.0
+REQ000961,Care Worker,Perth North,2024-07-20,New position,10,Filled,2024-08-26,102603,External,,37.0
+REQ000962,Care Worker,Perth North,2024-07-06,New position,20,Filled,2024-07-23,102569,External,,17.0
+REQ000963,Care Worker,Perth North,2024-07-11,New position,16,Cancelled,,,,2024-07-26,
+REQ000964,Care Worker,Perth North,2024-07-15,New position,20,Filled,2024-08-07,102604,External,,23.0
+REQ000965,Care Worker,Perth North,2024-07-01,New position,15,Filled,2024-07-28,102570,External,,27.0
+REQ000966,Care Worker,Perth South,2024-07-06,New position,14,Filled,2024-09-01,102636,External,,57.0
+REQ000967,Care Worker,Perth South,2024-07-10,New position,13,Filled,2024-08-06,102605,External,,27.0
+REQ000968,Care Worker,Perth South,2024-07-02,New position,10,Filled,2024-07-21,102571,External,,19.0
+REQ000969,Care Worker,Perth South,2024-07-06,New position,16,Filled,2024-07-28,102572,External,,22.0
+REQ000970,Care Worker,Perth South,2024-07-10,New position,13,Filled,2024-08-10,102606,External,,31.0
+REQ000971,Care Worker,Bunbury,2024-07-17,New position,12,Filled,2024-09-20,101264,Internal transfer,,65.0
+REQ000972,Care Worker,Bunbury,2024-07-20,New position,9,Filled,2024-08-22,102607,External,,33.0
+REQ000973,Care Worker,Bunbury,2024-07-20,New position,6,Filled,2024-08-10,102608,External,,21.0
+REQ000974,Care Worker,Geraldton,2024-07-20,New position,8,Cancelled,,,,2024-07-29,
+REQ000975,Care Worker,Geraldton,2024-07-02,New position,6,Filled,2024-08-12,102609,External,,41.0
+REQ000976,Care Worker,Kalgoorlie,2024-07-20,New position,3,Filled,2024-09-15,102637,External,,57.0
+REQ000977,Care Worker,Broome,2024-07-04,New position,7,Cancelled,,,,2024-08-04,
+REQ000978,Care Worker,Broome,2024-07-07,New position,8,Filled,2024-09-15,102638,External,,70.0
+REQ000979,Administration,Bunbury,2024-07-06,New position,16,Filled,2024-07-21,102573,External,,15.0
+REQ000980,Support Services,Bunbury,2024-07-04,New position,13,Filled,2024-08-07,102610,External,,34.0
+REQ000981,Registered Nurse,Broome,2024-07-05,Replacement,9,Filled,2024-09-04,102639,External,,61.0
+REQ000982,Registered Nurse,Broome,2024-07-21,Replacement,5,Filled,2025-02-11,102766,External,,205.0
+REQ000983,Enrolled Nurse,Perth North,2024-07-06,Replacement,11,Filled,2024-08-03,102611,External,,28.0
+REQ000984,Medical Practitioner,Geraldton,2024-07-16,Replacement,4,Filled,2024-12-23,102706,External,,160.0
+REQ000985,Care Worker,Perth North,2024-07-04,Replacement,14,Filled,2024-07-26,102574,External,,22.0
+REQ000986,Care Worker,Perth North,2024-06-27,Replacement,12,Filled,2024-07-21,102575,External,,24.0
+REQ000987,Care Worker,Perth North,2024-07-11,Replacement,14,Filled,2024-08-09,102612,External,,29.0
+REQ000988,Administration,Perth North,2024-06-25,Replacement,16,Filled,2024-07-27,102576,External,,32.0
+REQ000989,Support Services,Kalgoorlie,2024-06-24,Replacement,11,Filled,2024-07-29,102577,External,,35.0
+REQ000990,Administration,Perth South,2024-06-28,Replacement,17,Filled,2024-08-18,102613,External,,51.0
+REQ000991,Care Worker,Bunbury,2024-07-05,Replacement,12,Filled,2024-08-16,102614,External,,42.0
+REQ000992,Enrolled Nurse,Perth South,2024-07-10,Replacement,14,Filled,2024-08-21,102615,External,,42.0
+REQ000993,Administration,Perth North,2024-07-01,Replacement,16,Filled,2024-07-29,102578,External,,28.0
+REQ000994,Support Services,Bunbury,2024-06-14,Replacement,11,Filled,2024-07-11,102579,External,,27.0
+REQ000995,Care Worker,Perth North,2024-06-29,Replacement,22,Filled,2024-07-21,102580,External,,22.0
+REQ000996,Registered Nurse,Broome,2024-07-16,Replacement,8,Filled,2024-10-06,102656,External,,82.0
+REQ000997,Registered Nurse,Broome,2024-07-24,Re-advertised,5,Filled,2025-02-10,102767,External,,201.0
+REQ000998,Registered Nurse,Perth North,2024-07-15,Replacement (internal move),18,Filled,2024-09-10,102640,External,,57.0
+REQ000999,Registered Nurse,Bunbury,2024-07-13,Replacement (internal move),7,Filled,2024-09-14,102641,External,,63.0
+REQ001000,Administration,Perth North,2024-07-03,Replacement (internal move),14,Filled,2024-08-01,102616,External,,29.0
+REQ001001,Registered Nurse,Perth South,2024-07-25,Re-advertised,10,Filled,2024-09-08,102642,External,,45.0
+REQ001002,Administration,Perth North,2024-07-11,Replacement (internal move),8,Filled,2024-08-29,102617,External,,49.0
+REQ001003,Care Worker,Perth North,2024-08-28,Re-advertised,17,Filled,2024-09-16,102422,Internal transfer,,19.0
+REQ001004,Care Worker,Geraldton,2024-08-13,Re-advertised,5,Filled,2024-08-31,102618,External,,18.0
+REQ001005,Registered Nurse,Perth North,2024-07-18,Replacement,11,Filled,2024-09-13,102643,External,,57.0
+REQ001006,Registered Nurse,Perth North,2024-07-25,Replacement,10,Filled,2024-09-12,102644,External,,49.0
+REQ001007,Registered Nurse,Perth South,2024-08-11,Replacement,14,Filled,2024-09-14,100493,Internal transfer,,34.0
+REQ001008,Registered Nurse,Geraldton,2024-08-03,Replacement,9,Filled,2024-09-15,100056,Internal transfer,,43.0
+REQ001009,Registered Nurse,Kalgoorlie,2024-08-04,Replacement,8,Cancelled,,,,2024-09-24,
+REQ001010,Midwife,Bunbury,2024-08-28,Replacement,10,Filled,2024-12-19,102707,External,,113.0
+REQ001011,Enrolled Nurse,Bunbury,2024-08-22,Replacement,10,Filled,2024-10-13,102657,External,,52.0
+REQ001012,Allied Health,Perth North,2024-08-25,Replacement,13,Cancelled,,,,2024-10-13,
+REQ001013,Administration,Perth North,2024-08-04,Replacement,9,Filled,2024-09-15,102645,External,,42.0
+REQ001014,Administration,Perth South,2024-08-20,Replacement,12,Cancelled,,,,2024-09-11,
+REQ001015,Registered Nurse,Geraldton,2024-08-05,Replacement,10,Filled,2024-12-20,102708,External,,137.0
+REQ001016,Allied Health,Perth North,2024-07-23,Replacement,15,Filled,2024-08-14,102619,External,,22.0
+REQ001017,Care Worker,Perth North,2024-07-25,Replacement,22,Filled,2024-08-23,102620,External,,29.0
+REQ001018,Enrolled Nurse,Perth North,2024-08-25,Replacement,21,Filled,2024-09-16,102646,External,,22.0
+REQ001019,Support Services,Perth South,2024-07-31,Replacement,12,Filled,2024-08-26,102621,External,,26.0
+REQ001020,Registered Nurse,Perth North,2024-08-06,Replacement,13,Filled,2024-09-14,102647,External,,39.0
+REQ001021,Care Worker,Perth North,2024-07-16,Replacement,12,Filled,2024-08-08,101268,Internal transfer,,23.0
+REQ001022,Registered Nurse,Perth South,2024-08-07,Replacement,11,Cancelled,,,,2024-09-01,
+REQ001023,Midwife,Bunbury,2024-07-18,Replacement,11,Filled,2024-10-31,102658,External,,105.0
+REQ001024,Registered Nurse,Geraldton,2024-09-10,Re-advertised,12,Filled,2024-11-15,102680,External,,66.0
+REQ001025,Registered Nurse,Kalgoorlie,2024-08-24,Replacement (internal move),13,Filled,2024-11-16,102681,External,,84.0
+REQ001026,Registered Nurse,Broome,2024-10-05,Re-advertised,4,Filled,2025-03-27,102802,External,,173.0
+REQ001027,Registered Nurse,Perth South,2024-08-15,Replacement (internal move),10,Filled,2024-10-19,102659,External,,65.0
+REQ001028,Care Worker,Broome,2024-08-19,Re-advertised,9,Cancelled,,,,2024-09-17,
+REQ001029,Care Worker,Bunbury,2024-08-08,Replacement (internal move),14,Filled,2024-09-02,102648,External,,25.0
+REQ001030,Registered Nurse,Perth South,2024-09-11,Replacement,24,Filled,2025-01-08,102743,External,,119.0
+REQ001031,Registered Nurse,Perth South,2024-09-06,Replacement,17,Filled,2024-10-11,102660,External,,35.0
+REQ001032,Enrolled Nurse,Perth North,2024-09-16,Replacement,12,Cancelled,,,,2024-11-05,
+REQ001033,Medical Practitioner,Perth South,2024-08-28,Replacement,14,Filled,2024-12-27,102709,External,,121.0
+REQ001034,Allied Health,Perth South,2024-09-17,Replacement,13,Filled,2024-11-29,102682,External,,73.0
+REQ001035,Care Worker,Perth North,2024-09-08,Replacement,9,Filled,2024-10-02,102661,External,,24.0
+REQ001036,Care Worker,Bunbury,2024-08-24,Replacement,10,Filled,2024-09-09,102649,External,,16.0
+REQ001037,Administration,Perth North,2024-09-12,Replacement,17,Filled,2024-10-08,102662,External,,26.0
+REQ001038,Administration,Bunbury,2024-09-16,Replacement,12,Filled,2024-10-13,102663,External,,27.0
+REQ001039,Support Services,Perth South,2024-08-27,Replacement,12,Filled,2024-09-24,102650,External,,28.0
+REQ001040,Support Services,Bunbury,2024-09-09,Replacement,10,Filled,2024-10-11,102664,External,,32.0
+REQ001041,Support Services,Kalgoorlie,2024-09-07,Replacement,6,Cancelled,,,,2024-09-18,
+REQ001042,Support Services,Broome,2024-09-02,Replacement,4,Filled,2024-12-14,102710,External,,103.0
+REQ001043,Registered Nurse,Perth South,2024-08-25,Replacement,13,Filled,2024-11-16,102683,External,,83.0
+REQ001044,Administration,Perth South,2024-09-10,Replacement,16,Filled,2024-10-23,102665,External,,43.0
+REQ001045,Medical Practitioner,Bunbury,2024-08-29,Replacement,9,Filled,2024-11-12,102684,External,,75.0
+REQ001046,Support Services,Perth North,2024-08-30,Replacement,16,Filled,2024-10-03,102666,External,,34.0
+REQ001047,Care Worker,Bunbury,2024-09-01,Replacement,14,Filled,2024-10-09,102667,External,,38.0
+REQ001048,Registered Nurse,Bunbury,2024-09-16,Replacement,12,Filled,2024-12-03,102711,External,,78.0
+REQ001049,Care Worker,Perth North,2024-09-02,Replacement,13,Filled,2024-10-13,102668,External,,41.0
+REQ001050,Enrolled Nurse,Bunbury,2024-09-12,Replacement,13,Filled,2025-01-27,102744,External,,137.0
+REQ001051,Registered Nurse,Bunbury,2024-09-01,Replacement,5,Filled,2024-11-22,102685,External,,82.0
+REQ001052,Care Worker,Bunbury,2024-09-24,Replacement,11,Filled,2024-10-27,102669,External,,33.0
+REQ001053,Support Services,Perth South,2024-09-24,Replacement,22,Filled,2024-10-05,102670,External,,11.0
+REQ001054,Administration,Perth South,2024-09-02,Replacement,15,Filled,2024-10-07,102671,External,,35.0
+REQ001055,Registered Nurse,Bunbury,2024-09-19,Replacement (internal move),10,Filled,2024-11-07,102686,External,,49.0
+REQ001056,Registered Nurse,Kalgoorlie,2024-09-08,Replacement (internal move),9,Cancelled,,,,2024-10-27,
+REQ001057,Registered Nurse,Perth South,2024-09-03,Replacement (internal move),21,Filled,2024-11-19,102687,External,,77.0
+REQ001058,Care Worker,Perth South,2024-09-20,Replacement (internal move),9,Filled,2024-10-20,102672,External,,30.0
+REQ001059,Care Worker,Geraldton,2024-09-16,Replacement (internal move),2,Filled,2024-10-23,102673,External,,37.0
+REQ001060,Registered Nurse,Kalgoorlie,2024-09-14,Replacement (internal move),11,Filled,2024-12-27,102712,External,,104.0
+REQ001061,Registered Nurse,Perth North,2024-09-15,Replacement (internal move),12,Filled,2024-11-15,102688,External,,61.0
+REQ001062,Registered Nurse,Kalgoorlie,2024-10-23,Re-advertised,8,Filled,2025-01-20,102745,External,,89.0
+REQ001063,Administration,Perth South,2024-10-09,Re-advertised,13,Filled,2024-11-15,102689,External,,37.0
+REQ001064,Registered Nurse,Perth South,2024-09-29,Re-advertised,13,Filled,2024-12-12,102713,External,,74.0
+REQ001065,Registered Nurse,Bunbury,2024-10-05,Replacement,8,Filled,2024-11-28,102690,External,,54.0
+REQ001066,Registered Nurse,Geraldton,2024-10-13,Replacement,9,Filled,2024-11-25,102691,External,,43.0
+REQ001067,Midwife,Perth North,2024-10-06,Replacement,13,Filled,2024-12-14,102714,External,,69.0
+REQ001068,Allied Health,Bunbury,2024-09-17,Replacement,10,Filled,2024-12-09,102715,External,,83.0
+REQ001069,Care Worker,Perth South,2024-10-20,Replacement,14,Filled,2024-11-30,101379,Internal transfer,,41.0
+REQ001070,Care Worker,Geraldton,2024-09-26,Replacement,10,Filled,2024-10-18,101389,Internal transfer,,22.0
+REQ001071,Care Worker,Bunbury,2024-10-06,Replacement,8,Filled,2024-11-14,102692,External,,39.0
+REQ001072,Care Worker,Geraldton,2024-09-28,Replacement,9,Filled,2024-11-10,102693,External,,43.0
+REQ001073,Care Worker,Geraldton,2024-10-15,Replacement,7,Filled,2024-11-25,102694,External,,41.0
+REQ001074,Care Worker,Broome,2024-10-08,Replacement,8,Filled,2024-12-04,102716,External,,57.0
+REQ001075,Administration,Perth North,2024-10-03,Replacement,15,Filled,2024-10-24,102674,External,,21.0
+REQ001076,Care Worker,Perth North,2024-10-04,Replacement,15,Filled,2024-10-19,102675,External,,15.0
+REQ001077,Care Worker,Perth South,2024-10-10,Replacement,20,Filled,2024-12-02,102717,External,,53.0
+REQ001078,Registered Nurse,Perth North,2024-09-20,Replacement,15,Cancelled,,,,2024-11-16,
+REQ001079,Allied Health,Perth North,2024-10-23,Replacement,19,Filled,2024-12-02,102718,External,,40.0
+REQ001080,Allied Health,Bunbury,2024-10-03,Replacement,23,Filled,2025-03-25,102803,External,,173.0
+REQ001081,Care Worker,Bunbury,2024-10-05,Replacement,12,Filled,2024-11-01,102695,External,,27.0
+REQ001082,Registered Nurse,Kalgoorlie,2024-09-18,Replacement,4,Filled,2024-11-29,102696,External,,72.0
+REQ001083,Enrolled Nurse,Broome,2024-10-02,Replacement,7,Cancelled,,,,2024-11-03,
+REQ001084,Care Worker,Perth South,2024-09-29,Replacement,15,Filled,2024-11-22,102697,External,,54.0
+REQ001085,Care Worker,Geraldton,2024-10-05,Replacement,10,Filled,2024-11-01,101084,Internal transfer,,27.0
+REQ001086,Support Services,Perth North,2024-09-13,Replacement,10,Filled,2024-11-11,101779,Internal transfer,,59.0
+REQ001087,Medical Practitioner,Perth South,2024-09-24,Replacement,21,Filled,2024-12-10,102719,External,,77.0
+REQ001088,Care Worker,Perth North,2024-10-16,Replacement,14,Filled,2024-11-10,102698,External,,25.0
+REQ001089,Care Worker,Bunbury,2024-10-04,Replacement,7,Cancelled,,,,2024-10-11,
+REQ001090,Care Worker,Perth South,2024-10-22,Replacement,15,Filled,2024-11-20,102699,External,,29.0
+REQ001091,Registered Nurse,Perth North,2024-10-18,Replacement (internal move),16,Filled,2024-12-05,102720,External,,48.0
+REQ001092,Allied Health,Perth North,2024-11-16,Re-advertised,16,Filled,2024-12-23,102721,External,,37.0
+REQ001093,Care Worker,Broome,2024-10-18,Replacement (internal move),6,Filled,2025-01-08,102243,Internal transfer,,82.0
+REQ001094,Care Worker,Bunbury,2024-11-11,Re-advertised,10,Filled,2024-12-06,102722,External,,25.0
+REQ001095,Registered Nurse,Perth North,2024-10-17,Replacement,13,Filled,2024-11-15,102700,External,,29.0
+REQ001096,Registered Nurse,Kalgoorlie,2024-10-27,Replacement,8,Filled,2024-12-01,102723,External,,35.0
+REQ001097,Registered Nurse,Perth North,2024-11-19,Replacement,9,Cancelled,,,,2025-01-27,
+REQ001098,Enrolled Nurse,Perth South,2024-10-22,Replacement,17,Filled,2024-12-09,102724,External,,48.0
+REQ001099,Enrolled Nurse,Geraldton,2024-10-16,Replacement,10,Cancelled,,,,2024-11-08,
+REQ001100,Medical Practitioner,Kalgoorlie,2024-10-24,Replacement,9,Filled,2025-04-10,102817,External,,168.0
+REQ001101,Allied Health,Kalgoorlie,2024-11-15,Replacement,3,Filled,2025-01-30,102746,External,,76.0
+REQ001102,Care Worker,Perth North,2024-10-29,Replacement,15,Filled,2024-12-02,102725,External,,34.0
+REQ001103,Care Worker,Perth North,2024-11-23,Replacement,19,Filled,2025-01-04,102747,External,,42.0
+REQ001104,Administration,Perth South,2024-10-26,Replacement,12,Filled,2024-11-19,102701,External,,24.0
+REQ001105,Administration,Broome,2024-10-29,Replacement,7,Filled,2024-12-18,102726,External,,50.0
+REQ001106,Support Services,Kalgoorlie,2024-11-05,Replacement,5,Filled,2024-12-25,102394,Internal transfer,,50.0
+REQ001107,Administration,Bunbury,2024-11-24,Replacement,9,Filled,2025-01-05,102748,External,,42.0
+REQ001108,Support Services,Perth North,2024-10-28,Replacement,12,Filled,2024-11-29,102702,External,,32.0
+REQ001109,Care Worker,Perth South,2024-11-08,Replacement,15,Filled,2024-11-25,102703,External,,17.0
+REQ001110,Care Worker,Geraldton,2024-10-27,Replacement,9,Filled,2024-12-07,102727,External,,41.0
+REQ001111,Registered Nurse,Perth South,2024-11-18,Replacement,15,Filled,2024-12-30,102728,External,,42.0
+REQ001112,Enrolled Nurse,Perth North,2024-10-22,Replacement,17,Filled,2024-11-09,102704,External,,18.0
+REQ001113,Administration,Perth North,2024-10-24,Replacement,11,Filled,2024-12-08,102729,External,,45.0
+REQ001114,Care Worker,Perth South,2024-11-13,Replacement,21,Filled,2024-12-24,102730,External,,41.0
+REQ001115,Registered Nurse,Geraldton,2024-11-11,Replacement,13,Filled,2025-02-04,102768,Graduate program,,85.0
+REQ001116,Care Worker,Perth North,2024-10-27,Replacement,20,Filled,2024-11-26,102705,External,,30.0
+REQ001117,Registered Nurse,Bunbury,2024-10-28,Replacement,6,Filled,2024-12-26,102731,External,,59.0
+REQ001118,Support Services,Bunbury,2024-10-28,Replacement,9,Cancelled,,,,2024-11-25,
+REQ001119,Registered Nurse,Broome,2024-11-21,Replacement,4,Filled,2025-01-18,102749,External,,58.0
+REQ001120,Registered Nurse,Perth North,2024-10-31,Replacement,20,Filled,2025-01-01,102750,External,,62.0
+REQ001121,Care Worker,Broome,2024-11-30,Replacement (internal move),4,Filled,2025-05-11,102842,External,,162.0
+REQ001122,Registered Nurse,Perth North,2024-12-23,Re-advertised,13,Filled,2025-02-04,102769,Graduate program,,43.0
+REQ001123,Care Worker,Perth North,2024-11-01,Replacement (internal move),20,Filled,2024-12-01,102732,External,,30.0
+REQ001124,Support Services,Geraldton,2024-11-11,Replacement (internal move),12,Filled,2024-12-01,102733,External,,20.0
+REQ001125,Support Services,Bunbury,2024-12-24,Re-advertised,12,Filled,2025-01-21,102751,External,,28.0
+REQ001126,Registered Nurse,Perth South,2024-11-30,Replacement,7,Filled,2024-12-18,102594,Internal transfer,,18.0
+REQ001127,Registered Nurse,Perth South,2024-11-30,Replacement,18,Filled,2024-12-28,102734,External,,28.0
+REQ001128,Registered Nurse,Perth South,2024-12-09,Replacement,13,Filled,2025-01-23,100021,Internal transfer,,45.0
+REQ001129,Registered Nurse,Bunbury,2024-11-26,Replacement,12,Filled,2025-01-11,102752,External,,46.0
+REQ001130,Registered Nurse,Kalgoorlie,2024-12-08,Replacement,11,Filled,2025-02-11,102770,External,,65.0
+REQ001131,Registered Nurse,Kalgoorlie,2024-12-15,Replacement,10,Filled,2025-02-12,102771,External,,59.0
+REQ001132,Enrolled Nurse,Perth South,2024-11-29,Replacement,10,Filled,2025-01-27,102753,External,,59.0
+REQ001133,Medical Practitioner,Perth South,2024-12-11,Replacement,13,Filled,2025-01-18,102754,External,,38.0
+REQ001134,Allied Health,Geraldton,2024-12-11,Replacement,11,Cancelled,,,,2025-02-20,
+REQ001135,Allied Health,Kalgoorlie,2024-12-20,Replacement,12,Cancelled,,,,2025-03-04,
+REQ001136,Care Worker,Perth South,2024-12-02,Replacement,18,Filled,2024-12-29,102735,External,,27.0
+REQ001137,Care Worker,Bunbury,2024-12-09,Replacement,13,Filled,2024-12-27,102736,External,,18.0
+REQ001138,Care Worker,Broome,2024-11-25,Replacement,6,Cancelled,,,,2024-12-22,
+REQ001139,Care Worker,Geraldton,2024-11-23,Replacement,10,Filled,2024-12-21,102737,External,,28.0
+REQ001140,Administration,Kalgoorlie,2024-12-22,Replacement,10,Filled,2025-01-05,102755,External,,14.0
+REQ001141,Support Services,Bunbury,2024-12-08,Replacement,4,Filled,2024-12-20,102738,External,,12.0
+REQ001142,Support Services,Kalgoorlie,2024-12-11,Replacement,4,Cancelled,,,,2025-01-07,
+REQ001143,Support Services,Perth North,2024-11-24,Replacement,13,Filled,2024-12-26,102739,External,,32.0
+REQ001144,Administration,Perth South,2024-12-20,Replacement,16,Filled,2025-01-15,102756,External,,26.0
+REQ001145,Registered Nurse,Perth North,2024-11-20,Replacement,15,Filled,2024-12-28,102740,External,,38.0
+REQ001146,Registered Nurse,Bunbury,2024-12-07,Replacement,13,Filled,2025-02-04,102772,Graduate program,,59.0
+REQ001147,Care Worker,Perth North,2024-12-16,Replacement,23,Filled,2025-01-07,102757,External,,22.0
+REQ001148,Registered Nurse,Perth South,2024-12-10,Replacement,18,Filled,2025-01-07,102758,External,,28.0
+REQ001149,Support Services,Kalgoorlie,2024-12-04,Replacement,7,Filled,2025-01-10,102759,External,,37.0
+REQ001150,Enrolled Nurse,Perth North,2024-11-30,Replacement,23,Filled,2024-12-18,102741,External,,18.0
+REQ001151,Care Worker,Geraldton,2024-12-23,Replacement,5,Filled,2025-01-19,102760,External,,27.0
+REQ001152,Care Worker,Perth South,2024-12-08,Replacement,16,Filled,2024-12-21,102742,External,,13.0
+REQ001153,Care Worker,Broome,2024-12-13,Replacement,6,Filled,2025-01-17,102761,External,,35.0
+REQ001154,Administration,Broome,2024-12-04,Replacement,6,Filled,2025-02-10,102773,External,,68.0
+REQ001155,Care Worker,Perth South,2024-11-22,Replacement,15,Filled,2025-01-08,102762,External,,47.0
+REQ001156,Care Worker,Perth South,2024-12-24,Replacement,11,Filled,2025-01-17,102763,External,,24.0
+REQ001157,Care Worker,Broome,2024-11-21,Replacement,5,Cancelled,,,,2024-12-16,
+REQ001158,Support Services,Perth South,2024-12-25,Replacement (internal move),15,Filled,2025-02-09,102774,External,,46.0
+REQ001159,Registered Nurse,Kalgoorlie,2024-12-18,Replacement (internal move),13,Filled,2025-04-03,102818,External,,106.0
+REQ001160,Care Worker,Broome,2025-01-13,Re-advertised,3,Filled,2025-04-26,102032,Internal transfer,,103.0
+REQ001161,Care Worker,Broome,2025-01-13,Re-advertised,6,Filled,2025-02-20,102775,External,,38.0
+REQ001162,Registered Nurse,Perth South,2025-01-13,Replacement,12,Filled,2025-02-04,102776,Graduate program,,22.0
+REQ001163,Registered Nurse,Perth North,2025-01-12,Replacement,18,Filled,2025-02-04,102777,Graduate program,,23.0
+REQ001164,Registered Nurse,Perth North,2025-01-18,Replacement,19,Filled,2025-02-04,102778,Graduate program,,17.0
+REQ001165,Registered Nurse,Perth South,2024-12-19,Replacement,16,Filled,2025-02-04,102779,Graduate program,,47.0
+REQ001166,Registered Nurse,Perth South,2024-12-23,Replacement,15,Cancelled,,,,2025-01-10,
+REQ001167,Registered Nurse,Broome,2024-12-25,Replacement,6,Filled,2025-02-06,102780,External,,43.0
+REQ001168,Medical Practitioner,Kalgoorlie,2025-01-28,Replacement,10,Cancelled,,,,2025-06-16,
+REQ001169,Care Worker,Kalgoorlie,2025-01-08,Replacement,4,Filled,2025-03-10,102804,External,,61.0
+REQ001170,Administration,Geraldton,2025-01-02,Replacement,6,Filled,2025-02-27,102781,External,,56.0
+REQ001171,Care Worker,Perth South,2024-12-27,Replacement,16,Filled,2025-01-25,102764,External,,29.0
+REQ001172,Care Worker,Perth North,2025-01-19,Replacement,13,Filled,2025-02-28,102782,External,,40.0
+REQ001173,Care Worker,Perth North,2025-01-09,Replacement,17,Filled,2025-02-05,102783,External,,27.0
+REQ001174,Care Worker,Broome,2025-01-06,Replacement,6,Filled,2025-02-22,102784,External,,47.0
+REQ001175,Registered Nurse,Perth South,2024-12-27,Replacement,18,Filled,2025-02-04,102785,Graduate program,,39.0
+REQ001176,Enrolled Nurse,Bunbury,2025-01-22,Replacement,9,Filled,2025-02-18,102786,External,,27.0
+REQ001177,Allied Health,Bunbury,2024-12-18,Replacement,8,Filled,2025-03-31,100943,Internal transfer,,103.0
+REQ001178,Care Worker,Bunbury,2025-01-03,Replacement,11,Filled,2025-02-05,102787,External,,33.0
+REQ001179,Registered Nurse,Perth South,2025-01-04,Replacement,12,Filled,2025-02-04,102788,Graduate program,,31.0
+REQ001180,Registered Nurse,Kalgoorlie,2024-12-30,Replacement,14,Cancelled,,,,2025-03-12,
+REQ001181,Care Worker,Perth North,2025-01-06,Replacement,20,Filled,2025-02-04,102789,External,,29.0
+REQ001182,Enrolled Nurse,Perth North,2025-01-15,Replacement,13,Filled,2025-03-17,102805,External,,61.0
+REQ001183,Enrolled Nurse,Perth South,2025-01-15,Replacement,16,Filled,2025-03-04,102806,External,,48.0
+REQ001184,Enrolled Nurse,Perth South,2025-01-15,Replacement,18,Filled,2025-02-15,102790,External,,31.0
+REQ001185,Enrolled Nurse,Bunbury,2025-01-15,Replacement,7,Filled,2025-03-09,102807,External,,53.0
+REQ001186,Enrolled Nurse,Bunbury,2025-01-15,Replacement,15,Filled,2025-02-25,102791,External,,41.0
+REQ001187,Enrolled Nurse,Broome,2025-01-15,Replacement,8,Filled,2025-07-01,102885,External,,167.0
+REQ001188,Enrolled Nurse,Perth South,2025-01-15,Replacement,16,Filled,2025-02-02,102792,External,,18.0
+REQ001189,Enrolled Nurse,Bunbury,2025-01-15,Replacement,8,Filled,2025-02-16,102793,External,,32.0
+REQ001190,Care Worker,Kalgoorlie,2025-01-08,Replacement (internal move),5,Filled,2025-03-21,102808,External,,72.0
+REQ001191,Registered Nurse,Perth North,2025-02-23,Re-advertised,10,Filled,2025-02-23,102794,Graduate program,,0.0
+REQ001192,Registered Nurse,Perth North,2025-01-23,Replacement (internal move),17,Filled,2025-02-04,102795,Graduate program,,12.0
+REQ001193,Registered Nurse,Perth South,2025-02-22,Re-advertised,14,Filled,2025-02-22,102796,Graduate program,,0.0
+REQ001194,Registered Nurse,Bunbury,2025-01-30,Replacement,15,Filled,2025-02-04,102797,Graduate program,,5.0
+REQ001195,Registered Nurse,Bunbury,2025-01-30,Replacement,19,Filled,2025-02-04,102798,Graduate program,,5.0
+REQ001196,Registered Nurse,Bunbury,2025-01-25,Replacement,15,Filled,2025-02-04,102799,Graduate program,,10.0
+REQ001197,Enrolled Nurse,Perth South,2025-02-03,Replacement,14,Filled,2025-03-15,102809,External,,40.0
+REQ001198,Allied Health,Bunbury,2025-02-18,Replacement,8,Filled,2025-04-04,102819,External,,45.0
+REQ001199,Administration,Perth North,2025-02-12,Replacement,10,Filled,2025-03-11,102810,External,,27.0
+REQ001200,Administration,Perth North,2025-02-18,Replacement,11,Filled,2025-03-17,102811,External,,27.0
+REQ001201,Care Worker,Broome,2025-02-05,Replacement,6,Filled,2025-03-03,102812,External,,26.0
+REQ001202,Support Services,Perth South,2025-02-11,Replacement,15,Filled,2025-03-06,102813,External,,23.0
+REQ001203,Administration,Kalgoorlie,2025-02-10,Replacement,4,Filled,2025-04-11,102820,External,,60.0
+REQ001204,Registered Nurse,Perth South,2025-02-07,Replacement,16,Filled,2025-02-07,102800,Graduate program,,0.0
+REQ001205,Registered Nurse,Bunbury,2025-02-03,Replacement,14,Filled,2025-02-04,102801,Graduate program,,1.0
+REQ001206,Registered Nurse,Kalgoorlie,2025-01-23,Replacement,8,Filled,2025-06-11,102865,External,,139.0
+REQ001207,Medical Practitioner,Perth North,2025-02-07,Replacement,15,Filled,2025-08-13,102918,External,,187.0
+REQ001208,Care Worker,Geraldton,2025-02-01,Replacement,16,Filled,2025-04-01,102821,External,,59.0
+REQ001209,Administration,Perth South,2025-02-10,Replacement,12,Filled,2025-04-12,102822,External,,61.0
+REQ001210,Allied Health,Geraldton,2025-03-21,Re-advertised,12,Filled,2025-05-21,102843,External,,61.0
+REQ001211,Registered Nurse,Perth South,2025-03-07,Replacement,17,Filled,2025-04-13,102823,External,,37.0
+REQ001212,Registered Nurse,Perth South,2025-03-18,Replacement,20,Filled,2025-04-20,102824,External,,33.0
+REQ001213,Registered Nurse,Geraldton,2025-02-24,Replacement,5,Filled,2025-04-29,102825,External,,64.0
+REQ001214,Registered Nurse,Bunbury,2025-02-19,Replacement,14,Filled,2025-06-11,102866,External,,112.0
+REQ001215,Registered Nurse,Broome,2025-03-02,Replacement,6,Cancelled,,,,2025-05-21,
+REQ001216,Midwife,Perth North,2025-03-20,Replacement,10,Filled,2025-05-12,102844,External,,53.0
+REQ001217,Midwife,Broome,2025-02-21,Replacement,7,Filled,2025-04-03,102826,External,,41.0
+REQ001218,Medical Practitioner,Perth North,2025-02-20,Replacement,15,Filled,2025-04-19,102827,External,,58.0
+REQ001219,Medical Practitioner,Perth South,2025-02-22,Replacement,19,Filled,2025-04-24,102828,External,,61.0
+REQ001220,Medical Practitioner,Perth South,2025-03-07,Replacement,14,Filled,2025-05-17,102845,External,,71.0
+REQ001221,Allied Health,Broome,2025-03-05,Replacement,2,Cancelled,,,,2025-03-25,
+REQ001222,Allied Health,Broome,2025-03-10,Replacement,5,Filled,2025-05-25,102846,External,,76.0
+REQ001223,Care Worker,Broome,2025-03-09,Replacement,4,Filled,2025-05-11,102847,External,,63.0
+REQ001224,Care Worker,Broome,2025-03-14,Replacement,5,Filled,2025-04-10,102829,External,,27.0
+REQ001225,Administration,Perth North,2025-02-17,Replacement,21,Filled,2025-03-20,102814,External,,31.0
+REQ001226,Administration,Perth South,2025-03-23,Replacement,15,Filled,2025-04-10,102830,External,,18.0
+REQ001227,Administration,Kalgoorlie,2025-03-30,Replacement,10,Filled,2025-04-10,102222,Internal transfer,,11.0
+REQ001228,Support Services,Bunbury,2025-03-04,Replacement,10,Filled,2025-04-19,102831,External,,46.0
+REQ001229,Administration,Broome,2025-03-06,Replacement,9,Filled,2025-04-02,102832,External,,27.0
+REQ001230,Support Services,Kalgoorlie,2025-03-12,Replacement,12,Filled,2025-04-10,102833,External,,29.0
+REQ001231,Support Services,Bunbury,2025-02-18,Replacement,11,Filled,2025-03-04,102815,External,,14.0
+REQ001232,Support Services,Perth North,2025-03-25,Replacement,22,Filled,2025-05-05,102848,External,,41.0
+REQ001233,Registered Nurse,Perth North,2025-02-17,Replacement,15,Filled,2025-04-26,102834,External,,68.0
+REQ001234,Allied Health,Broome,2025-03-10,Replacement,11,Filled,2025-05-25,102849,External,,76.0
+REQ001235,Registered Nurse,Bunbury,2025-03-02,Replacement,10,Filled,2025-05-23,102850,External,,82.0
+REQ001236,Support Services,Perth North,2025-02-19,Replacement,12,Filled,2025-03-01,102816,External,,10.0
+REQ001237,Midwife,Geraldton,2025-03-08,Replacement,10,Filled,2025-06-08,102867,External,,92.0
+REQ001238,Allied Health,Perth North,2025-03-07,Replacement,18,Filled,2025-05-04,102851,External,,58.0
+REQ001239,Care Worker,Perth North,2025-03-16,Replacement,13,Filled,2025-04-10,102835,External,,25.0
+REQ001240,Care Worker,Geraldton,2025-03-17,Replacement,11,Filled,2025-04-21,102836,External,,35.0
+REQ001241,Care Worker,Kalgoorlie,2025-02-19,Replacement,10,Cancelled,,,,2025-03-08,
+REQ001242,Care Worker,Perth North,2025-03-26,Replacement,9,Filled,2025-04-20,102837,External,,25.0
+REQ001243,Registered Nurse,Kalgoorlie,2025-03-05,Replacement,6,Filled,2025-08-24,102919,External,,172.0
+REQ001244,Registered Nurse,Perth North,2025-02-26,Replacement,12,Filled,2025-04-04,102838,External,,37.0
+REQ001245,Care Worker,Perth South,2025-03-05,Replacement,16,Filled,2025-03-23,101152,Internal transfer,,18.0
+REQ001246,Care Worker,Bunbury,2025-03-06,Replacement,12,Filled,2025-04-04,102839,External,,29.0
+REQ001247,Enrolled Nurse,Bunbury,2025-03-23,Replacement,20,Filled,2025-06-09,102868,External,,78.0
+REQ001248,Allied Health,Kalgoorlie,2025-04-03,Re-advertised,10,Filled,2025-06-19,102869,External,,77.0
+REQ001249,Allied Health,Perth North,2025-03-31,Replacement (internal move),23,Cancelled,,,,2025-05-05,
+REQ001250,Registered Nurse,Kalgoorlie,2025-04-14,Re-advertised,3,Filled,2025-06-25,102870,External,,72.0
+REQ001251,Allied Health,Broome,2025-04-13,Re-advertised,5,Filled,2025-05-27,102852,External,,44.0
+REQ001252,Care Worker,Kalgoorlie,2025-04-04,Re-advertised,7,Cancelled,,,,2025-04-27,
+REQ001253,Care Worker,Perth North,2025-03-23,Replacement (internal move),18,Filled,2025-06-11,101227,Internal transfer,,80.0
+REQ001254,Registered Nurse,Bunbury,2025-04-07,Replacement,20,Filled,2025-05-30,102853,External,,53.0
+REQ001255,Registered Nurse,Broome,2025-04-06,Replacement,4,Filled,2025-06-28,102007,Internal transfer,,83.0
+REQ001256,Enrolled Nurse,Bunbury,2025-04-06,Replacement,10,Filled,2025-07-29,102886,External,,114.0
+REQ001257,Enrolled Nurse,Kalgoorlie,2025-04-10,Replacement,7,Filled,2025-06-13,102871,External,,64.0
+REQ001258,Care Worker,Perth North,2025-04-14,Replacement,22,Filled,2025-06-20,102872,External,,67.0
+REQ001259,Care Worker,Perth South,2025-04-25,Replacement,13,Filled,2025-05-17,102854,External,,22.0
+REQ001260,Care Worker,Bunbury,2025-04-13,Replacement,11,Filled,2025-06-16,102873,External,,64.0
+REQ001261,Care Worker,Geraldton,2025-03-24,Replacement,9,Filled,2025-05-20,102855,External,,57.0
+REQ001262,Registered Nurse,Perth South,2025-04-13,Replacement,19,Filled,2025-07-03,102887,External,,81.0
+REQ001263,Support Services,Perth South,2025-04-02,Replacement,16,Filled,2025-04-18,102840,External,,16.0
+REQ001264,Enrolled Nurse,Perth North,2025-04-06,Replacement,15,Filled,2025-05-17,102856,External,,41.0
+REQ001265,Support Services,Perth South,2025-04-12,Replacement,18,Filled,2025-05-05,102857,External,,23.0
+REQ001266,Support Services,Perth North,2025-04-01,Replacement,23,Filled,2025-05-15,102858,External,,44.0
+REQ001267,Care Worker,Perth North,2025-04-09,Replacement,15,Filled,2025-04-26,102841,External,,17.0
+REQ001268,Enrolled Nurse,Perth South,2025-03-31,Replacement,13,Filled,2025-07-30,102888,External,,121.0
+REQ001269,Registered Nurse,Perth South,2025-03-19,Replacement,14,Filled,2025-06-04,102874,External,,77.0
+REQ001270,Care Worker,Perth North,2025-04-26,Replacement (internal move),22,Filled,2025-05-20,102859,External,,24.0
+REQ001271,Administration,Bunbury,2025-04-10,Replacement (internal move),13,Filled,2025-05-13,102860,External,,33.0
+REQ001272,Care Worker,Kalgoorlie,2025-06-03,Re-advertised,9,Filled,2025-07-09,102889,External,,36.0
+REQ001273,Registered Nurse,Perth North,2025-05-09,Replacement,16,Filled,2025-08-21,102920,External,,104.0
+REQ001274,Registered Nurse,Perth South,2025-04-15,Replacement,8,Filled,2025-06-05,102875,External,,51.0
+REQ001275,Registered Nurse,Bunbury,2025-04-13,Replacement,15,Filled,2025-07-29,101960,Internal transfer,,107.0
+REQ001276,Enrolled Nurse,Broome,2025-05-28,Replacement,7,Filled,2025-07-23,102438,Internal transfer,,56.0
+REQ001277,Medical Practitioner,Perth South,2025-05-10,Replacement,20,Filled,2025-08-10,102921,External,,92.0
+REQ001278,Allied Health,Kalgoorlie,2025-05-11,Replacement,11,Filled,2025-08-20,102922,External,,101.0
+REQ001279,Allied Health,Broome,2025-05-06,Replacement,6,Filled,2025-07-20,102890,External,,75.0
+REQ001280,Care Worker,Perth South,2025-04-26,Replacement,11,Filled,2025-05-19,102861,External,,23.0
+REQ001281,Care Worker,Perth South,2025-05-09,Replacement,17,Filled,2025-05-18,102862,External,,9.0
+REQ001282,Administration,Perth South,2025-05-14,Replacement,14,Filled,2025-06-01,102876,External,,18.0
+REQ001283,Registered Nurse,Broome,2025-05-06,Replacement,5,Filled,2025-06-06,102877,External,,31.0
+REQ001284,Registered Nurse,Geraldton,2025-05-01,Replacement,10,Filled,2025-07-20,102891,External,,80.0
+REQ001285,Care Worker,Perth South,2025-04-15,Replacement,15,Filled,2025-05-19,102863,External,,34.0
+REQ001286,Administration,Kalgoorlie,2025-05-13,Replacement,8,Filled,2025-07-06,102892,External,,54.0
+REQ001287,Registered Nurse,Perth South,2025-05-29,Replacement,20,Filled,2025-07-08,102893,External,,40.0
+REQ001288,Enrolled Nurse,Perth North,2025-05-01,Replacement,13,Filled,2025-06-30,102878,External,,60.0
+REQ001289,Support Services,Perth North,2025-05-22,Replacement,9,Filled,2025-06-09,102879,External,,18.0
+REQ001290,Care Worker,Kalgoorlie,2025-05-23,Replacement,6,Filled,2025-07-19,102894,External,,57.0
+REQ001291,Care Worker,Perth South,2025-05-01,Replacement,12,Filled,2025-05-29,102864,External,,28.0
+REQ001292,Registered Nurse,Geraldton,2025-04-28,Replacement,12,Filled,2025-06-16,102880,External,,49.0
+REQ001293,Allied Health,Perth North,2025-06-04,Re-advertised,14,Filled,2025-08-04,102923,External,,61.0
+REQ001294,Registered Nurse,Perth North,2025-06-02,Replacement,20,Filled,2025-07-24,102895,External,,52.0
+REQ001295,Registered Nurse,Perth South,2025-06-05,Replacement,14,Filled,2025-09-07,102960,External,,94.0
+REQ001296,Registered Nurse,Perth South,2025-05-24,Replacement,18,Filled,2025-06-24,102881,External,,31.0
+REQ001297,Allied Health,Perth South,2025-06-05,Replacement,17,Cancelled,,,,2025-10-13,
+REQ001298,Care Worker,Perth South,2025-05-31,Replacement,22,Filled,2025-07-02,102896,External,,32.0
+REQ001299,Care Worker,Perth South,2025-05-31,Replacement,19,Filled,2025-06-21,101078,Internal transfer,,21.0
+REQ001300,Care Worker,Bunbury,2025-06-11,Replacement,12,Filled,2025-07-16,102897,External,,35.0
+REQ001301,Administration,Perth North,2025-06-02,Replacement,19,Filled,2025-06-17,102882,External,,15.0
+REQ001302,Support Services,Perth South,2025-05-15,Replacement,23,Filled,2025-06-01,102883,External,,17.0
+REQ001303,Support Services,Kalgoorlie,2025-06-04,Replacement,8,Filled,2025-07-02,102898,External,,28.0
+REQ001304,Registered Nurse,Perth North,2025-06-16,Replacement,12,Filled,2025-07-22,102899,External,,36.0
+REQ001305,Care Worker,Perth South,2025-06-02,Replacement,26,Cancelled,,,,2025-07-04,
+REQ001306,Care Worker,Perth South,2025-06-09,Replacement,15,Filled,2025-07-14,102900,External,,35.0
+REQ001307,Care Worker,Perth North,2025-06-04,Replacement,11,Filled,2025-07-02,102901,External,,28.0
+REQ001308,Allied Health,Perth South,2025-05-22,Replacement,9,Filled,2025-07-06,100953,Internal transfer,,45.0
+REQ001309,Care Worker,Perth South,2025-06-06,Replacement,21,Filled,2025-06-28,102884,External,,22.0
+REQ001310,Medical Practitioner,Kalgoorlie,2025-07-22,Re-advertised,8,Filled,2026-02-16,103087,External,,209.0
+REQ001311,Care Worker,Perth South,2025-06-11,Replacement (internal move),11,Filled,2025-07-04,102902,External,,23.0
+REQ001312,Registered Nurse,Perth North,2025-06-28,Replacement (internal move),22,Cancelled,,,,2025-08-20,
+REQ001313,Care Worker,Perth North,2025-06-21,Replacement (internal move),16,Filled,2025-07-01,102903,External,,10.0
+REQ001314,Registered Nurse,Perth North,2025-07-13,New position,16,Filled,2025-08-23,102924,External,,41.0
+REQ001315,Registered Nurse,Perth North,2025-07-03,New position,15,Filled,2025-08-26,102925,External,,54.0
+REQ001316,Registered Nurse,Perth North,2025-07-05,New position,12,Filled,2025-07-24,102904,External,,19.0
+REQ001317,Registered Nurse,Perth North,2025-07-12,New position,9,Filled,2025-08-07,102926,External,,26.0
+REQ001318,Registered Nurse,Perth North,2025-07-13,New position,23,Filled,2025-08-08,102927,External,,26.0
+REQ001319,Registered Nurse,Perth North,2025-07-17,New position,15,Filled,2025-09-17,102961,External,,62.0
+REQ001320,Registered Nurse,Perth South,2025-07-01,New position,20,Cancelled,,,,2025-09-16,
+REQ001321,Registered Nurse,Perth South,2025-07-12,New position,18,Filled,2025-08-19,102928,External,,38.0
+REQ001322,Registered Nurse,Perth South,2025-07-14,New position,16,Filled,2025-09-10,102962,External,,58.0
+REQ001323,Registered Nurse,Perth South,2025-07-10,New position,20,Filled,2025-08-14,102929,External,,35.0
+REQ001324,Registered Nurse,Perth South,2025-07-08,New position,16,Filled,2025-08-29,102930,External,,52.0
+REQ001325,Registered Nurse,Perth South,2025-07-15,New position,19,Filled,2025-08-15,102931,External,,31.0
+REQ001326,Registered Nurse,Bunbury,2025-07-18,New position,8,Filled,2025-10-01,102986,External,,75.0
+REQ001327,Registered Nurse,Bunbury,2025-07-07,New position,10,Filled,2025-08-15,102932,External,,39.0
+REQ001328,Registered Nurse,Bunbury,2025-07-03,New position,12,Filled,2025-08-10,102933,External,,38.0
+REQ001329,Registered Nurse,Bunbury,2025-07-10,New position,6,Filled,2025-09-17,102963,External,,69.0
+REQ001330,Registered Nurse,Geraldton,2025-07-20,New position,6,Filled,2025-09-04,102964,External,,46.0
+REQ001331,Registered Nurse,Geraldton,2025-07-14,New position,8,Filled,2025-10-02,100212,Internal transfer,,80.0
+REQ001332,Registered Nurse,Kalgoorlie,2025-07-16,New position,4,Cancelled,,,,2025-09-06,
+REQ001333,Registered Nurse,Kalgoorlie,2025-07-09,New position,5,Cancelled,,,,2025-09-02,
+REQ001334,Registered Nurse,Broome,2025-07-20,New position,7,Filled,2025-08-26,102934,External,,37.0
+REQ001335,Registered Nurse,Broome,2025-07-02,New position,6,Cancelled,,,,2025-08-19,
+REQ001336,Enrolled Nurse,Perth North,2025-07-08,New position,16,Filled,2025-08-24,102935,External,,47.0
+REQ001337,Enrolled Nurse,Perth South,2025-07-16,New position,17,Filled,2025-08-13,100778,Internal transfer,,28.0
+REQ001338,Enrolled Nurse,Bunbury,2025-07-08,New position,11,Cancelled,,,,2025-08-14,
+REQ001339,Medical Practitioner,Perth North,2025-07-09,New position,12,Filled,2025-08-28,102936,External,,50.0
+REQ001340,Medical Practitioner,Perth South,2025-07-15,New position,11,Filled,2025-11-19,103017,External,,127.0
+REQ001341,Medical Practitioner,Bunbury,2025-07-14,New position,8,Filled,2026-01-11,103064,External,,181.0
+REQ001342,Allied Health,Perth North,2025-07-07,New position,13,Filled,2025-08-31,102937,External,,55.0
+REQ001343,Allied Health,Perth North,2025-07-14,New position,17,Filled,2025-09-15,102965,External,,63.0
+REQ001344,Allied Health,Perth South,2025-07-12,New position,20,Filled,2025-08-25,102938,External,,44.0
+REQ001345,Allied Health,Bunbury,2025-07-16,New position,14,Filled,2025-08-19,102939,External,,34.0
+REQ001346,Care Worker,Perth North,2025-07-16,New position,12,Filled,2025-07-30,102905,External,,14.0
+REQ001347,Care Worker,Perth North,2025-07-02,New position,10,Filled,2025-07-19,102906,External,,17.0
+REQ001348,Care Worker,Perth North,2025-07-06,New position,17,Filled,2025-07-25,102907,External,,19.0
+REQ001349,Care Worker,Perth North,2025-07-08,New position,16,Filled,2025-08-08,102940,External,,31.0
+REQ001350,Care Worker,Perth North,2025-07-08,New position,10,Filled,2025-07-24,102908,External,,16.0
+REQ001351,Care Worker,Perth South,2025-07-12,New position,15,Filled,2025-08-26,102705,Internal transfer,,45.0
+REQ001352,Care Worker,Perth South,2025-07-05,New position,17,Filled,2025-08-20,102941,External,,46.0
+REQ001353,Care Worker,Perth South,2025-07-01,New position,14,Filled,2025-07-27,102909,External,,26.0
+REQ001354,Care Worker,Perth South,2025-07-16,New position,13,Filled,2025-07-31,102910,External,,15.0
+REQ001355,Care Worker,Perth South,2025-07-10,New position,24,Filled,2025-09-10,102966,External,,62.0
+REQ001356,Care Worker,Bunbury,2025-07-14,New position,9,Filled,2025-08-06,102942,External,,23.0
+REQ001357,Care Worker,Bunbury,2025-07-20,New position,14,Filled,2025-08-10,102943,External,,21.0
+REQ001358,Care Worker,Bunbury,2025-07-13,New position,8,Filled,2025-08-16,102944,External,,34.0
+REQ001359,Care Worker,Geraldton,2025-07-14,New position,2,Filled,2025-08-14,102945,External,,31.0
+REQ001360,Care Worker,Geraldton,2025-07-09,New position,7,Filled,2025-08-14,102614,Internal transfer,,36.0
+REQ001361,Care Worker,Kalgoorlie,2025-07-03,New position,7,Filled,2025-08-09,102946,External,,37.0
+REQ001362,Care Worker,Kalgoorlie,2025-07-15,New position,12,Filled,2025-08-27,102947,External,,43.0
+REQ001363,Care Worker,Broome,2025-07-19,New position,10,Filled,2025-10-23,102987,External,,96.0
+REQ001364,Care Worker,Broome,2025-07-08,New position,9,Filled,2025-07-31,102911,External,,23.0
+REQ001365,Administration,Bunbury,2025-07-18,New position,9,Filled,2025-09-01,102967,External,,45.0
+REQ001366,Support Services,Perth North,2025-07-11,New position,20,Filled,2025-08-03,102948,External,,23.0
+REQ001367,Support Services,Perth South,2025-07-09,New position,17,Filled,2025-07-29,101980,Internal transfer,,20.0
+REQ001368,Support Services,Bunbury,2025-07-07,New position,9,Filled,2025-07-22,102912,External,,15.0
+REQ001369,Registered Nurse,Perth North,2025-07-03,Replacement,22,Filled,2025-08-18,102949,External,,46.0
+REQ001370,Registered Nurse,Bunbury,2025-07-22,Replacement,9,Filled,2025-09-04,102968,External,,44.0
+REQ001371,Allied Health,Perth South,2025-06-26,Replacement,16,Filled,2025-09-14,102969,External,,80.0
+REQ001372,Allied Health,Kalgoorlie,2025-07-02,Replacement,8,Filled,2025-12-03,103040,External,,154.0
+REQ001373,Care Worker,Bunbury,2025-06-28,Replacement,15,Filled,2025-08-19,102950,External,,52.0
+REQ001374,Care Worker,Geraldton,2025-07-21,Replacement,8,Filled,2025-09-05,102970,External,,46.0
+REQ001375,Support Services,Bunbury,2025-06-28,Replacement,15,Filled,2025-07-20,102913,External,,22.0
+REQ001376,Care Worker,Perth South,2025-06-30,Replacement,10,Filled,2025-07-20,102914,External,,20.0
+REQ001377,Support Services,Bunbury,2025-07-09,Replacement,14,Filled,2025-08-15,102951,External,,37.0
+REQ001378,Registered Nurse,Broome,2025-06-13,Replacement,9,Filled,2025-08-10,102952,External,,58.0
+REQ001379,Care Worker,Perth South,2025-07-01,Replacement,19,Filled,2025-07-23,102915,External,,22.0
+REQ001380,Registered Nurse,Geraldton,2025-06-27,Replacement,10,Filled,2025-07-22,102916,External,,25.0
+REQ001381,Care Worker,Perth North,2025-06-15,Replacement,19,Filled,2025-07-10,102917,External,,25.0
+REQ001382,Registered Nurse,Bunbury,2025-07-03,Replacement,10,Cancelled,,,,2025-07-28,
+REQ001383,Registered Nurse,Perth North,2025-07-29,Replacement (internal move),15,Filled,2025-09-16,102971,External,,49.0
+REQ001384,Enrolled Nurse,Perth South,2025-07-23,Replacement (internal move),13,Filled,2025-09-03,102972,External,,42.0
+REQ001385,Allied Health,Perth North,2025-07-06,Replacement (internal move),12,Filled,2025-08-13,102953,External,,38.0
+REQ001386,Support Services,Perth North,2025-07-29,Replacement (internal move),16,Filled,2025-08-25,102954,External,,27.0
+REQ001387,Registered Nurse,Bunbury,2025-09-02,Re-advertised,17,Filled,2025-11-13,103018,External,,72.0
+REQ001388,Registered Nurse,Perth North,2025-08-06,Replacement,17,Filled,2025-10-18,102988,External,,73.0
+REQ001389,Registered Nurse,Perth North,2025-08-05,Replacement,16,Filled,2025-09-09,102973,External,,35.0
+REQ001390,Registered Nurse,Perth North,2025-08-08,Replacement,19,Filled,2025-10-27,102989,External,,80.0
+REQ001391,Registered Nurse,Perth South,2025-08-05,Replacement,17,Filled,2025-08-26,102955,External,,21.0
+REQ001392,Registered Nurse,Perth South,2025-07-28,Replacement,17,Filled,2025-08-27,102956,External,,30.0
+REQ001393,Registered Nurse,Bunbury,2025-08-01,Replacement,10,Filled,2025-10-05,102990,External,,65.0
+REQ001394,Enrolled Nurse,Perth North,2025-07-29,Replacement,10,Filled,2025-09-04,102974,External,,37.0
+REQ001395,Medical Practitioner,Perth North,2025-08-08,Replacement,13,Filled,2026-03-18,103117,External,,222.0
+REQ001396,Allied Health,Perth North,2025-08-04,Replacement,14,Filled,2025-11-09,103019,External,,97.0
+REQ001397,Care Worker,Perth North,2025-08-13,Replacement,12,Filled,2025-09-02,102975,External,,20.0
+REQ001398,Administration,Perth South,2025-07-23,Replacement,16,Filled,2025-08-30,102957,External,,38.0
+REQ001399,Administration,Perth South,2025-08-07,Replacement,5,Filled,2025-08-22,102958,External,,15.0
+REQ001400,Care Worker,Broome,2025-08-02,Replacement,5,Filled,2025-09-15,102976,External,,44.0
+REQ001401,Enrolled Nurse,Perth North,2025-08-25,Replacement,19,Filled,2025-09-23,102977,External,,29.0
+REQ001402,Registered Nurse,Perth North,2025-08-08,Replacement,17,Filled,2025-10-07,102991,External,,60.0
+REQ001403,Care Worker,Broome,2025-08-18,Replacement,8,Filled,2025-11-24,103020,External,,98.0
+REQ001404,Care Worker,Kalgoorlie,2025-08-15,Replacement,6,Filled,2025-09-18,101241,Internal transfer,,34.0
+REQ001405,Allied Health,Perth North,2025-08-27,Replacement,23,Filled,2025-09-22,100989,Internal transfer,,26.0
+REQ001406,Registered Nurse,Bunbury,2025-08-17,Replacement,8,Filled,2025-11-01,103021,External,,76.0
+REQ001407,Care Worker,Bunbury,2025-08-05,Replacement,6,Filled,2025-10-05,102992,External,,61.0
+REQ001408,Allied Health,Perth North,2025-08-21,Replacement,17,Filled,2026-04-22,103137,External,,244.0
+REQ001409,Care Worker,Bunbury,2025-08-09,Replacement,14,Cancelled,,,,2025-08-27,
+REQ001410,Enrolled Nurse,Perth North,2025-08-03,Replacement,13,Filled,2025-09-20,102978,External,,48.0
+REQ001411,Care Worker,Perth South,2025-08-11,Replacement,7,Filled,2025-08-24,102959,External,,13.0
+REQ001412,Registered Nurse,Broome,2025-09-20,Re-advertised,9,Filled,2025-12-02,103041,External,,73.0
+REQ001413,Enrolled Nurse,Broome,2025-08-13,Replacement (internal move),5,Cancelled,,,,2026-01-04,
+REQ001414,Enrolled Nurse,Bunbury,2025-08-28,Re-advertised,13,Filled,2025-12-07,103042,External,,101.0
+REQ001415,Care Worker,Perth North,2025-08-26,Replacement (internal move),9,Filled,2025-09-13,102979,External,,18.0
+REQ001416,Care Worker,Bunbury,2025-08-14,Replacement (internal move),12,Filled,2025-09-07,102980,External,,24.0
+REQ001417,Care Worker,Bunbury,2025-09-17,Re-advertised,12,Filled,2025-09-28,102981,External,,11.0
+REQ001418,Registered Nurse,Perth South,2025-09-09,Replacement,21,Filled,2025-11-05,100470,Internal transfer,,57.0
+REQ001419,Registered Nurse,Perth South,2025-09-20,Replacement,14,Filled,2025-10-30,102993,External,,40.0
+REQ001420,Registered Nurse,Perth South,2025-09-09,Replacement,18,Filled,2025-10-12,102994,External,,33.0
+REQ001421,Registered Nurse,Geraldton,2025-08-28,Replacement,17,Filled,2025-12-24,103043,External,,118.0
+REQ001422,Registered Nurse,Broome,2025-08-28,Replacement,9,Cancelled,,,,2025-10-18,
+REQ001423,Medical Practitioner,Perth North,2025-09-18,Replacement,18,Filled,2026-04-24,103138,External,,218.0
+REQ001424,Allied Health,Perth South,2025-09-14,Replacement,17,Filled,2025-11-24,103022,External,,71.0
+REQ001425,Care Worker,Perth North,2025-09-10,Replacement,15,Filled,2025-10-10,102995,External,,30.0
+REQ001426,Care Worker,Perth North,2025-09-14,Replacement,14,Filled,2025-10-15,102996,External,,31.0
+REQ001427,Care Worker,Perth North,2025-08-23,Replacement,14,Filled,2025-09-01,102982,External,,9.0
+REQ001428,Care Worker,Perth North,2025-08-30,Replacement,16,Filled,2025-10-10,102997,External,,41.0
+REQ001429,Care Worker,Perth North,2025-08-28,Replacement,11,Filled,2025-09-21,102983,External,,24.0
+REQ001430,Care Worker,Bunbury,2025-09-26,Replacement,6,Filled,2025-10-21,102998,External,,25.0
+REQ001431,Care Worker,Kalgoorlie,2025-08-17,Replacement,8,Cancelled,,,,2025-09-11,
+REQ001432,Administration,Perth North,2025-09-23,Replacement,23,Filled,2025-10-23,102999,External,,30.0
+REQ001433,Registered Nurse,Broome,2025-08-27,Replacement,8,Filled,2026-02-26,103088,External,,183.0
+REQ001434,Allied Health,Bunbury,2025-09-08,Replacement,18,Filled,2026-03-11,103118,External,,184.0
+REQ001435,Registered Nurse,Perth South,2025-09-16,Replacement,18,Filled,2025-10-14,103000,External,,28.0
+REQ001436,Care Worker,Bunbury,2025-09-17,Replacement,8,Filled,2025-10-11,103001,External,,24.0
+REQ001437,Administration,Broome,2025-09-21,Replacement,13,Cancelled,,,,2025-10-08,
+REQ001438,Administration,Broome,2025-09-05,Replacement,3,Filled,2025-10-30,103002,External,,55.0
+REQ001439,Care Worker,Geraldton,2025-09-24,Replacement,12,Filled,2025-11-25,103023,External,,62.0
+REQ001440,Administration,Kalgoorlie,2025-09-06,Replacement,6,Filled,2025-10-21,103003,External,,45.0
+REQ001441,Support Services,Perth North,2025-08-31,Replacement,12,Filled,2025-10-13,103004,External,,43.0
+REQ001442,Care Worker,Geraldton,2025-09-05,Replacement,5,Filled,2025-09-17,102575,Internal transfer,,12.0
+REQ001443,Care Worker,Perth North,2025-08-31,Replacement,13,Filled,2025-09-24,102984,External,,24.0
+REQ001444,Support Services,Broome,2025-09-04,Replacement,11,Filled,2025-10-05,103005,External,,31.0
+REQ001445,Support Services,Perth North,2025-08-24,Replacement,10,Filled,2025-09-18,102985,External,,25.0
+REQ001446,Administration,Broome,2025-08-30,Replacement,9,Filled,2025-10-02,103006,External,,33.0
+REQ001447,Care Worker,Perth North,2025-09-19,Replacement,13,Filled,2025-10-13,103007,External,,24.0
+REQ001448,Care Worker,Kalgoorlie,2025-08-31,Replacement,6,Cancelled,,,,2025-10-19,
+REQ001449,Registered Nurse,Perth South,2025-09-14,Replacement,16,Filled,2025-10-15,100538,Internal transfer,,31.0
+REQ001450,Registered Nurse,Perth South,2025-10-24,Re-advertised,24,Filled,2025-11-22,103024,External,,29.0
+REQ001451,Registered Nurse,Kalgoorlie,2025-10-17,Re-advertised,6,Filled,2025-12-30,103044,External,,74.0
+REQ001452,Registered Nurse,Kalgoorlie,2025-10-07,Re-advertised,7,Filled,2025-12-22,103045,External,,76.0
+REQ001453,Care Worker,Perth South,2025-09-18,Replacement (internal move),21,Cancelled,,,,2025-10-09,
+REQ001454,Allied Health,Perth South,2025-09-22,Replacement (internal move),22,Filled,2025-10-25,103008,External,,33.0
+REQ001455,Care Worker,Kalgoorlie,2025-10-23,Re-advertised,12,Filled,2025-12-20,103046,External,,58.0
+REQ001456,Care Worker,Perth North,2025-09-17,Replacement (internal move),24,Filled,2025-10-21,103009,External,,34.0
+REQ001457,Registered Nurse,Perth North,2025-10-14,Replacement,18,Filled,2025-12-17,100232,Internal transfer,,64.0
+REQ001458,Registered Nurse,Perth North,2025-10-04,Replacement,14,Filled,2025-11-20,103025,External,,47.0
+REQ001459,Registered Nurse,Perth South,2025-10-12,Replacement,9,Filled,2025-11-07,103026,External,,26.0
+REQ001460,Allied Health,Perth North,2025-09-28,Replacement,9,Filled,2026-01-16,103065,External,,110.0
+REQ001461,Support Services,Perth South,2025-10-21,Replacement,17,Filled,2025-11-15,103027,External,,25.0
+REQ001462,Support Services,Perth South,2025-10-05,Replacement,17,Filled,2025-10-20,103010,External,,15.0
+REQ001463,Support Services,Perth North,2025-09-29,Replacement,12,Filled,2025-10-28,103011,External,,29.0
+REQ001464,Care Worker,Kalgoorlie,2025-10-03,Replacement,7,Filled,2025-11-27,103028,External,,55.0
+REQ001465,Administration,Perth North,2025-09-14,Replacement,19,Filled,2025-10-11,103012,External,,27.0
+REQ001466,Registered Nurse,Kalgoorlie,2025-10-11,Replacement,8,Filled,2025-11-30,103029,External,,50.0
+REQ001467,Care Worker,Perth North,2025-10-08,Replacement,15,Filled,2025-11-12,103030,External,,35.0
+REQ001468,Care Worker,Perth North,2025-10-10,Replacement,20,Filled,2025-11-08,103031,External,,29.0
+REQ001469,Registered Nurse,Broome,2025-09-17,Replacement,4,Filled,2026-03-19,103119,External,,183.0
+REQ001470,Registered Nurse,Perth South,2025-10-02,Replacement,18,Filled,2025-12-26,103047,External,,85.0
+REQ001471,Administration,Kalgoorlie,2025-10-06,Replacement,5,Filled,2025-12-01,103048,External,,56.0
+REQ001472,Allied Health,Perth North,2025-09-29,Replacement,12,Filled,2025-11-28,100984,Internal transfer,,60.0
+REQ001473,Administration,Perth North,2025-10-05,Replacement,15,Filled,2025-11-16,103032,External,,42.0
+REQ001474,Support Services,Bunbury,2025-09-25,Replacement,12,Filled,2025-10-16,103013,External,,21.0
+REQ001475,Care Worker,Perth North,2025-09-28,Replacement,19,Filled,2025-10-24,103014,External,,26.0
+REQ001476,Administration,Perth North,2025-10-14,Replacement,18,Filled,2025-10-27,103015,External,,13.0
+REQ001477,Administration,Perth South,2025-10-26,Replacement,24,Filled,2025-11-19,103033,External,,24.0
+REQ001478,Care Worker,Perth North,2025-10-25,Replacement,15,Filled,2025-11-30,103034,External,,36.0
+REQ001479,Support Services,Perth North,2025-09-23,Replacement,16,Filled,2025-11-12,101715,Internal transfer,,50.0
+REQ001480,Administration,Perth South,2025-09-23,Replacement,11,Filled,2025-10-26,103016,External,,33.0
+REQ001481,Care Worker,Perth North,2025-10-05,Replacement,15,Filled,2025-11-10,103035,External,,36.0
+REQ001482,Registered Nurse,Perth North,2025-10-06,Replacement,28,Filled,2025-12-12,103049,External,,67.0
+REQ001483,Care Worker,Perth North,2025-10-07,Replacement,15,Filled,2025-11-17,103036,External,,41.0
+REQ001484,Allied Health,Perth South,2025-11-12,Re-advertised,16,Filled,2025-12-22,103050,External,,40.0
+REQ001485,Registered Nurse,Perth North,2025-10-02,Replacement (internal move),12,Filled,2025-11-20,103037,External,,49.0
+REQ001486,Registered Nurse,Broome,2025-11-06,Re-advertised,4,Filled,2026-03-15,103120,External,,129.0
+REQ001487,Administration,Broome,2025-10-24,Re-advertised,8,Cancelled,,,,2025-12-05,
+REQ001488,Care Worker,Kalgoorlie,2025-11-30,Re-advertised,8,Filled,2026-01-27,103066,External,,58.0
+REQ001489,Registered Nurse,Kalgoorlie,2025-10-15,Replacement (internal move),11,Filled,2025-11-29,103038,External,,45.0
+REQ001490,Registered Nurse,Bunbury,2025-11-14,Replacement,11,Filled,2026-01-26,103067,External,,73.0
+REQ001491,Registered Nurse,Kalgoorlie,2025-10-24,Replacement,5,Filled,2026-02-01,103089,External,,100.0
+REQ001492,Medical Practitioner,Perth South,2025-10-31,Replacement,23,Filled,2026-01-03,103068,External,,64.0
+REQ001493,Allied Health,Perth South,2025-11-02,Replacement,19,Filled,2025-12-16,103051,External,,44.0
+REQ001494,Care Worker,Perth North,2025-11-08,Replacement,12,Filled,2025-11-27,103039,External,,19.0
+REQ001495,Care Worker,Perth North,2025-11-05,Replacement,21,Filled,2026-01-10,103069,External,,66.0
+REQ001496,Care Worker,Geraldton,2025-11-08,Replacement,7,Filled,2025-12-18,103052,External,,40.0
+REQ001497,Administration,Bunbury,2025-11-15,Replacement,12,Filled,2025-12-21,103053,External,,36.0
+REQ001498,Care Worker,Geraldton,2025-11-13,Replacement,6,Filled,2025-12-17,103054,External,,34.0
+REQ001499,Registered Nurse,Bunbury,2025-11-24,Replacement,11,Filled,2026-02-04,103090,Graduate program,,72.0
+REQ001500,Registered Nurse,Broome,2025-10-22,Replacement,4,Cancelled,,,,2026-01-21,
+REQ001501,Support Services,Kalgoorlie,2025-11-19,Replacement,10,Filled,2026-01-13,103070,External,,55.0
+REQ001502,Care Worker,Bunbury,2025-10-29,Replacement,19,Filled,2025-12-08,103055,External,,40.0
+REQ001503,Allied Health,Bunbury,2025-11-17,Replacement,16,Filled,2026-01-22,103071,External,,66.0
+REQ001504,Administration,Perth South,2025-11-15,Replacement,14,Filled,2025-12-12,103056,External,,27.0
+REQ001505,Support Services,Perth North,2025-11-16,Replacement,16,Filled,2025-12-13,103057,External,,27.0
+REQ001506,Allied Health,Perth South,2025-11-05,Replacement,13,Filled,2026-01-25,103072,External,,81.0
+REQ001507,Registered Nurse,Geraldton,2025-11-05,Replacement (internal move),11,Filled,2026-02-04,103091,Graduate program,,91.0
+REQ001508,Allied Health,Perth South,2025-11-28,Replacement (internal move),17,Filled,2026-01-06,100941,Internal transfer,,39.0
+REQ001509,Support Services,Perth South,2025-11-12,Replacement (internal move),17,Filled,2025-12-01,103058,External,,19.0
+REQ001510,Registered Nurse,Perth North,2025-11-14,Replacement,17,Filled,2026-01-17,103073,External,,64.0
+REQ001511,Registered Nurse,Perth North,2025-12-19,Replacement,18,Filled,2026-01-23,103074,External,,35.0
+REQ001512,Enrolled Nurse,Perth South,2025-11-29,Replacement,19,Filled,2026-01-04,103075,External,,36.0
+REQ001513,Medical Practitioner,Perth South,2025-12-16,Replacement,14,Filled,2026-02-24,103092,External,,70.0
+REQ001514,Care Worker,Perth South,2025-12-18,Replacement,15,Filled,2025-12-31,103059,External,,13.0
+REQ001515,Administration,Perth South,2025-11-17,Replacement,21,Filled,2025-12-03,103060,External,,16.0
+REQ001516,Administration,Kalgoorlie,2025-11-22,Replacement,4,Filled,2026-01-24,103076,External,,63.0
+REQ001517,Support Services,Perth South,2025-12-02,Replacement,15,Filled,2026-01-02,103077,External,,31.0
+REQ001518,Care Worker,Geraldton,2025-12-11,Replacement,12,Filled,2026-01-12,103078,External,,32.0
+REQ001519,Registered Nurse,Perth North,2025-12-01,Replacement,20,Filled,2026-01-07,103079,External,,37.0
+REQ001520,Care Worker,Perth South,2025-11-27,Replacement,19,Filled,2025-12-23,103061,External,,26.0
+REQ001521,Registered Nurse,Perth North,2025-11-30,Replacement,17,Filled,2026-01-30,103080,External,,61.0
+REQ001522,Registered Nurse,Geraldton,2025-12-21,Replacement,9,Filled,2026-02-04,103093,Graduate program,,45.0
+REQ001523,Care Worker,Kalgoorlie,2025-12-03,Replacement,6,Filled,2026-01-29,102218,Internal transfer,,57.0
+REQ001524,Care Worker,Perth North,2025-12-26,Replacement,24,Filled,2026-02-12,102693,Internal transfer,,48.0
+REQ001525,Care Worker,Kalgoorlie,2025-12-08,Replacement,9,Filled,2026-01-26,102488,Internal transfer,,49.0
+REQ001526,Care Worker,Geraldton,2025-11-28,Replacement,7,Filled,2025-12-31,103062,External,,33.0
+REQ001527,Support Services,Perth South,2025-11-14,Replacement,15,Filled,2025-12-01,103063,External,,17.0
+REQ001528,Care Worker,Broome,2025-12-03,Replacement,4,Filled,2026-02-02,103094,External,,61.0
+REQ001529,Care Worker,Perth North,2025-12-07,Replacement,20,Filled,2026-01-03,101223,Internal transfer,,27.0
+REQ001530,Registered Nurse,Perth South,2025-11-22,Replacement,8,Filled,2026-01-05,102949,Internal transfer,,44.0
+REQ001531,Enrolled Nurse,Perth North,2025-12-03,Replacement,19,Cancelled,,,,2026-01-09,
+REQ001532,Care Worker,Geraldton,2025-12-14,Replacement,12,Filled,2026-02-01,103095,External,,49.0
+REQ001533,Registered Nurse,Kalgoorlie,2025-12-17,Replacement,9,Filled,2026-03-01,103121,External,,74.0
+REQ001534,Registered Nurse,Perth South,2025-12-17,Replacement (internal move),18,Filled,2026-01-13,100476,Internal transfer,,27.0
+REQ001535,Registered Nurse,Perth North,2026-01-03,Replacement,15,Filled,2026-02-04,103096,Graduate program,,32.0
+REQ001536,Registered Nurse,Geraldton,2026-01-11,Replacement,7,Cancelled,,,,2026-02-16,
+REQ001537,Enrolled Nurse,Kalgoorlie,2025-12-24,Replacement,5,Filled,2026-01-24,103081,External,,31.0
+REQ001538,Registered Nurse,Broome,2025-12-17,Replacement,15,Filled,2026-05-28,103159,External,,162.0
+REQ001539,Medical Practitioner,Perth North,2025-12-30,Replacement,18,Filled,2026-04-10,103139,External,,101.0
+REQ001540,Medical Practitioner,Perth South,2026-01-20,Replacement,21,Filled,2026-06-21,103186,External,,152.0
+REQ001541,Care Worker,Perth North,2025-12-22,Replacement,22,Filled,2026-01-30,103082,External,,39.0
+REQ001542,Care Worker,Perth North,2025-12-19,Replacement,16,Filled,2026-01-05,101271,Internal transfer,,17.0
+REQ001543,Care Worker,Perth South,2026-01-17,Replacement,11,Filled,2026-02-21,102673,Internal transfer,,35.0
+REQ001544,Administration,Perth South,2026-01-03,Replacement,11,Filled,2026-01-25,103083,External,,22.0
+REQ001545,Administration,Perth South,2026-01-22,Replacement,13,Filled,2026-02-14,103097,External,,23.0
+REQ001546,Administration,Bunbury,2026-01-16,Replacement,13,Filled,2026-02-24,103098,External,,39.0
+REQ001547,Medical Practitioner,Perth South,2026-01-19,Replacement,16,Filled,2026-03-20,103122,External,,60.0
+REQ001548,Enrolled Nurse,Broome,2026-01-28,Replacement,16,Cancelled,,,,2026-03-17,
+REQ001549,Care Worker,Perth South,2026-01-02,Replacement,6,Filled,2026-02-07,103099,External,,36.0
+REQ001550,Registered Nurse,Perth North,2026-01-04,Replacement,12,Filled,2026-02-04,103100,Graduate program,,31.0
+REQ001551,Medical Practitioner,Perth South,2026-01-27,Replacement,18,Filled,2026-03-30,103123,External,,62.0
+REQ001552,Care Worker,Bunbury,2026-01-15,Replacement,13,Filled,2026-02-18,103101,External,,34.0
+REQ001553,Medical Practitioner,Perth South,2025-12-24,Replacement,19,Filled,2026-04-06,103140,External,,103.0
+REQ001554,Registered Nurse,Broome,2026-01-05,Replacement,8,Filled,2026-04-27,103141,External,,112.0
+REQ001555,Allied Health,Kalgoorlie,2026-01-10,Replacement,11,Filled,2026-04-23,103142,External,,103.0
+REQ001556,Registered Nurse,Kalgoorlie,2025-12-17,Replacement,10,Filled,2026-02-20,103102,External,,65.0
+REQ001557,Care Worker,Kalgoorlie,2025-12-28,Replacement,7,Filled,2026-02-07,103103,External,,41.0
+REQ001558,Care Worker,Broome,2026-01-26,Replacement,4,Filled,2026-02-26,103104,External,,31.0
+REQ001559,Care Worker,Perth North,2025-12-29,Replacement,16,Filled,2026-01-18,103084,External,,20.0
+REQ001560,Care Worker,Perth North,2025-12-25,Replacement,23,Filled,2026-01-30,103085,External,,36.0
+REQ001561,Enrolled Nurse,Perth North,2026-01-15,Replacement,14,Filled,2026-03-06,103124,External,,50.0
+REQ001562,Enrolled Nurse,Perth North,2026-01-15,Replacement,16,Cancelled,,,,2026-02-21,
+REQ001563,Enrolled Nurse,Geraldton,2026-01-15,Replacement,5,Filled,2026-03-14,103125,External,,58.0
+REQ001564,Enrolled Nurse,Kalgoorlie,2026-01-15,Replacement,9,Filled,2026-03-08,100697,Internal transfer,,52.0
+REQ001565,Enrolled Nurse,Perth South,2026-01-15,Replacement,16,Filled,2026-03-05,103126,External,,49.0
+REQ001566,Enrolled Nurse,Perth South,2026-01-15,Replacement,18,Filled,2026-01-29,103086,External,,14.0
+REQ001567,Enrolled Nurse,Perth South,2026-01-15,Replacement,17,Filled,2026-02-28,103105,External,,44.0
+REQ001568,Enrolled Nurse,Bunbury,2026-01-15,Replacement,15,Filled,2026-02-03,103106,External,,19.0
+REQ001569,Enrolled Nurse,Broome,2026-02-04,Re-advertised,3,Filled,2026-05-09,103160,External,,94.0
+REQ001570,Registered Nurse,Broome,2026-02-14,Re-advertised,5,Filled,2026-05-12,103161,External,,87.0
+REQ001571,Allied Health,Perth North,2026-01-06,Replacement (internal move),14,Cancelled,,,,2026-02-08,
+REQ001572,Care Worker,Perth South,2026-01-29,Replacement (internal move),12,Filled,2026-02-27,103107,External,,29.0
+REQ001573,Care Worker,Perth North,2026-01-26,Replacement (internal move),15,Filled,2026-02-18,103108,External,,23.0
+REQ001574,Care Worker,Perth South,2026-01-03,Replacement (internal move),15,Filled,2026-02-01,103109,External,,29.0
+REQ001575,Registered Nurse,Perth North,2026-01-05,Replacement (internal move),11,Filled,2026-02-04,103110,Graduate program,,30.0
+REQ001576,Enrolled Nurse,Perth North,2026-02-07,Re-advertised,20,Filled,2026-03-29,103127,External,,50.0
+REQ001577,Registered Nurse,Geraldton,2026-01-13,Replacement (internal move),14,Filled,2026-02-04,103111,Graduate program,,22.0
+REQ001578,Care Worker,Bunbury,2026-01-05,Replacement (internal move),12,Cancelled,,,,2026-01-26,
+REQ001579,Registered Nurse,Perth South,2026-01-30,Replacement,17,Filled,2026-02-04,103112,Graduate program,,5.0
+REQ001580,Medical Practitioner,Perth North,2026-01-21,Replacement,16,Filled,2026-04-18,103143,External,,87.0
+REQ001581,Care Worker,Perth South,2026-02-01,Replacement,18,Filled,2026-02-26,103113,External,,25.0
+REQ001582,Care Worker,Perth North,2026-01-13,Replacement,12,Filled,2026-02-14,103114,External,,32.0
+REQ001583,Care Worker,Geraldton,2026-02-01,Replacement,11,Cancelled,,,,2026-03-31,
+REQ001584,Care Worker,Geraldton,2026-02-01,Replacement,18,Filled,2026-04-21,103144,External,,79.0
+REQ001585,Care Worker,Broome,2026-02-01,Replacement,9,Filled,2026-03-25,103128,External,,52.0
+REQ001586,Administration,Perth North,2026-01-23,Replacement,14,Filled,2026-02-03,103115,External,,11.0
+REQ001587,Administration,Kalgoorlie,2026-01-31,Replacement,10,Filled,2026-05-02,103162,External,,91.0
+REQ001588,Registered Nurse,Bunbury,2026-02-08,Replacement,12,Filled,2026-02-08,103116,Graduate program,,0.0
+REQ001589,Allied Health,Perth North,2026-02-09,Replacement,16,Filled,2026-04-06,103145,External,,56.0
+REQ001590,Medical Practitioner,Perth South,2026-01-26,Replacement,14,Filled,2026-03-06,103129,External,,39.0
+REQ001591,Midwife,Bunbury,2026-02-18,Replacement,16,Filled,2026-04-12,103146,External,,53.0
+REQ001592,Allied Health,Kalgoorlie,2026-02-10,Replacement,12,Filled,2026-04-16,103147,External,,65.0
+REQ001593,Administration,Kalgoorlie,2026-02-27,Replacement,6,Filled,2026-05-22,103163,External,,84.0
+REQ001594,Support Services,Kalgoorlie,2026-01-31,Replacement,10,Filled,2026-03-13,103130,External,,41.0
+REQ001595,Enrolled Nurse,Perth North,2026-01-25,Replacement,13,Filled,2026-03-01,103131,External,,35.0
+REQ001596,Care Worker,Perth North,2026-02-03,Replacement,16,Filled,2026-03-02,102492,Internal transfer,,27.0
+REQ001597,Allied Health,Bunbury,2026-02-03,Replacement,12,Filled,2026-06-18,103187,External,,135.0
+REQ001598,Care Worker,Perth North,2026-02-04,Replacement,15,Filled,2026-03-05,103132,External,,29.0
+REQ001599,Care Worker,Geraldton,2026-02-12,Replacement (internal move),13,Filled,2026-03-04,103133,External,,20.0
+REQ001600,Registered Nurse,Geraldton,2026-03-12,Re-advertised,11,Filled,2026-04-24,103148,External,,43.0
+REQ001601,Care Worker,Geraldton,2026-02-21,Replacement (internal move),9,Cancelled,,,,2026-05-02,
+REQ001602,Enrolled Nurse,Perth North,2026-03-16,Re-advertised,12,Filled,2026-04-05,100768,Internal transfer,,20.0
+REQ001603,Care Worker,Bunbury,2026-02-28,Re-advertised,11,Filled,2026-04-02,103149,External,,33.0
+REQ001604,Registered Nurse,Broome,2026-03-17,Replacement,11,Filled,2026-05-29,103164,External,,73.0
+REQ001605,Enrolled Nurse,Geraldton,2026-03-12,Replacement,4,Filled,2026-05-29,103165,External,,78.0
+REQ001606,Allied Health,Perth North,2026-03-12,Replacement,16,Filled,2026-05-10,103166,External,,59.0
+REQ001607,Allied Health,Kalgoorlie,2026-03-06,Replacement,8,Filled,2026-05-25,103167,External,,80.0
+REQ001608,Care Worker,Perth North,2026-03-03,Replacement,17,Filled,2026-03-24,103134,External,,21.0
+REQ001609,Care Worker,Perth South,2026-03-05,Replacement,19,Filled,2026-04-19,103150,External,,45.0
+REQ001610,Care Worker,Bunbury,2026-03-09,Replacement,12,Filled,2026-04-01,103151,External,,23.0
+REQ001611,Registered Nurse,Perth South,2026-03-03,Replacement,19,Filled,2026-03-26,102168,Internal transfer,,23.0
+REQ001612,Care Worker,Kalgoorlie,2026-02-23,Replacement,11,Filled,2026-04-01,103152,External,,37.0
+REQ001613,Care Worker,Perth North,2026-03-27,Replacement,14,Filled,2026-05-20,103168,External,,54.0
+REQ001614,Allied Health,Perth North,2026-02-26,Replacement,19,Filled,2026-05-05,103169,External,,68.0
+REQ001615,Care Worker,Bunbury,2026-03-05,Replacement,13,Filled,2026-04-16,103153,External,,42.0
+REQ001616,Registered Nurse,Perth South,2026-03-05,Replacement,15,Filled,2026-04-14,103154,External,,40.0
+REQ001617,Care Worker,Bunbury,2026-03-17,Replacement,13,Filled,2026-05-15,103170,External,,59.0
+REQ001618,Support Services,Perth South,2026-03-15,Replacement,8,Filled,2026-03-25,103135,External,,10.0
+REQ001619,Enrolled Nurse,Bunbury,2026-02-21,Replacement,18,Filled,2026-04-03,103155,External,,41.0
+REQ001620,Care Worker,Kalgoorlie,2026-02-21,Replacement,12,Filled,2026-03-21,103136,External,,28.0
+REQ001621,Support Services,Perth South,2026-03-02,Replacement,18,Filled,2026-04-05,101806,Internal transfer,,34.0
+REQ001622,Enrolled Nurse,Broome,2026-04-18,Re-advertised,8,Open,,,,,
+REQ001623,Enrolled Nurse,Perth South,2026-03-08,Replacement (internal move),21,Filled,2026-06-04,103188,External,,88.0
+REQ001624,Care Worker,Geraldton,2026-05-01,Re-advertised,8,Cancelled,,,,2026-06-02,
+REQ001625,Care Worker,Kalgoorlie,2026-03-02,Replacement (internal move),8,Filled,2026-04-01,103156,External,,30.0
+REQ001626,Registered Nurse,Geraldton,2026-03-26,Replacement (internal move),9,Cancelled,,,,2026-05-23,
+REQ001627,Registered Nurse,Perth North,2026-03-25,Replacement,20,Filled,2026-06-12,103189,External,,79.0
+REQ001628,Midwife,Kalgoorlie,2026-03-22,Replacement,14,Filled,2026-05-17,103171,External,,56.0
+REQ001629,Registered Nurse,Geraldton,2026-04-10,Replacement,12,Filled,2026-05-28,103172,External,,48.0
+REQ001630,Medical Practitioner,Broome,2026-04-18,Replacement,5,Open,,,,,
+REQ001631,Medical Practitioner,Broome,2026-03-17,Replacement,6,Open,,,,,
+REQ001632,Allied Health,Geraldton,2026-04-10,Replacement,16,Open,,,,,
+REQ001633,Care Worker,Perth North,2026-04-01,Replacement,18,Filled,2026-04-25,103157,External,,24.0
+REQ001634,Care Worker,Kalgoorlie,2026-04-09,Replacement,9,Filled,2026-05-09,101293,Internal transfer,,30.0
+REQ001635,Care Worker,Kalgoorlie,2026-04-01,Replacement,11,Filled,2026-05-20,103173,External,,49.0
+REQ001636,Administration,Broome,2026-04-17,Replacement,7,Cancelled,,,,2026-04-30,
+REQ001637,Support Services,Bunbury,2026-04-17,Replacement,13,Filled,2026-05-09,103174,External,,22.0
+REQ001638,Registered Nurse,Kalgoorlie,2026-04-18,Replacement,7,Filled,2026-06-24,103190,External,,67.0
+REQ001639,Registered Nurse,Perth South,2026-04-16,Replacement,14,Filled,2026-05-31,103175,External,,45.0
+REQ001640,Support Services,Broome,2026-04-13,Replacement,3,Filled,2026-05-27,101648,Internal transfer,,44.0
+REQ001641,Care Worker,Broome,2026-04-09,Replacement,5,Cancelled,,,,2026-05-10,
+REQ001642,Care Worker,Perth North,2026-03-15,Replacement,16,Cancelled,,,,2026-04-03,
+REQ001643,Care Worker,Broome,2026-04-08,Replacement,6,Cancelled,,,,2026-05-29,
+REQ001644,Care Worker,Geraldton,2026-03-27,Replacement,13,Cancelled,,,,2026-05-01,
+REQ001645,Care Worker,Perth North,2026-04-10,Replacement,16,Filled,2026-05-04,103176,External,,24.0
+REQ001646,Care Worker,Geraldton,2026-04-09,Replacement,7,Filled,2026-05-10,103177,External,,31.0
+REQ001647,Care Worker,Perth South,2026-04-03,Replacement,12,Filled,2026-05-05,103178,External,,32.0
+REQ001648,Care Worker,Perth North,2026-03-25,Replacement,24,Filled,2026-04-19,103158,External,,25.0
+REQ001649,Enrolled Nurse,Kalgoorlie,2026-04-05,Replacement (internal move),7,Filled,2026-05-12,103179,External,,37.0
+REQ001650,Support Services,Broome,2026-04-05,Replacement (internal move),1,Filled,2026-05-24,103180,External,,49.0
+REQ001651,Administration,Broome,2026-05-26,Re-advertised,5,Filled,2026-06-23,103191,External,,28.0
+REQ001652,Care Worker,Perth North,2026-05-07,Re-advertised,25,Cancelled,,,,2026-05-21,
+REQ001653,Registered Nurse,Perth North,2026-04-27,Replacement,18,Open,,,,,
+REQ001654,Registered Nurse,Bunbury,2026-05-07,Replacement,7,Filled,2026-06-04,100093,Internal transfer,,28.0
+REQ001655,Midwife,Broome,2026-04-23,Replacement,4,Open,,,,,
+REQ001656,Medical Practitioner,Perth North,2026-05-18,Replacement,19,Open,,,,,
+REQ001657,Medical Practitioner,Bunbury,2026-05-01,Replacement,11,Open,,,,,
+REQ001658,Care Worker,Perth South,2026-05-08,Replacement,10,Filled,2026-05-31,103181,External,,23.0
+REQ001659,Care Worker,Perth South,2026-05-08,Replacement,11,Filled,2026-06-08,103192,External,,31.0
+REQ001660,Care Worker,Perth South,2026-05-06,Replacement,23,Filled,2026-06-19,103193,External,,44.0
+REQ001661,Support Services,Bunbury,2026-05-04,Replacement,8,Filled,2026-06-18,103194,External,,45.0
+REQ001662,Support Services,Perth North,2026-05-17,Replacement,19,Filled,2026-05-31,103182,External,,14.0
+REQ001663,Care Worker,Perth North,2026-04-30,Replacement,15,Filled,2026-05-26,103183,External,,26.0
+REQ001664,Administration,Geraldton,2026-04-24,Replacement,12,Filled,2026-05-19,101609,Internal transfer,,25.0
+REQ001665,Registered Nurse,Perth North,2026-05-02,Replacement,10,Open,,,,,
+REQ001666,Enrolled Nurse,Perth North,2026-05-10,Replacement,9,Filled,2026-06-06,103195,External,,27.0
+REQ001667,Care Worker,Perth South,2026-05-28,Replacement,15,Filled,2026-06-20,103196,External,,23.0
+REQ001668,Registered Nurse,Bunbury,2026-04-23,Replacement,12,Filled,2026-05-28,103184,External,,35.0
+REQ001669,Care Worker,Bunbury,2026-05-13,Replacement,15,Filled,2026-06-21,103197,External,,39.0
+REQ001670,Registered Nurse,Geraldton,2026-04-20,Replacement,14,Open,,,,,
+REQ001671,Care Worker,Broome,2026-04-28,Replacement,5,Filled,2026-06-09,103198,External,,42.0
+REQ001672,Care Worker,Perth North,2026-05-11,Replacement,14,Filled,2026-06-02,103199,External,,22.0
+REQ001673,Care Worker,Perth North,2026-05-08,Replacement,25,Filled,2026-05-25,103185,External,,17.0
+REQ001674,Support Services,Perth South,2026-05-04,Replacement,18,Filled,2026-06-06,103200,External,,33.0
+REQ001675,Medical Practitioner,Perth North,2026-05-13,Replacement,9,Open,,,,,
+REQ001676,Care Worker,Geraldton,2026-05-28,Re-advertised,12,Open,,,,,
+REQ001677,Care Worker,Bunbury,2026-05-09,Replacement (internal move),16,Filled,2026-06-03,103201,External,,25.0
+REQ001678,Support Services,Perth North,2026-05-27,Replacement (internal move),16,Filled,2026-06-17,103202,External,,21.0
+REQ001679,Care Worker,Broome,2026-06-21,Re-advertised,5,Open,,,,,
+REQ001680,Care Worker,Perth North,2026-06-19,Re-advertised,11,Open,,,,,
+REQ001681,Administration,Kalgoorlie,2026-05-19,Replacement (internal move),8,Open,,,,,
+REQ001682,Registered Nurse,Perth North,2026-06-10,Replacement,18,Open,,,,,
+REQ001683,Registered Nurse,Geraldton,2026-06-19,Replacement,12,Open,,,,,
+REQ001684,Enrolled Nurse,Broome,2026-05-21,Replacement,15,Open,,,,,
+REQ001685,Care Worker,Perth South,2026-05-29,Replacement,16,Filled,2026-06-19,103203,External,,21.0
+REQ001686,Care Worker,Kalgoorlie,2026-06-27,Replacement,7,Open,,,,,
+REQ001687,Administration,Perth North,2026-06-10,Replacement,14,Open,,,,,
+REQ001688,Support Services,Perth South,2026-06-13,Replacement,11,Open,,,,,
+REQ001689,Enrolled Nurse,Geraldton,2026-05-18,Replacement,7,Filled,2026-06-13,103204,External,,26.0
+REQ001690,Registered Nurse,Bunbury,2026-05-19,Replacement,12,Open,,,,,
+REQ001691,Care Worker,Perth South,2026-06-07,Replacement,12,Open,,,,,
+REQ001692,Care Worker,Kalgoorlie,2026-05-31,Replacement,7,Filled,2026-06-28,103205,External,,28.0
+REQ001693,Registered Nurse,Bunbury,2026-06-15,Replacement,11,Open,,,,,
+REQ001694,Administration,Perth South,2026-05-15,Replacement,19,Filled,2026-06-03,103206,External,,19.0
+REQ001695,Care Worker,Perth South,2026-06-04,Replacement,16,Filled,2026-06-20,103207,External,,16.0
+REQ001696,Care Worker,Perth North,2026-06-13,Replacement,13,Open,,,,,
+REQ001697,Care Worker,Perth North,2026-06-10,Replacement,13,Open,,,,,
+REQ001698,Care Worker,Geraldton,2026-06-29,Re-advertised,8,Open,,,,,
+REQ001699,Registered Nurse,Perth North,2026-06-04,Replacement (internal move),8,Open,,,,,

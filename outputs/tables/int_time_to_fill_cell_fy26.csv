@@ -1,0 +1,41 @@
+job_family,location,count,median,p90
+Administration,Broome,3,33.0,50.6
+Administration,Bunbury,3,39.0,43.8
+Administration,Geraldton,1,25.0,25.0
+Administration,Kalgoorlie,6,59.5,87.5
+Administration,Perth North,5,27.0,37.2
+Administration,Perth South,9,23.0,34.0
+Allied Health,Broome,1,75.0,75.0
+Allied Health,Bunbury,4,100.5,169.3
+Allied Health,Kalgoorlie,5,101.0,133.6
+Allied Health,Perth North,12,60.5,108.7
+Allied Health,Perth South,9,44.0,80.2
+Care Worker,Broome,8,48.0,96.6
+Care Worker,Bunbury,18,33.5,54.1
+Care Worker,Geraldton,13,34.0,59.4
+Care Worker,Kalgoorlie,17,41.0,57.4
+Care Worker,Perth North,44,25.5,40.4
+Care Worker,Perth South,26,27.5,45.0
+Enrolled Nurse,Broome,3,94.0,152.4
+Enrolled Nurse,Bunbury,4,71.0,110.1
+Enrolled Nurse,Geraldton,3,58.0,74.0
+Enrolled Nurse,Kalgoorlie,3,37.0,49.0
+Enrolled Nurse,Perth North,9,37.0,50.0
+Enrolled Nurse,Perth South,8,43.0,97.9
+Medical Practitioner,Bunbury,1,181.0,181.0
+Medical Practitioner,Kalgoorlie,1,209.0,209.0
+Medical Practitioner,Perth North,6,144.0,220.0
+Medical Practitioner,Perth South,9,70.0,132.0
+Midwife,Bunbury,1,53.0,53.0
+Midwife,Kalgoorlie,1,56.0,56.0
+Registered Nurse,Broome,10,99.5,183.0
+Registered Nurse,Bunbury,14,67.0,75.7
+Registered Nurse,Geraldton,10,47.0,93.7
+Registered Nurse,Kalgoorlie,9,74.0,114.4
+Registered Nurse,Perth North,27,49.0,75.4
+Registered Nurse,Perth South,24,36.5,74.1
+Support Services,Broome,3,44.0,48.0
+Support Services,Bunbury,6,22.0,41.0
+Support Services,Kalgoorlie,3,41.0,52.2
+Support Services,Perth North,9,27.0,44.4
+Support Services,Perth South,9,20.0,33.2

@@ -1,0 +1,610 @@
+region,industry,measure,adjustment,period,period_start,value
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2012-S1,2012-05-01,1413.1
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2012-S2,2012-11-01,1458.0
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2013-S1,2013-05-01,1482.5
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2013-S2,2013-11-01,1500.1
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2014-S1,2014-05-01,1515.8
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2014-S2,2014-11-01,1542.4
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2015-S1,2015-05-01,1541.5
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2015-S2,2015-11-01,1560.5
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2016-S1,2016-05-01,1573.3
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2016-S2,2016-11-01,1595.5
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2017-S1,2017-05-01,1605.6
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2017-S2,2017-11-01,1632.1
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2018-S1,2018-05-01,1650.6
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2018-S2,2018-11-01,1668.1
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2019-S1,2019-05-01,1695.1
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2019-S2,2019-11-01,1722.8
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2020-S1,2020-05-01,1768.9
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2020-S2,2020-11-01,1769.9
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2021-S1,2021-05-01,1797.0
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2021-S2,2021-11-01,1813.0
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2022-S1,2022-05-01,1835.3
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2022-S2,2022-11-01,1878.5
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2023-S1,2023-05-01,1906.6
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2023-S2,2023-11-01,1958.0
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2024-S1,2024-05-01,1994.3
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2024-S2,2024-11-01,2047.0
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2025-S1,2025-05-01,2083.2
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2025-S2,2025-11-01,2129.0
+Australia,All Industries,Full-time adult average weekly total earnings,Original,2026-S1,2026-05-01,2156.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2012-S1,2012-05-01,1239.7
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2012-S2,2012-11-01,1306.9
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2013-S1,2013-05-01,1354.1
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2013-S2,2013-11-01,1368.1
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2014-S1,2014-05-01,1372.9
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2014-S2,2014-11-01,1399.6
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2015-S1,2015-05-01,1410.8
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2015-S2,2015-11-01,1438.7
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2016-S1,2016-05-01,1440.9
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2016-S2,2016-11-01,1479.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2017-S1,2017-05-01,1507.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2017-S2,2017-11-01,1523.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2018-S1,2018-05-01,1523.2
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2018-S2,2018-11-01,1511.3
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2019-S1,2019-05-01,1566.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2019-S2,2019-11-01,1590.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2020-S1,2020-05-01,1624.6
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2020-S2,2020-11-01,1675.6
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2021-S1,2021-05-01,1696.9
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2021-S2,2021-11-01,1691.4
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2022-S1,2022-05-01,1727.3
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2022-S2,2022-11-01,1763.6
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2023-S1,2023-05-01,1807.7
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2023-S2,2023-11-01,1875.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2024-S1,2024-05-01,1902.4
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2024-S2,2024-11-01,1940.2
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2025-S1,2025-05-01,1978.8
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2025-S2,2025-11-01,1996.3
+Australia,Health Care and Social Assistance,Full-time adult average weekly ordinary time earnings,Original,2026-S1,2026-05-01,2037.2
+Australia,All Industries,All employees average weekly total earnings,Trend,2012-S1,2012-05-01,1054.3
+Australia,All Industries,All employees average weekly total earnings,Trend,2012-S2,2012-11-01,1081.0
+Australia,All Industries,All employees average weekly total earnings,Trend,2013-S1,2013-05-01,1103.4
+Australia,All Industries,All employees average weekly total earnings,Trend,2013-S2,2013-11-01,1114.6
+Australia,All Industries,All employees average weekly total earnings,Trend,2014-S1,2014-05-01,1122.5
+Australia,All Industries,All employees average weekly total earnings,Trend,2014-S2,2014-11-01,1129.0
+Australia,All Industries,All employees average weekly total earnings,Trend,2015-S1,2015-05-01,1136.7
+Australia,All Industries,All employees average weekly total earnings,Trend,2015-S2,2015-11-01,1146.8
+Australia,All Industries,All employees average weekly total earnings,Trend,2016-S1,2016-05-01,1158.9
+Australia,All Industries,All employees average weekly total earnings,Trend,2016-S2,2016-11-01,1165.5
+Australia,All Industries,All employees average weekly total earnings,Trend,2017-S1,2017-05-01,1178.2
+Australia,All Industries,All employees average weekly total earnings,Trend,2017-S2,2017-11-01,1191.9
+Australia,All Industries,All employees average weekly total earnings,Trend,2018-S1,2018-05-01,1207.7
+Australia,All Industries,All employees average weekly total earnings,Trend,2018-S2,2018-11-01,1224.5
+Australia,All Industries,All employees average weekly total earnings,Trend,2019-S1,2019-05-01,1239.1
+Australia,All Industries,All employees average weekly total earnings,Trend,2019-S2,2019-11-01,1255.8
+Australia,All Industries,All employees average weekly total earnings,Trend,2020-S1,2020-05-01,1268.0
+Australia,All Industries,All employees average weekly total earnings,Trend,2020-S2,2020-11-01,1281.9
+Australia,All Industries,All employees average weekly total earnings,Trend,2021-S1,2021-05-01,1305.3
+Australia,All Industries,All employees average weekly total earnings,Trend,2021-S2,2021-11-01,1327.6
+Australia,All Industries,All employees average weekly total earnings,Trend,2022-S1,2022-05-01,1347.4
+Australia,All Industries,All employees average weekly total earnings,Trend,2022-S2,2022-11-01,1376.1
+Australia,All Industries,All employees average weekly total earnings,Trend,2023-S1,2023-05-01,1400.6
+Australia,All Industries,All employees average weekly total earnings,Trend,2023-S2,2023-11-01,1434.5
+Australia,All Industries,All employees average weekly total earnings,Trend,2024-S1,2024-05-01,1478.3
+Australia,All Industries,All employees average weekly total earnings,Trend,2024-S2,2024-11-01,1511.9
+Australia,All Industries,All employees average weekly total earnings,Trend,2025-S1,2025-05-01,1541.0
+Australia,All Industries,All employees average weekly total earnings,Trend,2025-S2,2025-11-01,1562.1
+Australia,All Industries,All employees average weekly total earnings,Trend,2026-S1,2026-05-01,1579.4
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2012-S1,2012-05-01,890.8
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2012-S2,2012-11-01,903.0
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2013-S1,2013-05-01,926.7
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2013-S2,2013-11-01,969.2
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2014-S1,2014-05-01,992.6
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2014-S2,2014-11-01,1002.7
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2015-S1,2015-05-01,998.5
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2015-S2,2015-11-01,985.2
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2016-S1,2016-05-01,994.5
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2016-S2,2016-11-01,1034.6
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2017-S1,2017-05-01,1068.3
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2017-S2,2017-11-01,1053.1
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2018-S1,2018-05-01,1093.1
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2018-S2,2018-11-01,1095.5
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2019-S1,2019-05-01,1120.4
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2019-S2,2019-11-01,1134.0
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2020-S1,2020-05-01,1159.3
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2020-S2,2020-11-01,1166.1
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2021-S1,2021-05-01,1166.5
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2021-S2,2021-11-01,1194.1
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2022-S1,2022-05-01,1215.7
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2022-S2,2022-11-01,1217.0
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2023-S1,2023-05-01,1256.9
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2023-S2,2023-11-01,1288.6
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2024-S1,2024-05-01,1358.9
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2024-S2,2024-11-01,1362.3
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2025-S1,2025-05-01,1427.8
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2025-S2,2025-11-01,1420.1
+Australia,Health Care and Social Assistance,All employees average weekly total earnings,Original,2026-S1,2026-05-01,1460.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2012-S1,2012-05-01,1516.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2012-S2,2012-11-01,1590.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2013-S1,2013-05-01,1644.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2013-S2,2013-11-01,1620.0
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2014-S1,2014-05-01,1641.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2014-S2,2014-11-01,1673.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2015-S1,2015-05-01,1691.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2015-S2,2015-11-01,1708.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2016-S1,2016-05-01,1698.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2016-S2,2016-11-01,1703.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2017-S1,2017-05-01,1714.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2017-S2,2017-11-01,1742.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2018-S1,2018-05-01,1740.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2018-S2,2018-11-01,1757.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2019-S1,2019-05-01,1780.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2019-S2,2019-11-01,1777.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2020-S1,2020-05-01,1840.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2020-S2,2020-11-01,1840.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2021-S1,2021-05-01,1879.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2021-S2,2021-11-01,1895.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2022-S1,2022-05-01,1937.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2022-S2,2022-11-01,1988.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2023-S1,2023-05-01,2039.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2023-S2,2023-11-01,2107.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2024-S1,2024-05-01,2094.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2024-S2,2024-11-01,2156.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2025-S1,2025-05-01,2154.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2025-S2,2025-11-01,2193.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2026-S1,2026-05-01,2227.4
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2012-S1,2012-05-01,1415.4
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2012-S2,2012-11-01,1455.6
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2013-S1,2013-05-01,1484.9
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2013-S2,2013-11-01,1497.8
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2014-S1,2014-05-01,1518.0
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2014-S2,2014-11-01,1540.1
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2015-S1,2015-05-01,1543.6
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2015-S2,2015-11-01,1558.3
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2016-S1,2016-05-01,1575.3
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2016-S2,2016-11-01,1593.5
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2017-S1,2017-05-01,1607.6
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2017-S2,2017-11-01,1630.2
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2018-S1,2018-05-01,1652.6
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2018-S2,2018-11-01,1666.3
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2019-S1,2019-05-01,1697.2
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2019-S2,2019-11-01,1720.8
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2020-S1,2020-05-01,1771.1
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2020-S2,2020-11-01,1767.9
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2021-S1,2021-05-01,1799.2
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2021-S2,2021-11-01,1810.9
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2022-S1,2022-05-01,1837.8
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2022-S2,2022-11-01,1876.2
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2023-S1,2023-05-01,1909.2
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2023-S2,2023-11-01,1955.4
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2024-S1,2024-05-01,1997.3
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2024-S2,2024-11-01,2044.1
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2025-S1,2025-05-01,2086.5
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2025-S2,2025-11-01,2125.7
+Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2026-S1,2026-05-01,2160.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2012-S1,2012-05-01,1349.2
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2012-S2,2012-11-01,1396.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2013-S1,2013-05-01,1420.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2013-S2,2013-11-01,1437.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2014-S1,2014-05-01,1454.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2014-S2,2014-11-01,1477.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2015-S1,2015-05-01,1483.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2015-S2,2015-11-01,1500.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2016-S1,2016-05-01,1516.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2016-S2,2016-11-01,1533.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2017-S1,2017-05-01,1543.2
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2017-S2,2017-11-01,1569.6
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2018-S1,2018-05-01,1585.3
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2018-S2,2018-11-01,1605.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2019-S1,2019-05-01,1634.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2019-S2,2019-11-01,1658.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2020-S1,2020-05-01,1713.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2020-S2,2020-11-01,1711.6
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2021-S1,2021-05-01,1737.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2021-S2,2021-11-01,1748.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2022-S1,2022-05-01,1769.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2022-S2,2022-11-01,1807.7
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2023-S1,2023-05-01,1838.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2023-S2,2023-11-01,1888.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2024-S1,2024-05-01,1923.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2024-S2,2024-11-01,1975.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2025-S1,2025-05-01,2010.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2025-S2,2025-11-01,2051.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2026-S1,2026-05-01,2083.7
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2012-S1,2012-05-01,1349.2
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2012-S2,2012-11-01,1396.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2013-S1,2013-05-01,1420.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2013-S2,2013-11-01,1437.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2014-S1,2014-05-01,1454.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2014-S2,2014-11-01,1477.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2015-S1,2015-05-01,1483.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2015-S2,2015-11-01,1500.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2016-S1,2016-05-01,1516.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2016-S2,2016-11-01,1533.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2017-S1,2017-05-01,1543.2
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2017-S2,2017-11-01,1569.6
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2018-S1,2018-05-01,1585.3
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2018-S2,2018-11-01,1605.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2019-S1,2019-05-01,1634.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2019-S2,2019-11-01,1658.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2020-S1,2020-05-01,1713.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2020-S2,2020-11-01,1711.6
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2021-S1,2021-05-01,1737.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2021-S2,2021-11-01,1748.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2022-S1,2022-05-01,1769.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2022-S2,2022-11-01,1807.7
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2023-S1,2023-05-01,1838.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2023-S2,2023-11-01,1888.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2024-S1,2024-05-01,1923.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2024-S2,2024-11-01,1975.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2025-S1,2025-05-01,2010.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2025-S2,2025-11-01,2051.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Seasonally Adjusted,2026-S1,2026-05-01,2083.7
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2012-S1,2012-05-01,1204.5
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2012-S2,2012-11-01,1244.0
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2013-S1,2013-05-01,1297.9
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2013-S2,2013-11-01,1296.3
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2014-S1,2014-05-01,1314.3
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2014-S2,2014-11-01,1346.7
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2015-S1,2015-05-01,1340.0
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2015-S2,2015-11-01,1326.8
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2016-S1,2016-05-01,1319.7
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2016-S2,2016-11-01,1327.6
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2017-S1,2017-05-01,1333.2
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2017-S2,2017-11-01,1332.5
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2018-S1,2018-05-01,1320.4
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2018-S2,2018-11-01,1299.3
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2019-S1,2019-05-01,1311.0
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2019-S2,2019-11-01,1334.9
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2020-S1,2020-05-01,1409.4
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2020-S2,2020-11-01,1362.2
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2021-S1,2021-05-01,1438.8
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2021-S2,2021-11-01,1432.9
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2022-S1,2022-05-01,1491.5
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2022-S2,2022-11-01,1528.2
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2023-S1,2023-05-01,1537.1
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2023-S2,2023-11-01,1542.3
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2024-S1,2024-05-01,1571.5
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2024-S2,2024-11-01,1591.5
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2025-S1,2025-05-01,1607.7
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2025-S2,2025-11-01,1685.0
+Western Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2026-S1,2026-05-01,1692.4
+Australia,All Industries,All employees average weekly total earnings,Original,2012-S1,2012-05-01,1053.2
+Australia,All Industries,All employees average weekly total earnings,Original,2012-S2,2012-11-01,1081.3
+Australia,All Industries,All employees average weekly total earnings,Original,2013-S1,2013-05-01,1105.0
+Australia,All Industries,All employees average weekly total earnings,Original,2013-S2,2013-11-01,1114.2
+Australia,All Industries,All employees average weekly total earnings,Original,2014-S1,2014-05-01,1123.0
+Australia,All Industries,All employees average weekly total earnings,Original,2014-S2,2014-11-01,1128.7
+Australia,All Industries,All employees average weekly total earnings,Original,2015-S1,2015-05-01,1136.9
+Australia,All Industries,All employees average weekly total earnings,Original,2015-S2,2015-11-01,1145.7
+Australia,All Industries,All employees average weekly total earnings,Original,2016-S1,2016-05-01,1160.9
+Australia,All Industries,All employees average weekly total earnings,Original,2016-S2,2016-11-01,1163.5
+Australia,All Industries,All employees average weekly total earnings,Original,2017-S1,2017-05-01,1179.0
+Australia,All Industries,All employees average weekly total earnings,Original,2017-S2,2017-11-01,1191.5
+Australia,All Industries,All employees average weekly total earnings,Original,2018-S1,2018-05-01,1207.4
+Australia,All Industries,All employees average weekly total earnings,Original,2018-S2,2018-11-01,1225.3
+Australia,All Industries,All employees average weekly total earnings,Original,2019-S1,2019-05-01,1237.9
+Australia,All Industries,All employees average weekly total earnings,Original,2019-S2,2019-11-01,1257.0
+Australia,All Industries,All employees average weekly total earnings,Original,2020-S1,2020-05-01,1304.7
+Australia,All Industries,All employees average weekly total earnings,Original,2020-S2,2020-11-01,1280.3
+Australia,All Industries,All employees average weekly total earnings,Original,2021-S1,2021-05-01,1305.8
+Australia,All Industries,All employees average weekly total earnings,Original,2021-S2,2021-11-01,1328.9
+Australia,All Industries,All employees average weekly total earnings,Original,2022-S1,2022-05-01,1344.7
+Australia,All Industries,All employees average weekly total earnings,Original,2022-S2,2022-11-01,1378.6
+Australia,All Industries,All employees average weekly total earnings,Original,2023-S1,2023-05-01,1399.1
+Australia,All Industries,All employees average weekly total earnings,Original,2023-S2,2023-11-01,1432.6
+Australia,All Industries,All employees average weekly total earnings,Original,2024-S1,2024-05-01,1480.9
+Australia,All Industries,All employees average weekly total earnings,Original,2024-S2,2024-11-01,1510.9
+Australia,All Industries,All employees average weekly total earnings,Original,2025-S1,2025-05-01,1542.3
+Australia,All Industries,All employees average weekly total earnings,Original,2025-S2,2025-11-01,1562.4
+Australia,All Industries,All employees average weekly total earnings,Original,2026-S1,2026-05-01,1579.2
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2012-S1,2012-05-01,1635.2
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2012-S2,2012-11-01,1692.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2013-S1,2013-05-01,1740.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2013-S2,2013-11-01,1705.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2014-S1,2014-05-01,1736.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2014-S2,2014-11-01,1792.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2015-S1,2015-05-01,1784.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2015-S2,2015-11-01,1806.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2016-S1,2016-05-01,1795.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2016-S2,2016-11-01,1798.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2017-S1,2017-05-01,1795.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2017-S2,2017-11-01,1824.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2018-S1,2018-05-01,1820.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2018-S2,2018-11-01,1845.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2019-S1,2019-05-01,1858.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2019-S2,2019-11-01,1858.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2020-S1,2020-05-01,1910.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2020-S2,2020-11-01,1908.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2021-S1,2021-05-01,1961.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2021-S2,2021-11-01,1979.2
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2022-S1,2022-05-01,2011.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2022-S2,2022-11-01,2069.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2023-S1,2023-05-01,2120.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2023-S2,2023-11-01,2183.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2024-S1,2024-05-01,2179.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2024-S2,2024-11-01,2244.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2025-S1,2025-05-01,2256.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2025-S2,2025-11-01,2303.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Original,2026-S1,2026-05-01,2317.8
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2012-S1,2012-05-01,1053.2
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2012-S2,2012-11-01,1081.3
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2013-S1,2013-05-01,1105.0
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2013-S2,2013-11-01,1114.2
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2014-S1,2014-05-01,1123.0
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2014-S2,2014-11-01,1128.7
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2015-S1,2015-05-01,1136.9
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2015-S2,2015-11-01,1145.7
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2016-S1,2016-05-01,1160.9
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2016-S2,2016-11-01,1163.5
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2017-S1,2017-05-01,1179.0
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2017-S2,2017-11-01,1191.5
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2018-S1,2018-05-01,1207.4
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2018-S2,2018-11-01,1225.3
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2019-S1,2019-05-01,1237.9
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2019-S2,2019-11-01,1257.0
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2020-S1,2020-05-01,1304.7
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2020-S2,2020-11-01,1280.3
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2021-S1,2021-05-01,1305.8
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2021-S2,2021-11-01,1328.9
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2022-S1,2022-05-01,1344.7
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2022-S2,2022-11-01,1378.6
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2023-S1,2023-05-01,1399.1
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2023-S2,2023-11-01,1432.6
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2024-S1,2024-05-01,1480.9
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2024-S2,2024-11-01,1510.9
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2025-S1,2025-05-01,1542.3
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2025-S2,2025-11-01,1562.4
+Australia,All Industries,All employees average weekly total earnings,Seasonally Adjusted,2026-S1,2026-05-01,1579.2
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2012-S1,2012-05-01,1283.3
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2012-S2,2012-11-01,1353.3
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2013-S1,2013-05-01,1401.1
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2013-S2,2013-11-01,1413.3
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2014-S1,2014-05-01,1427.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2014-S2,2014-11-01,1452.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2015-S1,2015-05-01,1468.7
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2015-S2,2015-11-01,1495.7
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2016-S1,2016-05-01,1492.2
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2016-S2,2016-11-01,1535.7
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2017-S1,2017-05-01,1567.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2017-S2,2017-11-01,1580.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2018-S1,2018-05-01,1577.9
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2018-S2,2018-11-01,1573.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2019-S1,2019-05-01,1626.4
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2019-S2,2019-11-01,1645.8
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2020-S1,2020-05-01,1672.4
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2020-S2,2020-11-01,1731.1
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2021-S1,2021-05-01,1759.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2021-S2,2021-11-01,1755.9
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2022-S1,2022-05-01,1805.8
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2022-S2,2022-11-01,1836.2
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2023-S1,2023-05-01,1888.4
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2023-S2,2023-11-01,1952.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2024-S1,2024-05-01,1973.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2024-S2,2024-11-01,2006.3
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2025-S1,2025-05-01,2053.5
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2025-S2,2025-11-01,2069.0
+Australia,Health Care and Social Assistance,Full-time adult average weekly total earnings,Original,2026-S1,2026-05-01,2109.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2012-S1,2012-05-01,1528.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2012-S2,2012-11-01,1588.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2013-S1,2013-05-01,1634.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2013-S2,2013-11-01,1627.4
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2014-S1,2014-05-01,1641.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2014-S2,2014-11-01,1671.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2015-S1,2015-05-01,1692.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2015-S2,2015-11-01,1705.0
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2016-S1,2016-05-01,1700.9
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2016-S2,2016-11-01,1703.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2017-S1,2017-05-01,1717.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2017-S2,2017-11-01,1738.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2018-S1,2018-05-01,1743.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2018-S2,2018-11-01,1758.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2019-S1,2019-05-01,1775.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2019-S2,2019-11-01,1787.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2020-S1,2020-05-01,1825.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2020-S2,2020-11-01,1847.0
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2021-S1,2021-05-01,1875.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2021-S2,2021-11-01,1899.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2022-S1,2022-05-01,1937.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2022-S2,2022-11-01,1987.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2023-S1,2023-05-01,2043.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2023-S2,2023-11-01,2095.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2024-S1,2024-05-01,2107.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2024-S2,2024-11-01,2145.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2025-S1,2025-05-01,2161.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2025-S2,2025-11-01,2191.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2026-S1,2026-05-01,2227.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2012-S1,2012-05-01,1516.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2012-S2,2012-11-01,1590.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2013-S1,2013-05-01,1644.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2013-S2,2013-11-01,1620.0
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2014-S1,2014-05-01,1641.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2014-S2,2014-11-01,1673.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2015-S1,2015-05-01,1691.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2015-S2,2015-11-01,1708.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2016-S1,2016-05-01,1698.6
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2016-S2,2016-11-01,1703.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2017-S1,2017-05-01,1714.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2017-S2,2017-11-01,1742.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2018-S1,2018-05-01,1740.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2018-S2,2018-11-01,1757.1
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2019-S1,2019-05-01,1780.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2019-S2,2019-11-01,1777.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2020-S1,2020-05-01,1840.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2020-S2,2020-11-01,1840.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2021-S1,2021-05-01,1879.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2021-S2,2021-11-01,1895.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2022-S1,2022-05-01,1937.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2022-S2,2022-11-01,1988.5
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2023-S1,2023-05-01,2039.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2023-S2,2023-11-01,2107.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2024-S1,2024-05-01,2094.3
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2024-S2,2024-11-01,2156.8
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2025-S1,2025-05-01,2154.7
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2025-S2,2025-11-01,2193.2
+Western Australia,All Industries,Full-time adult average weekly ordinary time earnings,Original,2026-S1,2026-05-01,2227.4
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2012-S1,2012-05-01,1208.6
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2012-S2,2012-11-01,1246.5
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2013-S1,2013-05-01,1290.4
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2013-S2,2013-11-01,1299.8
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2014-S1,2014-05-01,1316.6
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2014-S2,2014-11-01,1341.9
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2015-S1,2015-05-01,1340.2
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2015-S2,2015-11-01,1327.2
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2016-S1,2016-05-01,1321.4
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2016-S2,2016-11-01,1327.1
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2017-S1,2017-05-01,1332.9
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2017-S2,2017-11-01,1331.6
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2018-S1,2018-05-01,1318.7
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2018-S2,2018-11-01,1303.0
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2019-S1,2019-05-01,1310.0
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2019-S2,2019-11-01,1342.7
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2020-S1,2020-05-01,1381.8
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2020-S2,2020-11-01,1389.9
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2021-S1,2021-05-01,1424.8
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2021-S2,2021-11-01,1443.5
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2022-S1,2022-05-01,1487.8
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2022-S2,2022-11-01,1525.7
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2023-S1,2023-05-01,1536.8
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2023-S2,2023-11-01,1545.5
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2024-S1,2024-05-01,1569.9
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2024-S2,2024-11-01,1589.6
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2025-S1,2025-05-01,1617.0
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2025-S2,2025-11-01,1673.2
+Western Australia,All Industries,All employees average weekly total earnings,Trend,2026-S1,2026-05-01,1698.8
+Western Australia,All Industries,All employees average weekly total earnings,Original,2012-S1,2012-05-01,1204.5
+Western Australia,All Industries,All employees average weekly total earnings,Original,2012-S2,2012-11-01,1244.0
+Western Australia,All Industries,All employees average weekly total earnings,Original,2013-S1,2013-05-01,1297.9
+Western Australia,All Industries,All employees average weekly total earnings,Original,2013-S2,2013-11-01,1296.3
+Western Australia,All Industries,All employees average weekly total earnings,Original,2014-S1,2014-05-01,1314.3
+Western Australia,All Industries,All employees average weekly total earnings,Original,2014-S2,2014-11-01,1346.7
+Western Australia,All Industries,All employees average weekly total earnings,Original,2015-S1,2015-05-01,1340.0
+Western Australia,All Industries,All employees average weekly total earnings,Original,2015-S2,2015-11-01,1326.8
+Western Australia,All Industries,All employees average weekly total earnings,Original,2016-S1,2016-05-01,1319.7
+Western Australia,All Industries,All employees average weekly total earnings,Original,2016-S2,2016-11-01,1327.6
+Western Australia,All Industries,All employees average weekly total earnings,Original,2017-S1,2017-05-01,1333.2
+Western Australia,All Industries,All employees average weekly total earnings,Original,2017-S2,2017-11-01,1332.5
+Western Australia,All Industries,All employees average weekly total earnings,Original,2018-S1,2018-05-01,1320.4
+Western Australia,All Industries,All employees average weekly total earnings,Original,2018-S2,2018-11-01,1299.3
+Western Australia,All Industries,All employees average weekly total earnings,Original,2019-S1,2019-05-01,1311.0
+Western Australia,All Industries,All employees average weekly total earnings,Original,2019-S2,2019-11-01,1334.9
+Western Australia,All Industries,All employees average weekly total earnings,Original,2020-S1,2020-05-01,1409.4
+Western Australia,All Industries,All employees average weekly total earnings,Original,2020-S2,2020-11-01,1362.2
+Western Australia,All Industries,All employees average weekly total earnings,Original,2021-S1,2021-05-01,1438.8
+Western Australia,All Industries,All employees average weekly total earnings,Original,2021-S2,2021-11-01,1432.9
+Western Australia,All Industries,All employees average weekly total earnings,Original,2022-S1,2022-05-01,1491.5
+Western Australia,All Industries,All employees average weekly total earnings,Original,2022-S2,2022-11-01,1528.2
+Western Australia,All Industries,All employees average weekly total earnings,Original,2023-S1,2023-05-01,1537.1
+Western Australia,All Industries,All employees average weekly total earnings,Original,2023-S2,2023-11-01,1542.3
+Western Australia,All Industries,All employees average weekly total earnings,Original,2024-S1,2024-05-01,1571.5
+Western Australia,All Industries,All employees average weekly total earnings,Original,2024-S2,2024-11-01,1591.5
+Western Australia,All Industries,All employees average weekly total earnings,Original,2025-S1,2025-05-01,1607.7
+Western Australia,All Industries,All employees average weekly total earnings,Original,2025-S2,2025-11-01,1685.0
+Western Australia,All Industries,All employees average weekly total earnings,Original,2026-S1,2026-05-01,1692.4
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2012-S1,2012-05-01,1353.3
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2012-S2,2012-11-01,1392.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2013-S1,2013-05-01,1420.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2013-S2,2013-11-01,1437.2
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2014-S1,2014-05-01,1455.3
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2014-S2,2014-11-01,1474.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2015-S1,2015-05-01,1484.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2015-S2,2015-11-01,1499.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2016-S1,2016-05-01,1516.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2016-S2,2016-11-01,1532.0
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2017-S1,2017-05-01,1545.7
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2017-S2,2017-11-01,1567.7
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2018-S1,2018-05-01,1585.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2018-S2,2018-11-01,1606.6
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2019-S1,2019-05-01,1633.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2019-S2,2019-11-01,1659.3
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2020-S1,2020-05-01,1686.3
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2020-S2,2020-11-01,1712.2
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2021-S1,2021-05-01,1735.1
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2021-S2,2021-11-01,1749.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2022-S1,2022-05-01,1771.6
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2022-S2,2022-11-01,1805.7
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2023-S1,2023-05-01,1841.2
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2023-S2,2023-11-01,1885.8
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2024-S1,2024-05-01,1926.5
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2024-S2,2024-11-01,1972.9
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2025-S1,2025-05-01,2011.6
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2025-S2,2025-11-01,2049.7
+Australia,All Industries,Full-time adult average weekly ordinary time earnings,Trend,2026-S1,2026-05-01,2084.2
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2012-S1,2012-05-01,1644.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2012-S2,2012-11-01,1692.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2013-S1,2013-05-01,1729.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2013-S2,2013-11-01,1715.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2014-S1,2014-05-01,1739.7
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2014-S2,2014-11-01,1783.7
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2015-S1,2015-05-01,1791.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2015-S2,2015-11-01,1800.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2016-S1,2016-05-01,1798.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2016-S2,2016-11-01,1796.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2017-S1,2017-05-01,1800.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2017-S2,2017-11-01,1819.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2018-S1,2018-05-01,1825.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2018-S2,2018-11-01,1843.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2019-S1,2019-05-01,1855.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2019-S2,2019-11-01,1866.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2020-S1,2020-05-01,1901.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2020-S2,2020-11-01,1917.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2021-S1,2021-05-01,1955.2
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2021-S2,2021-11-01,1981.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2022-S1,2022-05-01,2014.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2022-S2,2022-11-01,2067.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2023-S1,2023-05-01,2124.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2023-S2,2023-11-01,2172.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2024-S1,2024-05-01,2191.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2024-S2,2024-11-01,2235.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2025-S1,2025-05-01,2263.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2025-S2,2025-11-01,2297.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Trend,2026-S1,2026-05-01,2320.7
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2012-S1,2012-05-01,1417.3
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2012-S2,2012-11-01,1454.5
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2013-S1,2013-05-01,1483.1
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2013-S2,2013-11-01,1499.1
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2014-S1,2014-05-01,1518.6
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2014-S2,2014-11-01,1537.6
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2015-S1,2015-05-01,1545.4
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2015-S2,2015-11-01,1558.3
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2016-S1,2016-05-01,1575.5
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2016-S2,2016-11-01,1592.7
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2017-S1,2017-05-01,1608.7
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2017-S2,2017-11-01,1630.1
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2018-S1,2018-05-01,1651.0
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2018-S2,2018-11-01,1668.7
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2019-S1,2019-05-01,1695.6
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2019-S2,2019-11-01,1721.9
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2020-S1,2020-05-01,1747.9
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2020-S2,2020-11-01,1770.3
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2021-S1,2021-05-01,1796.0
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2021-S2,2021-11-01,1812.8
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2022-S1,2022-05-01,1838.8
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2022-S2,2022-11-01,1874.7
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2023-S1,2023-05-01,1911.0
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2023-S2,2023-11-01,1954.3
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2024-S1,2024-05-01,1998.0
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2024-S2,2024-11-01,2043.4
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2025-S1,2025-05-01,2086.3
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2025-S2,2025-11-01,2125.0
+Australia,All Industries,Full-time adult average weekly total earnings,Trend,2026-S1,2026-05-01,2160.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2012-S1,2012-05-01,1635.2
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2012-S2,2012-11-01,1692.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2013-S1,2013-05-01,1740.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2013-S2,2013-11-01,1705.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2014-S1,2014-05-01,1736.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2014-S2,2014-11-01,1792.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2015-S1,2015-05-01,1784.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2015-S2,2015-11-01,1806.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2016-S1,2016-05-01,1795.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2016-S2,2016-11-01,1798.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2017-S1,2017-05-01,1795.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2017-S2,2017-11-01,1824.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2018-S1,2018-05-01,1820.9
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2018-S2,2018-11-01,1845.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2019-S1,2019-05-01,1858.1
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2019-S2,2019-11-01,1858.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2020-S1,2020-05-01,1910.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2020-S2,2020-11-01,1908.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2021-S1,2021-05-01,1961.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2021-S2,2021-11-01,1979.2
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2022-S1,2022-05-01,2011.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2022-S2,2022-11-01,2069.3
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2023-S1,2023-05-01,2120.8
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2023-S2,2023-11-01,2183.0
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2024-S1,2024-05-01,2179.4
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2024-S2,2024-11-01,2244.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2025-S1,2025-05-01,2256.5
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2025-S2,2025-11-01,2303.6
+Western Australia,All Industries,Full-time adult average weekly total earnings,Seasonally Adjusted,2026-S1,2026-05-01,2317.8

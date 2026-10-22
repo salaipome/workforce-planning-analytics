@@ -1,0 +1,9 @@
+job_family,budgeted_fte,filled_fte,vacant_fte,open_requisitions,vacancy_rate
+Administration,232.6,216.9,15.7,2.0,0.0675
+Allied Health,155.3,145.1,10.2,1.0,0.0657
+Care Worker,288.6,258.8,29.8,8.0,0.1033
+Enrolled Nurse,125.8,115.0,10.8,2.0,0.0859
+Medical Practitioner,136.1,123.0,13.1,5.0,0.0963
+Midwife,47.9,47.9,0.0,1.0,0.0
+Registered Nurse,552.7,564.3,-11.6,8.0,-0.021
+Support Services,162.8,156.5,6.3,1.0,0.0387

@@ -1,0 +1,12 @@
+defect_type,rule,injected,flagged,true_positives,recall,precision
+exact_duplicate,R-H1,25,25,25,1.0,1.0
+location_variant,R-H2,145,145,145,1.0,1.0
+job_family_variant,R-H3,199,199,199,1.0,1.0
+dob_placeholder,R-H5,6,6,6,1.0,1.0
+terminated_but_active,R-H6,30,30,30,1.0,1.0
+stale_prior_record_same_person,R-H7,12,12,12,1.0,1.0
+fte_decimal_shift,R-H8a,10,10,10,1.0,1.0
+missing_fte,R-H8b,39,39,39,1.0,1.0
+missing_employment_type,R-H9,19,19,19,1.0,1.0
+dates_swapped,R-A1,10,10,10,1.0,1.0
+filled_without_date,R-A2,15,15,15,1.0,1.0

@@ -1,0 +1,49 @@
+cost_centre,job_family,location
+CC101,Registered Nurse,Perth North
+CC102,Registered Nurse,Perth South
+CC103,Registered Nurse,Bunbury
+CC104,Registered Nurse,Geraldton
+CC105,Registered Nurse,Kalgoorlie
+CC106,Registered Nurse,Broome
+CC201,Midwife,Perth North
+CC202,Midwife,Perth South
+CC203,Midwife,Bunbury
+CC204,Midwife,Geraldton
+CC205,Midwife,Kalgoorlie
+CC206,Midwife,Broome
+CC301,Enrolled Nurse,Perth North
+CC302,Enrolled Nurse,Perth South
+CC303,Enrolled Nurse,Bunbury
+CC304,Enrolled Nurse,Geraldton
+CC305,Enrolled Nurse,Kalgoorlie
+CC306,Enrolled Nurse,Broome
+CC401,Medical Practitioner,Perth North
+CC402,Medical Practitioner,Perth South
+CC403,Medical Practitioner,Bunbury
+CC404,Medical Practitioner,Geraldton
+CC405,Medical Practitioner,Kalgoorlie
+CC406,Medical Practitioner,Broome
+CC501,Allied Health,Perth North
+CC502,Allied Health,Perth South
+CC503,Allied Health,Bunbury
+CC504,Allied Health,Geraldton
+CC505,Allied Health,Kalgoorlie
+CC506,Allied Health,Broome
+CC601,Care Worker,Perth North
+CC602,Care Worker,Perth South
+CC603,Care Worker,Bunbury
+CC604,Care Worker,Geraldton
+CC605,Care Worker,Kalgoorlie
+CC606,Care Worker,Broome
+CC701,Administration,Perth North
+CC702,Administration,Perth South
+CC703,Administration,Bunbury
+CC704,Administration,Geraldton
+CC705,Administration,Kalgoorlie
+CC706,Administration,Broome
+CC801,Support Services,Perth North
+CC802,Support Services,Perth South
+CC803,Support Services,Bunbury
+CC804,Support Services,Geraldton
+CC805,Support Services,Kalgoorlie
+CC806,Support Services,Broome

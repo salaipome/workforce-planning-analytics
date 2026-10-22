@@ -1,0 +1,511 @@
+step,dataset,rule,record_key,detail,action
+internal,HRIS snapshot,R-H1 exact duplicate,101601,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,102616,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,100171,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101257,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,100576,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101551,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101284,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,103073,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,102736,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,102256,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101099,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,100339,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,102538,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,103124,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101858,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,100627,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,102545,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101385,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,100029,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101294,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101009,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101177,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,100044,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,101179,,removed
+internal,HRIS snapshot,R-H1 exact duplicate,102119,,removed
+internal,HRIS snapshot,R-H2 location standardised,101484,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100555,'  broome ' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,101952,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,103159,'BROOME' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,102805,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,103090,'Bunbury Campus' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102984,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100096,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101905,'  geraldton ' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,101285,'Bunbury Campus' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,101975,'  bunbury ' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,100325,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100112,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101426,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102596,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102621,'PERTH SOUTH' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100045,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100231,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102166,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102082,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102666,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100042,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101086,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100496,'KALGOORLIE' -> Kalgoorlie,mapped
+internal,HRIS snapshot,R-H2 location standardised,103111,'Geraldton Campus' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,100343,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102616,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102883,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100246,'Perth South Campus' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101127,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100785,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101493,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101385,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102457,'GERALDTON' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,102996,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100580,'Broome Campus' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,101936,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100672,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100176,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102161,'  geraldton ' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,100911,'  broome ' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,102598,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,103179,'KALGOORLIE' -> Kalgoorlie,mapped
+internal,HRIS snapshot,R-H2 location standardised,102338,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,103065,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102477,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102991,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100957,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100559,'BROOME' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,100354,'  bunbury ' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,101199,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102628,'Bunbury Campus' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,100013,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100123,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102243,'  broome ' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,102002,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102914,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101242,'PERTH SOUTH' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102536,'BUNBURY' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102572,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101085,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101418,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100614,'Perth South Campus' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101950,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100675,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102788,'Perth South Campus' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100371,'Bunbury Campus' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102031,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100335,'  broome ' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,100819,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101423,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101788,'  geraldton ' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,101270,'  bunbury ' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,100747,'Geraldton Campus' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,100244,'Perth South Campus' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102328,'PERTH SOUTH' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100107,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100228,'PERTH SOUTH' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102256,'  kalgoorlie ' -> Kalgoorlie,mapped
+internal,HRIS snapshot,R-H2 location standardised,103151,'BUNBURY' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,103126,'Perth South Campus' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100065,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100165,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100110,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102441,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102659,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100657,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100416,'BUNBURY' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102332,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102542,'Perth South Campus' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101305,'Bunbury Campus' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,101804,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102611,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102334,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101072,'Broome Campus' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,101675,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101921,'Kalgoorlie Campus' -> Kalgoorlie,mapped
+internal,HRIS snapshot,R-H2 location standardised,103093,'  geraldton ' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,102234,'BUNBURY' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102366,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102036,'Geraldton Campus' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,100799,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100683,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102783,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,103168,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102483,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100024,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100849,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,103195,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100743,'  bunbury ' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102612,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102434,'Broome Campus' -> Broome,mapped
+internal,HRIS snapshot,R-H2 location standardised,102646,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102644,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102595,'GERALDTON' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,100431,'  bunbury ' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,101309,'  bunbury ' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102567,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101045,'GERALDTON' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,102428,'Geraldton Campus' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,101025,'Bunbury Campus' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102750,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101584,'Geraldton Campus' -> Geraldton,mapped
+internal,HRIS snapshot,R-H2 location standardised,102974,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101506,'PERTH SOUTH' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,100328,'PERTH SOUTH' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102367,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101097,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100956,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101408,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101869,'Perth Sth' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102578,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102670,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101746,'  bunbury ' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,100801,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101624,'KALGOORLIE' -> Kalgoorlie,mapped
+internal,HRIS snapshot,R-H2 location standardised,102711,'Bunbury Campus' -> Bunbury,mapped
+internal,HRIS snapshot,R-H2 location standardised,102496,'PERTH NORTH' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101446,'Perth Nth' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,100278,'  perth south ' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,101527,'Perth South Campus' -> Perth South,mapped
+internal,HRIS snapshot,R-H2 location standardised,102030,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102835,'Perth North Campus' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,102908,'  perth north ' -> Perth North,mapped
+internal,HRIS snapshot,R-H2 location standardised,101614,'Kalgoorlie Campus' -> Kalgoorlie,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101893,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101323,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103163,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101284,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102563,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101761,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103159,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100134,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102961,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102755,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100661,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100798,'Doctor' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101975,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100802,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102596,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102396,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100171,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101718,'Orderly' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101449,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102185,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102339,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101815,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102398,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102399,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100344,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100115,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103034,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102812,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102089,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101430,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102163,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102677,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101733,'Orderly' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101682,'Orderly' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100323,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102862,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101227,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103154,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102215,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100268,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100517,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101435,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100199,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100554,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102544,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101470,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100249,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102457,'Midwifery' -> Midwife,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102893,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102242,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103105,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102825,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101627,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102444,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101511,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100515,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100674,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102598,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101226,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102807,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101489,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102673,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100959,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100286,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101566,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102909,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101721,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100708,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101764,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100031,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102831,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101551,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102078,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100858,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100935,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102479,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103118,'Physiotherapist' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100698,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100205,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101853,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100224,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100864,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102929,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100254,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101978,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102752,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102180,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102965,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100983,'Physiotherapist' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102572,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103095,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102933,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102017,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102859,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102353,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103196,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102031,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100218,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102770,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102478,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102704,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101508,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101143,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101948,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101788,'Orderly' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101595,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101650,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100645,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102007,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102641,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100092,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100304,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101623,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103151,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100967,'Physiotherapist' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102288,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101163,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103174,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100879,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103021,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102879,'Orderly' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103100,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102359,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102264,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101600,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101154,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101009,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102924,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100367,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101289,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102753,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101046,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102542,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100619,'Midwifery' -> Midwife,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103134,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100615,'Midwifery' -> Midwife,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100501,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101329,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103075,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100499,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100626,'Midwifery' -> Midwife,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101585,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103045,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101164,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101961,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101019,'Physiotherapist' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100047,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102589,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102538,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102799,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100587,'Midwifery' -> Midwife,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102133,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102500,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100453,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100714,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103187,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103121,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102087,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102792,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101681,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102463,'Allied Health Prof' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100040,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100684,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100305,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101939,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103076,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102543,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100750,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102179,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100852,'Doctor' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100446,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100771,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102090,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102214,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103067,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102129,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103129,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101097,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102495,'Midwifery' -> Midwife,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102282,'Personal Care Assistant' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100321,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100947,'Physiotherapist' -> Allied Health,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101746,'Orderly' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101766,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102781,'Admin' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100439,'RN' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102765,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101624,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,100807,'Medical Officer' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102486,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101422,'Admin Officer' -> Administration,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103153,'AIN' -> Care Worker,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103194,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101674,'Support Svcs' -> Support Services,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103125,'EN' -> Enrolled Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102687,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,102030,'Registered Nurse - Grad' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H3 job family standardised,101935,'Doctor' -> Medical Practitioner,mapped
+internal,HRIS snapshot,R-H3 job family standardised,103110,'Reg Nurse' -> Registered Nurse,mapped
+internal,HRIS snapshot,R-H5 implausible date_of_birth,102899,,set to null
+internal,HRIS snapshot,R-H5 implausible date_of_birth,101657,,set to null
+internal,HRIS snapshot,R-H5 implausible date_of_birth,100933,,set to null
+internal,HRIS snapshot,R-H5 implausible date_of_birth,102332,,set to null
+internal,HRIS snapshot,R-H5 implausible date_of_birth,102218,,set to null
+internal,HRIS snapshot,R-H5 implausible date_of_birth,100791,,set to null
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102861,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102580,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,103135,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,101382,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102130,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102964,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,100432,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102321,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102347,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102856,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102060,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102976,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,103114,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102886,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102533,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,103018,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102513,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102389,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,103157,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102210,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,103030,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,101757,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102411,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,101195,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,102942,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,100789,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,103007,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,100365,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,100640,,status -> Terminated
+internal,HRIS snapshot,R-H6 termination date populated but status Active,103059,,status -> Terminated
+internal,HRIS snapshot,R-H7 stale prior record for same person,98848,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,96529,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,94744,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,97436,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,91118,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,97613,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,95480,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,98016,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,95761,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,90749,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,99409,,excluded from headcount
+internal,HRIS snapshot,R-H7 stale prior record for same person,99146,,excluded from headcount
+internal,HRIS snapshot,R-H8a FTE > 1.0,101640,10.0 (payroll 1.03),divided by 10 -> 1.0
+internal,HRIS snapshot,R-H8a FTE > 1.0,101449,10.0 (payroll 0.98),divided by 10 -> 1.0
+internal,HRIS snapshot,R-H8a FTE > 1.0,100482,6.0 (payroll 0.59),divided by 10 -> 0.6
+internal,HRIS snapshot,R-H8a FTE > 1.0,103086,10.0 (payroll 1.01),divided by 10 -> 1.0
+internal,HRIS snapshot,R-H8a FTE > 1.0,101080,7.0 (payroll 0.74),divided by 10 -> 0.7
+internal,HRIS snapshot,R-H8a FTE > 1.0,100369,6.0 (payroll 0.64),divided by 10 -> 0.6
+internal,HRIS snapshot,R-H8a FTE > 1.0,100708,4.0 (payroll 0.41),divided by 10 -> 0.4
+internal,HRIS snapshot,R-H8a FTE > 1.0,102707,10.0 (payroll 0.99),divided by 10 -> 1.0
+internal,HRIS snapshot,R-H8a FTE > 1.0,102568,10.0 (payroll 1.00),divided by 10 -> 1.0
+internal,HRIS snapshot,R-H8a FTE > 1.0,101007,10.0 (payroll nan),divided by 10 -> 1.0
+internal,HRIS snapshot,R-H8b missing FTE,101795,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100177,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102407,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100922,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101093,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102335,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100061,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102744,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,103069,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101876,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102762,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100151,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100604,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101850,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101763,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102887,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102795,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100074,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101242,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100333,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100371,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101191,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100726,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101100,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,103174,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,103156,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102731,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100643,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100250,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101066,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100840,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,103094,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102214,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101021,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102282,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101712,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,102594,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,101229,,imputed from payroll hours
+internal,HRIS snapshot,R-H8b missing FTE,100814,,imputed from payroll hours
+internal,HRIS snapshot,R-H9 missing employment type,101832,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,100419,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,101012,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,100355,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,100495,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,101727,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,100212,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,102940,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,102386,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,100994,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,101846,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,100029,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,101262,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,101585,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,103168,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,102463,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,103203,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,100342,,set 'Unknown' - HR to confirm
+internal,HRIS snapshot,R-H9 missing employment type,101073,,set 'Unknown' - HR to confirm
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ000312,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ000647,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ000762,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ000799,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ001020,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ001071,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ001119,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ001218,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ001308,,dates swapped back
+internal,ATS requisitions,R-A1 filled_date before open_date,REQ001473,,dates swapped back
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000382,2023-02-25 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000462,2023-08-05 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000473,2023-08-05 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000645,2023-10-14 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000661,2023-12-05 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000745,2024-07-03 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000783,2024-02-12 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000792,2024-03-20 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000827,2024-05-16 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ000910,2024-07-11 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ001062,2025-01-20 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ001501,2026-01-13 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ001579,2026-02-04 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ001618,2026-03-25 00:00:00,recovered from HRIS movement
+internal,ATS requisitions,R-A2 Filled without filled_date,REQ001672,2026-06-02 00:00:00,recovered from HRIS movement

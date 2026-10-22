@@ -1,0 +1,11 @@
+{
+  "weights": {
+    "vacancy_rate": 0.25,
+    "turnover_rate": 0.15,
+    "ttf_median": 0.15,
+    "pct_55_plus": 0.1,
+    "ext_shortage": 0.2,
+    "ext_ads_intensity": 0.15
+  },
+  "note": "weights are illustrative; vacancy/turnover/ttf/age are synthetic, ext_* are real public data at occupation (national OSL, WA IVI/EQ08) level"
+}

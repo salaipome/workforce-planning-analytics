@@ -1,0 +1,9 @@
+job_family,fills,median_days,p90_days
+Administration,27,33.0,63.0
+Allied Health,31,65.0,135.0
+Care Worker,126,31.0,57.0
+Enrolled Nurse,30,45.5,101.0
+Medical Practitioner,17,101.0,218.0
+Midwife,2,54.5,56.0
+Registered Nurse,94,49.5,100.0
+Support Services,28,27.0,45.0

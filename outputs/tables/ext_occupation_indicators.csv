@@ -1,0 +1,9 @@
+job_family,anzsco_codes,wa_ivi_latest_3mma,wa_ivi_yoy,wa_ivi_vs_2019,aus_ivi_yoy,wa_employed_000_4q_avg,wa_employment_growth_4q,wa_ads_per_100_employed,osl_2026_ratings,osl_share_in_shortage,osl_regional_shortage,jsa_proj_10y_cagr
+Registered Nurse,2544,583.7,0.0288,0.9263,0.1084,41.8,0.1895,1.36,S:1,1.0,False,0.0234
+Midwife,2541,22.3,0.0469,0.7403,0.3393,1.7,-0.3901,0.99,S:1,1.0,False,0.024
+Enrolled Nurse,4114,57.7,-0.1393,0.5087,-0.0544,2.7,-0.1597,2.11,R:1,0.0,True,0.0195
+Medical Practitioner,"2531,2532,2533,2534,2535,2539",421.7,0.3136,1.8876,0.3181,16.9,-0.1393,2.5,S:6,1.0,False,0.0289
+Allied Health,"2521,2522,2523,2524,2525,2526,2527",500.3,-0.0583,1.6792,-0.0529,16.7,-0.0972,2.8,"S:6, NS:1",0.86,False,0.03
+Care Worker,"4233,4231",324.7,-0.0662,0.66,-0.0156,43.7,-0.131,0.78,"S:1, NS:1",0.5,False,0.0181
+Administration,5xxx (33 unit groups),3947.0,0.064,0.7456,-0.0511,195.2,0.0082,1.91,NS:26,0.0,False,0.0091
+Support Services,8xxx (44 unit groups),2097.0,0.1121,1.0518,0.035,146.0,0.0076,1.3,"NS:8, S:3",0.27,False,0.0047

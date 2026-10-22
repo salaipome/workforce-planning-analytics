@@ -1,0 +1,10 @@
+# Raw public downloads are reproducible with src/fetch_public_data.py (~80 MB); keep the manifest and source list
+data/raw/abs/
+data/raw/jsa/
+data/raw/other/
+data/processed/workforce.db
+data/processed/public_observations.csv
+data/processed/eq08_wa_health_occupations.csv
+__pycache__/
+.DS_Store
+outputs/logs/run_all.log

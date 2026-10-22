@@ -1,0 +1,17 @@
+scenario,check,value
+A Baseline,stock-flow identity max |error| (heads),0.0
+A Baseline,hires <= capacity (all cells),True
+A Baseline,hires <= required (all cells),True
+A Baseline,no negative headcount,True
+A Baseline,EN->RN conversions net to zero,0.0
+B Growth,stock-flow identity max |error| (heads),0.0
+B Growth,hires <= capacity (all cells),True
+B Growth,hires <= required (all cells),True
+B Growth,no negative headcount,True
+B Growth,EN->RN conversions net to zero,0.0
+C Constraint,stock-flow identity max |error| (heads),0.0
+C Constraint,hires <= capacity (all cells),True
+C Constraint,hires <= required (all cells),True
+C Constraint,no negative headcount,True
+C Constraint,EN->RN conversions net to zero,0.0
+A Baseline,FY2027 modelled demand vs Finance FY2027 budget (%),-0.8

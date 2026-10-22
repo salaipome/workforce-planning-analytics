@@ -1,0 +1,21 @@
+{
+  "headcount": 1990,
+  "fte": 1627.5,
+  "fte_per_head": 0.818,
+  "pct_55_plus": 0.2146,
+  "opening_hc_rebuilt_FY2023": 1819,
+  "opening_hc_truth_FY2023": 1819,
+  "turnover_FY2026": 0.1446,
+  "voluntary_share_FY2026": 0.772,
+  "early_attrition_12m": 0.242,
+  "retention_12m_FY2026": 0.8811,
+  "vacancy_rate": 0.0437,
+  "vacant_fte": 74.3,
+  "open_requisitions": 28,
+  "open_req_over_90_days": 1,
+  "median_ttf_FY2026": 39.0,
+  "fill_rate_FY2026": 0.913,
+  "employee_cost_annualised": 232188900,
+  "agency_cost_FY2026": 6612436,
+  "agency_fte_FY2026": 39.8
+}

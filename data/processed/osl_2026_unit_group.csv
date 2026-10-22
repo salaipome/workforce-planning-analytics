@@ -1,0 +1,312 @@
+anzsco,title,rating_2026,shortage_driver,skill_level,major_group
+1111,Chief Executives and Managing Directors,NS,,1,1.0
+1112,General Managers,NS,,1,1.0
+1211,Aquaculture Farmers,NS,,1,1.0
+1213,Livestock Farmers,NS,,1,1.0
+1215,Broadacre Crop Growers,NS,,1,1.0
+1216,Horticultural Crop Growers,NS,,1,1.0
+1217,Mixed Production Farmers,NS,,1,1.0
+1311,"Advertising, Public Relations and Sales Managers",NS,,1,1.0
+1321,Corporate Services Managers,NS,,1,1.0
+1322,Finance Managers,NS,,1,1.0
+1323,Human Resource Managers,NS,,1,1.0
+1324,Policy and Planning Managers,NS,,1,1.0
+1325,Research and Development Managers,NS,,1,1.0
+1331,Construction Managers,R,Suitability gap,1,1.0
+1332,Engineering Managers,NS,,1,1.0
+1333,"Importers, Exporters and Wholesalers",NS,,1,1.0
+1334,Manufacturers,NS,,1,1.0
+1335,Production Managers,NS,,1,1.0
+1336,"Supply, Distribution and Procurement Managers",NS,,1,1.0
+1341,Child Care Centre Managers,NS,,1,1.0
+1342,Health and Welfare Services Managers,NS,,1,1.0
+1343,School Principals,NS,,1,1.0
+1344,Other Education Managers,NS,,1,1.0
+1351,ICT Managers,NS,,1,1.0
+1399,Other Specialist Managers,NS,,1,1.0
+1411,Cafe and Restaurant Managers,NS,,2,1.0
+1412,Caravan Park and Camping Ground Managers,NS,,2,1.0
+1413,Hotel and Motel Managers,NS,,2,1.0
+1414,Licensed Club Managers,NS,,2,1.0
+1419,Other Accommodation and Hospitality Managers,NS,,2,1.0
+1421,Retail Managers,NS,,2,1.0
+1491,"Amusement, Fitness and Sports Centre Managers",NS,,2,1.0
+1492,Call or Contact Centre and Customer Service Managers,NS,,2,1.0
+1493,Conference and Event Organisers,NS,,2,1.0
+1494,Transport Services Managers,NS,,2,1.0
+1499,"Other Hospitality, Retail and Service Managers",NS,,2,1.0
+2111,"Actors, Dancers and Other Entertainers",NS,,1,2.0
+2112,Music Professionals,NS,,1,2.0
+2113,Photographers,NS,,2,2.0
+2114,Visual Arts and Crafts Professionals,NS,,1,2.0
+2121,"Artistic Directors, and Media Producers and Presenters",NS,,1,2.0
+2122,"Authors, and Book and Script Editors",NS,,1,2.0
+2123,"Film, Television, Radio and Stage Directors",NS,,1,2.0
+2124,Journalists and Other Writers,NS,,1,2.0
+2211,Accountants,NS,,1,2.0
+2212,"Auditors, Company Secretaries and Corporate Treasurers",S,Education and training gap,1,2.0
+2221,Financial Brokers,NS,,2,2.0
+2222,Financial Dealers,NS,,1,2.0
+2223,Financial Investment Advisers and Managers,NS,,1,2.0
+2231,Human Resource Professionals,NS,,1,2.0
+2233,Training and Development Professionals,NS,,1,2.0
+2241,Mathematical Science Professionals,NS,,1,2.0
+2242,"Archivists, Curators and Records Managers",NS,,1,2.0
+2243,Economists,NS,,1,2.0
+2244,Intelligence and Policy Analysts,NS,,1,2.0
+2245,Land Economists and Valuers,NS,,1,2.0
+2246,Librarians,NS,,1,2.0
+2247,Management and Organisation Analysts,NS,,1,2.0
+2249,Other Information and Organisation Professionals,NS,,1,2.0
+2251,Advertising and Marketing Professionals,NS,,1,2.0
+2252,ICT Sales Professionals,NS,,1,2.0
+2253,Public Relations Professionals,NS,,1,2.0
+2254,Technical Sales Representatives,NS,,1,2.0
+2311,Air Transport Professionals,S,Suitability gap,1,2.0
+2312,Marine Transport Professionals,S,Suitability gap,2,2.0
+2321,Architects and Landscape Architects,NS,,1,2.0
+2322,Surveyors and Spatial Scientists,S,Suitability gap,1,2.0
+2323,"Fashion, Industrial and Jewellery Designers",NS,,1,2.0
+2324,"Graphic and Web Designers, and Illustrators",NS,,1,2.0
+2325,Interior Designers,NS,,2,2.0
+2326,Urban and Regional Planners,NS,,1,2.0
+2331,Chemical and Materials Engineers,NS,,1,2.0
+2332,Civil Engineering Professionals,S,Suitability gap,1,2.0
+2333,Electrical Engineers,S,Suitability gap,1,2.0
+2334,Electronics Engineers,S,Suitability gap,1,2.0
+2335,"Industrial, Mechanical and Production Engineers",S,Suitability gap,1,2.0
+2336,Mining Engineers,S,Suitability gap,1,2.0
+2339,Other Engineering Professionals,NS,,1,2.0
+2341,"Agricultural, Fisheries and Forestry Scientists",S,Suitability gap,1,2.0
+2342,"Chemists, and Food and Wine Scientists",NS,,1,2.0
+2343,Environmental Scientists,NS,,1,2.0
+2344,"Geologists, Geophysicists and Hydrogeologists",S,Suitability gap,1,2.0
+2345,Life Scientists,NS,,1,2.0
+2346,Medical Scientists,NS,,1,2.0
+2347,Veterinarians,S,Suitability gap,1,2.0
+2349,Other Natural and Physical Science Professionals,R,Suitability gap,1,2.0
+2411,Early Childhood (Pre-primary School) Teachers,S,Education and training gap,1,2.0
+2412,Primary School Teachers,NS,,1,2.0
+2413,Middle School Teachers / Intermediate School Teachers,S,Retention gap,1,2.0
+2414,Secondary School Teachers,S,Education and training gap,1,2.0
+2415,Special Education Teachers,S,Education and training gap,1,2.0
+2421,University Lecturers and Tutors,NS,,1,2.0
+2422,Vocational Education Teachers / Polytechnic Teachers,S,Education and training gap,1,2.0
+2491,Education Advisers and Reviewers,NS,,1,2.0
+2492,Private Tutors and Teachers,NS,,1,2.0
+2493,Teachers of English to Speakers of Other Languages,NS,,1,2.0
+2511,Nutrition Professionals,NS,,1,2.0
+2512,Medical Imaging Professionals,S,Suitability gap,1,2.0
+2513,Occupational and Environmental Health Professionals,NS,,1,2.0
+2514,Optometrists and Orthoptists,NS,,1,2.0
+2515,Pharmacists,S,Suitability gap,1,2.0
+2519,Other Health Diagnostic and Promotion Professionals,NS,,1,2.0
+2521,Chiropractors and Osteopaths,S,Suitability gap,1,2.0
+2522,Complementary Health Therapists,NS,,1,2.0
+2523,Dental Practitioners,S,Education and training gap,1,2.0
+2524,Occupational Therapists,S,Suitability gap,1,2.0
+2525,Physiotherapists,S,Suitability gap,1,2.0
+2526,Podiatrists,S,Suitability gap,1,2.0
+2527,Audiologists and Speech Pathologists / Therapists,S,Suitability gap,1,2.0
+2531,General Practitioners and Resident Medical Officers,S,Suitability gap,1,2.0
+2532,Anaesthetists,S,Suitability gap,1,2.0
+2533,Specialist Physicians,S,Suitability gap,1,2.0
+2534,Psychiatrists,S,Suitability gap,1,2.0
+2535,Surgeons,S,Suitability gap,1,2.0
+2539,Other Medical Practitioners,S,Suitability gap,1,2.0
+2541,Midwives,S,Suitability gap,1,2.0
+2542,Nurse Educators and Researchers,NS,,1,2.0
+2543,Nurse Managers,NS,,1,2.0
+2544,Registered Nurses,S,Suitability gap,1,2.0
+2611,ICT Business and Systems Analysts,NS,,1,2.0
+2612,Multimedia Specialists and Web Developers,NS,,1,2.0
+2613,Software and Applications Programmers,NS,,1,2.0
+2621,"Database and Systems Administrators, and ICT Security Specialists",NS,,1,2.0
+2631,Computer Network Professionals,NS,,1,2.0
+2632,ICT Support and Test Engineers,NS,,1,2.0
+2633,Telecommunications Engineering Professionals,NS,,1,2.0
+2711,Barristers,NS,,1,2.0
+2712,Judicial and Other Legal Professionals,NS,,1,2.0
+2713,Solicitors,S,Suitability gap,1,2.0
+2721,Counsellors,NS,,1,2.0
+2722,Ministers of Religion,NS,,1,2.0
+2723,Psychologists,S,Education and training gap,1,2.0
+2724,Social Professionals,NS,,1,2.0
+2725,Social Workers,NS,,1,2.0
+2726,"Welfare, Recreation and Community Arts Workers",NS,,1,2.0
+3111,"Agricultural, Agritech and Aquaculture Technicians",S,Retention gap,2,3.0
+3112,Medical Technicians,NS,,"2,3",3.0
+3113,Primary Products Assurance and Inspection Officers,NS,,2,3.0
+3114,Science Technicians,NS,,2,3.0
+3121,"Architectural, Building and Surveying Technicians",NS,,2,3.0
+3122,Civil Engineering Draftspersons and Technicians,S,Suitability gap,2,3.0
+3123,Electrical Engineering Draftspersons and Technicians,S,Suitability gap,2,3.0
+3124,Electronic Engineering Draftspersons and Technicians,S,Suitability gap,2,3.0
+3125,Mechanical Engineering Draftspersons and Technicians,S,Suitability gap,2,3.0
+3126,Safety Inspectors,NS,,2,3.0
+3129,Other Building and Engineering Technicians,NS,,2,3.0
+3131,ICT Support Technicians,NS,,2,3.0
+3132,Telecommunications Technical Specialists,NS,,2,3.0
+3211,Automotive Electricians,S,Education and training gap,3,3.0
+3212,Motor Mechanics,S,Education and training gap,3,3.0
+3221,"Metal Casting, Forging and Finishing Trades Workers",S,Retention gap,3,3.0
+3222,Sheetmetal Workers,S,Suitability gap,3,3.0
+3223,Structural Steel and Welding Trades Workers,S,Education and training gap,3,3.0
+3231,Aircraft Maintenance Engineers,S,Suitability gap,3,3.0
+3232,Metal Fitters and Machinists,S,Suitability gap,3,3.0
+3233,Precision Metal Trades Workers,S,Education and training gap,3,3.0
+3234,Toolmakers and Engineering Patternmakers,S,Suitability gap,3,3.0
+3241,Panelbeaters,S,Education and training gap,3,3.0
+3242,Vehicle Body Builders and Trimmers,S,Retention gap,3,3.0
+3243,Vehicle Painters,S,Retention gap,3,3.0
+3311,Bricklayers and Stonemasons,S,Retention gap,3,3.0
+3312,Carpenters and Joiners,S,Education and training gap,3,3.0
+3321,Floor Finishers,S,Retention gap,3,3.0
+3322,Painters,S,Education and training gap,3,3.0
+3331,Glaziers,S,Education and training gap,3,3.0
+3332,Plasterers and Renderers,S,Retention gap,3,3.0
+3333,Roof Tilers,S,Retention gap,3,3.0
+3334,Wall and Floor Tilers,S,Retention gap,3,3.0
+3341,Plumbers,S,Education and training gap,3,3.0
+3411,Electricians,S,Suitability gap,3,3.0
+3421,Airconditioning and Refrigeration Mechanics,S,Education and training gap,3,3.0
+3422,Electrical Distribution Trades Workers,S,Suitability gap,3,3.0
+3423,Electronics Trades Workers,S,Education and training gap,3,3.0
+3424,Telecommunications Trades Workers,S,Education and training gap,3,3.0
+3511,Bakers and Pastrycooks,S,Education and training gap,3,3.0
+3512,Butchers and Smallgoods Makers,S,Retention gap,3,3.0
+3513,Chefs,S,Education and training gap,2,3.0
+3514,Cooks,S,Retention gap,3,3.0
+3611,Animal Attendants and Trainers,NS,,"3,4",3.0
+3613,Veterinary Nurses,NS,,3,3.0
+3621,Florists,NS,,3,3.0
+3623,Sports Turf Managers and Trades Workers,NS,,"2,3",3.0
+3624,Nurserypersons,NS,,3,3.0
+3625,Arboriculture Workers,S,Education and training gap,"2,3",3.0
+3626,Gardeners (General),NS,,3,3.0
+3627,Landscape Gardeners and Irrigation Technicians,S,Retention gap,3,3.0
+3631,"Senior Aquaculture, Crop and Forestry Workers",NS,,3,3.0
+3632,Senior Livestock Farm Workers,NS,,3,3.0
+3633,Shearers and Wool Classers,NS,,3,3.0
+3911,Hairdressers,S,Education and training gap,3,3.0
+3921,Print Finishers and Screen Printers,NS,,3,3.0
+3922,Graphic Pre-press Trades Workers,NS,,3,3.0
+3923,Printers,NS,,3,3.0
+3931,Canvas and Leather Goods Makers,NS,,3,3.0
+3932,Clothing Trades Workers,NS,,3,3.0
+3933,Upholsterers,S,Retention gap,3,3.0
+3941,Cabinet and Furniture Makers,S,Education and training gap,3,3.0
+3942,Wood Machinists and Other Wood Trades Workers,NS,,3,3.0
+3991,Boat Builders and Shipwrights,S,Retention gap,3,3.0
+3992,"Chemical, Gas, Petroleum and Power Generation Plant Operators",NS,,3,3.0
+3993,"Gallery, Library and Museum Technicians",NS,,2,3.0
+3994,Jewellers,S,Suitability gap,3,3.0
+3995,Performing Arts Technicians,NS,,3,3.0
+3996,Signwriters,S,Retention gap,3,3.0
+3999,Other Miscellaneous Technicians and Trades Workers,NS,,"2,3,4",3.0
+4111,Ambulance Officers and Paramedics,S,Suitability gap,"1,2",4.0
+4112,"Dental Hygienists, Technicians and Therapists",S,Suitability gap,"1,2",4.0
+4113,Diversional Therapists,NS,,3,4.0
+4114,Enrolled and Mothercraft Nurses,R,Education and training gap,2,4.0
+4115,Indigenous Health Workers,S,Education and training gap,2,4.0
+4116,Massage Therapists,NS,,2,4.0
+4117,Welfare Support Workers,NS,,2,4.0
+4211,Child Carers,S,Education and training gap,"3,4",4.0
+4221,Education Aides,NS,,4,4.0
+4231,Aged and Disabled Carers,S,Education and training gap,4,4.0
+4232,Dental Assistants,NS,,4,4.0
+4233,Nursing Support and Personal Care Workers,NS,,4,4.0
+4234,Special Care Workers,NS,,"3,4",4.0
+4311,Bar Attendants and Baristas,NS,,4,4.0
+4313,Gaming Workers,NS,,4,4.0
+4314,Hotel Service Managers,NS,,2,4.0
+4315,Waiters,NS,,4,4.0
+4412,Fire and Emergency Workers,NS,,3,4.0
+4413,Police,NS,,2,4.0
+4421,Prison Officers,NS,,4,4.0
+4422,Security Officers and Guards,NS,,"3,4",4.0
+4511,Beauty Therapists,S,Education and training gap,3,4.0
+4512,Driving Instructors,NS,,3,4.0
+4513,Funeral Workers,NS,,"2,3",4.0
+4514,"Gallery, Museum and Tour Guides",S,Retention gap,"3,4",4.0
+4515,Personal Care Consultants,NS,,4,4.0
+4516,Tourism and Travel Advisers,S,Education and training gap,"3,4",4.0
+4517,Travel Attendants,R,Retention gap,"3,4",4.0
+4518,Other Personal Service Workers,NS,,"3,4",4.0
+4521,Fitness Instructors,NS,,4,4.0
+4522,Outdoor Adventure Guides,S,Retention gap,"2,3",4.0
+4523,"Sports Coaches, Instructors and Officials",S,Education and training gap,"2,3,4",4.0
+4524,Sportspersons,NS,,3,4.0
+5111,"Contract, Program and Project Administrators",NS,,2,5.0
+5121,Office Managers,NS,,2,5.0
+5122,Practice Managers,NS,,2,5.0
+5211,Personal Assistants,NS,,2,5.0
+5212,Secretaries,NS,,2,5.0
+5311,General Clerks,NS,,4,5.0
+5321,Keyboard Operators,NS,,4,5.0
+5411,Call or Contact Centre Workers,NS,,"3,4",5.0
+5412,Information Officers,NS,,4,5.0
+5421,Receptionists,NS,,4,5.0
+5511,Accounting Clerks,NS,,4,5.0
+5512,Bookkeepers,NS,,3,5.0
+5513,Payroll Clerks,NS,,4,5.0
+5521,Bank Workers,NS,,3,5.0
+5522,Credit and Loans Officers,NS,,3,5.0
+5523,"Insurance, Money Market and Statistical Clerks",NS,,4,5.0
+5911,Purchasing and Supply Logistics Clerks,NS,,4,5.0
+5912,Transport and Despatch Clerks,NS,,4,5.0
+5991,Conveyancers and Legal Executives,NS,,2,5.0
+5992,Court and Legal Clerks,NS,,3,5.0
+5993,Debt Collectors,NS,,4,5.0
+5994,Human Resource Clerks,NS,,4,5.0
+5995,Inspectors and Regulatory Officers,NS,,4,5.0
+5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",NS,,"2,3",5.0
+5997,Library Assistants,NS,,4,5.0
+5999,Other Miscellaneous Clerical and Administrative Workers,NS,,"3,4",5.0
+6111,"Auctioneers, and Stock and Station Agents",NS,,3,6.0
+6112,Insurance Agents,NS,,3,6.0
+6113,Sales Representatives,NS,,4,6.0
+6121,Real Estate Sales Agents,NS,,"2,3",6.0
+6213,Motor Vehicle and Vehicle Parts Salespersons,NS,,4,6.0
+6214,Pharmacy Sales Assistants,NS,,4,6.0
+6215,Retail Supervisors,NS,,4,6.0
+6392,Retail and Wool Buyers,NS,,3,6.0
+6395,Visual Merchandisers,NS,,4,6.0
+6399,Other Sales Support Workers,NS,,4,6.0
+7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",NS,,4,7.0
+7112,Industrial Spraypainters,S,Education and training gap,4,7.0
+7113,Paper and Wood Processing Machine Operators,NS,,4,7.0
+7114,Photographic Developers and Printers,NS,,4,7.0
+7115,Plastics and Rubber Production Machine Operators,NS,,4,7.0
+7116,Sewing Machinists,NS,,4,7.0
+7117,Textile and Footwear Production Machine Operators,NS,,4,7.0
+7119,Other Machine Operators,NS,,4,7.0
+7121,"Crane, Hoist and Lift Operators",NS,,4,7.0
+7122,"Drillers, Miners and Shot Firers",R,Education and training gap,4,7.0
+7123,Engineering Production Workers,NS,,4,7.0
+7129,Other Stationary Plant Operators,NS,,4,7.0
+7211,"Agricultural, Forestry and Horticultural Plant Operators",NS,,4,7.0
+7212,Earthmoving Plant Operators,S,Education and training gap,4,7.0
+7213,Forklift Drivers,NS,,4,7.0
+7219,Other Mobile Plant Operators,NS,,4,7.0
+7311,Automobile Drivers,NS,,4,7.0
+7312,Bus and Coach Drivers,S,Education and training gap,4,7.0
+7313,Train and Tram Drivers,NS,,4,7.0
+7321,Delivery Drivers,NS,,4,7.0
+7331,Truck Drivers,S,Suitability gap,4,7.0
+7411,Storepersons,NS,,4,7.0
+8116,Other Cleaners,NS,,4,8.0
+8213,Fencers,NS,,4,8.0
+8214,Insulation and Home Improvement Installers,NS,,4,8.0
+8216,Railway Track Workers,NS,,4,8.0
+8217,Structural Steel Construction Workers,S,Education and training gap,4,8.0
+8219,Other Construction and Mining Labourers,NS,,4,8.0
+8312,"Meat Boners and Slicers, and Slaughterers",S,Retention gap,4,8.0
+8393,Product Quality Controllers,NS,,4,8.0
+8422,Crop Farm Workers,NS,,4,8.0
+8423,Livestock Farm Workers,NS,,4,8.0
+8431,Forestry and Logging Workers,NS,,4,8.0
+8434,Pest Control Technicians,NS,,4,8.0
+8992,Deck and Fishing Hands,NS,,4,8.0
+8994,Motor Vehicle Parts and Accessories Fitters,S,Retention gap,4,8.0
+8995,Printing Assistants and Table Workers,NS,,4,8.0

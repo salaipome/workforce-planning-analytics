@@ -1,0 +1,929 @@
+table,defect_type,record_key,detail
+hris_employee_snapshot,location_variant,102567,Perth Nth
+hris_employee_snapshot,location_variant,101527,Perth South Campus
+hris_employee_snapshot,location_variant,102595,GERALDTON
+hris_employee_snapshot,location_variant,102711,Bunbury Campus
+hris_employee_snapshot,location_variant,101418,  perth north 
+hris_employee_snapshot,location_variant,102328,PERTH SOUTH
+hris_employee_snapshot,location_variant,103111,Geraldton Campus
+hris_employee_snapshot,location_variant,101746,  bunbury 
+hris_employee_snapshot,location_variant,102536,BUNBURY
+hris_employee_snapshot,location_variant,102332,Perth North Campus
+hris_employee_snapshot,location_variant,100024,PERTH NORTH
+hris_employee_snapshot,location_variant,103159,BROOME
+hris_employee_snapshot,location_variant,103126,Perth South Campus
+hris_employee_snapshot,location_variant,100675,  perth north 
+hris_employee_snapshot,location_variant,102621,PERTH SOUTH
+hris_employee_snapshot,location_variant,100956,PERTH NORTH
+hris_employee_snapshot,location_variant,100799,  perth north 
+hris_employee_snapshot,location_variant,100013,Perth Nth
+hris_employee_snapshot,location_variant,102914,Perth Sth
+hris_employee_snapshot,location_variant,101614,Kalgoorlie Campus
+hris_employee_snapshot,location_variant,101788,  geraldton 
+hris_employee_snapshot,location_variant,101270,  bunbury 
+hris_employee_snapshot,location_variant,100110,  perth north 
+hris_employee_snapshot,location_variant,102338,Perth Nth
+hris_employee_snapshot,location_variant,100801,PERTH NORTH
+hris_employee_snapshot,location_variant,100231,Perth Sth
+hris_employee_snapshot,location_variant,100614,Perth South Campus
+hris_employee_snapshot,location_variant,102974,PERTH NORTH
+hris_employee_snapshot,location_variant,101242,PERTH SOUTH
+hris_employee_snapshot,location_variant,102788,Perth South Campus
+hris_employee_snapshot,location_variant,102666,PERTH NORTH
+hris_employee_snapshot,location_variant,102616,PERTH NORTH
+hris_employee_snapshot,location_variant,103195,  perth north 
+hris_employee_snapshot,location_variant,102805,Perth Nth
+hris_employee_snapshot,location_variant,100672,Perth Nth
+hris_employee_snapshot,location_variant,100683,Perth North Campus
+hris_employee_snapshot,location_variant,101493,Perth Sth
+hris_employee_snapshot,location_variant,101285,Bunbury Campus
+hris_employee_snapshot,location_variant,101446,Perth Nth
+hris_employee_snapshot,location_variant,101305,Bunbury Campus
+hris_employee_snapshot,location_variant,100371,Bunbury Campus
+hris_employee_snapshot,location_variant,100096,Perth North Campus
+hris_employee_snapshot,location_variant,101426,Perth Nth
+hris_employee_snapshot,location_variant,103179,KALGOORLIE
+hris_employee_snapshot,location_variant,101950,Perth Sth
+hris_employee_snapshot,location_variant,102002,Perth Sth
+hris_employee_snapshot,location_variant,100246,Perth South Campus
+hris_employee_snapshot,location_variant,102441,Perth Sth
+hris_employee_snapshot,location_variant,101952,PERTH NORTH
+hris_employee_snapshot,location_variant,101584,Geraldton Campus
+hris_employee_snapshot,location_variant,102598,Perth Sth
+hris_employee_snapshot,location_variant,102883,  perth south 
+hris_employee_snapshot,location_variant,102030,  perth north 
+hris_employee_snapshot,location_variant,102256,  kalgoorlie 
+hris_employee_snapshot,location_variant,102646,Perth North Campus
+hris_employee_snapshot,location_variant,101385,  perth north 
+hris_employee_snapshot,location_variant,100819,  perth north 
+hris_employee_snapshot,location_variant,101506,PERTH SOUTH
+hris_employee_snapshot,location_variant,101097,  perth north 
+hris_employee_snapshot,location_variant,100244,Perth South Campus
+hris_employee_snapshot,location_variant,101423,Perth North Campus
+hris_employee_snapshot,location_variant,102984,Perth North Campus
+hris_employee_snapshot,location_variant,102334,PERTH NORTH
+hris_employee_snapshot,location_variant,100328,PERTH SOUTH
+hris_employee_snapshot,location_variant,102783,Perth North Campus
+hris_employee_snapshot,location_variant,102366,  perth north 
+hris_employee_snapshot,location_variant,101309,  bunbury 
+hris_employee_snapshot,location_variant,102036,Geraldton Campus
+hris_employee_snapshot,location_variant,100911,  broome 
+hris_employee_snapshot,location_variant,102670,  perth south 
+hris_employee_snapshot,location_variant,100335,  broome 
+hris_employee_snapshot,location_variant,100416,BUNBURY
+hris_employee_snapshot,location_variant,102611,  perth north 
+hris_employee_snapshot,location_variant,102243,  broome 
+hris_employee_snapshot,location_variant,102367,  perth north 
+hris_employee_snapshot,location_variant,102659,  perth south 
+hris_employee_snapshot,location_variant,102082,  perth north 
+hris_employee_snapshot,location_variant,102612,Perth North Campus
+hris_employee_snapshot,location_variant,100957,PERTH NORTH
+hris_employee_snapshot,location_variant,101975,  bunbury 
+hris_employee_snapshot,location_variant,100849,  perth south 
+hris_employee_snapshot,location_variant,102908,  perth north 
+hris_employee_snapshot,location_variant,102234,BUNBURY
+hris_employee_snapshot,location_variant,103151,BUNBURY
+hris_employee_snapshot,location_variant,102835,Perth North Campus
+hris_employee_snapshot,location_variant,102496,PERTH NORTH
+hris_employee_snapshot,location_variant,101921,Kalgoorlie Campus
+hris_employee_snapshot,location_variant,101045,GERALDTON
+hris_employee_snapshot,location_variant,100496,KALGOORLIE
+hris_employee_snapshot,location_variant,100176,Perth Nth
+hris_employee_snapshot,location_variant,100785,Perth North Campus
+hris_employee_snapshot,location_variant,101624,KALGOORLIE
+hris_employee_snapshot,location_variant,102483,Perth Sth
+hris_employee_snapshot,location_variant,102542,Perth South Campus
+hris_employee_snapshot,location_variant,100112,Perth Nth
+hris_employee_snapshot,location_variant,102434,Broome Campus
+hris_employee_snapshot,location_variant,100065,PERTH NORTH
+hris_employee_snapshot,location_variant,101936,  perth south 
+hris_employee_snapshot,location_variant,102996,  perth north 
+hris_employee_snapshot,location_variant,103090,Bunbury Campus
+hris_employee_snapshot,location_variant,101072,Broome Campus
+hris_employee_snapshot,location_variant,100559,BROOME
+hris_employee_snapshot,location_variant,102596,Perth North Campus
+hris_employee_snapshot,location_variant,102628,Bunbury Campus
+hris_employee_snapshot,location_variant,100123,Perth North Campus
+hris_employee_snapshot,location_variant,103065,  perth north 
+hris_employee_snapshot,location_variant,100657,Perth North Campus
+hris_employee_snapshot,location_variant,100278,  perth south 
+hris_employee_snapshot,location_variant,102477,  perth south 
+hris_employee_snapshot,location_variant,101484,  perth south 
+hris_employee_snapshot,location_variant,102991,  perth north 
+hris_employee_snapshot,location_variant,102457,GERALDTON
+hris_employee_snapshot,location_variant,102750,  perth north 
+hris_employee_snapshot,location_variant,101127,PERTH NORTH
+hris_employee_snapshot,location_variant,101869,Perth Sth
+hris_employee_snapshot,location_variant,100045,PERTH NORTH
+hris_employee_snapshot,location_variant,101804,  perth north 
+hris_employee_snapshot,location_variant,100431,  bunbury 
+hris_employee_snapshot,location_variant,102161,  geraldton 
+hris_employee_snapshot,location_variant,100165,Perth North Campus
+hris_employee_snapshot,location_variant,101905,  geraldton 
+hris_employee_snapshot,location_variant,100228,PERTH SOUTH
+hris_employee_snapshot,location_variant,103168,  perth north 
+hris_employee_snapshot,location_variant,100325,Perth Sth
+hris_employee_snapshot,location_variant,100580,Broome Campus
+hris_employee_snapshot,location_variant,101085,  perth north 
+hris_employee_snapshot,location_variant,102572,Perth Sth
+hris_employee_snapshot,location_variant,102428,Geraldton Campus
+hris_employee_snapshot,location_variant,101025,Bunbury Campus
+hris_employee_snapshot,location_variant,102031,  perth south 
+hris_employee_snapshot,location_variant,102644,Perth North Campus
+hris_employee_snapshot,location_variant,103093,  geraldton 
+hris_employee_snapshot,location_variant,100555,  broome 
+hris_employee_snapshot,location_variant,102578,  perth north 
+hris_employee_snapshot,location_variant,100107,  perth north 
+hris_employee_snapshot,location_variant,101675,Perth Nth
+hris_employee_snapshot,location_variant,100042,Perth North Campus
+hris_employee_snapshot,location_variant,101199,Perth Sth
+hris_employee_snapshot,location_variant,100747,Geraldton Campus
+hris_employee_snapshot,location_variant,100343,  perth south 
+hris_employee_snapshot,location_variant,101086,  perth north 
+hris_employee_snapshot,location_variant,101408,Perth North Campus
+hris_employee_snapshot,location_variant,102166,  perth south 
+hris_employee_snapshot,location_variant,100354,  bunbury 
+hris_employee_snapshot,location_variant,100743,  bunbury 
+hris_employee_snapshot,job_family_variant,102765,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101323,AIN
+hris_employee_snapshot,job_family_variant,102792,EN
+hris_employee_snapshot,job_family_variant,102879,Orderly
+hris_employee_snapshot,job_family_variant,100286,Reg Nurse
+hris_employee_snapshot,job_family_variant,100218,Reg Nurse
+hris_employee_snapshot,job_family_variant,102933,RN
+hris_employee_snapshot,job_family_variant,102862,AIN
+hris_employee_snapshot,job_family_variant,100031,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101289,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,101948,RN
+hris_employee_snapshot,job_family_variant,102500,AIN
+hris_employee_snapshot,job_family_variant,102598,Reg Nurse
+hris_employee_snapshot,job_family_variant,101585,Admin Officer
+hris_employee_snapshot,job_family_variant,103100,RN
+hris_employee_snapshot,job_family_variant,102770,RN
+hris_employee_snapshot,job_family_variant,100323,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101975,RN
+hris_employee_snapshot,job_family_variant,101815,Support Svcs
+hris_employee_snapshot,job_family_variant,101746,Orderly
+hris_employee_snapshot,job_family_variant,102353,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101624,Admin Officer
+hris_employee_snapshot,job_family_variant,100798,Doctor
+hris_employee_snapshot,job_family_variant,101766,Support Svcs
+hris_employee_snapshot,job_family_variant,101721,Support Svcs
+hris_employee_snapshot,job_family_variant,100714,EN
+hris_employee_snapshot,job_family_variant,103153,AIN
+hris_employee_snapshot,job_family_variant,101435,Admin Officer
+hris_employee_snapshot,job_family_variant,100453,Reg Nurse
+hris_employee_snapshot,job_family_variant,100367,Reg Nurse
+hris_employee_snapshot,job_family_variant,102812,AIN
+hris_employee_snapshot,job_family_variant,102017,Admin
+hris_employee_snapshot,job_family_variant,103095,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102859,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102677,EN
+hris_employee_snapshot,job_family_variant,100199,RN
+hris_employee_snapshot,job_family_variant,101718,Orderly
+hris_employee_snapshot,job_family_variant,101566,Admin
+hris_employee_snapshot,job_family_variant,101627,Admin
+hris_employee_snapshot,job_family_variant,101682,Orderly
+hris_employee_snapshot,job_family_variant,102961,RN
+hris_employee_snapshot,job_family_variant,100864,Medical Officer
+hris_employee_snapshot,job_family_variant,102909,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,103194,Support Svcs
+hris_employee_snapshot,job_family_variant,102089,Support Svcs
+hris_employee_snapshot,job_family_variant,100499,RN
+hris_employee_snapshot,job_family_variant,100304,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101422,Admin Officer
+hris_employee_snapshot,job_family_variant,101600,Admin Officer
+hris_employee_snapshot,job_family_variant,100254,RN
+hris_employee_snapshot,job_family_variant,103163,Admin Officer
+hris_employee_snapshot,job_family_variant,101470,Admin
+hris_employee_snapshot,job_family_variant,101508,Admin Officer
+hris_employee_snapshot,job_family_variant,101595,Admin
+hris_employee_snapshot,job_family_variant,102781,Admin
+hris_employee_snapshot,job_family_variant,103129,Medical Officer
+hris_employee_snapshot,job_family_variant,102264,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,103187,Allied Health Prof
+hris_employee_snapshot,job_family_variant,100967,Physiotherapist
+hris_employee_snapshot,job_family_variant,100092,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101511,Admin
+hris_employee_snapshot,job_family_variant,102893,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101650,Support Svcs
+hris_employee_snapshot,job_family_variant,103121,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,102242,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,100645,EN
+hris_employee_snapshot,job_family_variant,103021,Reg Nurse
+hris_employee_snapshot,job_family_variant,100698,EN
+hris_employee_snapshot,job_family_variant,101961,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101761,Support Svcs
+hris_employee_snapshot,job_family_variant,103159,RN
+hris_employee_snapshot,job_family_variant,102563,AIN
+hris_employee_snapshot,job_family_variant,102755,Admin
+hris_employee_snapshot,job_family_variant,102031,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,100249,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101164,AIN
+hris_employee_snapshot,job_family_variant,100517,Reg Nurse
+hris_employee_snapshot,job_family_variant,102444,RN
+hris_employee_snapshot,job_family_variant,100959,Allied Health Prof
+hris_employee_snapshot,job_family_variant,101623,Admin
+hris_employee_snapshot,job_family_variant,100852,Doctor
+hris_employee_snapshot,job_family_variant,101163,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,100305,RN
+hris_employee_snapshot,job_family_variant,100554,Reg Nurse
+hris_employee_snapshot,job_family_variant,100446,RN
+hris_employee_snapshot,job_family_variant,102215,Allied Health Prof
+hris_employee_snapshot,job_family_variant,100807,Medical Officer
+hris_employee_snapshot,job_family_variant,101551,Admin
+hris_employee_snapshot,job_family_variant,102133,Medical Officer
+hris_employee_snapshot,job_family_variant,100268,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,100661,EN
+hris_employee_snapshot,job_family_variant,100115,RN
+hris_employee_snapshot,job_family_variant,102825,RN
+hris_employee_snapshot,job_family_variant,103105,EN
+hris_employee_snapshot,job_family_variant,102799,Reg Nurse
+hris_employee_snapshot,job_family_variant,101489,Admin Officer
+hris_employee_snapshot,job_family_variant,101978,Admin Officer
+hris_employee_snapshot,job_family_variant,100615,Midwifery
+hris_employee_snapshot,job_family_variant,100619,Midwifery
+hris_employee_snapshot,job_family_variant,101853,AIN
+hris_employee_snapshot,job_family_variant,102163,Reg Nurse
+hris_employee_snapshot,job_family_variant,100674,EN
+hris_employee_snapshot,job_family_variant,100171,RN
+hris_employee_snapshot,job_family_variant,102030,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,103154,RN
+hris_employee_snapshot,job_family_variant,102129,Admin
+hris_employee_snapshot,job_family_variant,102929,Reg Nurse
+hris_employee_snapshot,job_family_variant,101893,Reg Nurse
+hris_employee_snapshot,job_family_variant,100344,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,102641,RN
+hris_employee_snapshot,job_family_variant,101019,Physiotherapist
+hris_employee_snapshot,job_family_variant,101284,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102399,RN
+hris_employee_snapshot,job_family_variant,101329,AIN
+hris_employee_snapshot,job_family_variant,101154,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,100501,Reg Nurse
+hris_employee_snapshot,job_family_variant,100708,EN
+hris_employee_snapshot,job_family_variant,100321,RN
+hris_employee_snapshot,job_family_variant,102185,RN
+hris_employee_snapshot,job_family_variant,102572,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102538,RN
+hris_employee_snapshot,job_family_variant,102704,EN
+hris_employee_snapshot,job_family_variant,102396,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,102544,Reg Nurse
+hris_employee_snapshot,job_family_variant,103045,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,100750,EN
+hris_employee_snapshot,job_family_variant,102457,Midwifery
+hris_employee_snapshot,job_family_variant,101733,Orderly
+hris_employee_snapshot,job_family_variant,103118,Physiotherapist
+hris_employee_snapshot,job_family_variant,102495,Midwifery
+hris_employee_snapshot,job_family_variant,103076,Admin Officer
+hris_employee_snapshot,job_family_variant,102753,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,100858,Medical Officer
+hris_employee_snapshot,job_family_variant,103075,EN
+hris_employee_snapshot,job_family_variant,102543,Admin
+hris_employee_snapshot,job_family_variant,102359,AIN
+hris_employee_snapshot,job_family_variant,101939,RN
+hris_employee_snapshot,job_family_variant,100439,RN
+hris_employee_snapshot,job_family_variant,103125,EN
+hris_employee_snapshot,job_family_variant,102179,EN
+hris_employee_snapshot,job_family_variant,100134,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101226,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102339,Admin
+hris_employee_snapshot,job_family_variant,100684,EN
+hris_employee_snapshot,job_family_variant,101788,Orderly
+hris_employee_snapshot,job_family_variant,100040,Reg Nurse
+hris_employee_snapshot,job_family_variant,100515,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,102687,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,102007,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,100626,Midwifery
+hris_employee_snapshot,job_family_variant,102282,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,101097,AIN
+hris_employee_snapshot,job_family_variant,101430,Admin
+hris_employee_snapshot,job_family_variant,103151,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102078,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,100983,Physiotherapist
+hris_employee_snapshot,job_family_variant,103110,Reg Nurse
+hris_employee_snapshot,job_family_variant,100879,Medical Officer
+hris_employee_snapshot,job_family_variant,103196,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102486,Support Svcs
+hris_employee_snapshot,job_family_variant,102542,Admin Officer
+hris_employee_snapshot,job_family_variant,100205,RN
+hris_employee_snapshot,job_family_variant,102478,EN
+hris_employee_snapshot,job_family_variant,100047,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,102673,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102180,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102087,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,100224,Reg Nurse
+hris_employee_snapshot,job_family_variant,102589,RN
+hris_employee_snapshot,job_family_variant,103134,AIN
+hris_employee_snapshot,job_family_variant,100947,Physiotherapist
+hris_employee_snapshot,job_family_variant,101046,Allied Health Prof
+hris_employee_snapshot,job_family_variant,103067,Reg Nurse
+hris_employee_snapshot,job_family_variant,101143,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102479,EN
+hris_employee_snapshot,job_family_variant,101764,Support Svcs
+hris_employee_snapshot,job_family_variant,101681,Support Svcs
+hris_employee_snapshot,job_family_variant,102924,RN
+hris_employee_snapshot,job_family_variant,101935,Doctor
+hris_employee_snapshot,job_family_variant,102965,Allied Health Prof
+hris_employee_snapshot,job_family_variant,100587,Midwifery
+hris_employee_snapshot,job_family_variant,102831,Support Svcs
+hris_employee_snapshot,job_family_variant,103034,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,101227,Personal Care Assistant
+hris_employee_snapshot,job_family_variant,102288,Reg Nurse
+hris_employee_snapshot,job_family_variant,100802,Medical Officer
+hris_employee_snapshot,job_family_variant,102752,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101449,Admin Officer
+hris_employee_snapshot,job_family_variant,102090,Registered Nurse - Grad
+hris_employee_snapshot,job_family_variant,101009,Allied Health Prof
+hris_employee_snapshot,job_family_variant,102463,Allied Health Prof
+hris_employee_snapshot,job_family_variant,102596,RN
+hris_employee_snapshot,job_family_variant,100771,EN
+hris_employee_snapshot,job_family_variant,102214,Reg Nurse
+hris_employee_snapshot,job_family_variant,102807,EN
+hris_employee_snapshot,job_family_variant,101674,Support Svcs
+hris_employee_snapshot,job_family_variant,103174,Support Svcs
+hris_employee_snapshot,job_family_variant,100935,Allied Health Prof
+hris_employee_snapshot,job_family_variant,102398,Medical Officer
+hris_employee_snapshot,missing_fte,100814,
+hris_employee_snapshot,missing_fte,100151,
+hris_employee_snapshot,missing_fte,102731,
+hris_employee_snapshot,missing_fte,100371,
+hris_employee_snapshot,missing_fte,102795,
+hris_employee_snapshot,missing_fte,100074,
+hris_employee_snapshot,missing_fte,101229,
+hris_employee_snapshot,missing_fte,102594,
+hris_employee_snapshot,missing_fte,100922,
+hris_employee_snapshot,missing_fte,100840,
+hris_employee_snapshot,missing_fte,100333,
+hris_employee_snapshot,missing_fte,101763,
+hris_employee_snapshot,missing_fte,101066,
+hris_employee_snapshot,missing_fte,103094,
+hris_employee_snapshot,missing_fte,102744,
+hris_employee_snapshot,missing_fte,103069,
+hris_employee_snapshot,missing_fte,102407,
+hris_employee_snapshot,missing_fte,100250,
+hris_employee_snapshot,missing_fte,100177,
+hris_employee_snapshot,missing_fte,102214,
+hris_employee_snapshot,missing_fte,101093,
+hris_employee_snapshot,missing_fte,100604,
+hris_employee_snapshot,missing_fte,101242,
+hris_employee_snapshot,missing_fte,102335,
+hris_employee_snapshot,missing_fte,101876,
+hris_employee_snapshot,missing_fte,100726,
+hris_employee_snapshot,missing_fte,100643,
+hris_employee_snapshot,missing_fte,102887,
+hris_employee_snapshot,missing_fte,101712,
+hris_employee_snapshot,missing_fte,101795,
+hris_employee_snapshot,missing_fte,101850,
+hris_employee_snapshot,missing_fte,101100,
+hris_employee_snapshot,missing_fte,100061,
+hris_employee_snapshot,missing_fte,102282,
+hris_employee_snapshot,missing_fte,103156,
+hris_employee_snapshot,missing_fte,103174,
+hris_employee_snapshot,missing_fte,101191,
+hris_employee_snapshot,missing_fte,102762,
+hris_employee_snapshot,missing_fte,101021,
+hris_employee_snapshot,fte_decimal_shift,101640,10.0
+hris_employee_snapshot,fte_decimal_shift,100369,6.0
+hris_employee_snapshot,fte_decimal_shift,101449,10.0
+hris_employee_snapshot,fte_decimal_shift,100482,6.0
+hris_employee_snapshot,fte_decimal_shift,102568,10.0
+hris_employee_snapshot,fte_decimal_shift,101080,7.0
+hris_employee_snapshot,fte_decimal_shift,103086,10.0
+hris_employee_snapshot,fte_decimal_shift,102707,10.0
+hris_employee_snapshot,fte_decimal_shift,100708,4.0
+hris_employee_snapshot,fte_decimal_shift,101007,10.0
+hris_employee_snapshot,date_format_ddmmyyyy,102459,03/03/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100097,05/01/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100683,31/10/2019
+hris_employee_snapshot,date_format_ddmmyyyy,100671,07/01/2021
+hris_employee_snapshot,date_format_ddmmyyyy,101795,14/04/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102594,29/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102516,03/05/2024
+hris_employee_snapshot,date_format_ddmmyyyy,101086,27/07/2021
+hris_employee_snapshot,date_format_ddmmyyyy,100149,13/12/2021
+hris_employee_snapshot,date_format_ddmmyyyy,103080,30/01/2026
+hris_employee_snapshot,date_format_ddmmyyyy,102650,24/09/2024
+hris_employee_snapshot,date_format_ddmmyyyy,101237,27/06/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102381,23/12/2023
+hris_employee_snapshot,date_format_ddmmyyyy,101424,17/05/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102472,05/03/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102216,18/07/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102680,15/11/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102604,07/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100260,08/11/2020
+hris_employee_snapshot,date_format_ddmmyyyy,101937,18/09/2022
+hris_employee_snapshot,date_format_ddmmyyyy,103060,03/12/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100805,31/12/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101445,25/10/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100655,17/03/2013
+hris_employee_snapshot,date_format_ddmmyyyy,102762,08/01/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100254,30/07/2016
+hris_employee_snapshot,date_format_ddmmyyyy,100206,02/09/2016
+hris_employee_snapshot,date_format_ddmmyyyy,102063,17/01/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100319,20/01/2015
+hris_employee_snapshot,date_format_ddmmyyyy,101892,01/08/2022
+hris_employee_snapshot,date_format_ddmmyyyy,102631,19/09/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100440,21/11/2015
+hris_employee_snapshot,date_format_ddmmyyyy,102756,15/01/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102730,24/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102564,24/07/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102555,19/07/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102369,09/11/2023
+hris_employee_snapshot,date_format_ddmmyyyy,103016,26/10/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101838,01/07/2022
+hris_employee_snapshot,date_format_ddmmyyyy,102083,04/02/2023
+hris_employee_snapshot,date_format_ddmmyyyy,103183,26/05/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101570,10/10/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101519,27/01/2013
+hris_employee_snapshot,date_format_ddmmyyyy,102685,22/11/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100870,08/09/2021
+hris_employee_snapshot,date_format_ddmmyyyy,100370,03/01/2022
+hris_employee_snapshot,date_format_ddmmyyyy,102867,08/06/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101596,13/08/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102587,08/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102366,22/11/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100616,27/06/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102492,20/05/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100654,13/01/2021
+hris_employee_snapshot,date_format_ddmmyyyy,102925,26/08/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101136,23/01/2015
+hris_employee_snapshot,date_format_ddmmyyyy,100850,24/10/2021
+hris_employee_snapshot,date_format_ddmmyyyy,102140,15/04/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102455,21/02/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100817,19/11/2015
+hris_employee_snapshot,date_format_ddmmyyyy,102732,01/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102996,15/10/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100544,04/08/2011
+hris_employee_snapshot,date_format_ddmmyyyy,100815,23/03/2018
+hris_employee_snapshot,date_format_ddmmyyyy,103099,07/02/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101093,01/10/2019
+hris_employee_snapshot,date_format_ddmmyyyy,103188,04/06/2026
+hris_employee_snapshot,date_format_ddmmyyyy,100355,26/04/2017
+hris_employee_snapshot,date_format_ddmmyyyy,102061,15/01/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102153,12/05/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102921,10/08/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101133,14/01/2017
+hris_employee_snapshot,date_format_ddmmyyyy,102266,28/08/2023
+hris_employee_snapshot,date_format_ddmmyyyy,101118,13/02/2021
+hris_employee_snapshot,date_format_ddmmyyyy,101821,01/07/2022
+hris_employee_snapshot,date_format_ddmmyyyy,100949,27/06/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102565,18/07/2024
+hris_employee_snapshot,date_format_ddmmyyyy,103200,06/06/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101028,18/10/2018
+hris_employee_snapshot,date_format_ddmmyyyy,101899,13/08/2022
+hris_employee_snapshot,date_format_ddmmyyyy,102004,04/11/2022
+hris_employee_snapshot,date_format_ddmmyyyy,102812,03/03/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101187,29/11/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102419,12/01/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100814,07/07/2018
+hris_employee_snapshot,date_format_ddmmyyyy,100793,06/01/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100662,11/02/2014
+hris_employee_snapshot,date_format_ddmmyyyy,103064,11/01/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101235,14/11/2010
+hris_employee_snapshot,date_format_ddmmyyyy,101316,13/03/2016
+hris_employee_snapshot,date_format_ddmmyyyy,102866,11/06/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102627,08/09/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102367,24/11/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100317,25/04/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102735,29/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102778,04/02/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101372,10/04/2018
+hris_employee_snapshot,date_format_ddmmyyyy,101588,10/01/2022
+hris_employee_snapshot,date_format_ddmmyyyy,100600,02/08/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100743,09/01/2013
+hris_employee_snapshot,date_format_ddmmyyyy,102628,20/09/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102444,04/02/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100634,17/03/2017
+hris_employee_snapshot,date_format_ddmmyyyy,102796,22/02/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100545,18/03/2021
+hris_employee_snapshot,date_format_ddmmyyyy,102623,18/09/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102740,28/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100554,22/08/2021
+hris_employee_snapshot,date_format_ddmmyyyy,102248,10/08/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100762,27/08/2017
+hris_employee_snapshot,date_format_ddmmyyyy,102203,19/06/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100469,01/04/2014
+hris_employee_snapshot,date_format_ddmmyyyy,103067,26/01/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101320,03/01/2011
+hris_employee_snapshot,date_format_ddmmyyyy,100305,28/08/2011
+hris_employee_snapshot,date_format_ddmmyyyy,102645,15/09/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102394,01/12/2023
+hris_employee_snapshot,date_format_ddmmyyyy,101994,17/11/2022
+hris_employee_snapshot,date_format_ddmmyyyy,101506,26/02/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102785,04/02/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101012,08/12/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100470,23/10/2014
+hris_employee_snapshot,date_format_ddmmyyyy,102673,23/10/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100275,23/04/2022
+hris_employee_snapshot,date_format_ddmmyyyy,102646,16/09/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100861,23/12/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102185,26/06/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100171,06/04/2018
+hris_employee_snapshot,date_format_ddmmyyyy,101214,19/04/2019
+hris_employee_snapshot,date_format_ddmmyyyy,100551,03/09/2011
+hris_employee_snapshot,date_format_ddmmyyyy,101513,20/08/2005
+hris_employee_snapshot,date_format_ddmmyyyy,102908,24/07/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102372,24/12/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100092,12/10/2018
+hris_employee_snapshot,date_format_ddmmyyyy,101039,01/02/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100506,18/11/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101401,10/10/2018
+hris_employee_snapshot,date_format_ddmmyyyy,102898,02/07/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102069,08/01/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102598,18/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100504,30/07/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101870,06/07/2022
+hris_employee_snapshot,date_format_ddmmyyyy,101768,04/02/2008
+hris_employee_snapshot,date_format_ddmmyyyy,101485,22/10/2019
+hris_employee_snapshot,date_format_ddmmyyyy,100490,13/12/2018
+hris_employee_snapshot,date_format_ddmmyyyy,100416,02/08/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102058,12/01/2023
+hris_employee_snapshot,date_format_ddmmyyyy,101629,03/01/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102865,11/06/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100333,30/03/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102141,23/04/2023
+hris_employee_snapshot,date_format_ddmmyyyy,101084,05/03/2021
+hris_employee_snapshot,date_format_ddmmyyyy,101789,07/07/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101447,09/09/2010
+hris_employee_snapshot,date_format_ddmmyyyy,103024,22/11/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102914,20/07/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101452,09/12/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100612,24/03/2018
+hris_employee_snapshot,date_format_ddmmyyyy,102328,06/10/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100666,14/03/2019
+hris_employee_snapshot,date_format_ddmmyyyy,100916,16/07/2014
+hris_employee_snapshot,date_format_ddmmyyyy,103148,24/04/2026
+hris_employee_snapshot,date_format_ddmmyyyy,102980,07/09/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102702,29/11/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102734,28/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102887,03/07/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102855,20/05/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102837,20/04/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100213,23/03/2021
+hris_employee_snapshot,date_format_ddmmyyyy,100547,10/12/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100622,24/09/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102458,04/03/2024
+hris_employee_snapshot,date_format_ddmmyyyy,101436,26/10/2019
+hris_employee_snapshot,date_format_ddmmyyyy,101779,13/09/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102159,03/05/2023
+hris_employee_snapshot,date_format_ddmmyyyy,103155,03/04/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101725,25/08/2014
+hris_employee_snapshot,date_format_ddmmyyyy,101239,22/09/2016
+hris_employee_snapshot,date_format_ddmmyyyy,102451,19/02/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100368,13/03/2012
+hris_employee_snapshot,date_format_ddmmyyyy,101626,22/02/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100059,29/03/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100967,26/04/2012
+hris_employee_snapshot,date_format_ddmmyyyy,100883,29/05/2012
+hris_employee_snapshot,date_format_ddmmyyyy,100315,30/01/2014
+hris_employee_snapshot,date_format_ddmmyyyy,100055,28/12/2010
+hris_employee_snapshot,date_format_ddmmyyyy,103130,13/03/2026
+hris_employee_snapshot,date_format_ddmmyyyy,100537,20/05/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102943,10/08/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100232,03/01/2016
+hris_employee_snapshot,date_format_ddmmyyyy,100975,16/08/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100476,31/10/2017
+hris_employee_snapshot,date_format_ddmmyyyy,102078,04/02/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102001,29/11/2022
+hris_employee_snapshot,date_format_ddmmyyyy,100257,12/11/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102606,10/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100111,23/01/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102621,26/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100087,22/04/2022
+hris_employee_snapshot,date_format_ddmmyyyy,103167,25/05/2026
+hris_employee_snapshot,date_format_ddmmyyyy,102172,19/05/2023
+hris_employee_snapshot,date_format_ddmmyyyy,101546,01/09/2011
+hris_employee_snapshot,date_format_ddmmyyyy,100839,26/09/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102728,30/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,103205,28/06/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101705,29/07/2015
+hris_employee_snapshot,date_format_ddmmyyyy,100320,06/05/2018
+hris_employee_snapshot,date_format_ddmmyyyy,102380,05/12/2023
+hris_employee_snapshot,date_format_ddmmyyyy,101000,29/07/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100898,16/11/2012
+hris_employee_snapshot,date_format_ddmmyyyy,102053,09/01/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100484,09/02/2016
+hris_employee_snapshot,date_format_ddmmyyyy,101303,13/01/2018
+hris_employee_snapshot,date_format_ddmmyyyy,100991,12/10/2016
+hris_employee_snapshot,date_format_ddmmyyyy,102610,07/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100400,15/09/2010
+hris_employee_snapshot,date_format_ddmmyyyy,102897,16/07/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102742,21/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100278,13/08/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102910,31/07/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100235,09/08/2020
+hris_employee_snapshot,date_format_ddmmyyyy,101488,28/10/2014
+hris_employee_snapshot,date_format_ddmmyyyy,100518,19/02/2018
+hris_employee_snapshot,date_format_ddmmyyyy,101684,13/07/2021
+hris_employee_snapshot,date_format_ddmmyyyy,101494,14/11/2021
+hris_employee_snapshot,date_format_ddmmyyyy,102733,01/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102168,22/05/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102719,10/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,101025,20/09/2007
+hris_employee_snapshot,date_format_ddmmyyyy,101964,05/10/2022
+hris_employee_snapshot,date_format_ddmmyyyy,103128,25/03/2026
+hris_employee_snapshot,date_format_ddmmyyyy,100086,27/08/2015
+hris_employee_snapshot,date_format_ddmmyyyy,102483,01/04/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100458,28/11/2017
+hris_employee_snapshot,date_format_ddmmyyyy,102810,11/03/2025
+hris_employee_snapshot,date_format_ddmmyyyy,103125,14/03/2026
+hris_employee_snapshot,date_format_ddmmyyyy,103028,27/11/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100591,11/11/2013
+hris_employee_snapshot,date_format_ddmmyyyy,103044,30/12/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102920,21/08/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100307,15/10/2018
+hris_employee_snapshot,date_format_ddmmyyyy,103089,01/02/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101933,08/09/2022
+hris_employee_snapshot,date_format_ddmmyyyy,103189,12/06/2026
+hris_employee_snapshot,date_format_ddmmyyyy,102057,02/01/2023
+hris_employee_snapshot,date_format_ddmmyyyy,102883,01/06/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100376,01/01/2021
+hris_employee_snapshot,date_format_ddmmyyyy,103203,19/06/2026
+hris_employee_snapshot,date_format_ddmmyyyy,101738,02/04/2018
+hris_employee_snapshot,date_format_ddmmyyyy,102731,26/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,101251,04/06/2018
+hris_employee_snapshot,date_format_ddmmyyyy,100203,18/04/2019
+hris_employee_snapshot,date_format_ddmmyyyy,100557,19/02/2021
+hris_employee_snapshot,date_format_ddmmyyyy,100832,25/02/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102717,02/12/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102445,01/02/2024
+hris_employee_snapshot,date_format_ddmmyyyy,100049,26/05/2015
+hris_employee_snapshot,date_format_ddmmyyyy,101741,07/07/2017
+hris_employee_snapshot,date_format_ddmmyyyy,100706,26/02/2019
+hris_employee_snapshot,date_format_ddmmyyyy,101721,17/10/2020
+hris_employee_snapshot,date_format_ddmmyyyy,101711,29/10/2018
+hris_employee_snapshot,date_format_ddmmyyyy,102008,14/11/2022
+hris_employee_snapshot,date_format_ddmmyyyy,102530,30/05/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102880,16/06/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100167,18/09/2016
+hris_employee_snapshot,date_format_ddmmyyyy,100177,26/02/2021
+hris_employee_snapshot,date_format_ddmmyyyy,100752,17/12/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101542,25/02/2016
+hris_employee_snapshot,date_format_ddmmyyyy,101266,01/04/2019
+hris_employee_snapshot,date_format_ddmmyyyy,101403,04/11/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101753,11/10/2018
+hris_employee_snapshot,date_format_ddmmyyyy,102402,01/01/2024
+hris_employee_snapshot,date_format_ddmmyyyy,103039,27/11/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100138,19/12/2008
+hris_employee_snapshot,date_format_ddmmyyyy,102039,31/12/2022
+hris_employee_snapshot,date_format_ddmmyyyy,103146,12/04/2026
+hris_employee_snapshot,date_format_ddmmyyyy,102620,23/08/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102936,28/08/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102676,05/11/2024
+hris_employee_snapshot,date_format_ddmmyyyy,102879,09/06/2025
+hris_employee_snapshot,date_format_ddmmyyyy,100750,27/10/2020
+hris_employee_snapshot,date_format_ddmmyyyy,100675,29/12/2017
+hris_employee_snapshot,date_format_ddmmyyyy,101511,24/04/2020
+hris_employee_snapshot,date_format_ddmmyyyy,102969,14/09/2025
+hris_employee_snapshot,date_format_ddmmyyyy,102333,27/10/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100503,26/04/2021
+hris_employee_snapshot,date_format_ddmmyyyy,102245,13/08/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100530,01/03/2021
+hris_employee_snapshot,date_format_ddmmyyyy,101706,27/06/2019
+hris_employee_snapshot,date_format_ddmmyyyy,103035,10/11/2025
+hris_employee_snapshot,date_format_ddmmyyyy,101681,04/04/2017
+hris_employee_snapshot,date_format_ddmmyyyy,100928,02/02/2019
+hris_employee_snapshot,date_format_ddmmyyyy,102002,07/11/2022
+hris_employee_snapshot,date_format_ddmmyyyy,100271,13/04/2018
+hris_employee_snapshot,date_format_ddmmyyyy,102335,12/10/2023
+hris_employee_snapshot,date_format_ddmmyyyy,100494,05/03/2022
+hris_employee_snapshot,date_format_ddmmyyyy,101957,03/10/2022
+hris_employee_snapshot,date_format_ddmmyyyy,100553,22/04/2013
+hris_employee_snapshot,date_format_ddmmyyyy,103195,06/06/2026
+hris_employee_snapshot,dob_placeholder,102218,1900-01-01
+hris_employee_snapshot,dob_placeholder,101657,1900-01-01
+hris_employee_snapshot,dob_placeholder,100791,1900-01-01
+hris_employee_snapshot,dob_placeholder,100933,1900-01-01
+hris_employee_snapshot,dob_placeholder,102899,1900-01-01
+hris_employee_snapshot,dob_placeholder,102332,1900-01-01
+hris_employee_snapshot,missing_employment_type,100342,
+hris_employee_snapshot,missing_employment_type,101262,
+hris_employee_snapshot,missing_employment_type,102940,
+hris_employee_snapshot,missing_employment_type,100495,
+hris_employee_snapshot,missing_employment_type,103168,
+hris_employee_snapshot,missing_employment_type,102386,
+hris_employee_snapshot,missing_employment_type,100994,
+hris_employee_snapshot,missing_employment_type,101585,
+hris_employee_snapshot,missing_employment_type,100212,
+hris_employee_snapshot,missing_employment_type,102463,
+hris_employee_snapshot,missing_employment_type,101832,
+hris_employee_snapshot,missing_employment_type,100419,
+hris_employee_snapshot,missing_employment_type,101846,
+hris_employee_snapshot,missing_employment_type,103203,
+hris_employee_snapshot,missing_employment_type,100355,
+hris_employee_snapshot,missing_employment_type,101012,
+hris_employee_snapshot,missing_employment_type,100029,
+hris_employee_snapshot,missing_employment_type,101727,
+hris_employee_snapshot,missing_employment_type,101073,
+hris_employee_snapshot,exact_duplicate,103124,
+hris_employee_snapshot,exact_duplicate,102119,
+hris_employee_snapshot,exact_duplicate,101009,
+hris_employee_snapshot,exact_duplicate,101257,
+hris_employee_snapshot,exact_duplicate,103073,
+hris_employee_snapshot,exact_duplicate,102736,
+hris_employee_snapshot,exact_duplicate,101177,
+hris_employee_snapshot,exact_duplicate,100627,
+hris_employee_snapshot,exact_duplicate,101179,
+hris_employee_snapshot,exact_duplicate,101099,
+hris_employee_snapshot,exact_duplicate,101601,
+hris_employee_snapshot,exact_duplicate,100044,
+hris_employee_snapshot,exact_duplicate,101284,
+hris_employee_snapshot,exact_duplicate,100576,
+hris_employee_snapshot,exact_duplicate,101551,
+hris_employee_snapshot,exact_duplicate,101294,
+hris_employee_snapshot,exact_duplicate,101858,
+hris_employee_snapshot,exact_duplicate,102616,
+hris_employee_snapshot,exact_duplicate,101385,
+hris_employee_snapshot,exact_duplicate,102538,
+hris_employee_snapshot,exact_duplicate,100029,
+hris_employee_snapshot,exact_duplicate,102545,
+hris_employee_snapshot,exact_duplicate,100171,
+hris_employee_snapshot,exact_duplicate,100339,
+hris_employee_snapshot,exact_duplicate,102256,
+hris_employee_snapshot,terminated_but_active,100432,termination_date populated
+hris_employee_snapshot,terminated_but_active,100365,termination_date populated
+hris_employee_snapshot,terminated_but_active,102411,termination_date populated
+hris_employee_snapshot,terminated_but_active,103135,termination_date populated
+hris_employee_snapshot,terminated_but_active,101757,termination_date populated
+hris_employee_snapshot,terminated_but_active,102886,termination_date populated
+hris_employee_snapshot,terminated_but_active,102347,termination_date populated
+hris_employee_snapshot,terminated_but_active,103030,termination_date populated
+hris_employee_snapshot,terminated_but_active,102964,termination_date populated
+hris_employee_snapshot,terminated_but_active,102130,termination_date populated
+hris_employee_snapshot,terminated_but_active,102321,termination_date populated
+hris_employee_snapshot,terminated_but_active,103007,termination_date populated
+hris_employee_snapshot,terminated_but_active,102861,termination_date populated
+hris_employee_snapshot,terminated_but_active,103018,termination_date populated
+hris_employee_snapshot,terminated_but_active,102942,termination_date populated
+hris_employee_snapshot,terminated_but_active,102976,termination_date populated
+hris_employee_snapshot,terminated_but_active,103114,termination_date populated
+hris_employee_snapshot,terminated_but_active,100640,termination_date populated
+hris_employee_snapshot,terminated_but_active,102389,termination_date populated
+hris_employee_snapshot,terminated_but_active,101382,termination_date populated
+hris_employee_snapshot,terminated_but_active,101195,termination_date populated
+hris_employee_snapshot,terminated_but_active,103059,termination_date populated
+hris_employee_snapshot,terminated_but_active,102580,termination_date populated
+hris_employee_snapshot,terminated_but_active,102533,termination_date populated
+hris_employee_snapshot,terminated_but_active,103157,termination_date populated
+hris_employee_snapshot,terminated_but_active,102210,termination_date populated
+hris_employee_snapshot,terminated_but_active,102060,termination_date populated
+hris_employee_snapshot,terminated_but_active,102513,termination_date populated
+hris_employee_snapshot,terminated_but_active,100789,termination_date populated
+hris_employee_snapshot,terminated_but_active,102856,termination_date populated
+hris_employee_snapshot,stale_prior_record_same_person,96529,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,90749,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,97436,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,94744,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,99409,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,98016,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,95761,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,98848,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,99146,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,95480,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,97613,older employee_id for an active person
+hris_employee_snapshot,stale_prior_record_same_person,91118,older employee_id for an active person
+payroll_fortnight,on_unpaid_leave_not_paid,101792,
+payroll_fortnight,on_unpaid_leave_not_paid,100018,
+payroll_fortnight,on_unpaid_leave_not_paid,101568,
+payroll_fortnight,on_unpaid_leave_not_paid,102651,
+payroll_fortnight,on_unpaid_leave_not_paid,102256,
+payroll_fortnight,on_unpaid_leave_not_paid,102241,
+payroll_fortnight,on_unpaid_leave_not_paid,102909,
+payroll_fortnight,on_unpaid_leave_not_paid,101887,
+payroll_fortnight,on_unpaid_leave_not_paid,103140,
+payroll_fortnight,on_unpaid_leave_not_paid,101672,
+payroll_fortnight,on_unpaid_leave_not_paid,101226,
+payroll_fortnight,on_unpaid_leave_not_paid,102370,
+payroll_fortnight,on_unpaid_leave_not_paid,102004,
+payroll_fortnight,on_unpaid_leave_not_paid,100949,
+payroll_fortnight,on_unpaid_leave_not_paid,101311,
+payroll_fortnight,on_unpaid_leave_not_paid,101981,
+payroll_fortnight,on_unpaid_leave_not_paid,102949,
+payroll_fortnight,on_unpaid_leave_not_paid,100242,
+payroll_fortnight,on_unpaid_leave_not_paid,100543,
+payroll_fortnight,on_unpaid_leave_not_paid,101764,
+payroll_fortnight,on_unpaid_leave_not_paid,102728,
+payroll_fortnight,on_unpaid_leave_not_paid,101007,
+payroll_fortnight,on_unpaid_leave_not_paid,102208,
+payroll_fortnight,on_unpaid_leave_not_paid,101550,
+payroll_fortnight,on_unpaid_leave_not_paid,102574,
+payroll_fortnight,on_unpaid_leave_not_paid,100992,
+payroll_fortnight,on_unpaid_leave_not_paid,101928,
+payroll_fortnight,on_unpaid_leave_not_paid,101344,
+payroll_fortnight,on_unpaid_leave_not_paid,101563,
+payroll_fortnight,final_pay_terminated,100432,leave payout
+payroll_fortnight,final_pay_terminated,100365,leave payout
+payroll_fortnight,final_pay_terminated,102411,leave payout
+payroll_fortnight,final_pay_terminated,103135,leave payout
+payroll_fortnight,final_pay_terminated,101757,leave payout
+payroll_fortnight,final_pay_terminated,102886,leave payout
+payroll_fortnight,final_pay_terminated,102347,leave payout
+payroll_fortnight,final_pay_terminated,103030,leave payout
+payroll_fortnight,final_pay_terminated,102964,leave payout
+payroll_fortnight,final_pay_terminated,102130,leave payout
+payroll_fortnight,final_pay_terminated,102321,leave payout
+payroll_fortnight,final_pay_terminated,103007,leave payout
+payroll_fortnight,final_pay_terminated,102861,leave payout
+payroll_fortnight,final_pay_terminated,103018,leave payout
+payroll_fortnight,final_pay_terminated,102942,leave payout
+payroll_fortnight,final_pay_terminated,102976,leave payout
+payroll_fortnight,final_pay_terminated,103114,leave payout
+payroll_fortnight,final_pay_terminated,100640,leave payout
+payroll_fortnight,final_pay_terminated,102389,leave payout
+payroll_fortnight,final_pay_terminated,101382,leave payout
+payroll_fortnight,payroll_only_contractor,C9000,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9001,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9002,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9003,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9004,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9005,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9006,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9007,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9008,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9009,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9010,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9011,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9012,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9013,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9014,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9015,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9016,no HRIS record
+payroll_fortnight,payroll_only_contractor,C9017,no HRIS record
+ats_requisitions,duplicate_requisition,REQ000825,
+ats_requisitions,duplicate_requisition,REQ001292,
+ats_requisitions,duplicate_requisition,REQ001067,
+ats_requisitions,duplicate_requisition,REQ000907,
+ats_requisitions,duplicate_requisition,REQ000140,
+ats_requisitions,duplicate_requisition,REQ001682,
+ats_requisitions,duplicate_requisition,REQ000905,
+ats_requisitions,duplicate_requisition,REQ000237,
+ats_requisitions,duplicate_requisition,REQ001672,
+ats_requisitions,duplicate_requisition,REQ000071,
+ats_requisitions,duplicate_requisition,REQ000587,
+ats_requisitions,duplicate_requisition,REQ000778,
+ats_requisitions,duplicate_requisition,REQ001589,
+ats_requisitions,duplicate_requisition,REQ001652,
+ats_requisitions,duplicate_requisition,REQ000832,
+ats_requisitions,duplicate_requisition,REQ000865,
+ats_requisitions,duplicate_requisition,REQ000635,
+ats_requisitions,duplicate_requisition,REQ000087,
+ats_requisitions,duplicate_requisition,REQ001398,
+ats_requisitions,duplicate_requisition,REQ000950,
+ats_requisitions,duplicate_requisition,REQ000119,
+ats_requisitions,duplicate_requisition,REQ001070,
+ats_requisitions,duplicate_requisition,REQ001524,
+ats_requisitions,duplicate_requisition,REQ001299,
+ats_requisitions,duplicate_requisition,REQ001579,
+ats_requisitions,duplicate_requisition,REQ001696,
+ats_requisitions,duplicate_requisition,REQ001190,
+ats_requisitions,duplicate_requisition,REQ000582,
+ats_requisitions,duplicate_requisition,REQ001128,
+ats_requisitions,duplicate_requisition,REQ000051,
+ats_requisitions,duplicate_requisition,REQ001581,
+ats_requisitions,duplicate_requisition,REQ001504,
+ats_requisitions,duplicate_requisition,REQ001563,
+ats_requisitions,dates_swapped,REQ000312,filled_date < open_date
+ats_requisitions,dates_swapped,REQ000647,filled_date < open_date
+ats_requisitions,dates_swapped,REQ001308,filled_date < open_date
+ats_requisitions,dates_swapped,REQ001119,filled_date < open_date
+ats_requisitions,dates_swapped,REQ001020,filled_date < open_date
+ats_requisitions,dates_swapped,REQ001218,filled_date < open_date
+ats_requisitions,dates_swapped,REQ000799,filled_date < open_date
+ats_requisitions,dates_swapped,REQ001071,filled_date < open_date
+ats_requisitions,dates_swapped,REQ001473,filled_date < open_date
+ats_requisitions,dates_swapped,REQ000762,filled_date < open_date
+ats_requisitions,filled_without_date,REQ000473,
+ats_requisitions,filled_without_date,REQ000661,
+ats_requisitions,filled_without_date,REQ000792,
+ats_requisitions,filled_without_date,REQ000783,
+ats_requisitions,filled_without_date,REQ001672,
+ats_requisitions,filled_without_date,REQ001062,
+ats_requisitions,filled_without_date,REQ000745,
+ats_requisitions,filled_without_date,REQ001618,
+ats_requisitions,filled_without_date,REQ000382,
+ats_requisitions,filled_without_date,REQ001579,
+ats_requisitions,filled_without_date,REQ001501,
+ats_requisitions,filled_without_date,REQ000462,
+ats_requisitions,filled_without_date,REQ000910,
+ats_requisitions,filled_without_date,REQ000827,
+ats_requisitions,filled_without_date,REQ000645,
+hris_movements,duplicate_event,EV0001079,
+hris_movements,duplicate_event,EV0001197,
+hris_movements,duplicate_event,EV0001712,
+hris_movements,duplicate_event,EV0001683,
+hris_movements,duplicate_event,EV0002092,
+hris_movements,duplicate_event,EV0000782,
+hris_movements,duplicate_event,EV0002553,
+hris_movements,duplicate_event,EV0001854,
+hris_movements,duplicate_event,EV0001602,
+hris_movements,duplicate_event,EV0001417,
+hris_movements,duplicate_event,EV0000201,
+hris_movements,duplicate_event,EV0002156,
+hris_movements,duplicate_event,EV0000051,
+hris_movements,duplicate_event,EV0002587,
+hris_movements,duplicate_event,EV0001553,
+hris_movements,duplicate_event,EV0002097,
+hris_movements,duplicate_event,EV0001835,
+hris_movements,duplicate_event,EV0002458,
+hris_movements,duplicate_event,EV0001014,
+hris_movements,duplicate_event,EV0000522,

@@ -1,0 +1,68 @@
+employee_id,cost_centre,gross_pay,explanation,side
+100432,CC104,2549.5,Final pay after separation,payroll only
+100365,CC103,9110.4,Final pay after separation,payroll only
+102411,CC605,4675.24,Final pay after separation,payroll only
+103135,CC802,3735.16,Final pay after separation,payroll only
+101757,CC803,5668.32,Final pay after separation,payroll only
+102886,CC103,4402.27,Final pay after separation,payroll only
+102347,CC103,9041.98,Final pay after separation,payroll only
+103030,CC601,6299.77,Final pay after separation,payroll only
+102964,CC104,5222.67,Final pay after separation,payroll only
+102130,CC802,6549.38,Final pay after separation,payroll only
+102321,CC601,4162.83,Final pay after separation,payroll only
+103007,CC601,4841.75,Final pay after separation,payroll only
+102861,CC602,5506.13,Final pay after separation,payroll only
+103018,CC103,2541.75,Final pay after separation,payroll only
+102942,CC603,6127.31,Final pay after separation,payroll only
+102976,CC606,7359.44,Final pay after separation,payroll only
+103114,CC601,7055.57,Final pay after separation,payroll only
+100640,CC206,11905.38,Final pay after separation,payroll only
+102389,CC602,6375.63,Final pay after separation,payroll only
+101382,CC606,7413.84,Final pay after separation,payroll only
+C9000,CC803,9427.46,Contractor paid via payroll (no HRIS record),payroll only
+C9001,CC403,7430.88,Contractor paid via payroll (no HRIS record),payroll only
+C9002,CC805,8229.2,Contractor paid via payroll (no HRIS record),payroll only
+C9003,CC705,5854.76,Contractor paid via payroll (no HRIS record),payroll only
+C9004,CC704,6443.2,Contractor paid via payroll (no HRIS record),payroll only
+C9005,CC303,6346.24,Contractor paid via payroll (no HRIS record),payroll only
+C9006,CC104,8463.87,Contractor paid via payroll (no HRIS record),payroll only
+C9007,CC102,8285.84,Contractor paid via payroll (no HRIS record),payroll only
+C9008,CC102,5750.52,Contractor paid via payroll (no HRIS record),payroll only
+C9009,CC304,6380.9,Contractor paid via payroll (no HRIS record),payroll only
+C9010,CC202,7323.78,Contractor paid via payroll (no HRIS record),payroll only
+C9011,CC704,8166.98,Contractor paid via payroll (no HRIS record),payroll only
+C9012,CC504,9042.58,Contractor paid via payroll (no HRIS record),payroll only
+C9013,CC406,6389.22,Contractor paid via payroll (no HRIS record),payroll only
+C9014,CC102,9420.41,Contractor paid via payroll (no HRIS record),payroll only
+C9015,CC205,9041.2,Contractor paid via payroll (no HRIS record),payroll only
+C9016,CC101,8316.54,Contractor paid via payroll (no HRIS record),payroll only
+C9017,CC406,8865.49,Contractor paid via payroll (no HRIS record),payroll only
+101672,CC801,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101568,CC703,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101981,CC802,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101792,CC801,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+100242,CC102,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102208,CC805,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101226,CC602,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+100949,CC501,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102909,CC602,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101764,CC803,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101928,CC804,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101887,CC101,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102728,CC102,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101311,CC603,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+100543,CC106,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102256,CC105,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102574,CC601,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101563,CC703,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101007,CC502,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101344,CC604,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+103140,CC402,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102370,CC803,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102651,CC404,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+101550,CC703,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+100018,CC101,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+100992,CC502,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102241,CC102,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102949,CC102,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only
+102004,CC605,,Not paid this fortnight (likely leave without pay) - confirm with payroll,HRIS only

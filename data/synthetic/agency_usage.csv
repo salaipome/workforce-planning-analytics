@@ -1,0 +1,2305 @@
+month,job_family,location,agency_hours,agency_cost,record_source
+2022-07-01,Registered Nurse,Perth North,598.0,48803.75,SYNTHETIC
+2022-07-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2022-07-01,Registered Nurse,Bunbury,94.9,7744.69,SYNTHETIC
+2022-07-01,Registered Nurse,Geraldton,368.8,30099.88,SYNTHETIC
+2022-07-01,Registered Nurse,Kalgoorlie,240.4,19621.04,SYNTHETIC
+2022-07-01,Registered Nurse,Broome,101.6,8294.29,SYNTHETIC
+2022-07-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2022-07-01,Midwife,Perth South,109.8,9232.9,SYNTHETIC
+2022-07-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2022-07-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2022-07-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-07-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2022-07-01,Enrolled Nurse,Perth North,379.3,22741.36,SYNTHETIC
+2022-07-01,Enrolled Nurse,Perth South,664.7,39855.94,SYNTHETIC
+2022-07-01,Enrolled Nurse,Bunbury,199.2,11944.41,SYNTHETIC
+2022-07-01,Enrolled Nurse,Geraldton,212.1,12718.32,SYNTHETIC
+2022-07-01,Enrolled Nurse,Kalgoorlie,19.1,1144.14,SYNTHETIC
+2022-07-01,Enrolled Nurse,Broome,135.5,8124.32,SYNTHETIC
+2022-07-01,Medical Practitioner,Perth North,95.7,17139.91,SYNTHETIC
+2022-07-01,Medical Practitioner,Perth South,204.1,36538.75,SYNTHETIC
+2022-07-01,Medical Practitioner,Bunbury,53.1,9510.39,SYNTHETIC
+2022-07-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2022-07-01,Medical Practitioner,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-07-01,Medical Practitioner,Broome,51.8,9269.56,SYNTHETIC
+2022-07-01,Allied Health,Perth North,84.5,6471.53,SYNTHETIC
+2022-07-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2022-07-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2022-07-01,Allied Health,Geraldton,162.4,12442.3,SYNTHETIC
+2022-07-01,Allied Health,Kalgoorlie,57.1,4376.28,SYNTHETIC
+2022-07-01,Allied Health,Broome,24.9,1905.99,SYNTHETIC
+2022-07-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2022-07-01,Care Worker,Perth South,319.6,16503.1,SYNTHETIC
+2022-07-01,Care Worker,Bunbury,63.4,3271.49,SYNTHETIC
+2022-07-01,Care Worker,Geraldton,0.0,0.0,SYNTHETIC
+2022-07-01,Care Worker,Kalgoorlie,124.4,6422.84,SYNTHETIC
+2022-07-01,Care Worker,Broome,187.8,9694.72,SYNTHETIC
+2022-07-01,Administration,Perth North,84.2,4909.49,SYNTHETIC
+2022-07-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2022-07-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2022-07-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2022-07-01,Administration,Kalgoorlie,11.9,693.38,SYNTHETIC
+2022-07-01,Administration,Broome,14.7,856.83,SYNTHETIC
+2022-07-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2022-07-01,Support Services,Perth South,72.9,3643.01,SYNTHETIC
+2022-07-01,Support Services,Bunbury,27.0,1348.85,SYNTHETIC
+2022-07-01,Support Services,Geraldton,3.6,178.34,SYNTHETIC
+2022-07-01,Support Services,Kalgoorlie,33.8,1688.08,SYNTHETIC
+2022-07-01,Support Services,Broome,0.0,0.0,SYNTHETIC
+2022-08-01,Registered Nurse,Perth North,62.8,5129.06,SYNTHETIC
+2022-08-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2022-08-01,Registered Nurse,Bunbury,70.9,5785.99,SYNTHETIC
+2022-08-01,Registered Nurse,Geraldton,510.6,41668.97,SYNTHETIC
+2022-08-01,Registered Nurse,Kalgoorlie,185.5,15139.89,SYNTHETIC
+2022-08-01,Registered Nurse,Broome,7.4,605.53,SYNTHETIC
+2022-08-01,Midwife,Perth North,17.0,1431.32,SYNTHETIC
+2022-08-01,Midwife,Perth South,16.8,1410.31,SYNTHETIC
+2022-08-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2022-08-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2022-08-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-08-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2022-08-01,Enrolled Nurse,Perth North,368.4,22089.99,SYNTHETIC
+2022-08-01,Enrolled Nurse,Perth South,587.8,35243.48,SYNTHETIC
+2022-08-01,Enrolled Nurse,Bunbury,159.0,9533.53,SYNTHETIC
+2022-08-01,Enrolled Nurse,Geraldton,136.7,8199.1,SYNTHETIC
+2022-08-01,Enrolled Nurse,Kalgoorlie,76.7,4596.54,SYNTHETIC
+2022-08-01,Enrolled Nurse,Broome,132.9,7965.86,SYNTHETIC
+2022-08-01,Medical Practitioner,Perth North,177.0,31691.3,SYNTHETIC
+2022-08-01,Medical Practitioner,Perth South,349.5,62569.59,SYNTHETIC
+2022-08-01,Medical Practitioner,Bunbury,41.5,7431.24,SYNTHETIC
+2022-08-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2022-08-01,Medical Practitioner,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-08-01,Medical Practitioner,Broome,49.0,8774.27,SYNTHETIC
+2022-08-01,Allied Health,Perth North,50.3,3854.32,SYNTHETIC
+2022-08-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2022-08-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2022-08-01,Allied Health,Geraldton,269.2,20624.7,SYNTHETIC
+2022-08-01,Allied Health,Kalgoorlie,25.8,1972.91,SYNTHETIC
+2022-08-01,Allied Health,Broome,34.7,2661.13,SYNTHETIC
+2022-08-01,Care Worker,Perth North,14.7,757.98,SYNTHETIC
+2022-08-01,Care Worker,Perth South,109.9,5674.86,SYNTHETIC
+2022-08-01,Care Worker,Bunbury,95.3,4920.89,SYNTHETIC
+2022-08-01,Care Worker,Geraldton,0.0,0.0,SYNTHETIC
+2022-08-01,Care Worker,Kalgoorlie,81.8,4221.52,SYNTHETIC
+2022-08-01,Care Worker,Broome,159.7,8247.67,SYNTHETIC
+2022-08-01,Administration,Perth North,85.3,4975.38,SYNTHETIC
+2022-08-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2022-08-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2022-08-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2022-08-01,Administration,Kalgoorlie,10.4,604.44,SYNTHETIC
+2022-08-01,Administration,Broome,25.4,1481.54,SYNTHETIC
+2022-08-01,Support Services,Perth North,17.4,867.27,SYNTHETIC
+2022-08-01,Support Services,Perth South,61.8,3086.77,SYNTHETIC
+2022-08-01,Support Services,Bunbury,29.4,1468.18,SYNTHETIC
+2022-08-01,Support Services,Geraldton,33.5,1675.84,SYNTHETIC
+2022-08-01,Support Services,Kalgoorlie,37.5,1875.33,SYNTHETIC
+2022-08-01,Support Services,Broome,0.0,0.0,SYNTHETIC
+2022-09-01,Registered Nurse,Perth North,109.9,8971.35,SYNTHETIC
+2022-09-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2022-09-01,Registered Nurse,Bunbury,28.3,2307.4,SYNTHETIC
+2022-09-01,Registered Nurse,Geraldton,252.9,20637.82,SYNTHETIC
+2022-09-01,Registered Nurse,Kalgoorlie,200.0,16319.88,SYNTHETIC
+2022-09-01,Registered Nurse,Broome,104.3,8510.08,SYNTHETIC
+2022-09-01,Midwife,Perth North,17.7,1491.36,SYNTHETIC
+2022-09-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2022-09-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2022-09-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2022-09-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-09-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2022-09-01,Enrolled Nurse,Perth North,389.0,23325.46,SYNTHETIC
+2022-09-01,Enrolled Nurse,Perth South,525.1,31487.96,SYNTHETIC
+2022-09-01,Enrolled Nurse,Bunbury,149.7,8974.94,SYNTHETIC
+2022-09-01,Enrolled Nurse,Geraldton,128.8,7724.02,SYNTHETIC
+2022-09-01,Enrolled Nurse,Kalgoorlie,84.2,5048.8,SYNTHETIC
+2022-09-01,Enrolled Nurse,Broome,116.2,6967.35,SYNTHETIC
+2022-09-01,Medical Practitioner,Perth North,189.4,33903.04,SYNTHETIC
+2022-09-01,Medical Practitioner,Perth South,115.3,20637.16,SYNTHETIC
+2022-09-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2022-09-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2022-09-01,Medical Practitioner,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-09-01,Medical Practitioner,Broome,56.5,10110.04,SYNTHETIC
+2022-09-01,Allied Health,Perth North,89.4,6852.24,SYNTHETIC
+2022-09-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2022-09-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2022-09-01,Allied Health,Geraldton,190.1,14562.16,SYNTHETIC
+2022-09-01,Allied Health,Kalgoorlie,29.9,2287.96,SYNTHETIC
+2022-09-01,Allied Health,Broome,24.9,1906.03,SYNTHETIC
+2022-09-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2022-09-01,Care Worker,Perth South,158.7,8191.64,SYNTHETIC
+2022-09-01,Care Worker,Bunbury,105.1,5424.78,SYNTHETIC
+2022-09-01,Care Worker,Geraldton,46.1,2381.92,SYNTHETIC
+2022-09-01,Care Worker,Kalgoorlie,136.5,7047.17,SYNTHETIC
+2022-09-01,Care Worker,Broome,167.6,8653.21,SYNTHETIC
+2022-09-01,Administration,Perth North,71.0,4139.18,SYNTHETIC
+2022-09-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2022-09-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2022-09-01,Administration,Geraldton,15.5,900.87,SYNTHETIC
+2022-09-01,Administration,Kalgoorlie,27.4,1596.57,SYNTHETIC
+2022-09-01,Administration,Broome,26.3,1534.43,SYNTHETIC
+2022-09-01,Support Services,Perth North,31.3,1563.02,SYNTHETIC
+2022-09-01,Support Services,Perth South,81.8,4086.77,SYNTHETIC
+2022-09-01,Support Services,Bunbury,82.4,4117.34,SYNTHETIC
+2022-09-01,Support Services,Geraldton,26.8,1340.46,SYNTHETIC
+2022-09-01,Support Services,Kalgoorlie,3.7,183.28,SYNTHETIC
+2022-09-01,Support Services,Broome,0.0,0.0,SYNTHETIC
+2022-10-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2022-10-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2022-10-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2022-10-01,Registered Nurse,Geraldton,123.9,10108.79,SYNTHETIC
+2022-10-01,Registered Nurse,Kalgoorlie,239.1,19516.69,SYNTHETIC
+2022-10-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2022-10-01,Midwife,Perth North,18.8,1577.28,SYNTHETIC
+2022-10-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2022-10-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2022-10-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2022-10-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-10-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2022-10-01,Enrolled Nurse,Perth North,504.8,30269.94,SYNTHETIC
+2022-10-01,Enrolled Nurse,Perth South,439.2,26333.5,SYNTHETIC
+2022-10-01,Enrolled Nurse,Bunbury,166.8,10002.21,SYNTHETIC
+2022-10-01,Enrolled Nurse,Geraldton,190.7,11432.48,SYNTHETIC
+2022-10-01,Enrolled Nurse,Kalgoorlie,75.8,4546.61,SYNTHETIC
+2022-10-01,Enrolled Nurse,Broome,124.0,7434.16,SYNTHETIC
+2022-10-01,Medical Practitioner,Perth North,154.7,27697.66,SYNTHETIC
+2022-10-01,Medical Practitioner,Perth South,127.0,22747.1,SYNTHETIC
+2022-10-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2022-10-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2022-10-01,Medical Practitioner,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-10-01,Medical Practitioner,Broome,71.0,12717.25,SYNTHETIC
+2022-10-01,Allied Health,Perth North,92.0,7046.06,SYNTHETIC
+2022-10-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2022-10-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2022-10-01,Allied Health,Geraldton,176.0,13484.72,SYNTHETIC
+2022-10-01,Allied Health,Kalgoorlie,27.1,2074.33,SYNTHETIC
+2022-10-01,Allied Health,Broome,0.0,0.0,SYNTHETIC
+2022-10-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2022-10-01,Care Worker,Perth South,170.1,8780.14,SYNTHETIC
+2022-10-01,Care Worker,Bunbury,87.0,4492.24,SYNTHETIC
+2022-10-01,Care Worker,Geraldton,60.0,3096.97,SYNTHETIC
+2022-10-01,Care Worker,Kalgoorlie,100.6,5196.48,SYNTHETIC
+2022-10-01,Care Worker,Broome,110.6,5709.23,SYNTHETIC
+2022-10-01,Administration,Perth North,59.6,3471.92,SYNTHETIC
+2022-10-01,Administration,Perth South,32.2,1874.19,SYNTHETIC
+2022-10-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2022-10-01,Administration,Geraldton,13.4,781.88,SYNTHETIC
+2022-10-01,Administration,Kalgoorlie,35.1,2045.96,SYNTHETIC
+2022-10-01,Administration,Broome,0.0,0.0,SYNTHETIC
+2022-10-01,Support Services,Perth North,102.4,5114.39,SYNTHETIC
+2022-10-01,Support Services,Perth South,39.3,1964.33,SYNTHETIC
+2022-10-01,Support Services,Bunbury,3.5,175.75,SYNTHETIC
+2022-10-01,Support Services,Geraldton,73.2,3656.71,SYNTHETIC
+2022-10-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-10-01,Support Services,Broome,0.0,0.0,SYNTHETIC
+2022-11-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2022-11-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2022-11-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2022-11-01,Registered Nurse,Geraldton,209.0,17058.86,SYNTHETIC
+2022-11-01,Registered Nurse,Kalgoorlie,291.5,23785.91,SYNTHETIC
+2022-11-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2022-11-01,Midwife,Perth North,19.1,1606.28,SYNTHETIC
+2022-11-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2022-11-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2022-11-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2022-11-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-11-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2022-11-01,Enrolled Nurse,Perth North,423.1,25367.45,SYNTHETIC
+2022-11-01,Enrolled Nurse,Perth South,567.6,34031.58,SYNTHETIC
+2022-11-01,Enrolled Nurse,Bunbury,180.4,10818.17,SYNTHETIC
+2022-11-01,Enrolled Nurse,Geraldton,206.4,12378.55,SYNTHETIC
+2022-11-01,Enrolled Nurse,Kalgoorlie,83.0,4979.42,SYNTHETIC
+2022-11-01,Enrolled Nurse,Broome,152.9,9170.35,SYNTHETIC
+2022-11-01,Medical Practitioner,Perth North,181.2,32438.72,SYNTHETIC
+2022-11-01,Medical Practitioner,Perth South,160.9,28808.06,SYNTHETIC
+2022-11-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2022-11-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2022-11-01,Medical Practitioner,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-11-01,Medical Practitioner,Broome,50.4,9024.9,SYNTHETIC
+2022-11-01,Allied Health,Perth North,115.3,8835.94,SYNTHETIC
+2022-11-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2022-11-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2022-11-01,Allied Health,Geraldton,146.6,11229.81,SYNTHETIC
+2022-11-01,Allied Health,Kalgoorlie,79.7,6105.67,SYNTHETIC
+2022-11-01,Allied Health,Broome,0.0,0.0,SYNTHETIC
+2022-11-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2022-11-01,Care Worker,Perth South,238.4,12311.3,SYNTHETIC
+2022-11-01,Care Worker,Bunbury,52.1,2689.76,SYNTHETIC
+2022-11-01,Care Worker,Geraldton,125.6,6485.55,SYNTHETIC
+2022-11-01,Care Worker,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-11-01,Care Worker,Broome,87.9,4537.04,SYNTHETIC
+2022-11-01,Administration,Perth North,71.5,4166.82,SYNTHETIC
+2022-11-01,Administration,Perth South,17.5,1017.5,SYNTHETIC
+2022-11-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2022-11-01,Administration,Geraldton,15.5,901.14,SYNTHETIC
+2022-11-01,Administration,Kalgoorlie,19.2,1119.77,SYNTHETIC
+2022-11-01,Administration,Broome,0.0,0.0,SYNTHETIC
+2022-11-01,Support Services,Perth North,100.7,5033.98,SYNTHETIC
+2022-11-01,Support Services,Perth South,46.4,2318.62,SYNTHETIC
+2022-11-01,Support Services,Bunbury,4.1,206.85,SYNTHETIC
+2022-11-01,Support Services,Geraldton,61.9,3092.98,SYNTHETIC
+2022-11-01,Support Services,Kalgoorlie,3.7,182.45,SYNTHETIC
+2022-11-01,Support Services,Broome,0.0,0.0,SYNTHETIC
+2022-12-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2022-12-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2022-12-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2022-12-01,Registered Nurse,Geraldton,103.9,8478.81,SYNTHETIC
+2022-12-01,Registered Nurse,Kalgoorlie,281.4,22968.73,SYNTHETIC
+2022-12-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2022-12-01,Midwife,Perth North,20.2,1696.02,SYNTHETIC
+2022-12-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2022-12-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2022-12-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2022-12-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-12-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2022-12-01,Enrolled Nurse,Perth North,710.6,42608.42,SYNTHETIC
+2022-12-01,Enrolled Nurse,Perth South,407.3,24422.47,SYNTHETIC
+2022-12-01,Enrolled Nurse,Bunbury,224.9,13482.15,SYNTHETIC
+2022-12-01,Enrolled Nurse,Geraldton,102.3,6133.92,SYNTHETIC
+2022-12-01,Enrolled Nurse,Kalgoorlie,149.0,8932.5,SYNTHETIC
+2022-12-01,Enrolled Nurse,Broome,173.5,10401.61,SYNTHETIC
+2022-12-01,Medical Practitioner,Perth North,155.7,27885.48,SYNTHETIC
+2022-12-01,Medical Practitioner,Perth South,133.4,23877.92,SYNTHETIC
+2022-12-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2022-12-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2022-12-01,Medical Practitioner,Kalgoorlie,16.2,2906.23,SYNTHETIC
+2022-12-01,Medical Practitioner,Broome,63.8,11428.93,SYNTHETIC
+2022-12-01,Allied Health,Perth North,131.7,10090.09,SYNTHETIC
+2022-12-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2022-12-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2022-12-01,Allied Health,Geraldton,125.5,9617.33,SYNTHETIC
+2022-12-01,Allied Health,Kalgoorlie,58.4,4470.78,SYNTHETIC
+2022-12-01,Allied Health,Broome,0.0,0.0,SYNTHETIC
+2022-12-01,Care Worker,Perth North,12.0,619.62,SYNTHETIC
+2022-12-01,Care Worker,Perth South,172.7,8919.45,SYNTHETIC
+2022-12-01,Care Worker,Bunbury,75.3,3889.2,SYNTHETIC
+2022-12-01,Care Worker,Geraldton,60.7,3135.45,SYNTHETIC
+2022-12-01,Care Worker,Kalgoorlie,0.0,0.0,SYNTHETIC
+2022-12-01,Care Worker,Broome,72.0,3717.89,SYNTHETIC
+2022-12-01,Administration,Perth North,65.5,3820.54,SYNTHETIC
+2022-12-01,Administration,Perth South,14.0,818.37,SYNTHETIC
+2022-12-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2022-12-01,Administration,Geraldton,11.0,641.3,SYNTHETIC
+2022-12-01,Administration,Kalgoorlie,13.7,798.19,SYNTHETIC
+2022-12-01,Administration,Broome,7.5,438.96,SYNTHETIC
+2022-12-01,Support Services,Perth North,46.5,2322.25,SYNTHETIC
+2022-12-01,Support Services,Perth South,48.6,2428.0,SYNTHETIC
+2022-12-01,Support Services,Bunbury,3.6,179.25,SYNTHETIC
+2022-12-01,Support Services,Geraldton,28.4,1420.95,SYNTHETIC
+2022-12-01,Support Services,Kalgoorlie,4.3,215.77,SYNTHETIC
+2022-12-01,Support Services,Broome,44.1,2201.65,SYNTHETIC
+2023-01-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-01-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-01-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2023-01-01,Registered Nurse,Geraldton,93.7,7646.76,SYNTHETIC
+2023-01-01,Registered Nurse,Kalgoorlie,380.7,31069.05,SYNTHETIC
+2023-01-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-01-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-01-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-01-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-01-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2023-01-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-01-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-01-01,Enrolled Nurse,Perth North,428.9,25714.45,SYNTHETIC
+2023-01-01,Enrolled Nurse,Perth South,508.0,30459.39,SYNTHETIC
+2023-01-01,Enrolled Nurse,Bunbury,201.2,12062.07,SYNTHETIC
+2023-01-01,Enrolled Nurse,Geraldton,125.5,7522.74,SYNTHETIC
+2023-01-01,Enrolled Nurse,Kalgoorlie,80.1,4801.51,SYNTHETIC
+2023-01-01,Enrolled Nurse,Broome,106.7,6395.12,SYNTHETIC
+2023-01-01,Medical Practitioner,Perth North,152.4,27281.03,SYNTHETIC
+2023-01-01,Medical Practitioner,Perth South,153.4,27461.26,SYNTHETIC
+2023-01-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-01-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2023-01-01,Medical Practitioner,Kalgoorlie,75.9,13585.84,SYNTHETIC
+2023-01-01,Medical Practitioner,Broome,70.2,12573.87,SYNTHETIC
+2023-01-01,Allied Health,Perth North,234.4,17962.13,SYNTHETIC
+2023-01-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-01-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-01-01,Allied Health,Geraldton,48.9,3748.84,SYNTHETIC
+2023-01-01,Allied Health,Kalgoorlie,79.5,6091.16,SYNTHETIC
+2023-01-01,Allied Health,Broome,0.0,0.0,SYNTHETIC
+2023-01-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2023-01-01,Care Worker,Perth South,180.0,9295.13,SYNTHETIC
+2023-01-01,Care Worker,Bunbury,0.0,0.0,SYNTHETIC
+2023-01-01,Care Worker,Geraldton,77.5,4002.54,SYNTHETIC
+2023-01-01,Care Worker,Kalgoorlie,44.6,2304.47,SYNTHETIC
+2023-01-01,Care Worker,Broome,16.2,838.67,SYNTHETIC
+2023-01-01,Administration,Perth North,52.1,3037.35,SYNTHETIC
+2023-01-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2023-01-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2023-01-01,Administration,Geraldton,13.1,766.31,SYNTHETIC
+2023-01-01,Administration,Kalgoorlie,16.0,930.65,SYNTHETIC
+2023-01-01,Administration,Broome,7.6,445.92,SYNTHETIC
+2023-01-01,Support Services,Perth North,29.4,1469.12,SYNTHETIC
+2023-01-01,Support Services,Perth South,12.6,630.3,SYNTHETIC
+2023-01-01,Support Services,Bunbury,4.8,238.32,SYNTHETIC
+2023-01-01,Support Services,Geraldton,80.6,4024.93,SYNTHETIC
+2023-01-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-01-01,Support Services,Broome,45.5,2273.04,SYNTHETIC
+2023-02-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-02-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-02-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2023-02-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2023-02-01,Registered Nurse,Kalgoorlie,418.9,34185.48,SYNTHETIC
+2023-02-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-02-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-02-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-02-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-02-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2023-02-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-02-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-02-01,Enrolled Nurse,Perth North,401.5,24076.12,SYNTHETIC
+2023-02-01,Enrolled Nurse,Perth South,538.9,32312.12,SYNTHETIC
+2023-02-01,Enrolled Nurse,Bunbury,169.6,10170.81,SYNTHETIC
+2023-02-01,Enrolled Nurse,Geraldton,130.1,7801.8,SYNTHETIC
+2023-02-01,Enrolled Nurse,Kalgoorlie,81.2,4867.41,SYNTHETIC
+2023-02-01,Enrolled Nurse,Broome,100.2,6007.55,SYNTHETIC
+2023-02-01,Medical Practitioner,Perth North,285.3,51087.76,SYNTHETIC
+2023-02-01,Medical Practitioner,Perth South,139.5,24974.97,SYNTHETIC
+2023-02-01,Medical Practitioner,Bunbury,50.5,9036.46,SYNTHETIC
+2023-02-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2023-02-01,Medical Practitioner,Kalgoorlie,82.9,14835.79,SYNTHETIC
+2023-02-01,Medical Practitioner,Broome,51.8,9277.76,SYNTHETIC
+2023-02-01,Allied Health,Perth North,139.4,10677.74,SYNTHETIC
+2023-02-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-02-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-02-01,Allied Health,Geraldton,43.2,3307.26,SYNTHETIC
+2023-02-01,Allied Health,Kalgoorlie,78.7,6027.9,SYNTHETIC
+2023-02-01,Allied Health,Broome,25.8,1979.98,SYNTHETIC
+2023-02-01,Care Worker,Perth North,70.3,3631.6,SYNTHETIC
+2023-02-01,Care Worker,Perth South,232.7,12016.51,SYNTHETIC
+2023-02-01,Care Worker,Bunbury,22.2,1145.03,SYNTHETIC
+2023-02-01,Care Worker,Geraldton,100.9,5210.97,SYNTHETIC
+2023-02-01,Care Worker,Kalgoorlie,48.3,2496.23,SYNTHETIC
+2023-02-01,Care Worker,Broome,16.6,855.35,SYNTHETIC
+2023-02-01,Administration,Perth North,96.7,5637.89,SYNTHETIC
+2023-02-01,Administration,Perth South,29.1,1695.1,SYNTHETIC
+2023-02-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2023-02-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2023-02-01,Administration,Kalgoorlie,34.1,1990.06,SYNTHETIC
+2023-02-01,Administration,Broome,6.7,387.93,SYNTHETIC
+2023-02-01,Support Services,Perth North,112.9,5640.63,SYNTHETIC
+2023-02-01,Support Services,Perth South,56.2,2806.02,SYNTHETIC
+2023-02-01,Support Services,Bunbury,3.7,186.81,SYNTHETIC
+2023-02-01,Support Services,Geraldton,53.8,2689.41,SYNTHETIC
+2023-02-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-02-01,Support Services,Broome,23.7,1182.49,SYNTHETIC
+2023-03-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-03-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-03-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2023-03-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2023-03-01,Registered Nurse,Kalgoorlie,469.5,38313.08,SYNTHETIC
+2023-03-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-03-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-03-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-03-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-03-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2023-03-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-03-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-03-01,Enrolled Nurse,Perth North,549.8,32963.67,SYNTHETIC
+2023-03-01,Enrolled Nurse,Perth South,317.0,19009.06,SYNTHETIC
+2023-03-01,Enrolled Nurse,Bunbury,163.7,9817.28,SYNTHETIC
+2023-03-01,Enrolled Nurse,Geraldton,13.5,812.23,SYNTHETIC
+2023-03-01,Enrolled Nurse,Kalgoorlie,124.0,7435.83,SYNTHETIC
+2023-03-01,Enrolled Nurse,Broome,102.6,6151.5,SYNTHETIC
+2023-03-01,Medical Practitioner,Perth North,206.5,36973.69,SYNTHETIC
+2023-03-01,Medical Practitioner,Perth South,129.2,23131.47,SYNTHETIC
+2023-03-01,Medical Practitioner,Bunbury,55.9,10011.88,SYNTHETIC
+2023-03-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2023-03-01,Medical Practitioner,Kalgoorlie,67.8,12132.5,SYNTHETIC
+2023-03-01,Medical Practitioner,Broome,64.3,11515.13,SYNTHETIC
+2023-03-01,Allied Health,Perth North,170.1,13029.58,SYNTHETIC
+2023-03-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-03-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-03-01,Allied Health,Geraldton,49.3,3773.97,SYNTHETIC
+2023-03-01,Allied Health,Kalgoorlie,79.9,6122.68,SYNTHETIC
+2023-03-01,Allied Health,Broome,25.9,1985.5,SYNTHETIC
+2023-03-01,Care Worker,Perth North,194.4,10037.21,SYNTHETIC
+2023-03-01,Care Worker,Perth South,463.6,23937.72,SYNTHETIC
+2023-03-01,Care Worker,Bunbury,12.3,633.86,SYNTHETIC
+2023-03-01,Care Worker,Geraldton,23.9,1231.62,SYNTHETIC
+2023-03-01,Care Worker,Kalgoorlie,62.2,3213.36,SYNTHETIC
+2023-03-01,Care Worker,Broome,12.0,618.88,SYNTHETIC
+2023-03-01,Administration,Perth North,55.3,3220.81,SYNTHETIC
+2023-03-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2023-03-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2023-03-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2023-03-01,Administration,Kalgoorlie,13.0,758.69,SYNTHETIC
+2023-03-01,Administration,Broome,6.5,377.93,SYNTHETIC
+2023-03-01,Support Services,Perth North,25.0,1248.28,SYNTHETIC
+2023-03-01,Support Services,Perth South,38.0,1899.12,SYNTHETIC
+2023-03-01,Support Services,Bunbury,50.1,2504.2,SYNTHETIC
+2023-03-01,Support Services,Geraldton,57.9,2893.9,SYNTHETIC
+2023-03-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-03-01,Support Services,Broome,26.8,1337.16,SYNTHETIC
+2023-04-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-04-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-04-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2023-04-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2023-04-01,Registered Nurse,Kalgoorlie,430.1,35103.64,SYNTHETIC
+2023-04-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-04-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-04-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-04-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-04-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2023-04-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-04-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-04-01,Enrolled Nurse,Perth North,460.5,27610.86,SYNTHETIC
+2023-04-01,Enrolled Nurse,Perth South,348.7,20908.73,SYNTHETIC
+2023-04-01,Enrolled Nurse,Bunbury,158.1,9479.27,SYNTHETIC
+2023-04-01,Enrolled Nurse,Geraldton,63.7,3819.14,SYNTHETIC
+2023-04-01,Enrolled Nurse,Kalgoorlie,179.5,10764.94,SYNTHETIC
+2023-04-01,Enrolled Nurse,Broome,117.8,7061.07,SYNTHETIC
+2023-04-01,Medical Practitioner,Perth North,292.1,52303.97,SYNTHETIC
+2023-04-01,Medical Practitioner,Perth South,95.1,17036.09,SYNTHETIC
+2023-04-01,Medical Practitioner,Bunbury,56.7,10145.92,SYNTHETIC
+2023-04-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2023-04-01,Medical Practitioner,Kalgoorlie,80.8,14474.21,SYNTHETIC
+2023-04-01,Medical Practitioner,Broome,53.2,9525.13,SYNTHETIC
+2023-04-01,Allied Health,Perth North,98.8,7570.19,SYNTHETIC
+2023-04-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-04-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-04-01,Allied Health,Geraldton,44.8,3435.83,SYNTHETIC
+2023-04-01,Allied Health,Kalgoorlie,87.3,6686.56,SYNTHETIC
+2023-04-01,Allied Health,Broome,58.4,4476.78,SYNTHETIC
+2023-04-01,Care Worker,Perth North,212.0,10945.81,SYNTHETIC
+2023-04-01,Care Worker,Perth South,307.4,15871.07,SYNTHETIC
+2023-04-01,Care Worker,Bunbury,0.0,0.0,SYNTHETIC
+2023-04-01,Care Worker,Geraldton,109.3,5642.74,SYNTHETIC
+2023-04-01,Care Worker,Kalgoorlie,87.5,4518.49,SYNTHETIC
+2023-04-01,Care Worker,Broome,225.5,11641.32,SYNTHETIC
+2023-04-01,Administration,Perth North,82.7,4818.07,SYNTHETIC
+2023-04-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2023-04-01,Administration,Bunbury,10.3,601.95,SYNTHETIC
+2023-04-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2023-04-01,Administration,Kalgoorlie,16.3,949.57,SYNTHETIC
+2023-04-01,Administration,Broome,5.8,338.83,SYNTHETIC
+2023-04-01,Support Services,Perth North,76.9,3842.23,SYNTHETIC
+2023-04-01,Support Services,Perth South,41.6,2080.43,SYNTHETIC
+2023-04-01,Support Services,Bunbury,40.4,2016.21,SYNTHETIC
+2023-04-01,Support Services,Geraldton,56.1,2802.02,SYNTHETIC
+2023-04-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-04-01,Support Services,Broome,54.0,2696.23,SYNTHETIC
+2023-05-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-05-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-05-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2023-05-01,Registered Nurse,Geraldton,169.7,13852.45,SYNTHETIC
+2023-05-01,Registered Nurse,Kalgoorlie,438.9,35823.61,SYNTHETIC
+2023-05-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-05-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-05-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-05-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-05-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2023-05-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-05-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-05-01,Enrolled Nurse,Perth North,529.9,31771.76,SYNTHETIC
+2023-05-01,Enrolled Nurse,Perth South,259.6,15562.78,SYNTHETIC
+2023-05-01,Enrolled Nurse,Bunbury,142.3,8533.72,SYNTHETIC
+2023-05-01,Enrolled Nurse,Geraldton,59.5,3569.51,SYNTHETIC
+2023-05-01,Enrolled Nurse,Kalgoorlie,117.5,7046.45,SYNTHETIC
+2023-05-01,Enrolled Nurse,Broome,130.5,7823.18,SYNTHETIC
+2023-05-01,Medical Practitioner,Perth North,238.6,42727.18,SYNTHETIC
+2023-05-01,Medical Practitioner,Perth South,100.9,18073.63,SYNTHETIC
+2023-05-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-05-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2023-05-01,Medical Practitioner,Kalgoorlie,80.9,14484.15,SYNTHETIC
+2023-05-01,Medical Practitioner,Broome,58.5,10468.66,SYNTHETIC
+2023-05-01,Allied Health,Perth North,66.7,5110.26,SYNTHETIC
+2023-05-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-05-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-05-01,Allied Health,Geraldton,52.4,4013.14,SYNTHETIC
+2023-05-01,Allied Health,Kalgoorlie,85.2,6529.07,SYNTHETIC
+2023-05-01,Allied Health,Broome,63.3,4851.59,SYNTHETIC
+2023-05-01,Care Worker,Perth North,122.8,6339.5,SYNTHETIC
+2023-05-01,Care Worker,Perth South,292.8,15118.16,SYNTHETIC
+2023-05-01,Care Worker,Bunbury,83.4,4305.17,SYNTHETIC
+2023-05-01,Care Worker,Geraldton,167.5,8647.76,SYNTHETIC
+2023-05-01,Care Worker,Kalgoorlie,181.3,9363.4,SYNTHETIC
+2023-05-01,Care Worker,Broome,122.2,6310.84,SYNTHETIC
+2023-05-01,Administration,Perth North,89.5,5216.18,SYNTHETIC
+2023-05-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2023-05-01,Administration,Bunbury,10.7,622.63,SYNTHETIC
+2023-05-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2023-05-01,Administration,Kalgoorlie,19.8,1156.13,SYNTHETIC
+2023-05-01,Administration,Broome,7.4,429.28,SYNTHETIC
+2023-05-01,Support Services,Perth North,71.3,3563.96,SYNTHETIC
+2023-05-01,Support Services,Perth South,75.3,3760.41,SYNTHETIC
+2023-05-01,Support Services,Bunbury,51.1,2553.05,SYNTHETIC
+2023-05-01,Support Services,Geraldton,100.3,5012.67,SYNTHETIC
+2023-05-01,Support Services,Kalgoorlie,29.8,1490.49,SYNTHETIC
+2023-05-01,Support Services,Broome,64.3,3214.67,SYNTHETIC
+2023-06-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-06-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-06-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2023-06-01,Registered Nurse,Geraldton,256.1,20900.8,SYNTHETIC
+2023-06-01,Registered Nurse,Kalgoorlie,408.4,33332.34,SYNTHETIC
+2023-06-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-06-01,Midwife,Perth North,19.1,1607.48,SYNTHETIC
+2023-06-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-06-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-06-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2023-06-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-06-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-06-01,Enrolled Nurse,Perth North,426.6,25576.83,SYNTHETIC
+2023-06-01,Enrolled Nurse,Perth South,265.2,15898.86,SYNTHETIC
+2023-06-01,Enrolled Nurse,Bunbury,145.4,8717.95,SYNTHETIC
+2023-06-01,Enrolled Nurse,Geraldton,57.7,3461.21,SYNTHETIC
+2023-06-01,Enrolled Nurse,Kalgoorlie,41.3,2477.31,SYNTHETIC
+2023-06-01,Enrolled Nurse,Broome,96.7,5796.62,SYNTHETIC
+2023-06-01,Medical Practitioner,Perth North,274.6,49173.63,SYNTHETIC
+2023-06-01,Medical Practitioner,Perth South,79.2,14172.51,SYNTHETIC
+2023-06-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-06-01,Medical Practitioner,Geraldton,0.0,0.0,SYNTHETIC
+2023-06-01,Medical Practitioner,Kalgoorlie,70.7,12655.26,SYNTHETIC
+2023-06-01,Medical Practitioner,Broome,49.2,8815.05,SYNTHETIC
+2023-06-01,Allied Health,Perth North,120.9,9259.9,SYNTHETIC
+2023-06-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-06-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-06-01,Allied Health,Geraldton,52.2,3996.88,SYNTHETIC
+2023-06-01,Allied Health,Kalgoorlie,49.8,3816.47,SYNTHETIC
+2023-06-01,Allied Health,Broome,79.2,6068.42,SYNTHETIC
+2023-06-01,Care Worker,Perth North,83.5,4313.35,SYNTHETIC
+2023-06-01,Care Worker,Perth South,345.0,17812.5,SYNTHETIC
+2023-06-01,Care Worker,Bunbury,0.0,0.0,SYNTHETIC
+2023-06-01,Care Worker,Geraldton,216.8,11196.12,SYNTHETIC
+2023-06-01,Care Worker,Kalgoorlie,207.4,10706.17,SYNTHETIC
+2023-06-01,Care Worker,Broome,208.6,10771.62,SYNTHETIC
+2023-06-01,Administration,Perth North,95.6,5570.21,SYNTHETIC
+2023-06-01,Administration,Perth South,5.8,339.07,SYNTHETIC
+2023-06-01,Administration,Bunbury,32.1,1869.71,SYNTHETIC
+2023-06-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2023-06-01,Administration,Kalgoorlie,5.4,316.61,SYNTHETIC
+2023-06-01,Administration,Broome,25.4,1478.55,SYNTHETIC
+2023-06-01,Support Services,Perth North,75.5,3772.03,SYNTHETIC
+2023-06-01,Support Services,Perth South,83.9,4192.87,SYNTHETIC
+2023-06-01,Support Services,Bunbury,83.0,4149.09,SYNTHETIC
+2023-06-01,Support Services,Geraldton,81.4,4066.12,SYNTHETIC
+2023-06-01,Support Services,Kalgoorlie,30.2,1510.45,SYNTHETIC
+2023-06-01,Support Services,Broome,66.0,3295.78,SYNTHETIC
+2023-07-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-07-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-07-01,Registered Nurse,Bunbury,189.3,15451.17,SYNTHETIC
+2023-07-01,Registered Nurse,Geraldton,343.7,28053.61,SYNTHETIC
+2023-07-01,Registered Nurse,Kalgoorlie,501.1,40892.42,SYNTHETIC
+2023-07-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-07-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-07-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-07-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-07-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2023-07-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-07-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-07-01,Enrolled Nurse,Perth North,588.1,35263.83,SYNTHETIC
+2023-07-01,Enrolled Nurse,Perth South,323.6,19404.72,SYNTHETIC
+2023-07-01,Enrolled Nurse,Bunbury,186.3,11173.32,SYNTHETIC
+2023-07-01,Enrolled Nurse,Geraldton,15.9,956.26,SYNTHETIC
+2023-07-01,Enrolled Nurse,Kalgoorlie,60.8,3644.58,SYNTHETIC
+2023-07-01,Enrolled Nurse,Broome,145.3,8711.45,SYNTHETIC
+2023-07-01,Medical Practitioner,Perth North,383.3,68634.77,SYNTHETIC
+2023-07-01,Medical Practitioner,Perth South,180.5,32322.31,SYNTHETIC
+2023-07-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-07-01,Medical Practitioner,Geraldton,35.1,6282.6,SYNTHETIC
+2023-07-01,Medical Practitioner,Kalgoorlie,95.0,17009.56,SYNTHETIC
+2023-07-01,Medical Practitioner,Broome,87.3,15621.93,SYNTHETIC
+2023-07-01,Allied Health,Perth North,88.5,6777.31,SYNTHETIC
+2023-07-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-07-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-07-01,Allied Health,Geraldton,77.3,5924.23,SYNTHETIC
+2023-07-01,Allied Health,Kalgoorlie,67.1,5143.94,SYNTHETIC
+2023-07-01,Allied Health,Broome,58.7,4494.81,SYNTHETIC
+2023-07-01,Care Worker,Perth North,353.7,18260.01,SYNTHETIC
+2023-07-01,Care Worker,Perth South,596.5,30797.61,SYNTHETIC
+2023-07-01,Care Worker,Bunbury,113.5,5860.78,SYNTHETIC
+2023-07-01,Care Worker,Geraldton,185.5,9579.47,SYNTHETIC
+2023-07-01,Care Worker,Kalgoorlie,268.5,13863.28,SYNTHETIC
+2023-07-01,Care Worker,Broome,148.3,7657.6,SYNTHETIC
+2023-07-01,Administration,Perth North,43.7,2547.12,SYNTHETIC
+2023-07-01,Administration,Perth South,12.4,722.5,SYNTHETIC
+2023-07-01,Administration,Bunbury,51.2,2984.03,SYNTHETIC
+2023-07-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2023-07-01,Administration,Kalgoorlie,5.0,290.47,SYNTHETIC
+2023-07-01,Administration,Broome,28.2,1641.6,SYNTHETIC
+2023-07-01,Support Services,Perth North,82.6,4125.86,SYNTHETIC
+2023-07-01,Support Services,Perth South,115.1,5752.96,SYNTHETIC
+2023-07-01,Support Services,Bunbury,61.8,3087.48,SYNTHETIC
+2023-07-01,Support Services,Geraldton,87.3,4361.92,SYNTHETIC
+2023-07-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-07-01,Support Services,Broome,59.9,2990.94,SYNTHETIC
+2023-08-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-08-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-08-01,Registered Nurse,Bunbury,8.4,688.26,SYNTHETIC
+2023-08-01,Registered Nurse,Geraldton,305.9,24962.5,SYNTHETIC
+2023-08-01,Registered Nurse,Kalgoorlie,355.0,28968.84,SYNTHETIC
+2023-08-01,Registered Nurse,Broome,92.5,7552.78,SYNTHETIC
+2023-08-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-08-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-08-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-08-01,Midwife,Geraldton,37.8,3182.2,SYNTHETIC
+2023-08-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-08-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-08-01,Enrolled Nurse,Perth North,478.7,28703.95,SYNTHETIC
+2023-08-01,Enrolled Nurse,Perth South,481.0,28842.26,SYNTHETIC
+2023-08-01,Enrolled Nurse,Bunbury,136.6,8187.91,SYNTHETIC
+2023-08-01,Enrolled Nurse,Geraldton,20.5,1227.37,SYNTHETIC
+2023-08-01,Enrolled Nurse,Kalgoorlie,164.6,9869.34,SYNTHETIC
+2023-08-01,Enrolled Nurse,Broome,130.8,7841.54,SYNTHETIC
+2023-08-01,Medical Practitioner,Perth North,398.1,71274.79,SYNTHETIC
+2023-08-01,Medical Practitioner,Perth South,197.9,35432.31,SYNTHETIC
+2023-08-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-08-01,Medical Practitioner,Geraldton,31.4,5617.76,SYNTHETIC
+2023-08-01,Medical Practitioner,Kalgoorlie,102.4,18332.66,SYNTHETIC
+2023-08-01,Medical Practitioner,Broome,84.9,15200.13,SYNTHETIC
+2023-08-01,Allied Health,Perth North,178.5,13675.23,SYNTHETIC
+2023-08-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-08-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-08-01,Allied Health,Geraldton,81.6,6251.67,SYNTHETIC
+2023-08-01,Allied Health,Kalgoorlie,72.0,5517.09,SYNTHETIC
+2023-08-01,Allied Health,Broome,66.4,5088.67,SYNTHETIC
+2023-08-01,Care Worker,Perth North,101.8,5257.3,SYNTHETIC
+2023-08-01,Care Worker,Perth South,133.7,6902.4,SYNTHETIC
+2023-08-01,Care Worker,Bunbury,160.8,8302.78,SYNTHETIC
+2023-08-01,Care Worker,Geraldton,61.9,3198.26,SYNTHETIC
+2023-08-01,Care Worker,Kalgoorlie,119.1,6149.97,SYNTHETIC
+2023-08-01,Care Worker,Broome,116.9,6035.17,SYNTHETIC
+2023-08-01,Administration,Perth North,75.3,4389.06,SYNTHETIC
+2023-08-01,Administration,Perth South,0.0,0.0,SYNTHETIC
+2023-08-01,Administration,Bunbury,28.3,1651.56,SYNTHETIC
+2023-08-01,Administration,Geraldton,0.0,0.0,SYNTHETIC
+2023-08-01,Administration,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-08-01,Administration,Broome,30.2,1759.12,SYNTHETIC
+2023-08-01,Support Services,Perth North,42.7,2131.6,SYNTHETIC
+2023-08-01,Support Services,Perth South,126.9,6339.23,SYNTHETIC
+2023-08-01,Support Services,Bunbury,66.7,3330.96,SYNTHETIC
+2023-08-01,Support Services,Geraldton,67.7,3380.68,SYNTHETIC
+2023-08-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-08-01,Support Services,Broome,11.8,591.02,SYNTHETIC
+2023-09-01,Registered Nurse,Perth North,54.0,4404.28,SYNTHETIC
+2023-09-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-09-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2023-09-01,Registered Nurse,Geraldton,491.8,40136.63,SYNTHETIC
+2023-09-01,Registered Nurse,Kalgoorlie,273.6,22325.81,SYNTHETIC
+2023-09-01,Registered Nurse,Broome,60.0,4895.08,SYNTHETIC
+2023-09-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-09-01,Midwife,Perth South,40.4,3398.01,SYNTHETIC
+2023-09-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2023-09-01,Midwife,Geraldton,36.6,3080.68,SYNTHETIC
+2023-09-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-09-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-09-01,Enrolled Nurse,Perth North,654.0,39212.58,SYNTHETIC
+2023-09-01,Enrolled Nurse,Perth South,351.5,21075.16,SYNTHETIC
+2023-09-01,Enrolled Nurse,Bunbury,207.0,12411.77,SYNTHETIC
+2023-09-01,Enrolled Nurse,Geraldton,21.7,1303.19,SYNTHETIC
+2023-09-01,Enrolled Nurse,Kalgoorlie,138.2,8285.27,SYNTHETIC
+2023-09-01,Enrolled Nurse,Broome,209.5,12559.49,SYNTHETIC
+2023-09-01,Medical Practitioner,Perth North,466.5,83523.91,SYNTHETIC
+2023-09-01,Medical Practitioner,Perth South,55.4,9914.13,SYNTHETIC
+2023-09-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-09-01,Medical Practitioner,Geraldton,23.8,4255.82,SYNTHETIC
+2023-09-01,Medical Practitioner,Kalgoorlie,115.6,20706.63,SYNTHETIC
+2023-09-01,Medical Practitioner,Broome,89.6,16044.48,SYNTHETIC
+2023-09-01,Allied Health,Perth North,109.8,8411.47,SYNTHETIC
+2023-09-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-09-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-09-01,Allied Health,Geraldton,49.1,3764.53,SYNTHETIC
+2023-09-01,Allied Health,Kalgoorlie,72.8,5576.99,SYNTHETIC
+2023-09-01,Allied Health,Broome,63.9,4891.95,SYNTHETIC
+2023-09-01,Care Worker,Perth North,53.9,2785.3,SYNTHETIC
+2023-09-01,Care Worker,Perth South,49.2,2541.65,SYNTHETIC
+2023-09-01,Care Worker,Bunbury,363.3,18759.18,SYNTHETIC
+2023-09-01,Care Worker,Geraldton,0.0,0.0,SYNTHETIC
+2023-09-01,Care Worker,Kalgoorlie,155.3,8019.3,SYNTHETIC
+2023-09-01,Care Worker,Broome,81.8,4222.9,SYNTHETIC
+2023-09-01,Administration,Perth North,82.1,4784.45,SYNTHETIC
+2023-09-01,Administration,Perth South,12.0,697.94,SYNTHETIC
+2023-09-01,Administration,Bunbury,16.0,932.46,SYNTHETIC
+2023-09-01,Administration,Geraldton,19.4,1128.36,SYNTHETIC
+2023-09-01,Administration,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-09-01,Administration,Broome,30.3,1763.46,SYNTHETIC
+2023-09-01,Support Services,Perth North,55.6,2778.19,SYNTHETIC
+2023-09-01,Support Services,Perth South,82.7,4130.69,SYNTHETIC
+2023-09-01,Support Services,Bunbury,62.8,3136.03,SYNTHETIC
+2023-09-01,Support Services,Geraldton,86.4,4315.06,SYNTHETIC
+2023-09-01,Support Services,Kalgoorlie,14.2,707.72,SYNTHETIC
+2023-09-01,Support Services,Broome,11.1,556.65,SYNTHETIC
+2023-10-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-10-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-10-01,Registered Nurse,Bunbury,111.2,9072.48,SYNTHETIC
+2023-10-01,Registered Nurse,Geraldton,352.8,28794.04,SYNTHETIC
+2023-10-01,Registered Nurse,Kalgoorlie,287.6,23475.62,SYNTHETIC
+2023-10-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-10-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-10-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-10-01,Midwife,Bunbury,20.8,1753.45,SYNTHETIC
+2023-10-01,Midwife,Geraldton,36.6,3078.48,SYNTHETIC
+2023-10-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-10-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-10-01,Enrolled Nurse,Perth North,517.4,31020.94,SYNTHETIC
+2023-10-01,Enrolled Nurse,Perth South,385.1,23090.99,SYNTHETIC
+2023-10-01,Enrolled Nurse,Bunbury,254.6,15265.21,SYNTHETIC
+2023-10-01,Enrolled Nurse,Geraldton,20.2,1211.15,SYNTHETIC
+2023-10-01,Enrolled Nurse,Kalgoorlie,122.5,7348.01,SYNTHETIC
+2023-10-01,Enrolled Nurse,Broome,187.7,11255.84,SYNTHETIC
+2023-10-01,Medical Practitioner,Perth North,405.4,72581.15,SYNTHETIC
+2023-10-01,Medical Practitioner,Perth South,76.8,13755.14,SYNTHETIC
+2023-10-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-10-01,Medical Practitioner,Geraldton,25.0,4473.05,SYNTHETIC
+2023-10-01,Medical Practitioner,Kalgoorlie,109.1,19532.57,SYNTHETIC
+2023-10-01,Medical Practitioner,Broome,86.3,15443.82,SYNTHETIC
+2023-10-01,Allied Health,Perth North,118.9,9111.01,SYNTHETIC
+2023-10-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-10-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-10-01,Allied Health,Geraldton,42.9,3289.14,SYNTHETIC
+2023-10-01,Allied Health,Kalgoorlie,76.9,5889.03,SYNTHETIC
+2023-10-01,Allied Health,Broome,97.0,7428.88,SYNTHETIC
+2023-10-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2023-10-01,Care Worker,Perth South,156.9,8099.07,SYNTHETIC
+2023-10-01,Care Worker,Bunbury,307.1,15856.78,SYNTHETIC
+2023-10-01,Care Worker,Geraldton,99.6,5144.97,SYNTHETIC
+2023-10-01,Care Worker,Kalgoorlie,151.3,7811.68,SYNTHETIC
+2023-10-01,Care Worker,Broome,189.9,9803.51,SYNTHETIC
+2023-10-01,Administration,Perth North,51.7,3011.0,SYNTHETIC
+2023-10-01,Administration,Perth South,30.5,1779.52,SYNTHETIC
+2023-10-01,Administration,Bunbury,20.3,1184.8,SYNTHETIC
+2023-10-01,Administration,Geraldton,14.1,821.94,SYNTHETIC
+2023-10-01,Administration,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-10-01,Administration,Broome,26.8,1562.21,SYNTHETIC
+2023-10-01,Support Services,Perth North,17.2,859.0,SYNTHETIC
+2023-10-01,Support Services,Perth South,85.9,4291.47,SYNTHETIC
+2023-10-01,Support Services,Bunbury,66.9,3342.23,SYNTHETIC
+2023-10-01,Support Services,Geraldton,86.1,4299.94,SYNTHETIC
+2023-10-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-10-01,Support Services,Broome,24.2,1209.75,SYNTHETIC
+2023-11-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-11-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-11-01,Registered Nurse,Bunbury,17.3,1410.52,SYNTHETIC
+2023-11-01,Registered Nurse,Geraldton,421.5,34403.04,SYNTHETIC
+2023-11-01,Registered Nurse,Kalgoorlie,302.9,24720.2,SYNTHETIC
+2023-11-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-11-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-11-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-11-01,Midwife,Bunbury,16.6,1397.59,SYNTHETIC
+2023-11-01,Midwife,Geraldton,113.4,9539.77,SYNTHETIC
+2023-11-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-11-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-11-01,Enrolled Nurse,Perth North,670.9,40225.0,SYNTHETIC
+2023-11-01,Enrolled Nurse,Perth South,347.9,20861.43,SYNTHETIC
+2023-11-01,Enrolled Nurse,Bunbury,216.1,12958.73,SYNTHETIC
+2023-11-01,Enrolled Nurse,Geraldton,18.8,1124.34,SYNTHETIC
+2023-11-01,Enrolled Nurse,Kalgoorlie,90.8,5442.58,SYNTHETIC
+2023-11-01,Enrolled Nurse,Broome,176.0,10553.37,SYNTHETIC
+2023-11-01,Medical Practitioner,Perth North,397.5,71175.1,SYNTHETIC
+2023-11-01,Medical Practitioner,Perth South,62.8,11246.2,SYNTHETIC
+2023-11-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2023-11-01,Medical Practitioner,Geraldton,28.5,5104.31,SYNTHETIC
+2023-11-01,Medical Practitioner,Kalgoorlie,103.6,18557.36,SYNTHETIC
+2023-11-01,Medical Practitioner,Broome,98.8,17686.59,SYNTHETIC
+2023-11-01,Allied Health,Perth North,141.1,10809.43,SYNTHETIC
+2023-11-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-11-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-11-01,Allied Health,Geraldton,57.7,4417.65,SYNTHETIC
+2023-11-01,Allied Health,Kalgoorlie,87.4,6696.33,SYNTHETIC
+2023-11-01,Allied Health,Broome,116.6,8929.78,SYNTHETIC
+2023-11-01,Care Worker,Perth North,136.1,7024.99,SYNTHETIC
+2023-11-01,Care Worker,Perth South,319.7,16508.26,SYNTHETIC
+2023-11-01,Care Worker,Bunbury,246.4,12723.33,SYNTHETIC
+2023-11-01,Care Worker,Geraldton,62.5,3225.25,SYNTHETIC
+2023-11-01,Care Worker,Kalgoorlie,169.3,8742.2,SYNTHETIC
+2023-11-01,Care Worker,Broome,131.4,6782.85,SYNTHETIC
+2023-11-01,Administration,Perth North,41.2,2403.51,SYNTHETIC
+2023-11-01,Administration,Perth South,34.9,2034.97,SYNTHETIC
+2023-11-01,Administration,Bunbury,21.1,1229.25,SYNTHETIC
+2023-11-01,Administration,Geraldton,17.3,1006.85,SYNTHETIC
+2023-11-01,Administration,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-11-01,Administration,Broome,18.8,1098.53,SYNTHETIC
+2023-11-01,Support Services,Perth North,17.6,881.06,SYNTHETIC
+2023-11-01,Support Services,Perth South,120.1,6001.33,SYNTHETIC
+2023-11-01,Support Services,Bunbury,64.7,3232.18,SYNTHETIC
+2023-11-01,Support Services,Geraldton,73.6,3675.82,SYNTHETIC
+2023-11-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-11-01,Support Services,Broome,48.5,2424.45,SYNTHETIC
+2023-12-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2023-12-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2023-12-01,Registered Nurse,Bunbury,36.7,2996.32,SYNTHETIC
+2023-12-01,Registered Nurse,Geraldton,345.3,28179.38,SYNTHETIC
+2023-12-01,Registered Nurse,Kalgoorlie,221.8,18102.24,SYNTHETIC
+2023-12-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2023-12-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2023-12-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2023-12-01,Midwife,Bunbury,15.4,1299.46,SYNTHETIC
+2023-12-01,Midwife,Geraldton,120.6,10146.66,SYNTHETIC
+2023-12-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-12-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2023-12-01,Enrolled Nurse,Perth North,633.1,37960.58,SYNTHETIC
+2023-12-01,Enrolled Nurse,Perth South,283.9,17020.47,SYNTHETIC
+2023-12-01,Enrolled Nurse,Bunbury,172.7,10353.78,SYNTHETIC
+2023-12-01,Enrolled Nurse,Geraldton,19.2,1148.25,SYNTHETIC
+2023-12-01,Enrolled Nurse,Kalgoorlie,125.0,7497.04,SYNTHETIC
+2023-12-01,Enrolled Nurse,Broome,226.5,13578.2,SYNTHETIC
+2023-12-01,Medical Practitioner,Perth North,332.7,59567.58,SYNTHETIC
+2023-12-01,Medical Practitioner,Perth South,56.6,10138.74,SYNTHETIC
+2023-12-01,Medical Practitioner,Bunbury,17.4,3106.5,SYNTHETIC
+2023-12-01,Medical Practitioner,Geraldton,33.3,5964.38,SYNTHETIC
+2023-12-01,Medical Practitioner,Kalgoorlie,90.1,16123.27,SYNTHETIC
+2023-12-01,Medical Practitioner,Broome,87.6,15687.49,SYNTHETIC
+2023-12-01,Allied Health,Perth North,88.4,6774.86,SYNTHETIC
+2023-12-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2023-12-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2023-12-01,Allied Health,Geraldton,53.5,4098.92,SYNTHETIC
+2023-12-01,Allied Health,Kalgoorlie,86.3,6610.61,SYNTHETIC
+2023-12-01,Allied Health,Broome,93.1,7136.52,SYNTHETIC
+2023-12-01,Care Worker,Perth North,8.5,438.97,SYNTHETIC
+2023-12-01,Care Worker,Perth South,221.0,11411.98,SYNTHETIC
+2023-12-01,Care Worker,Bunbury,228.3,11789.88,SYNTHETIC
+2023-12-01,Care Worker,Geraldton,65.2,3366.39,SYNTHETIC
+2023-12-01,Care Worker,Kalgoorlie,320.1,16529.62,SYNTHETIC
+2023-12-01,Care Worker,Broome,141.0,7279.69,SYNTHETIC
+2023-12-01,Administration,Perth North,43.0,2505.23,SYNTHETIC
+2023-12-01,Administration,Perth South,41.1,2398.38,SYNTHETIC
+2023-12-01,Administration,Bunbury,18.6,1083.63,SYNTHETIC
+2023-12-01,Administration,Geraldton,17.7,1032.34,SYNTHETIC
+2023-12-01,Administration,Kalgoorlie,8.9,516.47,SYNTHETIC
+2023-12-01,Administration,Broome,18.8,1097.12,SYNTHETIC
+2023-12-01,Support Services,Perth North,56.0,2799.52,SYNTHETIC
+2023-12-01,Support Services,Perth South,156.3,7811.51,SYNTHETIC
+2023-12-01,Support Services,Bunbury,28.7,1432.79,SYNTHETIC
+2023-12-01,Support Services,Geraldton,97.2,4854.27,SYNTHETIC
+2023-12-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2023-12-01,Support Services,Broome,50.8,2536.0,SYNTHETIC
+2024-01-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2024-01-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-01-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2024-01-01,Registered Nurse,Geraldton,444.7,36289.34,SYNTHETIC
+2024-01-01,Registered Nurse,Kalgoorlie,289.1,23595.04,SYNTHETIC
+2024-01-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-01-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-01-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2024-01-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-01-01,Midwife,Geraldton,128.4,10801.61,SYNTHETIC
+2024-01-01,Midwife,Kalgoorlie,42.0,3533.51,SYNTHETIC
+2024-01-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2024-01-01,Enrolled Nurse,Perth North,596.8,35783.79,SYNTHETIC
+2024-01-01,Enrolled Nurse,Perth South,349.8,20975.82,SYNTHETIC
+2024-01-01,Enrolled Nurse,Bunbury,147.3,8834.72,SYNTHETIC
+2024-01-01,Enrolled Nurse,Geraldton,73.9,4430.49,SYNTHETIC
+2024-01-01,Enrolled Nurse,Kalgoorlie,206.5,12379.02,SYNTHETIC
+2024-01-01,Enrolled Nurse,Broome,126.0,7555.8,SYNTHETIC
+2024-01-01,Medical Practitioner,Perth North,210.2,37633.01,SYNTHETIC
+2024-01-01,Medical Practitioner,Perth South,70.3,12584.71,SYNTHETIC
+2024-01-01,Medical Practitioner,Bunbury,20.8,3724.56,SYNTHETIC
+2024-01-01,Medical Practitioner,Geraldton,33.3,5966.87,SYNTHETIC
+2024-01-01,Medical Practitioner,Kalgoorlie,236.2,42289.86,SYNTHETIC
+2024-01-01,Medical Practitioner,Broome,94.4,16901.43,SYNTHETIC
+2024-01-01,Allied Health,Perth North,96.0,7356.04,SYNTHETIC
+2024-01-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2024-01-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-01-01,Allied Health,Geraldton,103.5,7927.38,SYNTHETIC
+2024-01-01,Allied Health,Kalgoorlie,70.1,5369.3,SYNTHETIC
+2024-01-01,Allied Health,Broome,93.0,7128.76,SYNTHETIC
+2024-01-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2024-01-01,Care Worker,Perth South,531.4,27437.49,SYNTHETIC
+2024-01-01,Care Worker,Bunbury,226.0,11670.83,SYNTHETIC
+2024-01-01,Care Worker,Geraldton,148.0,7639.13,SYNTHETIC
+2024-01-01,Care Worker,Kalgoorlie,301.1,15544.36,SYNTHETIC
+2024-01-01,Care Worker,Broome,136.5,7047.19,SYNTHETIC
+2024-01-01,Administration,Perth North,36.3,2117.44,SYNTHETIC
+2024-01-01,Administration,Perth South,35.5,2070.25,SYNTHETIC
+2024-01-01,Administration,Bunbury,16.6,970.01,SYNTHETIC
+2024-01-01,Administration,Geraldton,5.0,289.54,SYNTHETIC
+2024-01-01,Administration,Kalgoorlie,1.9,108.03,SYNTHETIC
+2024-01-01,Administration,Broome,20.1,1169.81,SYNTHETIC
+2024-01-01,Support Services,Perth North,30.8,1537.79,SYNTHETIC
+2024-01-01,Support Services,Perth South,159.1,7948.28,SYNTHETIC
+2024-01-01,Support Services,Bunbury,21.0,1050.39,SYNTHETIC
+2024-01-01,Support Services,Geraldton,68.2,3405.73,SYNTHETIC
+2024-01-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-01-01,Support Services,Broome,38.0,1900.0,SYNTHETIC
+2024-02-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2024-02-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-02-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2024-02-01,Registered Nurse,Geraldton,112.0,9141.28,SYNTHETIC
+2024-02-01,Registered Nurse,Kalgoorlie,405.6,33099.5,SYNTHETIC
+2024-02-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-02-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-02-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2024-02-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-02-01,Midwife,Geraldton,28.7,2415.49,SYNTHETIC
+2024-02-01,Midwife,Kalgoorlie,162.8,13691.71,SYNTHETIC
+2024-02-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2024-02-01,Enrolled Nurse,Perth North,397.1,23809.11,SYNTHETIC
+2024-02-01,Enrolled Nurse,Perth South,377.7,22647.1,SYNTHETIC
+2024-02-01,Enrolled Nurse,Bunbury,172.0,10315.94,SYNTHETIC
+2024-02-01,Enrolled Nurse,Geraldton,75.6,4532.57,SYNTHETIC
+2024-02-01,Enrolled Nurse,Kalgoorlie,162.3,9734.13,SYNTHETIC
+2024-02-01,Enrolled Nurse,Broome,115.9,6949.13,SYNTHETIC
+2024-02-01,Medical Practitioner,Perth North,162.5,29093.42,SYNTHETIC
+2024-02-01,Medical Practitioner,Perth South,148.0,26492.39,SYNTHETIC
+2024-02-01,Medical Practitioner,Bunbury,23.4,4186.28,SYNTHETIC
+2024-02-01,Medical Practitioner,Geraldton,33.7,6041.99,SYNTHETIC
+2024-02-01,Medical Practitioner,Kalgoorlie,195.9,35070.37,SYNTHETIC
+2024-02-01,Medical Practitioner,Broome,76.3,13652.49,SYNTHETIC
+2024-02-01,Allied Health,Perth North,65.5,5017.01,SYNTHETIC
+2024-02-01,Allied Health,Perth South,39.2,2999.75,SYNTHETIC
+2024-02-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-02-01,Allied Health,Geraldton,91.1,6981.17,SYNTHETIC
+2024-02-01,Allied Health,Kalgoorlie,63.6,4872.4,SYNTHETIC
+2024-02-01,Allied Health,Broome,56.2,4305.59,SYNTHETIC
+2024-02-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2024-02-01,Care Worker,Perth South,448.6,23163.13,SYNTHETIC
+2024-02-01,Care Worker,Bunbury,266.4,13756.43,SYNTHETIC
+2024-02-01,Care Worker,Geraldton,123.9,6394.67,SYNTHETIC
+2024-02-01,Care Worker,Kalgoorlie,213.3,11013.81,SYNTHETIC
+2024-02-01,Care Worker,Broome,163.3,8431.18,SYNTHETIC
+2024-02-01,Administration,Perth North,57.9,3372.67,SYNTHETIC
+2024-02-01,Administration,Perth South,38.0,2214.5,SYNTHETIC
+2024-02-01,Administration,Bunbury,16.5,962.85,SYNTHETIC
+2024-02-01,Administration,Geraldton,21.9,1275.41,SYNTHETIC
+2024-02-01,Administration,Kalgoorlie,12.6,732.24,SYNTHETIC
+2024-02-01,Administration,Broome,42.6,2483.93,SYNTHETIC
+2024-02-01,Support Services,Perth North,50.9,2541.33,SYNTHETIC
+2024-02-01,Support Services,Perth South,125.9,6291.15,SYNTHETIC
+2024-02-01,Support Services,Bunbury,72.7,3634.08,SYNTHETIC
+2024-02-01,Support Services,Geraldton,70.7,3531.17,SYNTHETIC
+2024-02-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-02-01,Support Services,Broome,39.9,1994.49,SYNTHETIC
+2024-03-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2024-03-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-03-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2024-03-01,Registered Nurse,Geraldton,94.3,7693.1,SYNTHETIC
+2024-03-01,Registered Nurse,Kalgoorlie,366.5,29907.5,SYNTHETIC
+2024-03-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-03-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-03-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2024-03-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-03-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-03-01,Midwife,Kalgoorlie,154.4,12983.78,SYNTHETIC
+2024-03-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2024-03-01,Enrolled Nurse,Perth North,552.9,33154.06,SYNTHETIC
+2024-03-01,Enrolled Nurse,Perth South,360.8,21633.87,SYNTHETIC
+2024-03-01,Enrolled Nurse,Bunbury,69.3,4155.39,SYNTHETIC
+2024-03-01,Enrolled Nurse,Geraldton,22.8,1368.99,SYNTHETIC
+2024-03-01,Enrolled Nurse,Kalgoorlie,126.5,7583.56,SYNTHETIC
+2024-03-01,Enrolled Nurse,Broome,39.7,2380.33,SYNTHETIC
+2024-03-01,Medical Practitioner,Perth North,207.0,37064.16,SYNTHETIC
+2024-03-01,Medical Practitioner,Perth South,59.7,10690.52,SYNTHETIC
+2024-03-01,Medical Practitioner,Bunbury,16.5,2948.49,SYNTHETIC
+2024-03-01,Medical Practitioner,Geraldton,28.4,5088.39,SYNTHETIC
+2024-03-01,Medical Practitioner,Kalgoorlie,228.5,40915.68,SYNTHETIC
+2024-03-01,Medical Practitioner,Broome,87.6,15692.31,SYNTHETIC
+2024-03-01,Allied Health,Perth North,76.9,5890.64,SYNTHETIC
+2024-03-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2024-03-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-03-01,Allied Health,Geraldton,93.5,7160.86,SYNTHETIC
+2024-03-01,Allied Health,Kalgoorlie,43.2,3309.5,SYNTHETIC
+2024-03-01,Allied Health,Broome,56.9,4360.47,SYNTHETIC
+2024-03-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2024-03-01,Care Worker,Perth South,364.7,18829.69,SYNTHETIC
+2024-03-01,Care Worker,Bunbury,256.3,13234.9,SYNTHETIC
+2024-03-01,Care Worker,Geraldton,137.8,7116.0,SYNTHETIC
+2024-03-01,Care Worker,Kalgoorlie,252.2,13023.43,SYNTHETIC
+2024-03-01,Care Worker,Broome,181.8,9387.56,SYNTHETIC
+2024-03-01,Administration,Perth North,65.1,3792.66,SYNTHETIC
+2024-03-01,Administration,Perth South,38.3,2233.57,SYNTHETIC
+2024-03-01,Administration,Bunbury,33.1,1930.46,SYNTHETIC
+2024-03-01,Administration,Geraldton,20.3,1182.97,SYNTHETIC
+2024-03-01,Administration,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-03-01,Administration,Broome,42.2,2457.7,SYNTHETIC
+2024-03-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2024-03-01,Support Services,Perth South,100.8,5035.96,SYNTHETIC
+2024-03-01,Support Services,Bunbury,24.0,1201.19,SYNTHETIC
+2024-03-01,Support Services,Geraldton,120.0,5993.55,SYNTHETIC
+2024-03-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-03-01,Support Services,Broome,55.4,2766.77,SYNTHETIC
+2024-04-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2024-04-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-04-01,Registered Nurse,Bunbury,123.4,10070.81,SYNTHETIC
+2024-04-01,Registered Nurse,Geraldton,99.0,8077.06,SYNTHETIC
+2024-04-01,Registered Nurse,Kalgoorlie,476.1,38855.55,SYNTHETIC
+2024-04-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-04-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-04-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2024-04-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-04-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-04-01,Midwife,Kalgoorlie,110.1,9260.61,SYNTHETIC
+2024-04-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2024-04-01,Enrolled Nurse,Perth North,497.2,29814.06,SYNTHETIC
+2024-04-01,Enrolled Nurse,Perth South,266.0,15949.98,SYNTHETIC
+2024-04-01,Enrolled Nurse,Bunbury,77.0,4615.5,SYNTHETIC
+2024-04-01,Enrolled Nurse,Geraldton,83.1,4981.09,SYNTHETIC
+2024-04-01,Enrolled Nurse,Kalgoorlie,175.8,10538.4,SYNTHETIC
+2024-04-01,Enrolled Nurse,Broome,52.5,3145.39,SYNTHETIC
+2024-04-01,Medical Practitioner,Perth North,157.1,28120.33,SYNTHETIC
+2024-04-01,Medical Practitioner,Perth South,64.5,11555.96,SYNTHETIC
+2024-04-01,Medical Practitioner,Bunbury,20.1,3597.6,SYNTHETIC
+2024-04-01,Medical Practitioner,Geraldton,29.6,5307.59,SYNTHETIC
+2024-04-01,Medical Practitioner,Kalgoorlie,228.5,40914.29,SYNTHETIC
+2024-04-01,Medical Practitioner,Broome,153.6,27503.87,SYNTHETIC
+2024-04-01,Allied Health,Perth North,52.5,4023.43,SYNTHETIC
+2024-04-01,Allied Health,Perth South,5.9,449.59,SYNTHETIC
+2024-04-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-04-01,Allied Health,Geraldton,48.2,3696.04,SYNTHETIC
+2024-04-01,Allied Health,Kalgoorlie,50.5,3872.01,SYNTHETIC
+2024-04-01,Allied Health,Broome,71.1,5447.28,SYNTHETIC
+2024-04-01,Care Worker,Perth North,31.1,1607.01,SYNTHETIC
+2024-04-01,Care Worker,Perth South,471.2,24326.68,SYNTHETIC
+2024-04-01,Care Worker,Bunbury,304.3,15712.7,SYNTHETIC
+2024-04-01,Care Worker,Geraldton,174.3,8998.02,SYNTHETIC
+2024-04-01,Care Worker,Kalgoorlie,319.8,16513.81,SYNTHETIC
+2024-04-01,Care Worker,Broome,179.6,9273.89,SYNTHETIC
+2024-04-01,Administration,Perth North,57.8,3369.59,SYNTHETIC
+2024-04-01,Administration,Perth South,40.9,2383.37,SYNTHETIC
+2024-04-01,Administration,Bunbury,38.3,2233.44,SYNTHETIC
+2024-04-01,Administration,Geraldton,37.1,2165.56,SYNTHETIC
+2024-04-01,Administration,Kalgoorlie,7.6,443.76,SYNTHETIC
+2024-04-01,Administration,Broome,3.1,178.42,SYNTHETIC
+2024-04-01,Support Services,Perth North,20.5,1026.4,SYNTHETIC
+2024-04-01,Support Services,Perth South,141.6,7075.53,SYNTHETIC
+2024-04-01,Support Services,Bunbury,24.8,1238.58,SYNTHETIC
+2024-04-01,Support Services,Geraldton,81.9,4091.19,SYNTHETIC
+2024-04-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-04-01,Support Services,Broome,66.0,3296.56,SYNTHETIC
+2024-05-01,Registered Nurse,Perth North,164.1,13389.14,SYNTHETIC
+2024-05-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-05-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2024-05-01,Registered Nurse,Geraldton,204.4,16684.29,SYNTHETIC
+2024-05-01,Registered Nurse,Kalgoorlie,450.7,36782.35,SYNTHETIC
+2024-05-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-05-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-05-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2024-05-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-05-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-05-01,Midwife,Kalgoorlie,63.7,5361.38,SYNTHETIC
+2024-05-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2024-05-01,Enrolled Nurse,Perth North,403.4,24187.11,SYNTHETIC
+2024-05-01,Enrolled Nurse,Perth South,242.7,14553.94,SYNTHETIC
+2024-05-01,Enrolled Nurse,Bunbury,129.1,7743.59,SYNTHETIC
+2024-05-01,Enrolled Nurse,Geraldton,6.3,377.41,SYNTHETIC
+2024-05-01,Enrolled Nurse,Kalgoorlie,163.3,9792.75,SYNTHETIC
+2024-05-01,Enrolled Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-05-01,Medical Practitioner,Perth North,80.2,14358.62,SYNTHETIC
+2024-05-01,Medical Practitioner,Perth South,181.4,32479.74,SYNTHETIC
+2024-05-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-05-01,Medical Practitioner,Geraldton,104.0,18626.28,SYNTHETIC
+2024-05-01,Medical Practitioner,Kalgoorlie,272.0,48692.82,SYNTHETIC
+2024-05-01,Medical Practitioner,Broome,220.2,39433.51,SYNTHETIC
+2024-05-01,Allied Health,Perth North,74.8,5733.07,SYNTHETIC
+2024-05-01,Allied Health,Perth South,5.3,407.15,SYNTHETIC
+2024-05-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-05-01,Allied Health,Geraldton,44.7,3423.98,SYNTHETIC
+2024-05-01,Allied Health,Kalgoorlie,52.9,4056.76,SYNTHETIC
+2024-05-01,Allied Health,Broome,87.4,6699.38,SYNTHETIC
+2024-05-01,Care Worker,Perth North,0.0,0.0,SYNTHETIC
+2024-05-01,Care Worker,Perth South,647.3,33422.35,SYNTHETIC
+2024-05-01,Care Worker,Bunbury,192.6,9946.08,SYNTHETIC
+2024-05-01,Care Worker,Geraldton,61.5,3173.03,SYNTHETIC
+2024-05-01,Care Worker,Kalgoorlie,245.1,12656.29,SYNTHETIC
+2024-05-01,Care Worker,Broome,194.9,10063.4,SYNTHETIC
+2024-05-01,Administration,Perth North,63.4,3697.03,SYNTHETIC
+2024-05-01,Administration,Perth South,50.0,2915.32,SYNTHETIC
+2024-05-01,Administration,Bunbury,39.2,2287.56,SYNTHETIC
+2024-05-01,Administration,Geraldton,17.0,990.9,SYNTHETIC
+2024-05-01,Administration,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-05-01,Administration,Broome,43.3,2523.18,SYNTHETIC
+2024-05-01,Support Services,Perth North,23.2,1157.87,SYNTHETIC
+2024-05-01,Support Services,Perth South,96.5,4823.73,SYNTHETIC
+2024-05-01,Support Services,Bunbury,28.7,1434.5,SYNTHETIC
+2024-05-01,Support Services,Geraldton,84.9,4242.28,SYNTHETIC
+2024-05-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-05-01,Support Services,Broome,107.7,5382.85,SYNTHETIC
+2024-06-01,Registered Nurse,Perth North,36.0,2940.01,SYNTHETIC
+2024-06-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-06-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2024-06-01,Registered Nurse,Geraldton,344.6,28127.5,SYNTHETIC
+2024-06-01,Registered Nurse,Kalgoorlie,727.5,59371.06,SYNTHETIC
+2024-06-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-06-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-06-01,Midwife,Perth South,0.0,0.0,SYNTHETIC
+2024-06-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-06-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-06-01,Midwife,Kalgoorlie,63.3,5321.38,SYNTHETIC
+2024-06-01,Midwife,Broome,0.0,0.0,SYNTHETIC
+2024-06-01,Enrolled Nurse,Perth North,443.1,26571.16,SYNTHETIC
+2024-06-01,Enrolled Nurse,Perth South,216.6,12985.65,SYNTHETIC
+2024-06-01,Enrolled Nurse,Bunbury,117.7,7059.8,SYNTHETIC
+2024-06-01,Enrolled Nurse,Geraldton,5.9,355.21,SYNTHETIC
+2024-06-01,Enrolled Nurse,Kalgoorlie,123.8,7424.96,SYNTHETIC
+2024-06-01,Enrolled Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-06-01,Medical Practitioner,Perth North,92.2,16515.07,SYNTHETIC
+2024-06-01,Medical Practitioner,Perth South,73.6,13184.31,SYNTHETIC
+2024-06-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-06-01,Medical Practitioner,Geraldton,122.9,22000.0,SYNTHETIC
+2024-06-01,Medical Practitioner,Kalgoorlie,262.8,47048.96,SYNTHETIC
+2024-06-01,Medical Practitioner,Broome,157.0,28109.33,SYNTHETIC
+2024-06-01,Allied Health,Perth North,146.6,11228.57,SYNTHETIC
+2024-06-01,Allied Health,Perth South,5.9,450.38,SYNTHETIC
+2024-06-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-06-01,Allied Health,Geraldton,104.0,7965.92,SYNTHETIC
+2024-06-01,Allied Health,Kalgoorlie,51.3,3927.28,SYNTHETIC
+2024-06-01,Allied Health,Broome,100.0,7662.91,SYNTHETIC
+2024-06-01,Care Worker,Perth North,90.5,4673.87,SYNTHETIC
+2024-06-01,Care Worker,Perth South,660.6,34109.41,SYNTHETIC
+2024-06-01,Care Worker,Bunbury,153.2,7909.82,SYNTHETIC
+2024-06-01,Care Worker,Geraldton,123.3,6366.91,SYNTHETIC
+2024-06-01,Care Worker,Kalgoorlie,138.6,7154.3,SYNTHETIC
+2024-06-01,Care Worker,Broome,96.3,4973.72,SYNTHETIC
+2024-06-01,Administration,Perth North,63.6,3708.08,SYNTHETIC
+2024-06-01,Administration,Perth South,41.7,2431.28,SYNTHETIC
+2024-06-01,Administration,Bunbury,26.8,1560.1,SYNTHETIC
+2024-06-01,Administration,Geraldton,12.1,708.24,SYNTHETIC
+2024-06-01,Administration,Kalgoorlie,4.3,248.14,SYNTHETIC
+2024-06-01,Administration,Broome,33.8,1968.93,SYNTHETIC
+2024-06-01,Support Services,Perth North,26.1,1304.45,SYNTHETIC
+2024-06-01,Support Services,Perth South,120.7,6033.45,SYNTHETIC
+2024-06-01,Support Services,Bunbury,25.9,1291.79,SYNTHETIC
+2024-06-01,Support Services,Geraldton,115.3,5763.04,SYNTHETIC
+2024-06-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-06-01,Support Services,Broome,98.9,4944.01,SYNTHETIC
+2024-07-01,Registered Nurse,Perth North,363.1,29634.89,SYNTHETIC
+2024-07-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-07-01,Registered Nurse,Bunbury,265.3,21651.23,SYNTHETIC
+2024-07-01,Registered Nurse,Geraldton,544.2,44411.94,SYNTHETIC
+2024-07-01,Registered Nurse,Kalgoorlie,676.1,55175.7,SYNTHETIC
+2024-07-01,Registered Nurse,Broome,136.0,11101.7,SYNTHETIC
+2024-07-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-07-01,Midwife,Perth South,84.7,7119.99,SYNTHETIC
+2024-07-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-07-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-07-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-07-01,Midwife,Broome,10.3,865.66,SYNTHETIC
+2024-07-01,Enrolled Nurse,Perth North,460.6,27618.73,SYNTHETIC
+2024-07-01,Enrolled Nurse,Perth South,316.0,18944.73,SYNTHETIC
+2024-07-01,Enrolled Nurse,Bunbury,172.4,10336.15,SYNTHETIC
+2024-07-01,Enrolled Nurse,Geraldton,23.1,1387.27,SYNTHETIC
+2024-07-01,Enrolled Nurse,Kalgoorlie,148.2,8883.43,SYNTHETIC
+2024-07-01,Enrolled Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-07-01,Medical Practitioner,Perth North,212.7,38076.96,SYNTHETIC
+2024-07-01,Medical Practitioner,Perth South,163.4,29258.81,SYNTHETIC
+2024-07-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-07-01,Medical Practitioner,Geraldton,265.5,47535.99,SYNTHETIC
+2024-07-01,Medical Practitioner,Kalgoorlie,151.6,27140.73,SYNTHETIC
+2024-07-01,Medical Practitioner,Broome,236.1,42266.44,SYNTHETIC
+2024-07-01,Allied Health,Perth North,212.7,16299.69,SYNTHETIC
+2024-07-01,Allied Health,Perth South,44.3,3395.26,SYNTHETIC
+2024-07-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-07-01,Allied Health,Geraldton,104.8,8026.73,SYNTHETIC
+2024-07-01,Allied Health,Kalgoorlie,70.3,5386.86,SYNTHETIC
+2024-07-01,Allied Health,Broome,115.1,8821.23,SYNTHETIC
+2024-07-01,Care Worker,Perth North,268.6,13867.12,SYNTHETIC
+2024-07-01,Care Worker,Perth South,641.2,33108.11,SYNTHETIC
+2024-07-01,Care Worker,Bunbury,374.0,19310.82,SYNTHETIC
+2024-07-01,Care Worker,Geraldton,122.3,6313.85,SYNTHETIC
+2024-07-01,Care Worker,Kalgoorlie,181.5,9370.48,SYNTHETIC
+2024-07-01,Care Worker,Broome,184.4,9520.88,SYNTHETIC
+2024-07-01,Administration,Perth North,75.9,4421.74,SYNTHETIC
+2024-07-01,Administration,Perth South,44.4,2590.61,SYNTHETIC
+2024-07-01,Administration,Bunbury,30.0,1746.72,SYNTHETIC
+2024-07-01,Administration,Geraldton,14.8,862.06,SYNTHETIC
+2024-07-01,Administration,Kalgoorlie,6.5,376.71,SYNTHETIC
+2024-07-01,Administration,Broome,20.7,1203.79,SYNTHETIC
+2024-07-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2024-07-01,Support Services,Perth South,92.9,4640.28,SYNTHETIC
+2024-07-01,Support Services,Bunbury,83.5,4170.17,SYNTHETIC
+2024-07-01,Support Services,Geraldton,86.7,4332.02,SYNTHETIC
+2024-07-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-07-01,Support Services,Broome,107.8,5388.13,SYNTHETIC
+2024-08-01,Registered Nurse,Perth North,417.1,34041.61,SYNTHETIC
+2024-08-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-08-01,Registered Nurse,Bunbury,258.3,21080.54,SYNTHETIC
+2024-08-01,Registered Nurse,Geraldton,367.6,29998.19,SYNTHETIC
+2024-08-01,Registered Nurse,Kalgoorlie,721.4,58873.32,SYNTHETIC
+2024-08-01,Registered Nurse,Broome,141.6,11559.54,SYNTHETIC
+2024-08-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-08-01,Midwife,Perth South,70.5,5931.86,SYNTHETIC
+2024-08-01,Midwife,Bunbury,137.2,11539.24,SYNTHETIC
+2024-08-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-08-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-08-01,Midwife,Broome,9.9,834.25,SYNTHETIC
+2024-08-01,Enrolled Nurse,Perth North,533.4,31979.68,SYNTHETIC
+2024-08-01,Enrolled Nurse,Perth South,254.6,15262.9,SYNTHETIC
+2024-08-01,Enrolled Nurse,Bunbury,159.9,9588.7,SYNTHETIC
+2024-08-01,Enrolled Nurse,Geraldton,21.3,1280.14,SYNTHETIC
+2024-08-01,Enrolled Nurse,Kalgoorlie,148.5,8904.91,SYNTHETIC
+2024-08-01,Enrolled Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-08-01,Medical Practitioner,Perth North,165.1,29567.09,SYNTHETIC
+2024-08-01,Medical Practitioner,Perth South,169.6,30370.41,SYNTHETIC
+2024-08-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-08-01,Medical Practitioner,Geraldton,277.8,49741.31,SYNTHETIC
+2024-08-01,Medical Practitioner,Kalgoorlie,164.8,29505.93,SYNTHETIC
+2024-08-01,Medical Practitioner,Broome,253.0,45305.81,SYNTHETIC
+2024-08-01,Allied Health,Perth North,87.3,6685.4,SYNTHETIC
+2024-08-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2024-08-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-08-01,Allied Health,Geraldton,63.7,4881.38,SYNTHETIC
+2024-08-01,Allied Health,Kalgoorlie,65.6,5025.55,SYNTHETIC
+2024-08-01,Allied Health,Broome,128.9,9873.15,SYNTHETIC
+2024-08-01,Care Worker,Perth North,65.0,3357.78,SYNTHETIC
+2024-08-01,Care Worker,Perth South,484.5,25017.42,SYNTHETIC
+2024-08-01,Care Worker,Bunbury,313.7,16199.41,SYNTHETIC
+2024-08-01,Care Worker,Geraldton,0.0,0.0,SYNTHETIC
+2024-08-01,Care Worker,Kalgoorlie,179.6,9273.54,SYNTHETIC
+2024-08-01,Care Worker,Broome,200.0,10324.55,SYNTHETIC
+2024-08-01,Administration,Perth North,49.9,2906.36,SYNTHETIC
+2024-08-01,Administration,Perth South,40.1,2337.24,SYNTHETIC
+2024-08-01,Administration,Bunbury,25.1,1460.95,SYNTHETIC
+2024-08-01,Administration,Geraldton,13.5,789.75,SYNTHETIC
+2024-08-01,Administration,Kalgoorlie,5.4,315.52,SYNTHETIC
+2024-08-01,Administration,Broome,21.9,1273.88,SYNTHETIC
+2024-08-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2024-08-01,Support Services,Perth South,94.2,4706.82,SYNTHETIC
+2024-08-01,Support Services,Bunbury,25.8,1290.82,SYNTHETIC
+2024-08-01,Support Services,Geraldton,113.2,5655.48,SYNTHETIC
+2024-08-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-08-01,Support Services,Broome,83.4,4168.77,SYNTHETIC
+2024-09-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2024-09-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-09-01,Registered Nurse,Bunbury,175.3,14305.81,SYNTHETIC
+2024-09-01,Registered Nurse,Geraldton,346.3,28260.51,SYNTHETIC
+2024-09-01,Registered Nurse,Kalgoorlie,550.0,44890.25,SYNTHETIC
+2024-09-01,Registered Nurse,Broome,72.3,5901.12,SYNTHETIC
+2024-09-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-09-01,Midwife,Perth South,91.1,7658.71,SYNTHETIC
+2024-09-01,Midwife,Bunbury,144.5,12157.73,SYNTHETIC
+2024-09-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-09-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-09-01,Midwife,Broome,7.8,655.29,SYNTHETIC
+2024-09-01,Enrolled Nurse,Perth North,600.1,35983.14,SYNTHETIC
+2024-09-01,Enrolled Nurse,Perth South,215.9,12944.26,SYNTHETIC
+2024-09-01,Enrolled Nurse,Bunbury,173.7,10417.63,SYNTHETIC
+2024-09-01,Enrolled Nurse,Geraldton,31.0,1857.64,SYNTHETIC
+2024-09-01,Enrolled Nurse,Kalgoorlie,162.5,9744.33,SYNTHETIC
+2024-09-01,Enrolled Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-09-01,Medical Practitioner,Perth North,169.4,30331.06,SYNTHETIC
+2024-09-01,Medical Practitioner,Perth South,104.7,18740.9,SYNTHETIC
+2024-09-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-09-01,Medical Practitioner,Geraldton,207.7,37186.69,SYNTHETIC
+2024-09-01,Medical Practitioner,Kalgoorlie,189.9,34004.08,SYNTHETIC
+2024-09-01,Medical Practitioner,Broome,209.0,37413.31,SYNTHETIC
+2024-09-01,Allied Health,Perth North,79.5,6091.65,SYNTHETIC
+2024-09-01,Allied Health,Perth South,32.5,2493.67,SYNTHETIC
+2024-09-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-09-01,Allied Health,Geraldton,67.5,5171.46,SYNTHETIC
+2024-09-01,Allied Health,Kalgoorlie,65.6,5024.89,SYNTHETIC
+2024-09-01,Allied Health,Broome,145.1,11114.63,SYNTHETIC
+2024-09-01,Care Worker,Perth North,188.6,9737.77,SYNTHETIC
+2024-09-01,Care Worker,Perth South,570.0,29431.67,SYNTHETIC
+2024-09-01,Care Worker,Bunbury,293.6,15158.71,SYNTHETIC
+2024-09-01,Care Worker,Geraldton,0.0,0.0,SYNTHETIC
+2024-09-01,Care Worker,Kalgoorlie,96.9,5002.89,SYNTHETIC
+2024-09-01,Care Worker,Broome,192.6,9942.0,SYNTHETIC
+2024-09-01,Administration,Perth North,72.7,4239.08,SYNTHETIC
+2024-09-01,Administration,Perth South,66.5,3875.99,SYNTHETIC
+2024-09-01,Administration,Bunbury,40.8,2376.08,SYNTHETIC
+2024-09-01,Administration,Geraldton,17.3,1010.98,SYNTHETIC
+2024-09-01,Administration,Kalgoorlie,6.4,373.87,SYNTHETIC
+2024-09-01,Administration,Broome,24.3,1413.87,SYNTHETIC
+2024-09-01,Support Services,Perth North,32.4,1617.85,SYNTHETIC
+2024-09-01,Support Services,Perth South,98.0,4898.84,SYNTHETIC
+2024-09-01,Support Services,Bunbury,62.3,3112.71,SYNTHETIC
+2024-09-01,Support Services,Geraldton,107.2,5354.08,SYNTHETIC
+2024-09-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-09-01,Support Services,Broome,117.8,5885.21,SYNTHETIC
+2024-10-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2024-10-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-10-01,Registered Nurse,Bunbury,246.1,20088.32,SYNTHETIC
+2024-10-01,Registered Nurse,Geraldton,488.1,39834.26,SYNTHETIC
+2024-10-01,Registered Nurse,Kalgoorlie,804.8,65685.62,SYNTHETIC
+2024-10-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2024-10-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-10-01,Midwife,Perth South,91.7,7711.74,SYNTHETIC
+2024-10-01,Midwife,Bunbury,42.6,3579.53,SYNTHETIC
+2024-10-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-10-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-10-01,Midwife,Broome,9.2,772.32,SYNTHETIC
+2024-10-01,Enrolled Nurse,Perth North,493.0,29562.6,SYNTHETIC
+2024-10-01,Enrolled Nurse,Perth South,263.5,15798.05,SYNTHETIC
+2024-10-01,Enrolled Nurse,Bunbury,112.6,6752.29,SYNTHETIC
+2024-10-01,Enrolled Nurse,Geraldton,29.2,1750.23,SYNTHETIC
+2024-10-01,Enrolled Nurse,Kalgoorlie,147.0,8812.16,SYNTHETIC
+2024-10-01,Enrolled Nurse,Broome,30.2,1810.3,SYNTHETIC
+2024-10-01,Medical Practitioner,Perth North,91.4,16359.24,SYNTHETIC
+2024-10-01,Medical Practitioner,Perth South,250.9,44929.61,SYNTHETIC
+2024-10-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-10-01,Medical Practitioner,Geraldton,151.8,27186.6,SYNTHETIC
+2024-10-01,Medical Practitioner,Kalgoorlie,61.3,10977.42,SYNTHETIC
+2024-10-01,Medical Practitioner,Broome,259.5,46471.46,SYNTHETIC
+2024-10-01,Allied Health,Perth North,151.6,11611.31,SYNTHETIC
+2024-10-01,Allied Health,Perth South,40.5,3103.6,SYNTHETIC
+2024-10-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-10-01,Allied Health,Geraldton,103.9,7959.32,SYNTHETIC
+2024-10-01,Allied Health,Kalgoorlie,70.8,5427.74,SYNTHETIC
+2024-10-01,Allied Health,Broome,112.3,8605.66,SYNTHETIC
+2024-10-01,Care Worker,Perth North,175.9,9080.55,SYNTHETIC
+2024-10-01,Care Worker,Perth South,678.4,35029.73,SYNTHETIC
+2024-10-01,Care Worker,Bunbury,376.7,19450.14,SYNTHETIC
+2024-10-01,Care Worker,Geraldton,189.3,9775.62,SYNTHETIC
+2024-10-01,Care Worker,Kalgoorlie,96.3,4972.59,SYNTHETIC
+2024-10-01,Care Worker,Broome,234.6,12115.18,SYNTHETIC
+2024-10-01,Administration,Perth North,51.6,3010.89,SYNTHETIC
+2024-10-01,Administration,Perth South,52.0,3031.35,SYNTHETIC
+2024-10-01,Administration,Bunbury,22.7,1325.17,SYNTHETIC
+2024-10-01,Administration,Geraldton,13.2,770.51,SYNTHETIC
+2024-10-01,Administration,Kalgoorlie,5.7,330.67,SYNTHETIC
+2024-10-01,Administration,Broome,28.7,1673.27,SYNTHETIC
+2024-10-01,Support Services,Perth North,27.2,1358.74,SYNTHETIC
+2024-10-01,Support Services,Perth South,95.4,4767.05,SYNTHETIC
+2024-10-01,Support Services,Bunbury,20.8,1037.43,SYNTHETIC
+2024-10-01,Support Services,Geraldton,108.0,5395.57,SYNTHETIC
+2024-10-01,Support Services,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-10-01,Support Services,Broome,127.1,6352.94,SYNTHETIC
+2024-11-01,Registered Nurse,Perth North,106.1,8662.54,SYNTHETIC
+2024-11-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-11-01,Registered Nurse,Bunbury,37.8,3081.76,SYNTHETIC
+2024-11-01,Registered Nurse,Geraldton,314.4,25656.69,SYNTHETIC
+2024-11-01,Registered Nurse,Kalgoorlie,762.3,62215.38,SYNTHETIC
+2024-11-01,Registered Nurse,Broome,44.5,3630.23,SYNTHETIC
+2024-11-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-11-01,Midwife,Perth South,71.1,5981.6,SYNTHETIC
+2024-11-01,Midwife,Bunbury,36.5,3072.8,SYNTHETIC
+2024-11-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-11-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-11-01,Midwife,Broome,10.1,852.32,SYNTHETIC
+2024-11-01,Enrolled Nurse,Perth North,464.4,27845.17,SYNTHETIC
+2024-11-01,Enrolled Nurse,Perth South,239.7,14371.13,SYNTHETIC
+2024-11-01,Enrolled Nurse,Bunbury,117.0,7017.84,SYNTHETIC
+2024-11-01,Enrolled Nurse,Geraldton,83.8,5023.29,SYNTHETIC
+2024-11-01,Enrolled Nurse,Kalgoorlie,120.5,7225.99,SYNTHETIC
+2024-11-01,Enrolled Nurse,Broome,26.5,1587.46,SYNTHETIC
+2024-11-01,Medical Practitioner,Perth North,95.4,17081.77,SYNTHETIC
+2024-11-01,Medical Practitioner,Perth South,205.2,36747.83,SYNTHETIC
+2024-11-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-11-01,Medical Practitioner,Geraldton,148.0,26505.28,SYNTHETIC
+2024-11-01,Medical Practitioner,Kalgoorlie,140.9,25228.98,SYNTHETIC
+2024-11-01,Medical Practitioner,Broome,270.0,48334.74,SYNTHETIC
+2024-11-01,Allied Health,Perth North,102.1,7825.35,SYNTHETIC
+2024-11-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2024-11-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-11-01,Allied Health,Geraldton,111.2,8515.83,SYNTHETIC
+2024-11-01,Allied Health,Kalgoorlie,134.9,10335.05,SYNTHETIC
+2024-11-01,Allied Health,Broome,78.1,5980.58,SYNTHETIC
+2024-11-01,Care Worker,Perth North,215.9,11148.95,SYNTHETIC
+2024-11-01,Care Worker,Perth South,462.3,23867.48,SYNTHETIC
+2024-11-01,Care Worker,Bunbury,215.3,11117.14,SYNTHETIC
+2024-11-01,Care Worker,Geraldton,228.3,11785.39,SYNTHETIC
+2024-11-01,Care Worker,Kalgoorlie,99.2,5122.51,SYNTHETIC
+2024-11-01,Care Worker,Broome,219.7,11342.27,SYNTHETIC
+2024-11-01,Administration,Perth North,64.0,3732.83,SYNTHETIC
+2024-11-01,Administration,Perth South,29.0,1692.32,SYNTHETIC
+2024-11-01,Administration,Bunbury,28.8,1681.59,SYNTHETIC
+2024-11-01,Administration,Geraldton,17.0,991.33,SYNTHETIC
+2024-11-01,Administration,Kalgoorlie,6.3,367.92,SYNTHETIC
+2024-11-01,Administration,Broome,35.4,2066.37,SYNTHETIC
+2024-11-01,Support Services,Perth North,38.6,1929.8,SYNTHETIC
+2024-11-01,Support Services,Perth South,108.1,5401.15,SYNTHETIC
+2024-11-01,Support Services,Bunbury,51.3,2565.01,SYNTHETIC
+2024-11-01,Support Services,Geraldton,94.1,4702.44,SYNTHETIC
+2024-11-01,Support Services,Kalgoorlie,12.9,646.7,SYNTHETIC
+2024-11-01,Support Services,Broome,113.3,5660.94,SYNTHETIC
+2024-12-01,Registered Nurse,Perth North,29.9,2438.9,SYNTHETIC
+2024-12-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2024-12-01,Registered Nurse,Bunbury,18.5,1511.67,SYNTHETIC
+2024-12-01,Registered Nurse,Geraldton,164.3,13407.42,SYNTHETIC
+2024-12-01,Registered Nurse,Kalgoorlie,759.6,61996.73,SYNTHETIC
+2024-12-01,Registered Nurse,Broome,44.1,3598.7,SYNTHETIC
+2024-12-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2024-12-01,Midwife,Perth South,86.2,7249.72,SYNTHETIC
+2024-12-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2024-12-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2024-12-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2024-12-01,Midwife,Broome,10.2,860.65,SYNTHETIC
+2024-12-01,Enrolled Nurse,Perth North,421.6,25276.74,SYNTHETIC
+2024-12-01,Enrolled Nurse,Perth South,404.6,24258.3,SYNTHETIC
+2024-12-01,Enrolled Nurse,Bunbury,119.2,7146.48,SYNTHETIC
+2024-12-01,Enrolled Nurse,Geraldton,82.1,4920.57,SYNTHETIC
+2024-12-01,Enrolled Nurse,Kalgoorlie,112.2,6727.11,SYNTHETIC
+2024-12-01,Enrolled Nurse,Broome,37.5,2250.11,SYNTHETIC
+2024-12-01,Medical Practitioner,Perth North,91.3,16344.7,SYNTHETIC
+2024-12-01,Medical Practitioner,Perth South,141.8,25392.5,SYNTHETIC
+2024-12-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2024-12-01,Medical Practitioner,Geraldton,51.6,9242.11,SYNTHETIC
+2024-12-01,Medical Practitioner,Kalgoorlie,126.7,22683.13,SYNTHETIC
+2024-12-01,Medical Practitioner,Broome,199.2,35658.77,SYNTHETIC
+2024-12-01,Allied Health,Perth North,25.4,1944.62,SYNTHETIC
+2024-12-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2024-12-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2024-12-01,Allied Health,Geraldton,125.2,9594.04,SYNTHETIC
+2024-12-01,Allied Health,Kalgoorlie,142.7,10931.97,SYNTHETIC
+2024-12-01,Allied Health,Broome,77.4,5932.66,SYNTHETIC
+2024-12-01,Care Worker,Perth North,269.0,13888.02,SYNTHETIC
+2024-12-01,Care Worker,Perth South,418.8,21621.59,SYNTHETIC
+2024-12-01,Care Worker,Bunbury,136.5,7045.8,SYNTHETIC
+2024-12-01,Care Worker,Geraldton,245.8,12692.51,SYNTHETIC
+2024-12-01,Care Worker,Kalgoorlie,135.5,6994.28,SYNTHETIC
+2024-12-01,Care Worker,Broome,289.3,14937.7,SYNTHETIC
+2024-12-01,Administration,Perth North,38.8,2260.11,SYNTHETIC
+2024-12-01,Administration,Perth South,37.0,2154.13,SYNTHETIC
+2024-12-01,Administration,Bunbury,37.9,2206.57,SYNTHETIC
+2024-12-01,Administration,Geraldton,19.7,1149.51,SYNTHETIC
+2024-12-01,Administration,Kalgoorlie,23.9,1390.52,SYNTHETIC
+2024-12-01,Administration,Broome,38.7,2256.42,SYNTHETIC
+2024-12-01,Support Services,Perth North,14.0,700.91,SYNTHETIC
+2024-12-01,Support Services,Perth South,81.8,4087.26,SYNTHETIC
+2024-12-01,Support Services,Bunbury,40.6,2030.15,SYNTHETIC
+2024-12-01,Support Services,Geraldton,91.5,4570.56,SYNTHETIC
+2024-12-01,Support Services,Kalgoorlie,96.6,4824.77,SYNTHETIC
+2024-12-01,Support Services,Broome,102.1,5099.44,SYNTHETIC
+2025-01-01,Registered Nurse,Perth North,174.4,14234.04,SYNTHETIC
+2025-01-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-01-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-01-01,Registered Nurse,Geraldton,145.9,11906.35,SYNTHETIC
+2025-01-01,Registered Nurse,Kalgoorlie,694.6,56685.96,SYNTHETIC
+2025-01-01,Registered Nurse,Broome,47.3,3861.85,SYNTHETIC
+2025-01-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-01-01,Midwife,Perth South,92.1,7747.06,SYNTHETIC
+2025-01-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-01-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-01-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-01-01,Midwife,Broome,7.3,614.34,SYNTHETIC
+2025-01-01,Enrolled Nurse,Perth North,514.7,30860.05,SYNTHETIC
+2025-01-01,Enrolled Nurse,Perth South,415.5,24914.86,SYNTHETIC
+2025-01-01,Enrolled Nurse,Bunbury,114.1,6838.62,SYNTHETIC
+2025-01-01,Enrolled Nurse,Geraldton,90.8,5443.82,SYNTHETIC
+2025-01-01,Enrolled Nurse,Kalgoorlie,110.9,6647.89,SYNTHETIC
+2025-01-01,Enrolled Nurse,Broome,28.7,1721.25,SYNTHETIC
+2025-01-01,Medical Practitioner,Perth North,85.1,15239.2,SYNTHETIC
+2025-01-01,Medical Practitioner,Perth South,21.6,3871.83,SYNTHETIC
+2025-01-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-01-01,Medical Practitioner,Geraldton,69.1,12364.32,SYNTHETIC
+2025-01-01,Medical Practitioner,Kalgoorlie,208.3,37299.45,SYNTHETIC
+2025-01-01,Medical Practitioner,Broome,186.5,33394.28,SYNTHETIC
+2025-01-01,Allied Health,Perth North,23.3,1787.49,SYNTHETIC
+2025-01-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2025-01-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2025-01-01,Allied Health,Geraldton,118.8,9101.41,SYNTHETIC
+2025-01-01,Allied Health,Kalgoorlie,132.6,10157.2,SYNTHETIC
+2025-01-01,Allied Health,Broome,76.3,5848.29,SYNTHETIC
+2025-01-01,Care Worker,Perth North,279.9,14453.67,SYNTHETIC
+2025-01-01,Care Worker,Perth South,375.7,19398.34,SYNTHETIC
+2025-01-01,Care Worker,Bunbury,214.7,11083.46,SYNTHETIC
+2025-01-01,Care Worker,Geraldton,194.1,10021.43,SYNTHETIC
+2025-01-01,Care Worker,Kalgoorlie,151.0,7795.4,SYNTHETIC
+2025-01-01,Care Worker,Broome,266.3,13751.76,SYNTHETIC
+2025-01-01,Administration,Perth North,57.2,3333.64,SYNTHETIC
+2025-01-01,Administration,Perth South,31.9,1859.73,SYNTHETIC
+2025-01-01,Administration,Bunbury,16.7,975.79,SYNTHETIC
+2025-01-01,Administration,Geraldton,29.3,1709.64,SYNTHETIC
+2025-01-01,Administration,Kalgoorlie,7.1,411.36,SYNTHETIC
+2025-01-01,Administration,Broome,47.4,2760.39,SYNTHETIC
+2025-01-01,Support Services,Perth North,14.9,746.27,SYNTHETIC
+2025-01-01,Support Services,Perth South,78.4,3919.32,SYNTHETIC
+2025-01-01,Support Services,Bunbury,16.6,831.46,SYNTHETIC
+2025-01-01,Support Services,Geraldton,94.4,4716.11,SYNTHETIC
+2025-01-01,Support Services,Kalgoorlie,56.6,2828.43,SYNTHETIC
+2025-01-01,Support Services,Broome,90.1,4503.38,SYNTHETIC
+2025-02-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2025-02-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-02-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-02-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2025-02-01,Registered Nurse,Kalgoorlie,720.7,58817.86,SYNTHETIC
+2025-02-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2025-02-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-02-01,Midwife,Perth South,97.4,8194.08,SYNTHETIC
+2025-02-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-02-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-02-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-02-01,Midwife,Broome,10.0,844.35,SYNTHETIC
+2025-02-01,Enrolled Nurse,Perth North,413.6,24799.94,SYNTHETIC
+2025-02-01,Enrolled Nurse,Perth South,383.3,22981.86,SYNTHETIC
+2025-02-01,Enrolled Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-02-01,Enrolled Nurse,Geraldton,94.2,5648.34,SYNTHETIC
+2025-02-01,Enrolled Nurse,Kalgoorlie,163.6,9808.87,SYNTHETIC
+2025-02-01,Enrolled Nurse,Broome,31.2,1868.13,SYNTHETIC
+2025-02-01,Medical Practitioner,Perth North,174.8,31295.43,SYNTHETIC
+2025-02-01,Medical Practitioner,Perth South,19.8,3536.24,SYNTHETIC
+2025-02-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-02-01,Medical Practitioner,Geraldton,51.3,9184.76,SYNTHETIC
+2025-02-01,Medical Practitioner,Kalgoorlie,278.5,49869.95,SYNTHETIC
+2025-02-01,Medical Practitioner,Broome,223.0,39928.06,SYNTHETIC
+2025-02-01,Allied Health,Perth North,23.1,1770.33,SYNTHETIC
+2025-02-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2025-02-01,Allied Health,Bunbury,11.6,886.19,SYNTHETIC
+2025-02-01,Allied Health,Geraldton,139.2,10661.7,SYNTHETIC
+2025-02-01,Allied Health,Kalgoorlie,92.3,7073.55,SYNTHETIC
+2025-02-01,Allied Health,Broome,84.9,6504.84,SYNTHETIC
+2025-02-01,Care Worker,Perth North,133.9,6912.95,SYNTHETIC
+2025-02-01,Care Worker,Perth South,425.2,21952.99,SYNTHETIC
+2025-02-01,Care Worker,Bunbury,101.7,5251.44,SYNTHETIC
+2025-02-01,Care Worker,Geraldton,183.9,9494.36,SYNTHETIC
+2025-02-01,Care Worker,Kalgoorlie,115.2,5946.54,SYNTHETIC
+2025-02-01,Care Worker,Broome,235.9,12180.7,SYNTHETIC
+2025-02-01,Administration,Perth North,83.0,4835.79,SYNTHETIC
+2025-02-01,Administration,Perth South,33.0,1924.28,SYNTHETIC
+2025-02-01,Administration,Bunbury,16.1,940.5,SYNTHETIC
+2025-02-01,Administration,Geraldton,34.2,1996.19,SYNTHETIC
+2025-02-01,Administration,Kalgoorlie,15.9,926.67,SYNTHETIC
+2025-02-01,Administration,Broome,21.2,1237.24,SYNTHETIC
+2025-02-01,Support Services,Perth North,13.3,665.23,SYNTHETIC
+2025-02-01,Support Services,Perth South,72.5,3622.6,SYNTHETIC
+2025-02-01,Support Services,Bunbury,21.5,1076.58,SYNTHETIC
+2025-02-01,Support Services,Geraldton,86.1,4302.69,SYNTHETIC
+2025-02-01,Support Services,Kalgoorlie,55.1,2753.35,SYNTHETIC
+2025-02-01,Support Services,Broome,97.1,4851.56,SYNTHETIC
+2025-03-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2025-03-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-03-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-03-01,Registered Nurse,Geraldton,60.0,4899.97,SYNTHETIC
+2025-03-01,Registered Nurse,Kalgoorlie,748.2,61060.02,SYNTHETIC
+2025-03-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2025-03-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-03-01,Midwife,Perth South,83.9,7056.03,SYNTHETIC
+2025-03-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-03-01,Midwife,Geraldton,65.2,5482.51,SYNTHETIC
+2025-03-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-03-01,Midwife,Broome,91.6,7702.26,SYNTHETIC
+2025-03-01,Enrolled Nurse,Perth North,377.6,22637.96,SYNTHETIC
+2025-03-01,Enrolled Nurse,Perth South,299.9,17980.15,SYNTHETIC
+2025-03-01,Enrolled Nurse,Bunbury,7.5,447.34,SYNTHETIC
+2025-03-01,Enrolled Nurse,Geraldton,83.7,5018.4,SYNTHETIC
+2025-03-01,Enrolled Nurse,Kalgoorlie,123.3,7391.47,SYNTHETIC
+2025-03-01,Enrolled Nurse,Broome,30.8,1844.18,SYNTHETIC
+2025-03-01,Medical Practitioner,Perth North,261.1,46745.6,SYNTHETIC
+2025-03-01,Medical Practitioner,Perth South,199.3,35690.35,SYNTHETIC
+2025-03-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-03-01,Medical Practitioner,Geraldton,62.8,11252.96,SYNTHETIC
+2025-03-01,Medical Practitioner,Kalgoorlie,245.5,43951.42,SYNTHETIC
+2025-03-01,Medical Practitioner,Broome,200.1,35834.93,SYNTHETIC
+2025-03-01,Allied Health,Perth North,49.5,3790.89,SYNTHETIC
+2025-03-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2025-03-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2025-03-01,Allied Health,Geraldton,121.7,9325.7,SYNTHETIC
+2025-03-01,Allied Health,Kalgoorlie,127.2,9745.64,SYNTHETIC
+2025-03-01,Allied Health,Broome,190.6,14606.54,SYNTHETIC
+2025-03-01,Care Worker,Perth North,219.0,11309.5,SYNTHETIC
+2025-03-01,Care Worker,Perth South,527.8,27252.62,SYNTHETIC
+2025-03-01,Care Worker,Bunbury,159.9,8255.08,SYNTHETIC
+2025-03-01,Care Worker,Geraldton,270.4,13961.58,SYNTHETIC
+2025-03-01,Care Worker,Kalgoorlie,91.6,4731.93,SYNTHETIC
+2025-03-01,Care Worker,Broome,337.5,17427.1,SYNTHETIC
+2025-03-01,Administration,Perth North,52.7,3070.65,SYNTHETIC
+2025-03-01,Administration,Perth South,57.1,3329.95,SYNTHETIC
+2025-03-01,Administration,Bunbury,15.6,907.5,SYNTHETIC
+2025-03-01,Administration,Geraldton,32.3,1882.35,SYNTHETIC
+2025-03-01,Administration,Kalgoorlie,27.2,1585.61,SYNTHETIC
+2025-03-01,Administration,Broome,33.3,1941.48,SYNTHETIC
+2025-03-01,Support Services,Perth North,44.9,2243.96,SYNTHETIC
+2025-03-01,Support Services,Perth South,64.0,3197.34,SYNTHETIC
+2025-03-01,Support Services,Bunbury,37.8,1890.28,SYNTHETIC
+2025-03-01,Support Services,Geraldton,79.4,3965.96,SYNTHETIC
+2025-03-01,Support Services,Kalgoorlie,81.1,4050.89,SYNTHETIC
+2025-03-01,Support Services,Broome,113.1,5651.08,SYNTHETIC
+2025-04-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2025-04-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-04-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-04-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2025-04-01,Registered Nurse,Kalgoorlie,805.2,65710.91,SYNTHETIC
+2025-04-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2025-04-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-04-01,Midwife,Perth South,74.8,6288.72,SYNTHETIC
+2025-04-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-04-01,Midwife,Geraldton,77.0,6477.69,SYNTHETIC
+2025-04-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-04-01,Midwife,Broome,8.5,712.88,SYNTHETIC
+2025-04-01,Enrolled Nurse,Perth North,493.1,29567.97,SYNTHETIC
+2025-04-01,Enrolled Nurse,Perth South,318.5,19095.69,SYNTHETIC
+2025-04-01,Enrolled Nurse,Bunbury,77.6,4654.63,SYNTHETIC
+2025-04-01,Enrolled Nurse,Geraldton,80.0,4798.13,SYNTHETIC
+2025-04-01,Enrolled Nurse,Kalgoorlie,172.5,10341.27,SYNTHETIC
+2025-04-01,Enrolled Nurse,Broome,36.8,2207.08,SYNTHETIC
+2025-04-01,Medical Practitioner,Perth North,221.4,39645.17,SYNTHETIC
+2025-04-01,Medical Practitioner,Perth South,156.5,28022.78,SYNTHETIC
+2025-04-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-04-01,Medical Practitioner,Geraldton,62.2,11130.68,SYNTHETIC
+2025-04-01,Medical Practitioner,Kalgoorlie,119.9,21465.06,SYNTHETIC
+2025-04-01,Medical Practitioner,Broome,231.9,41528.1,SYNTHETIC
+2025-04-01,Allied Health,Perth North,60.4,4624.44,SYNTHETIC
+2025-04-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2025-04-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2025-04-01,Allied Health,Geraldton,151.5,11604.09,SYNTHETIC
+2025-04-01,Allied Health,Kalgoorlie,105.6,8089.68,SYNTHETIC
+2025-04-01,Allied Health,Broome,180.9,13859.44,SYNTHETIC
+2025-04-01,Care Worker,Perth North,126.9,6551.94,SYNTHETIC
+2025-04-01,Care Worker,Perth South,570.8,29469.11,SYNTHETIC
+2025-04-01,Care Worker,Bunbury,185.6,9584.83,SYNTHETIC
+2025-04-01,Care Worker,Geraldton,257.8,13308.81,SYNTHETIC
+2025-04-01,Care Worker,Kalgoorlie,76.7,3959.22,SYNTHETIC
+2025-04-01,Care Worker,Broome,238.0,12290.04,SYNTHETIC
+2025-04-01,Administration,Perth North,62.7,3652.67,SYNTHETIC
+2025-04-01,Administration,Perth South,21.2,1233.4,SYNTHETIC
+2025-04-01,Administration,Bunbury,19.2,1120.08,SYNTHETIC
+2025-04-01,Administration,Geraldton,33.6,1960.68,SYNTHETIC
+2025-04-01,Administration,Kalgoorlie,11.8,687.25,SYNTHETIC
+2025-04-01,Administration,Broome,17.6,1025.44,SYNTHETIC
+2025-04-01,Support Services,Perth North,71.9,3594.93,SYNTHETIC
+2025-04-01,Support Services,Perth South,78.0,3896.42,SYNTHETIC
+2025-04-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-04-01,Support Services,Geraldton,89.8,4488.83,SYNTHETIC
+2025-04-01,Support Services,Kalgoorlie,84.3,4212.51,SYNTHETIC
+2025-04-01,Support Services,Broome,111.7,5581.64,SYNTHETIC
+2025-05-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2025-05-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-05-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-05-01,Registered Nurse,Geraldton,142.1,11596.44,SYNTHETIC
+2025-05-01,Registered Nurse,Kalgoorlie,789.6,64443.38,SYNTHETIC
+2025-05-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2025-05-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-05-01,Midwife,Perth South,86.9,7305.42,SYNTHETIC
+2025-05-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-05-01,Midwife,Geraldton,83.8,7051.12,SYNTHETIC
+2025-05-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-05-01,Midwife,Broome,8.5,714.87,SYNTHETIC
+2025-05-01,Enrolled Nurse,Perth North,565.3,33897.34,SYNTHETIC
+2025-05-01,Enrolled Nurse,Perth South,400.6,24022.94,SYNTHETIC
+2025-05-01,Enrolled Nurse,Bunbury,77.2,4628.08,SYNTHETIC
+2025-05-01,Enrolled Nurse,Geraldton,90.8,5445.24,SYNTHETIC
+2025-05-01,Enrolled Nurse,Kalgoorlie,181.7,10893.81,SYNTHETIC
+2025-05-01,Enrolled Nurse,Broome,89.6,5370.37,SYNTHETIC
+2025-05-01,Medical Practitioner,Perth North,173.1,30989.1,SYNTHETIC
+2025-05-01,Medical Practitioner,Perth South,216.0,38668.85,SYNTHETIC
+2025-05-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-05-01,Medical Practitioner,Geraldton,66.5,11903.33,SYNTHETIC
+2025-05-01,Medical Practitioner,Kalgoorlie,147.1,26329.5,SYNTHETIC
+2025-05-01,Medical Practitioner,Broome,230.9,41343.71,SYNTHETIC
+2025-05-01,Allied Health,Perth North,11.6,888.76,SYNTHETIC
+2025-05-01,Allied Health,Perth South,0.0,0.0,SYNTHETIC
+2025-05-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2025-05-01,Allied Health,Geraldton,80.9,6195.0,SYNTHETIC
+2025-05-01,Allied Health,Kalgoorlie,139.8,10714.18,SYNTHETIC
+2025-05-01,Allied Health,Broome,126.0,9656.13,SYNTHETIC
+2025-05-01,Care Worker,Perth North,105.4,5441.48,SYNTHETIC
+2025-05-01,Care Worker,Perth South,421.1,21744.73,SYNTHETIC
+2025-05-01,Care Worker,Bunbury,214.9,11096.07,SYNTHETIC
+2025-05-01,Care Worker,Geraldton,208.4,10762.65,SYNTHETIC
+2025-05-01,Care Worker,Kalgoorlie,115.6,5967.22,SYNTHETIC
+2025-05-01,Care Worker,Broome,148.3,7657.22,SYNTHETIC
+2025-05-01,Administration,Perth North,50.5,2945.04,SYNTHETIC
+2025-05-01,Administration,Perth South,40.6,2363.98,SYNTHETIC
+2025-05-01,Administration,Bunbury,8.7,507.95,SYNTHETIC
+2025-05-01,Administration,Geraldton,30.4,1770.13,SYNTHETIC
+2025-05-01,Administration,Kalgoorlie,23.9,1390.63,SYNTHETIC
+2025-05-01,Administration,Broome,17.7,1032.85,SYNTHETIC
+2025-05-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-05-01,Support Services,Perth South,64.6,3228.55,SYNTHETIC
+2025-05-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-05-01,Support Services,Geraldton,74.0,3697.12,SYNTHETIC
+2025-05-01,Support Services,Kalgoorlie,88.5,4422.95,SYNTHETIC
+2025-05-01,Support Services,Broome,86.5,4319.8,SYNTHETIC
+2025-06-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2025-06-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-06-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-06-01,Registered Nurse,Geraldton,64.2,5242.03,SYNTHETIC
+2025-06-01,Registered Nurse,Kalgoorlie,522.9,42678.54,SYNTHETIC
+2025-06-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2025-06-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-06-01,Midwife,Perth South,83.0,6979.56,SYNTHETIC
+2025-06-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-06-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-06-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-06-01,Midwife,Broome,10.5,880.25,SYNTHETIC
+2025-06-01,Enrolled Nurse,Perth North,504.8,30267.9,SYNTHETIC
+2025-06-01,Enrolled Nurse,Perth South,412.1,24709.46,SYNTHETIC
+2025-06-01,Enrolled Nurse,Bunbury,6.5,388.39,SYNTHETIC
+2025-06-01,Enrolled Nurse,Geraldton,76.7,4597.35,SYNTHETIC
+2025-06-01,Enrolled Nurse,Kalgoorlie,129.3,7753.93,SYNTHETIC
+2025-06-01,Enrolled Nurse,Broome,91.7,5500.86,SYNTHETIC
+2025-06-01,Medical Practitioner,Perth North,213.9,38303.46,SYNTHETIC
+2025-06-01,Medical Practitioner,Perth South,202.3,36225.34,SYNTHETIC
+2025-06-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-06-01,Medical Practitioner,Geraldton,61.9,11084.26,SYNTHETIC
+2025-06-01,Medical Practitioner,Kalgoorlie,161.6,28937.94,SYNTHETIC
+2025-06-01,Medical Practitioner,Broome,203.8,36488.17,SYNTHETIC
+2025-06-01,Allied Health,Perth North,11.4,874.93,SYNTHETIC
+2025-06-01,Allied Health,Perth South,75.0,5747.43,SYNTHETIC
+2025-06-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2025-06-01,Allied Health,Geraldton,99.9,7656.45,SYNTHETIC
+2025-06-01,Allied Health,Kalgoorlie,147.1,11267.82,SYNTHETIC
+2025-06-01,Allied Health,Broome,139.5,10687.97,SYNTHETIC
+2025-06-01,Care Worker,Perth North,164.7,8504.01,SYNTHETIC
+2025-06-01,Care Worker,Perth South,663.2,34241.94,SYNTHETIC
+2025-06-01,Care Worker,Bunbury,153.4,7921.7,SYNTHETIC
+2025-06-01,Care Worker,Geraldton,149.7,7728.11,SYNTHETIC
+2025-06-01,Care Worker,Kalgoorlie,121.6,6280.57,SYNTHETIC
+2025-06-01,Care Worker,Broome,219.9,11353.49,SYNTHETIC
+2025-06-01,Administration,Perth North,57.9,3375.4,SYNTHETIC
+2025-06-01,Administration,Perth South,23.1,1346.97,SYNTHETIC
+2025-06-01,Administration,Bunbury,6.9,402.35,SYNTHETIC
+2025-06-01,Administration,Geraldton,31.5,1834.21,SYNTHETIC
+2025-06-01,Administration,Kalgoorlie,23.2,1354.69,SYNTHETIC
+2025-06-01,Administration,Broome,20.8,1212.84,SYNTHETIC
+2025-06-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-06-01,Support Services,Perth South,96.1,4802.94,SYNTHETIC
+2025-06-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-06-01,Support Services,Geraldton,97.4,4867.32,SYNTHETIC
+2025-06-01,Support Services,Kalgoorlie,112.3,5613.23,SYNTHETIC
+2025-06-01,Support Services,Broome,100.0,4994.41,SYNTHETIC
+2025-07-01,Registered Nurse,Perth North,298.9,24392.63,SYNTHETIC
+2025-07-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-07-01,Registered Nurse,Bunbury,181.6,14820.41,SYNTHETIC
+2025-07-01,Registered Nurse,Geraldton,123.9,10112.35,SYNTHETIC
+2025-07-01,Registered Nurse,Kalgoorlie,677.9,55328.18,SYNTHETIC
+2025-07-01,Registered Nurse,Broome,104.3,8512.8,SYNTHETIC
+2025-07-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-07-01,Midwife,Perth South,103.4,8694.78,SYNTHETIC
+2025-07-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-07-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-07-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-07-01,Midwife,Broome,15.0,1258.95,SYNTHETIC
+2025-07-01,Enrolled Nurse,Perth North,460.4,27604.53,SYNTHETIC
+2025-07-01,Enrolled Nurse,Perth South,394.2,23634.81,SYNTHETIC
+2025-07-01,Enrolled Nurse,Bunbury,43.5,2607.58,SYNTHETIC
+2025-07-01,Enrolled Nurse,Geraldton,86.7,5201.53,SYNTHETIC
+2025-07-01,Enrolled Nurse,Kalgoorlie,164.6,9871.35,SYNTHETIC
+2025-07-01,Enrolled Nurse,Broome,84.0,5036.18,SYNTHETIC
+2025-07-01,Medical Practitioner,Perth North,239.7,42922.49,SYNTHETIC
+2025-07-01,Medical Practitioner,Perth South,337.8,60475.75,SYNTHETIC
+2025-07-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-07-01,Medical Practitioner,Geraldton,105.0,18802.03,SYNTHETIC
+2025-07-01,Medical Practitioner,Kalgoorlie,147.4,26397.23,SYNTHETIC
+2025-07-01,Medical Practitioner,Broome,301.5,53977.94,SYNTHETIC
+2025-07-01,Allied Health,Perth North,71.4,5470.28,SYNTHETIC
+2025-07-01,Allied Health,Perth South,138.5,10609.35,SYNTHETIC
+2025-07-01,Allied Health,Bunbury,8.3,634.42,SYNTHETIC
+2025-07-01,Allied Health,Geraldton,111.0,8504.23,SYNTHETIC
+2025-07-01,Allied Health,Kalgoorlie,217.3,16650.44,SYNTHETIC
+2025-07-01,Allied Health,Broome,123.5,9465.36,SYNTHETIC
+2025-07-01,Care Worker,Perth North,104.4,5391.42,SYNTHETIC
+2025-07-01,Care Worker,Perth South,596.4,30792.65,SYNTHETIC
+2025-07-01,Care Worker,Bunbury,430.4,22224.11,SYNTHETIC
+2025-07-01,Care Worker,Geraldton,387.3,19995.09,SYNTHETIC
+2025-07-01,Care Worker,Kalgoorlie,121.8,6288.73,SYNTHETIC
+2025-07-01,Care Worker,Broome,250.7,12945.26,SYNTHETIC
+2025-07-01,Administration,Perth North,78.9,4598.68,SYNTHETIC
+2025-07-01,Administration,Perth South,25.3,1476.91,SYNTHETIC
+2025-07-01,Administration,Bunbury,14.2,825.51,SYNTHETIC
+2025-07-01,Administration,Geraldton,29.7,1729.69,SYNTHETIC
+2025-07-01,Administration,Kalgoorlie,8.5,495.81,SYNTHETIC
+2025-07-01,Administration,Broome,23.5,1368.34,SYNTHETIC
+2025-07-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-07-01,Support Services,Perth South,122.4,6115.31,SYNTHETIC
+2025-07-01,Support Services,Bunbury,13.0,649.06,SYNTHETIC
+2025-07-01,Support Services,Geraldton,90.8,4537.27,SYNTHETIC
+2025-07-01,Support Services,Kalgoorlie,65.9,3294.16,SYNTHETIC
+2025-07-01,Support Services,Broome,113.6,5677.22,SYNTHETIC
+2025-08-01,Registered Nurse,Perth North,304.0,24811.16,SYNTHETIC
+2025-08-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-08-01,Registered Nurse,Bunbury,161.1,13145.15,SYNTHETIC
+2025-08-01,Registered Nurse,Geraldton,172.8,14102.02,SYNTHETIC
+2025-08-01,Registered Nurse,Kalgoorlie,518.4,42309.31,SYNTHETIC
+2025-08-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2025-08-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-08-01,Midwife,Perth South,118.2,9944.19,SYNTHETIC
+2025-08-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-08-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-08-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-08-01,Midwife,Broome,16.4,1379.36,SYNTHETIC
+2025-08-01,Enrolled Nurse,Perth North,465.3,27898.28,SYNTHETIC
+2025-08-01,Enrolled Nurse,Perth South,355.7,21325.14,SYNTHETIC
+2025-08-01,Enrolled Nurse,Bunbury,48.7,2921.9,SYNTHETIC
+2025-08-01,Enrolled Nurse,Geraldton,110.3,6613.5,SYNTHETIC
+2025-08-01,Enrolled Nurse,Kalgoorlie,161.4,9677.68,SYNTHETIC
+2025-08-01,Enrolled Nurse,Broome,69.7,4178.45,SYNTHETIC
+2025-08-01,Medical Practitioner,Perth North,204.6,36631.29,SYNTHETIC
+2025-08-01,Medical Practitioner,Perth South,212.1,37981.6,SYNTHETIC
+2025-08-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-08-01,Medical Practitioner,Geraldton,92.4,16536.66,SYNTHETIC
+2025-08-01,Medical Practitioner,Kalgoorlie,201.4,36056.14,SYNTHETIC
+2025-08-01,Medical Practitioner,Broome,281.5,50406.31,SYNTHETIC
+2025-08-01,Allied Health,Perth North,104.9,8039.63,SYNTHETIC
+2025-08-01,Allied Health,Perth South,104.4,7999.16,SYNTHETIC
+2025-08-01,Allied Health,Bunbury,0.0,0.0,SYNTHETIC
+2025-08-01,Allied Health,Geraldton,109.3,8374.06,SYNTHETIC
+2025-08-01,Allied Health,Kalgoorlie,171.9,13170.38,SYNTHETIC
+2025-08-01,Allied Health,Broome,95.0,7280.61,SYNTHETIC
+2025-08-01,Care Worker,Perth North,88.1,4548.23,SYNTHETIC
+2025-08-01,Care Worker,Perth South,558.2,28820.36,SYNTHETIC
+2025-08-01,Care Worker,Bunbury,328.6,16966.08,SYNTHETIC
+2025-08-01,Care Worker,Geraldton,247.5,12778.64,SYNTHETIC
+2025-08-01,Care Worker,Kalgoorlie,71.6,3695.32,SYNTHETIC
+2025-08-01,Care Worker,Broome,369.7,19089.19,SYNTHETIC
+2025-08-01,Administration,Perth North,66.5,3874.24,SYNTHETIC
+2025-08-01,Administration,Perth South,33.6,1960.49,SYNTHETIC
+2025-08-01,Administration,Bunbury,13.3,775.13,SYNTHETIC
+2025-08-01,Administration,Geraldton,37.2,2166.98,SYNTHETIC
+2025-08-01,Administration,Kalgoorlie,8.7,505.26,SYNTHETIC
+2025-08-01,Administration,Broome,21.5,1255.26,SYNTHETIC
+2025-08-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-08-01,Support Services,Perth South,117.5,5869.36,SYNTHETIC
+2025-08-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-08-01,Support Services,Geraldton,105.0,5248.36,SYNTHETIC
+2025-08-01,Support Services,Kalgoorlie,69.9,3493.11,SYNTHETIC
+2025-08-01,Support Services,Broome,97.5,4871.79,SYNTHETIC
+2025-09-01,Registered Nurse,Perth North,19.0,1548.25,SYNTHETIC
+2025-09-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-09-01,Registered Nurse,Bunbury,8.3,674.72,SYNTHETIC
+2025-09-01,Registered Nurse,Geraldton,120.6,9844.63,SYNTHETIC
+2025-09-01,Registered Nurse,Kalgoorlie,559.3,45648.01,SYNTHETIC
+2025-09-01,Registered Nurse,Broome,67.9,5544.94,SYNTHETIC
+2025-09-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-09-01,Midwife,Perth South,101.7,8554.58,SYNTHETIC
+2025-09-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-09-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-09-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-09-01,Midwife,Broome,19.4,1632.19,SYNTHETIC
+2025-09-01,Enrolled Nurse,Perth North,402.8,24149.13,SYNTHETIC
+2025-09-01,Enrolled Nurse,Perth South,318.3,19085.92,SYNTHETIC
+2025-09-01,Enrolled Nurse,Bunbury,43.6,2612.11,SYNTHETIC
+2025-09-01,Enrolled Nurse,Geraldton,83.4,4998.4,SYNTHETIC
+2025-09-01,Enrolled Nurse,Kalgoorlie,158.0,9475.77,SYNTHETIC
+2025-09-01,Enrolled Nurse,Broome,68.1,4084.45,SYNTHETIC
+2025-09-01,Medical Practitioner,Perth North,256.3,45896.2,SYNTHETIC
+2025-09-01,Medical Practitioner,Perth South,186.1,33319.71,SYNTHETIC
+2025-09-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-09-01,Medical Practitioner,Geraldton,97.5,17460.0,SYNTHETIC
+2025-09-01,Medical Practitioner,Kalgoorlie,141.4,25319.25,SYNTHETIC
+2025-09-01,Medical Practitioner,Broome,231.4,41425.96,SYNTHETIC
+2025-09-01,Allied Health,Perth North,37.0,2837.15,SYNTHETIC
+2025-09-01,Allied Health,Perth South,114.5,8769.28,SYNTHETIC
+2025-09-01,Allied Health,Bunbury,36.5,2794.38,SYNTHETIC
+2025-09-01,Allied Health,Geraldton,112.7,8633.78,SYNTHETIC
+2025-09-01,Allied Health,Kalgoorlie,164.9,12637.62,SYNTHETIC
+2025-09-01,Allied Health,Broome,121.6,9313.61,SYNTHETIC
+2025-09-01,Care Worker,Perth North,256.3,13235.58,SYNTHETIC
+2025-09-01,Care Worker,Perth South,584.3,30169.48,SYNTHETIC
+2025-09-01,Care Worker,Bunbury,321.4,16593.86,SYNTHETIC
+2025-09-01,Care Worker,Geraldton,294.2,15192.68,SYNTHETIC
+2025-09-01,Care Worker,Kalgoorlie,151.4,7817.54,SYNTHETIC
+2025-09-01,Care Worker,Broome,281.0,14506.82,SYNTHETIC
+2025-09-01,Administration,Perth North,84.6,4932.49,SYNTHETIC
+2025-09-01,Administration,Perth South,33.4,1946.12,SYNTHETIC
+2025-09-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2025-09-01,Administration,Geraldton,39.9,2328.44,SYNTHETIC
+2025-09-01,Administration,Kalgoorlie,17.8,1037.44,SYNTHETIC
+2025-09-01,Administration,Broome,62.7,3654.28,SYNTHETIC
+2025-09-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-09-01,Support Services,Perth South,106.6,5328.01,SYNTHETIC
+2025-09-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-09-01,Support Services,Geraldton,125.9,6292.42,SYNTHETIC
+2025-09-01,Support Services,Kalgoorlie,79.9,3992.49,SYNTHETIC
+2025-09-01,Support Services,Broome,120.4,6017.57,SYNTHETIC
+2025-10-01,Registered Nurse,Perth North,46.1,3760.74,SYNTHETIC
+2025-10-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-10-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-10-01,Registered Nurse,Geraldton,132.3,10799.25,SYNTHETIC
+2025-10-01,Registered Nurse,Kalgoorlie,534.4,43613.22,SYNTHETIC
+2025-10-01,Registered Nurse,Broome,194.7,15892.08,SYNTHETIC
+2025-10-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-10-01,Midwife,Perth South,92.9,7814.52,SYNTHETIC
+2025-10-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-10-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-10-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-10-01,Midwife,Broome,18.1,1519.3,SYNTHETIC
+2025-10-01,Enrolled Nurse,Perth North,485.0,29081.55,SYNTHETIC
+2025-10-01,Enrolled Nurse,Perth South,263.9,15822.91,SYNTHETIC
+2025-10-01,Enrolled Nurse,Bunbury,49.9,2990.16,SYNTHETIC
+2025-10-01,Enrolled Nurse,Geraldton,82.9,4971.69,SYNTHETIC
+2025-10-01,Enrolled Nurse,Kalgoorlie,144.9,8686.39,SYNTHETIC
+2025-10-01,Enrolled Nurse,Broome,80.2,4811.53,SYNTHETIC
+2025-10-01,Medical Practitioner,Perth North,315.0,56393.2,SYNTHETIC
+2025-10-01,Medical Practitioner,Perth South,196.4,35167.59,SYNTHETIC
+2025-10-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-10-01,Medical Practitioner,Geraldton,89.9,16099.93,SYNTHETIC
+2025-10-01,Medical Practitioner,Kalgoorlie,156.7,28061.19,SYNTHETIC
+2025-10-01,Medical Practitioner,Broome,222.3,39802.33,SYNTHETIC
+2025-10-01,Allied Health,Perth North,126.4,9680.56,SYNTHETIC
+2025-10-01,Allied Health,Perth South,91.2,6984.74,SYNTHETIC
+2025-10-01,Allied Health,Bunbury,45.6,3495.86,SYNTHETIC
+2025-10-01,Allied Health,Geraldton,122.9,9416.32,SYNTHETIC
+2025-10-01,Allied Health,Kalgoorlie,148.1,11346.65,SYNTHETIC
+2025-10-01,Allied Health,Broome,122.8,9409.83,SYNTHETIC
+2025-10-01,Care Worker,Perth North,292.0,15078.49,SYNTHETIC
+2025-10-01,Care Worker,Perth South,459.6,23729.7,SYNTHETIC
+2025-10-01,Care Worker,Bunbury,122.8,6339.06,SYNTHETIC
+2025-10-01,Care Worker,Geraldton,360.5,18611.13,SYNTHETIC
+2025-10-01,Care Worker,Kalgoorlie,234.9,12129.19,SYNTHETIC
+2025-10-01,Care Worker,Broome,318.0,16417.0,SYNTHETIC
+2025-10-01,Administration,Perth North,119.9,6987.26,SYNTHETIC
+2025-10-01,Administration,Perth South,49.1,2864.68,SYNTHETIC
+2025-10-01,Administration,Bunbury,0.0,0.0,SYNTHETIC
+2025-10-01,Administration,Geraldton,38.1,2220.78,SYNTHETIC
+2025-10-01,Administration,Kalgoorlie,25.1,1460.71,SYNTHETIC
+2025-10-01,Administration,Broome,25.9,1509.12,SYNTHETIC
+2025-10-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-10-01,Support Services,Perth South,186.7,9326.53,SYNTHETIC
+2025-10-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-10-01,Support Services,Geraldton,93.2,4656.14,SYNTHETIC
+2025-10-01,Support Services,Kalgoorlie,73.3,3662.06,SYNTHETIC
+2025-10-01,Support Services,Broome,105.5,5269.83,SYNTHETIC
+2025-11-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2025-11-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-11-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-11-01,Registered Nurse,Geraldton,159.8,13041.21,SYNTHETIC
+2025-11-01,Registered Nurse,Kalgoorlie,496.4,40510.0,SYNTHETIC
+2025-11-01,Registered Nurse,Broome,242.5,19794.91,SYNTHETIC
+2025-11-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-11-01,Midwife,Perth South,125.6,10563.95,SYNTHETIC
+2025-11-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-11-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-11-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-11-01,Midwife,Broome,20.5,1721.97,SYNTHETIC
+2025-11-01,Enrolled Nurse,Perth North,500.1,29985.93,SYNTHETIC
+2025-11-01,Enrolled Nurse,Perth South,332.0,19906.61,SYNTHETIC
+2025-11-01,Enrolled Nurse,Bunbury,40.3,2419.22,SYNTHETIC
+2025-11-01,Enrolled Nurse,Geraldton,92.5,5549.01,SYNTHETIC
+2025-11-01,Enrolled Nurse,Kalgoorlie,130.4,7817.16,SYNTHETIC
+2025-11-01,Enrolled Nurse,Broome,77.3,4632.19,SYNTHETIC
+2025-11-01,Medical Practitioner,Perth North,327.9,58706.97,SYNTHETIC
+2025-11-01,Medical Practitioner,Perth South,240.2,43007.93,SYNTHETIC
+2025-11-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-11-01,Medical Practitioner,Geraldton,88.4,15826.91,SYNTHETIC
+2025-11-01,Medical Practitioner,Kalgoorlie,191.7,34314.75,SYNTHETIC
+2025-11-01,Medical Practitioner,Broome,278.2,49816.64,SYNTHETIC
+2025-11-01,Allied Health,Perth North,98.6,7551.76,SYNTHETIC
+2025-11-01,Allied Health,Perth South,130.3,9984.23,SYNTHETIC
+2025-11-01,Allied Health,Bunbury,60.4,4626.87,SYNTHETIC
+2025-11-01,Allied Health,Geraldton,104.7,8022.72,SYNTHETIC
+2025-11-01,Allied Health,Kalgoorlie,159.8,12239.61,SYNTHETIC
+2025-11-01,Allied Health,Broome,127.2,9746.55,SYNTHETIC
+2025-11-01,Care Worker,Perth North,102.2,5277.17,SYNTHETIC
+2025-11-01,Care Worker,Perth South,625.9,32319.05,SYNTHETIC
+2025-11-01,Care Worker,Bunbury,192.2,9922.89,SYNTHETIC
+2025-11-01,Care Worker,Geraldton,355.0,18331.87,SYNTHETIC
+2025-11-01,Care Worker,Kalgoorlie,121.8,6290.18,SYNTHETIC
+2025-11-01,Care Worker,Broome,243.4,12569.21,SYNTHETIC
+2025-11-01,Administration,Perth North,87.7,5112.12,SYNTHETIC
+2025-11-01,Administration,Perth South,46.0,2680.76,SYNTHETIC
+2025-11-01,Administration,Bunbury,16.6,967.2,SYNTHETIC
+2025-11-01,Administration,Geraldton,31.7,1845.95,SYNTHETIC
+2025-11-01,Administration,Kalgoorlie,25.3,1477.03,SYNTHETIC
+2025-11-01,Administration,Broome,34.8,2026.92,SYNTHETIC
+2025-11-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-11-01,Support Services,Perth South,123.3,6163.08,SYNTHETIC
+2025-11-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-11-01,Support Services,Geraldton,98.0,4894.87,SYNTHETIC
+2025-11-01,Support Services,Kalgoorlie,136.2,6807.35,SYNTHETIC
+2025-11-01,Support Services,Broome,91.6,4577.5,SYNTHETIC
+2025-12-01,Registered Nurse,Perth North,116.3,9493.33,SYNTHETIC
+2025-12-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2025-12-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-12-01,Registered Nurse,Geraldton,141.1,11514.0,SYNTHETIC
+2025-12-01,Registered Nurse,Kalgoorlie,528.6,43140.82,SYNTHETIC
+2025-12-01,Registered Nurse,Broome,173.1,14125.55,SYNTHETIC
+2025-12-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2025-12-01,Midwife,Perth South,102.8,8642.36,SYNTHETIC
+2025-12-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2025-12-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2025-12-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2025-12-01,Midwife,Broome,20.7,1742.41,SYNTHETIC
+2025-12-01,Enrolled Nurse,Perth North,489.8,29370.13,SYNTHETIC
+2025-12-01,Enrolled Nurse,Perth South,416.1,24950.83,SYNTHETIC
+2025-12-01,Enrolled Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2025-12-01,Enrolled Nurse,Geraldton,110.4,6619.84,SYNTHETIC
+2025-12-01,Enrolled Nurse,Kalgoorlie,160.7,9635.92,SYNTHETIC
+2025-12-01,Enrolled Nurse,Broome,83.2,4988.27,SYNTHETIC
+2025-12-01,Medical Practitioner,Perth North,306.4,54867.11,SYNTHETIC
+2025-12-01,Medical Practitioner,Perth South,357.6,64025.83,SYNTHETIC
+2025-12-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2025-12-01,Medical Practitioner,Geraldton,75.7,13550.55,SYNTHETIC
+2025-12-01,Medical Practitioner,Kalgoorlie,166.2,29763.74,SYNTHETIC
+2025-12-01,Medical Practitioner,Broome,253.3,45359.58,SYNTHETIC
+2025-12-01,Allied Health,Perth North,110.6,8471.07,SYNTHETIC
+2025-12-01,Allied Health,Perth South,79.8,6115.02,SYNTHETIC
+2025-12-01,Allied Health,Bunbury,60.6,4646.43,SYNTHETIC
+2025-12-01,Allied Health,Geraldton,166.6,12760.6,SYNTHETIC
+2025-12-01,Allied Health,Kalgoorlie,115.7,8868.04,SYNTHETIC
+2025-12-01,Allied Health,Broome,134.7,10320.59,SYNTHETIC
+2025-12-01,Care Worker,Perth North,260.9,13470.95,SYNTHETIC
+2025-12-01,Care Worker,Perth South,644.4,33272.61,SYNTHETIC
+2025-12-01,Care Worker,Bunbury,153.7,7936.48,SYNTHETIC
+2025-12-01,Care Worker,Geraldton,318.4,16438.24,SYNTHETIC
+2025-12-01,Care Worker,Kalgoorlie,226.3,11684.78,SYNTHETIC
+2025-12-01,Care Worker,Broome,297.9,15379.73,SYNTHETIC
+2025-12-01,Administration,Perth North,78.1,4551.13,SYNTHETIC
+2025-12-01,Administration,Perth South,25.5,1483.91,SYNTHETIC
+2025-12-01,Administration,Bunbury,15.7,913.68,SYNTHETIC
+2025-12-01,Administration,Geraldton,37.1,2161.89,SYNTHETIC
+2025-12-01,Administration,Kalgoorlie,13.3,774.78,SYNTHETIC
+2025-12-01,Administration,Broome,34.4,2003.25,SYNTHETIC
+2025-12-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2025-12-01,Support Services,Perth South,119.3,5960.85,SYNTHETIC
+2025-12-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2025-12-01,Support Services,Geraldton,116.5,5820.76,SYNTHETIC
+2025-12-01,Support Services,Kalgoorlie,139.9,6992.58,SYNTHETIC
+2025-12-01,Support Services,Broome,104.6,5226.81,SYNTHETIC
+2026-01-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2026-01-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2026-01-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2026-01-01,Registered Nurse,Geraldton,202.6,16533.64,SYNTHETIC
+2026-01-01,Registered Nurse,Kalgoorlie,621.0,50684.89,SYNTHETIC
+2026-01-01,Registered Nurse,Broome,352.0,28726.9,SYNTHETIC
+2026-01-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2026-01-01,Midwife,Perth South,113.3,9526.02,SYNTHETIC
+2026-01-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2026-01-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2026-01-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2026-01-01,Midwife,Broome,17.6,1484.42,SYNTHETIC
+2026-01-01,Enrolled Nurse,Perth North,414.7,24864.8,SYNTHETIC
+2026-01-01,Enrolled Nurse,Perth South,222.7,13351.99,SYNTHETIC
+2026-01-01,Enrolled Nurse,Bunbury,44.1,2644.27,SYNTHETIC
+2026-01-01,Enrolled Nurse,Geraldton,82.5,4944.44,SYNTHETIC
+2026-01-01,Enrolled Nurse,Kalgoorlie,121.5,7283.49,SYNTHETIC
+2026-01-01,Enrolled Nurse,Broome,141.3,8475.07,SYNTHETIC
+2026-01-01,Medical Practitioner,Perth North,383.5,68667.53,SYNTHETIC
+2026-01-01,Medical Practitioner,Perth South,725.8,129958.4,SYNTHETIC
+2026-01-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2026-01-01,Medical Practitioner,Geraldton,105.7,18927.13,SYNTHETIC
+2026-01-01,Medical Practitioner,Kalgoorlie,189.3,33894.35,SYNTHETIC
+2026-01-01,Medical Practitioner,Broome,269.3,48222.54,SYNTHETIC
+2026-01-01,Allied Health,Perth North,50.5,3871.68,SYNTHETIC
+2026-01-01,Allied Health,Perth South,21.9,1675.62,SYNTHETIC
+2026-01-01,Allied Health,Bunbury,11.7,898.15,SYNTHETIC
+2026-01-01,Allied Health,Geraldton,186.0,14248.88,SYNTHETIC
+2026-01-01,Allied Health,Kalgoorlie,187.4,14357.23,SYNTHETIC
+2026-01-01,Allied Health,Broome,121.3,9293.59,SYNTHETIC
+2026-01-01,Care Worker,Perth North,246.8,12742.22,SYNTHETIC
+2026-01-01,Care Worker,Perth South,549.1,28349.03,SYNTHETIC
+2026-01-01,Care Worker,Bunbury,265.8,13724.42,SYNTHETIC
+2026-01-01,Care Worker,Geraldton,314.4,16231.29,SYNTHETIC
+2026-01-01,Care Worker,Kalgoorlie,200.0,10326.36,SYNTHETIC
+2026-01-01,Care Worker,Broome,412.6,21301.04,SYNTHETIC
+2026-01-01,Administration,Perth North,112.7,6571.06,SYNTHETIC
+2026-01-01,Administration,Perth South,45.2,2633.29,SYNTHETIC
+2026-01-01,Administration,Bunbury,36.4,2121.68,SYNTHETIC
+2026-01-01,Administration,Geraldton,31.4,1829.88,SYNTHETIC
+2026-01-01,Administration,Kalgoorlie,0.0,0.0,SYNTHETIC
+2026-01-01,Administration,Broome,32.5,1891.98,SYNTHETIC
+2026-01-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2026-01-01,Support Services,Perth South,77.5,3870.68,SYNTHETIC
+2026-01-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2026-01-01,Support Services,Geraldton,103.7,5180.65,SYNTHETIC
+2026-01-01,Support Services,Kalgoorlie,88.8,4438.45,SYNTHETIC
+2026-01-01,Support Services,Broome,110.1,5501.44,SYNTHETIC
+2026-02-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2026-02-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2026-02-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2026-02-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2026-02-01,Registered Nurse,Kalgoorlie,385.2,31438.59,SYNTHETIC
+2026-02-01,Registered Nurse,Broome,237.8,19405.94,SYNTHETIC
+2026-02-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2026-02-01,Midwife,Perth South,105.0,8833.08,SYNTHETIC
+2026-02-01,Midwife,Bunbury,60.7,5108.67,SYNTHETIC
+2026-02-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2026-02-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2026-02-01,Midwife,Broome,21.2,1781.1,SYNTHETIC
+2026-02-01,Enrolled Nurse,Perth North,435.6,26117.17,SYNTHETIC
+2026-02-01,Enrolled Nurse,Perth South,167.6,10052.18,SYNTHETIC
+2026-02-01,Enrolled Nurse,Bunbury,15.5,926.76,SYNTHETIC
+2026-02-01,Enrolled Nurse,Geraldton,102.4,6139.94,SYNTHETIC
+2026-02-01,Enrolled Nurse,Kalgoorlie,155.8,9339.02,SYNTHETIC
+2026-02-01,Enrolled Nurse,Broome,156.9,9405.46,SYNTHETIC
+2026-02-01,Medical Practitioner,Perth North,548.7,98249.41,SYNTHETIC
+2026-02-01,Medical Practitioner,Perth South,751.5,134545.69,SYNTHETIC
+2026-02-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2026-02-01,Medical Practitioner,Geraldton,85.9,15389.05,SYNTHETIC
+2026-02-01,Medical Practitioner,Kalgoorlie,125.6,22490.47,SYNTHETIC
+2026-02-01,Medical Practitioner,Broome,266.2,47666.65,SYNTHETIC
+2026-02-01,Allied Health,Perth North,105.9,8116.14,SYNTHETIC
+2026-02-01,Allied Health,Perth South,29.1,2228.3,SYNTHETIC
+2026-02-01,Allied Health,Bunbury,51.2,3925.13,SYNTHETIC
+2026-02-01,Allied Health,Geraldton,141.7,10855.63,SYNTHETIC
+2026-02-01,Allied Health,Kalgoorlie,228.6,17510.85,SYNTHETIC
+2026-02-01,Allied Health,Broome,135.6,10390.94,SYNTHETIC
+2026-02-01,Care Worker,Perth North,460.4,23770.74,SYNTHETIC
+2026-02-01,Care Worker,Perth South,536.4,27693.9,SYNTHETIC
+2026-02-01,Care Worker,Bunbury,241.7,12477.09,SYNTHETIC
+2026-02-01,Care Worker,Geraldton,402.8,20799.3,SYNTHETIC
+2026-02-01,Care Worker,Kalgoorlie,224.7,11603.61,SYNTHETIC
+2026-02-01,Care Worker,Broome,365.0,18847.28,SYNTHETIC
+2026-02-01,Administration,Perth North,87.0,5074.46,SYNTHETIC
+2026-02-01,Administration,Perth South,29.0,1689.64,SYNTHETIC
+2026-02-01,Administration,Bunbury,17.9,1043.97,SYNTHETIC
+2026-02-01,Administration,Geraldton,36.2,2107.92,SYNTHETIC
+2026-02-01,Administration,Kalgoorlie,30.9,1798.53,SYNTHETIC
+2026-02-01,Administration,Broome,35.1,2044.35,SYNTHETIC
+2026-02-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2026-02-01,Support Services,Perth South,106.1,5303.03,SYNTHETIC
+2026-02-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2026-02-01,Support Services,Geraldton,91.6,4575.7,SYNTHETIC
+2026-02-01,Support Services,Kalgoorlie,112.9,5643.54,SYNTHETIC
+2026-02-01,Support Services,Broome,80.1,4000.48,SYNTHETIC
+2026-03-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2026-03-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2026-03-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2026-03-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2026-03-01,Registered Nurse,Kalgoorlie,425.6,34737.22,SYNTHETIC
+2026-03-01,Registered Nurse,Broome,132.5,10809.77,SYNTHETIC
+2026-03-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2026-03-01,Midwife,Perth South,120.1,10099.73,SYNTHETIC
+2026-03-01,Midwife,Bunbury,52.8,4440.48,SYNTHETIC
+2026-03-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2026-03-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2026-03-01,Midwife,Broome,18.6,1560.54,SYNTHETIC
+2026-03-01,Enrolled Nurse,Perth North,392.9,23559.42,SYNTHETIC
+2026-03-01,Enrolled Nurse,Perth South,130.9,7846.31,SYNTHETIC
+2026-03-01,Enrolled Nurse,Bunbury,78.5,4708.94,SYNTHETIC
+2026-03-01,Enrolled Nurse,Geraldton,112.7,6759.76,SYNTHETIC
+2026-03-01,Enrolled Nurse,Kalgoorlie,119.3,7151.37,SYNTHETIC
+2026-03-01,Enrolled Nurse,Broome,146.8,8802.27,SYNTHETIC
+2026-03-01,Medical Practitioner,Perth North,433.1,77550.05,SYNTHETIC
+2026-03-01,Medical Practitioner,Perth South,404.9,72504.76,SYNTHETIC
+2026-03-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2026-03-01,Medical Practitioner,Geraldton,76.9,13770.38,SYNTHETIC
+2026-03-01,Medical Practitioner,Kalgoorlie,107.9,19323.81,SYNTHETIC
+2026-03-01,Medical Practitioner,Broome,259.5,46457.94,SYNTHETIC
+2026-03-01,Allied Health,Perth North,152.8,11704.61,SYNTHETIC
+2026-03-01,Allied Health,Perth South,27.4,2101.18,SYNTHETIC
+2026-03-01,Allied Health,Bunbury,8.5,647.96,SYNTHETIC
+2026-03-01,Allied Health,Geraldton,147.6,11309.12,SYNTHETIC
+2026-03-01,Allied Health,Kalgoorlie,243.1,18629.07,SYNTHETIC
+2026-03-01,Allied Health,Broome,104.8,8028.47,SYNTHETIC
+2026-03-01,Care Worker,Perth North,430.0,22203.97,SYNTHETIC
+2026-03-01,Care Worker,Perth South,635.1,32789.84,SYNTHETIC
+2026-03-01,Care Worker,Bunbury,440.9,22766.07,SYNTHETIC
+2026-03-01,Care Worker,Geraldton,346.7,17900.43,SYNTHETIC
+2026-03-01,Care Worker,Kalgoorlie,278.0,14353.97,SYNTHETIC
+2026-03-01,Care Worker,Broome,353.8,18268.01,SYNTHETIC
+2026-03-01,Administration,Perth North,108.0,6297.04,SYNTHETIC
+2026-03-01,Administration,Perth South,21.8,1270.72,SYNTHETIC
+2026-03-01,Administration,Bunbury,15.0,875.35,SYNTHETIC
+2026-03-01,Administration,Geraldton,35.5,2071.85,SYNTHETIC
+2026-03-01,Administration,Kalgoorlie,31.6,1842.01,SYNTHETIC
+2026-03-01,Administration,Broome,26.0,1517.19,SYNTHETIC
+2026-03-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2026-03-01,Support Services,Perth South,129.5,6472.06,SYNTHETIC
+2026-03-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2026-03-01,Support Services,Geraldton,113.0,5647.45,SYNTHETIC
+2026-03-01,Support Services,Kalgoorlie,57.9,2891.36,SYNTHETIC
+2026-03-01,Support Services,Broome,80.8,4035.65,SYNTHETIC
+2026-04-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2026-04-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2026-04-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2026-04-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2026-04-01,Registered Nurse,Kalgoorlie,554.7,45271.79,SYNTHETIC
+2026-04-01,Registered Nurse,Broome,57.6,4704.76,SYNTHETIC
+2026-04-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2026-04-01,Midwife,Perth South,128.1,10776.29,SYNTHETIC
+2026-04-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2026-04-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2026-04-01,Midwife,Kalgoorlie,23.7,1993.13,SYNTHETIC
+2026-04-01,Midwife,Broome,17.6,1480.58,SYNTHETIC
+2026-04-01,Enrolled Nurse,Perth North,376.9,22596.43,SYNTHETIC
+2026-04-01,Enrolled Nurse,Perth South,134.3,8053.85,SYNTHETIC
+2026-04-01,Enrolled Nurse,Bunbury,15.8,947.46,SYNTHETIC
+2026-04-01,Enrolled Nurse,Geraldton,89.9,5389.96,SYNTHETIC
+2026-04-01,Enrolled Nurse,Kalgoorlie,116.7,6995.82,SYNTHETIC
+2026-04-01,Enrolled Nurse,Broome,129.2,7744.91,SYNTHETIC
+2026-04-01,Medical Practitioner,Perth North,71.7,12846.4,SYNTHETIC
+2026-04-01,Medical Practitioner,Perth South,335.6,60089.35,SYNTHETIC
+2026-04-01,Medical Practitioner,Bunbury,0.0,0.0,SYNTHETIC
+2026-04-01,Medical Practitioner,Geraldton,89.1,15957.35,SYNTHETIC
+2026-04-01,Medical Practitioner,Kalgoorlie,135.3,24221.58,SYNTHETIC
+2026-04-01,Medical Practitioner,Broome,517.3,92629.5,SYNTHETIC
+2026-04-01,Allied Health,Perth North,86.7,6645.11,SYNTHETIC
+2026-04-01,Allied Health,Perth South,23.2,1777.11,SYNTHETIC
+2026-04-01,Allied Health,Bunbury,11.1,851.04,SYNTHETIC
+2026-04-01,Allied Health,Geraldton,189.5,14516.17,SYNTHETIC
+2026-04-01,Allied Health,Kalgoorlie,197.9,15158.92,SYNTHETIC
+2026-04-01,Allied Health,Broome,116.9,8954.64,SYNTHETIC
+2026-04-01,Care Worker,Perth North,541.1,27938.02,SYNTHETIC
+2026-04-01,Care Worker,Perth South,579.9,29939.41,SYNTHETIC
+2026-04-01,Care Worker,Bunbury,221.8,11454.54,SYNTHETIC
+2026-04-01,Care Worker,Geraldton,301.3,15554.45,SYNTHETIC
+2026-04-01,Care Worker,Kalgoorlie,232.4,12001.59,SYNTHETIC
+2026-04-01,Care Worker,Broome,351.2,18134.56,SYNTHETIC
+2026-04-01,Administration,Perth North,91.1,5311.19,SYNTHETIC
+2026-04-01,Administration,Perth South,23.1,1344.94,SYNTHETIC
+2026-04-01,Administration,Bunbury,19.2,1119.7,SYNTHETIC
+2026-04-01,Administration,Geraldton,36.6,2135.88,SYNTHETIC
+2026-04-01,Administration,Kalgoorlie,36.2,2111.62,SYNTHETIC
+2026-04-01,Administration,Broome,34.5,2011.98,SYNTHETIC
+2026-04-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2026-04-01,Support Services,Perth South,105.4,5267.86,SYNTHETIC
+2026-04-01,Support Services,Bunbury,24.3,1215.07,SYNTHETIC
+2026-04-01,Support Services,Geraldton,88.5,4421.98,SYNTHETIC
+2026-04-01,Support Services,Kalgoorlie,58.7,2930.8,SYNTHETIC
+2026-04-01,Support Services,Broome,136.5,6819.17,SYNTHETIC
+2026-05-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2026-05-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2026-05-01,Registered Nurse,Bunbury,0.0,0.0,SYNTHETIC
+2026-05-01,Registered Nurse,Geraldton,0.0,0.0,SYNTHETIC
+2026-05-01,Registered Nurse,Kalgoorlie,384.1,31346.64,SYNTHETIC
+2026-05-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2026-05-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2026-05-01,Midwife,Perth South,128.2,10786.92,SYNTHETIC
+2026-05-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2026-05-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2026-05-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2026-05-01,Midwife,Broome,70.6,5936.64,SYNTHETIC
+2026-05-01,Enrolled Nurse,Perth North,357.9,21462.02,SYNTHETIC
+2026-05-01,Enrolled Nurse,Perth South,107.6,6448.8,SYNTHETIC
+2026-05-01,Enrolled Nurse,Bunbury,15.3,917.38,SYNTHETIC
+2026-05-01,Enrolled Nurse,Geraldton,49.8,2985.08,SYNTHETIC
+2026-05-01,Enrolled Nurse,Kalgoorlie,70.7,4239.29,SYNTHETIC
+2026-05-01,Enrolled Nurse,Broome,94.0,5634.51,SYNTHETIC
+2026-05-01,Medical Practitioner,Perth North,340.9,61044.15,SYNTHETIC
+2026-05-01,Medical Practitioner,Perth South,266.1,47652.36,SYNTHETIC
+2026-05-01,Medical Practitioner,Bunbury,110.5,19778.23,SYNTHETIC
+2026-05-01,Medical Practitioner,Geraldton,97.2,17403.46,SYNTHETIC
+2026-05-01,Medical Practitioner,Kalgoorlie,126.6,22665.61,SYNTHETIC
+2026-05-01,Medical Practitioner,Broome,517.0,92569.32,SYNTHETIC
+2026-05-01,Allied Health,Perth North,17.3,1323.23,SYNTHETIC
+2026-05-01,Allied Health,Perth South,20.6,1579.17,SYNTHETIC
+2026-05-01,Allied Health,Bunbury,11.5,880.67,SYNTHETIC
+2026-05-01,Allied Health,Geraldton,203.5,15587.6,SYNTHETIC
+2026-05-01,Allied Health,Kalgoorlie,139.1,10658.8,SYNTHETIC
+2026-05-01,Allied Health,Broome,105.1,8049.98,SYNTHETIC
+2026-05-01,Care Worker,Perth North,486.1,25097.19,SYNTHETIC
+2026-05-01,Care Worker,Perth South,577.8,29831.98,SYNTHETIC
+2026-05-01,Care Worker,Bunbury,203.6,10511.5,SYNTHETIC
+2026-05-01,Care Worker,Geraldton,344.5,17785.15,SYNTHETIC
+2026-05-01,Care Worker,Kalgoorlie,152.4,7870.52,SYNTHETIC
+2026-05-01,Care Worker,Broome,437.6,22594.71,SYNTHETIC
+2026-05-01,Administration,Perth North,92.6,5396.89,SYNTHETIC
+2026-05-01,Administration,Perth South,21.5,1255.11,SYNTHETIC
+2026-05-01,Administration,Bunbury,32.0,1864.6,SYNTHETIC
+2026-05-01,Administration,Geraldton,54.6,3181.04,SYNTHETIC
+2026-05-01,Administration,Kalgoorlie,19.1,1113.13,SYNTHETIC
+2026-05-01,Administration,Broome,46.1,2687.0,SYNTHETIC
+2026-05-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2026-05-01,Support Services,Perth South,177.1,8848.72,SYNTHETIC
+2026-05-01,Support Services,Bunbury,23.2,1158.16,SYNTHETIC
+2026-05-01,Support Services,Geraldton,114.0,5695.72,SYNTHETIC
+2026-05-01,Support Services,Kalgoorlie,73.2,3658.83,SYNTHETIC
+2026-05-01,Support Services,Broome,88.7,4430.58,SYNTHETIC
+2026-06-01,Registered Nurse,Perth North,0.0,0.0,SYNTHETIC
+2026-06-01,Registered Nurse,Perth South,0.0,0.0,SYNTHETIC
+2026-06-01,Registered Nurse,Bunbury,21.4,1745.55,SYNTHETIC
+2026-06-01,Registered Nurse,Geraldton,18.3,1494.41,SYNTHETIC
+2026-06-01,Registered Nurse,Kalgoorlie,426.5,34809.81,SYNTHETIC
+2026-06-01,Registered Nurse,Broome,0.0,0.0,SYNTHETIC
+2026-06-01,Midwife,Perth North,0.0,0.0,SYNTHETIC
+2026-06-01,Midwife,Perth South,119.1,10018.3,SYNTHETIC
+2026-06-01,Midwife,Bunbury,0.0,0.0,SYNTHETIC
+2026-06-01,Midwife,Geraldton,0.0,0.0,SYNTHETIC
+2026-06-01,Midwife,Kalgoorlie,0.0,0.0,SYNTHETIC
+2026-06-01,Midwife,Broome,58.6,4931.99,SYNTHETIC
+2026-06-01,Enrolled Nurse,Perth North,328.5,19696.4,SYNTHETIC
+2026-06-01,Enrolled Nurse,Perth South,72.7,4361.05,SYNTHETIC
+2026-06-01,Enrolled Nurse,Bunbury,13.2,792.44,SYNTHETIC
+2026-06-01,Enrolled Nurse,Geraldton,61.9,3710.35,SYNTHETIC
+2026-06-01,Enrolled Nurse,Kalgoorlie,56.5,3389.95,SYNTHETIC
+2026-06-01,Enrolled Nurse,Broome,142.5,8544.22,SYNTHETIC
+2026-06-01,Medical Practitioner,Perth North,275.8,49384.25,SYNTHETIC
+2026-06-01,Medical Practitioner,Perth South,287.0,51391.43,SYNTHETIC
+2026-06-01,Medical Practitioner,Bunbury,95.2,17040.25,SYNTHETIC
+2026-06-01,Medical Practitioner,Geraldton,95.9,17170.81,SYNTHETIC
+2026-06-01,Medical Practitioner,Kalgoorlie,115.0,20599.18,SYNTHETIC
+2026-06-01,Medical Practitioner,Broome,421.8,75514.62,SYNTHETIC
+2026-06-01,Allied Health,Perth North,21.7,1665.57,SYNTHETIC
+2026-06-01,Allied Health,Perth South,24.9,1906.53,SYNTHETIC
+2026-06-01,Allied Health,Bunbury,35.2,2693.3,SYNTHETIC
+2026-06-01,Allied Health,Geraldton,175.1,13413.51,SYNTHETIC
+2026-06-01,Allied Health,Kalgoorlie,122.0,9343.29,SYNTHETIC
+2026-06-01,Allied Health,Broome,123.4,9455.14,SYNTHETIC
+2026-06-01,Care Worker,Perth North,677.1,34962.09,SYNTHETIC
+2026-06-01,Care Worker,Perth South,683.3,35282.84,SYNTHETIC
+2026-06-01,Care Worker,Bunbury,93.8,4844.62,SYNTHETIC
+2026-06-01,Care Worker,Geraldton,316.1,16321.94,SYNTHETIC
+2026-06-01,Care Worker,Kalgoorlie,136.4,7041.19,SYNTHETIC
+2026-06-01,Care Worker,Broome,489.4,25268.85,SYNTHETIC
+2026-06-01,Administration,Perth North,87.2,5084.01,SYNTHETIC
+2026-06-01,Administration,Perth South,29.6,1723.42,SYNTHETIC
+2026-06-01,Administration,Bunbury,27.6,1607.57,SYNTHETIC
+2026-06-01,Administration,Geraldton,46.2,2694.09,SYNTHETIC
+2026-06-01,Administration,Kalgoorlie,23.6,1373.71,SYNTHETIC
+2026-06-01,Administration,Broome,18.6,1083.52,SYNTHETIC
+2026-06-01,Support Services,Perth North,0.0,0.0,SYNTHETIC
+2026-06-01,Support Services,Perth South,149.0,7446.01,SYNTHETIC
+2026-06-01,Support Services,Bunbury,0.0,0.0,SYNTHETIC
+2026-06-01,Support Services,Geraldton,100.8,5036.19,SYNTHETIC
+2026-06-01,Support Services,Kalgoorlie,66.2,3307.88,SYNTHETIC
+2026-06-01,Support Services,Broome,86.5,4322.02,SYNTHETIC

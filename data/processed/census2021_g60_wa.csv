@@ -1,0 +1,901 @@
+dataset,sex_code,sex,age_code,age,occupation_code,occupation,region_code,region,period,period_start,value,unit,unit_mult,value_scaled,obs_status,fy
+Census 2021 G60,3,Persons,15_19,15-19 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,4139,,0,4139,,FY2022
+Census 2021 G60,3,Persons,_T,Total,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,132123,,0,132123,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,33725,,0,33725,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,1,Managers,5,Western Australia,2021,2021-08-10,4607,,0,4607,,FY2022
+Census 2021 G60,3,Persons,_T,Total,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,100392,,0,100392,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,106,,0,106,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,11506,,0,11506,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,942,,0,942,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,3,,0,3,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,26904,,0,26904,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,53341,,0,53341,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,7596,,0,7596,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,14451,,0,14451,,FY2022
+Census 2021 G60,2,Females,_T,Total,_T,Total,5GPER,Greater Perth,2021,2021-08-10,509051,,0,509051,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,6330,,0,6330,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,176,,0,176,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,2558,,0,2558,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,318,,0,318,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,267,,0,267,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,6652,,0,6652,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1981,,0,1981,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,5274,,0,5274,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,291,,0,291,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,48815,,0,48815,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,958,,0,958,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,3845,,0,3845,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,114862,,0,114862,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,7746,,0,7746,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,8201,,0,8201,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,8,Labourers,5,Western Australia,2021,2021-08-10,16243,,0,16243,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,452,,0,452,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,18605,,0,18605,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,30,,0,30,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,22,,0,22,,FY2022
+Census 2021 G60,1,Males,_T,Total,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,35617,,0,35617,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,121186,,0,121186,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,2,Professionals,5,Western Australia,2021,2021-08-10,6079,,0,6079,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,4138,,0,4138,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,2205,,0,2205,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,359,,0,359,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,38807,,0,38807,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,1,Managers,5,Western Australia,2021,2021-08-10,16437,,0,16437,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,2177,,0,2177,,FY2022
+Census 2021 G60,2,Females,_T,Total,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,52822,,0,52822,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,22,,0,22,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,722,,0,722,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,110,,0,110,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,235359,,0,235359,,FY2022
+Census 2021 G60,2,Females,_T,Total,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,11880,,0,11880,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,5220,,0,5220,,FY2022
+Census 2021 G60,1,Males,_T,Total,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,64263,,0,64263,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,35108,,0,35108,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,603,,0,603,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,10111,,0,10111,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,38296,,0,38296,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,1743,,0,1743,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,77,,0,77,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,9959,,0,9959,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,8,,0,8,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,10,,0,10,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,8,Labourers,5,Western Australia,2021,2021-08-10,552,,0,552,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,36739,,0,36739,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,_T,Total,5,Western Australia,2021,2021-08-10,7233,,0,7233,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,1277,,0,1277,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,5650,,0,5650,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,8394,,0,8394,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,56,,0,56,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,_T,Total,5,Western Australia,2021,2021-08-10,294679,,0,294679,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,8554,,0,8554,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,_T,Total,5,Western Australia,2021,2021-08-10,34928,,0,34928,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,2675,,0,2675,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,668,,0,668,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,1647,,0,1647,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,2,Professionals,5,Western Australia,2021,2021-08-10,61516,,0,61516,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,5694,,0,5694,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,16845,,0,16845,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,3718,,0,3718,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,1,Managers,5,Western Australia,2021,2021-08-10,16180,,0,16180,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,8,Labourers,5,Western Australia,2021,2021-08-10,44,,0,44,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2208,,0,2208,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,1,Managers,5,Western Australia,2021,2021-08-10,10575,,0,10575,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,2400,,0,2400,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,1,Managers,5GPER,Greater Perth,2021,2021-08-10,60,,0,60,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,2,Professionals,5,Western Australia,2021,2021-08-10,12718,,0,12718,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,151,,0,151,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,978,,0,978,,FY2022
+Census 2021 G60,3,Persons,_T,Total,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,17595,,0,17595,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,338,,0,338,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,310,,0,310,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,3901,,0,3901,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,102,,0,102,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,966,,0,966,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,2224,,0,2224,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,111,,0,111,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,2647,,0,2647,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,187,,0,187,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,9233,,0,9233,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,23,,0,23,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,570,,0,570,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,3298,,0,3298,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,3082,,0,3082,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,4,,0,4,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,136,,0,136,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,8663,,0,8663,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,18457,,0,18457,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,7110,,0,7110,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,444,,0,444,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1406,,0,1406,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,272,,0,272,,FY2022
+Census 2021 G60,1,Males,_T,Total,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,57624,,0,57624,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,2090,,0,2090,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,19944,,0,19944,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,12642,,0,12642,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,14244,,0,14244,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,8540,,0,8540,,FY2022
+Census 2021 G60,3,Persons,_T,Total,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,250973,,0,250973,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,656,,0,656,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,232,,0,232,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,1040,,0,1040,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,1529,,0,1529,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,956,,0,956,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,3952,,0,3952,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,14,,0,14,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,4109,,0,4109,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,1,Managers,5GPER,Greater Perth,2021,2021-08-10,12,,0,12,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,4,,0,4,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,2,Professionals,5,Western Australia,2021,2021-08-10,1463,,0,1463,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,1666,,0,1666,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,751,,0,751,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,2507,,0,2507,,FY2022
+Census 2021 G60,1,Males,_T,Total,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,18276,,0,18276,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,22099,,0,22099,,FY2022
+Census 2021 G60,3,Persons,_T,Total,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,26465,,0,26465,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,15328,,0,15328,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,383,,0,383,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,5718,,0,5718,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,7105,,0,7105,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,_T,Total,5,Western Australia,2021,2021-08-10,282237,,0,282237,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,383,,0,383,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,281,,0,281,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,3223,,0,3223,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,9417,,0,9417,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,19643,,0,19643,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,14400,,0,14400,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,143,,0,143,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,84,,0,84,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,_T,Total,5,Western Australia,2021,2021-08-10,131522,,0,131522,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1612,,0,1612,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,3363,,0,3363,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,5778,,0,5778,,FY2022
+Census 2021 G60,3,Persons,_T,Total,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,155805,,0,155805,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,692,,0,692,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,2,Professionals,5,Western Australia,2021,2021-08-10,19341,,0,19341,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,622,,0,622,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,2,Professionals,5,Western Australia,2021,2021-08-10,22338,,0,22338,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,19610,,0,19610,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,2720,,0,2720,,FY2022
+Census 2021 G60,2,Females,_T,Total,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,13413,,0,13413,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,5055,,0,5055,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1651,,0,1651,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,746,,0,746,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,3347,,0,3347,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,360,,0,360,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,_T,Total,5GPER,Greater Perth,2021,2021-08-10,360,,0,360,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,45,,0,45,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,109,,0,109,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,_T,Total,5,Western Australia,2021,2021-08-10,34211,,0,34211,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,960,,0,960,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,502,,0,502,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,419,,0,419,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,934,,0,934,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,_T,Total,5,Western Australia,2021,2021-08-10,270399,,0,270399,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,809,,0,809,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,237,,0,237,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,8,Labourers,5,Western Australia,2021,2021-08-10,24510,,0,24510,,FY2022
+Census 2021 G60,3,Persons,_T,Total,_T,Total,5GPER,Greater Perth,2021,2021-08-10,1058890,,0,1058890,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,9124,,0,9124,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,2701,,0,2701,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,4446,,0,4446,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,2,Professionals,5,Western Australia,2021,2021-08-10,34363,,0,34363,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,5289,,0,5289,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,7921,,0,7921,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,75468,,0,75468,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,4982,,0,4982,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,2,Professionals,5,Western Australia,2021,2021-08-10,7070,,0,7070,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,1416,,0,1416,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,1454,,0,1454,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,12,,0,12,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,10915,,0,10915,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,591,,0,591,,FY2022
+Census 2021 G60,3,Persons,_T,Total,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,30737,,0,30737,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,3,,0,3,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,1959,,0,1959,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,294,,0,294,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,896,,0,896,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,24080,,0,24080,,FY2022
+Census 2021 G60,1,Males,_T,Total,2,Professionals,5,Western Australia,2021,2021-08-10,126076,,0,126076,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,1,Managers,5,Western Australia,2021,2021-08-10,25490,,0,25490,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,790,,0,790,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,5,,0,5,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,4436,,0,4436,,FY2022
+Census 2021 G60,3,Persons,_T,Total,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,199379,,0,199379,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,17168,,0,17168,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,163,,0,163,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,6342,,0,6342,,FY2022
+Census 2021 G60,3,Persons,_T,Total,1,Managers,5GPER,Greater Perth,2021,2021-08-10,125556,,0,125556,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,2,Professionals,5,Western Australia,2021,2021-08-10,421,,0,421,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,1,Managers,5,Western Australia,2021,2021-08-10,42405,,0,42405,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,704,,0,704,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,5479,,0,5479,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,6523,,0,6523,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,118,,0,118,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,828,,0,828,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,54,,0,54,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,6522,,0,6522,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,5626,,0,5626,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,8946,,0,8946,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,6134,,0,6134,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,22,,0,22,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,148,,0,148,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,13670,,0,13670,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2363,,0,2363,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,8,Labourers,5,Western Australia,2021,2021-08-10,5671,,0,5671,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,1,Managers,5,Western Australia,2021,2021-08-10,468,,0,468,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,44167,,0,44167,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,3045,,0,3045,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,51823,,0,51823,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,13956,,0,13956,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,8,Labourers,5,Western Australia,2021,2021-08-10,21122,,0,21122,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,585,,0,585,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,_T,Total,5GPER,Greater Perth,2021,2021-08-10,252,,0,252,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,50,,0,50,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,1,Managers,5,Western Australia,2021,2021-08-10,2945,,0,2945,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,65,,0,65,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,22477,,0,22477,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,19739,,0,19739,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,629,,0,629,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,1,Managers,5,Western Australia,2021,2021-08-10,1982,,0,1982,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,57492,,0,57492,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,21,,0,21,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,53153,,0,53153,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,7499,,0,7499,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,15513,,0,15513,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,4629,,0,4629,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,280,,0,280,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,30,,0,30,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2398,,0,2398,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,23771,,0,23771,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,8,Labourers,5,Western Australia,2021,2021-08-10,18329,,0,18329,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,7561,,0,7561,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,34809,,0,34809,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,1,Managers,5,Western Australia,2021,2021-08-10,38,,0,38,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,2,Professionals,5,Western Australia,2021,2021-08-10,30422,,0,30422,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,348,,0,348,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,6531,,0,6531,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,58,,0,58,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,3438,,0,3438,,FY2022
+Census 2021 G60,2,Females,_T,Total,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,91652,,0,91652,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,8,Labourers,5,Western Australia,2021,2021-08-10,8276,,0,8276,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,165,,0,165,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,40,,0,40,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,24666,,0,24666,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,21274,,0,21274,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,20,,0,20,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,180,,0,180,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,97,,0,97,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,10001,,0,10001,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1244,,0,1244,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,3422,,0,3422,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,_T,Total,5,Western Australia,2021,2021-08-10,139929,,0,139929,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,2626,,0,2626,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,35534,,0,35534,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,1424,,0,1424,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,6118,,0,6118,,FY2022
+Census 2021 G60,2,Females,_T,Total,8,Labourers,5,Western Australia,2021,2021-08-10,46803,,0,46803,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,8,Labourers,5,Western Australia,2021,2021-08-10,9735,,0,9735,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,4035,,0,4035,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,4264,,0,4264,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,845,,0,845,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,177,,0,177,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,452,,0,452,,FY2022
+Census 2021 G60,2,Females,_T,Total,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,9426,,0,9426,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,18972,,0,18972,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,387,,0,387,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,30980,,0,30980,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,36581,,0,36581,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,80,,0,80,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,_T,Total,5,Western Australia,2021,2021-08-10,154746,,0,154746,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,9228,,0,9228,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,13826,,0,13826,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,120,,0,120,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,1,Managers,5,Western Australia,2021,2021-08-10,910,,0,910,,FY2022
+Census 2021 G60,2,Females,_T,Total,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,100473,,0,100473,,FY2022
+Census 2021 G60,2,Females,_T,Total,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,6858,,0,6858,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,20647,,0,20647,,FY2022
+Census 2021 G60,2,Females,_T,Total,1,Managers,5GPER,Greater Perth,2021,2021-08-10,48138,,0,48138,,FY2022
+Census 2021 G60,1,Males,_T,Total,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,3931,,0,3931,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,5005,,0,5005,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,8,Labourers,5,Western Australia,2021,2021-08-10,11490,,0,11490,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,6460,,0,6460,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,11741,,0,11741,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,13,,0,13,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,5414,,0,5414,,FY2022
+Census 2021 G60,2,Females,_T,Total,_T,Total,5,Western Australia,2021,2021-08-10,624724,,0,624724,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,2,Professionals,5,Western Australia,2021,2021-08-10,44274,,0,44274,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,8,Labourers,5,Western Australia,2021,2021-08-10,8605,,0,8605,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,857,,0,857,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,305,,0,305,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,32351,,0,32351,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,759,,0,759,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,3099,,0,3099,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,4800,,0,4800,,FY2022
+Census 2021 G60,1,Males,_T,Total,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,6311,,0,6311,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,6313,,0,6313,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,1401,,0,1401,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,5223,,0,5223,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,1887,,0,1887,,FY2022
+Census 2021 G60,1,Males,_T,Total,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,36357,,0,36357,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,8,Labourers,5,Western Australia,2021,2021-08-10,14928,,0,14928,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,6074,,0,6074,,FY2022
+Census 2021 G60,2,Females,_T,Total,1,Managers,5,Western Australia,2021,2021-08-10,61594,,0,61594,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,7221,,0,7221,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,2,Professionals,5,Western Australia,2021,2021-08-10,669,,0,669,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,468,,0,468,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,1,Managers,5,Western Australia,2021,2021-08-10,159,,0,159,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,12703,,0,12703,,FY2022
+Census 2021 G60,3,Persons,_T,Total,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,26859,,0,26859,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,169,,0,169,,FY2022
+Census 2021 G60,1,Males,_T,Total,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,112850,,0,112850,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1506,,0,1506,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,11494,,0,11494,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,61,,0,61,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,3814,,0,3814,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,30120,,0,30120,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,16124,,0,16124,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,216750,,0,216750,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,94,,0,94,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,4,,0,4,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,429,,0,429,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,881,,0,881,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,192,,0,192,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,6594,,0,6594,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,8,Labourers,5,Western Australia,2021,2021-08-10,12,,0,12,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,12289,,0,12289,,FY2022
+Census 2021 G60,3,Persons,_T,Total,2,Professionals,5,Western Australia,2021,2021-08-10,287009,,0,287009,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,7936,,0,7936,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1531,,0,1531,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,2385,,0,2385,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,25561,,0,25561,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1333,,0,1333,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,13697,,0,13697,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,23448,,0,23448,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,5854,,0,5854,,FY2022
+Census 2021 G60,1,Males,_T,Total,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,35599,,0,35599,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,190,,0,190,,FY2022
+Census 2021 G60,3,Persons,_T,Total,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,35016,,0,35016,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,1,Managers,5,Western Australia,2021,2021-08-10,439,,0,439,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,5073,,0,5073,,FY2022
+Census 2021 G60,1,Males,_T,Total,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,31644,,0,31644,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,_T,Total,5,Western Australia,2021,2021-08-10,4857,,0,4857,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,91,,0,91,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,3854,,0,3854,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,12977,,0,12977,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,105593,,0,105593,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2805,,0,2805,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,1,Managers,5,Western Australia,2021,2021-08-10,31211,,0,31211,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,6000,,0,6000,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,6471,,0,6471,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,19893,,0,19893,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,759,,0,759,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,9652,,0,9652,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,348,,0,348,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,1,Managers,5,Western Australia,2021,2021-08-10,1514,,0,1514,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,45633,,0,45633,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,_T,Total,5,Western Australia,2021,2021-08-10,56827,,0,56827,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,4591,,0,4591,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,50820,,0,50820,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,16227,,0,16227,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,1268,,0,1268,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1075,,0,1075,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,3862,,0,3862,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,10323,,0,10323,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,18291,,0,18291,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,13566,,0,13566,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,23,,0,23,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,38665,,0,38665,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2863,,0,2863,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,2,Professionals,5,Western Australia,2021,2021-08-10,44127,,0,44127,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,180,,0,180,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,15121,,0,15121,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,598,,0,598,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,148,,0,148,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,426,,0,426,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,4840,,0,4840,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,6,,0,6,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,3,Persons,_T,Total,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,73685,,0,73685,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,14,,0,14,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,46308,,0,46308,,FY2022
+Census 2021 G60,3,Persons,_T,Total,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,157610,,0,157610,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,25146,,0,25146,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,34746,,0,34746,,FY2022
+Census 2021 G60,2,Females,_T,Total,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,112377,,0,112377,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,3044,,0,3044,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,5593,,0,5593,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,497,,0,497,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1850,,0,1850,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,17480,,0,17480,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,7,,0,7,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,1,Managers,5,Western Australia,2021,2021-08-10,13428,,0,13428,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,23871,,0,23871,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,41582,,0,41582,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,49,,0,49,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,8,Labourers,5,Western Australia,2021,2021-08-10,4275,,0,4275,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,589,,0,589,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,27516,,0,27516,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,_T,Total,5,Western Australia,2021,2021-08-10,582,,0,582,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,2,Professionals,5,Western Australia,2021,2021-08-10,77,,0,77,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,111151,,0,111151,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,3130,,0,3130,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,2160,,0,2160,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,8,Labourers,5,Western Australia,2021,2021-08-10,5174,,0,5174,,FY2022
+Census 2021 G60,1,Males,_T,Total,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,13082,,0,13082,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,16859,,0,16859,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,8176,,0,8176,,FY2022
+Census 2021 G60,3,Persons,_T,Total,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,127252,,0,127252,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,6,Sales Workers,5,Western Australia,2021,2021-08-10,28,,0,28,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,1217,,0,1217,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,854,,0,854,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,119,,0,119,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,2,Professionals,5,Western Australia,2021,2021-08-10,14878,,0,14878,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,_T,Total,5,Western Australia,2021,2021-08-10,147,,0,147,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1487,,0,1487,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,5947,,0,5947,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,21445,,0,21445,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1475,,0,1475,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,15901,,0,15901,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,5341,,0,5341,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,61,,0,61,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,_T,Total,5,Western Australia,2021,2021-08-10,138876,,0,138876,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,9608,,0,9608,,FY2022
+Census 2021 G60,1,Males,_T,Total,_T,Total,5GPER,Greater Perth,2021,2021-08-10,549839,,0,549839,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,24590,,0,24590,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,34,,0,34,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,9,,0,9,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,719,,0,719,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,7421,,0,7421,,FY2022
+Census 2021 G60,2,Females,_T,Total,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,3962,,0,3962,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,4656,,0,4656,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,946,,0,946,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,5848,,0,5848,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,14326,,0,14326,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,159,,0,159,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1648,,0,1648,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,295,,0,295,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1512,,0,1512,,FY2022
+Census 2021 G60,3,Persons,_T,Total,1,Managers,5,Western Australia,2021,2021-08-10,160687,,0,160687,,FY2022
+Census 2021 G60,1,Males,_T,Total,6,Sales Workers,5,Western Australia,2021,2021-08-10,36915,,0,36915,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,205,,0,205,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,2645,,0,2645,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,2448,,0,2448,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,48,,0,48,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,8,Labourers,5,Western Australia,2021,2021-08-10,825,,0,825,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,2498,,0,2498,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,889,,0,889,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,20393,,0,20393,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,975,,0,975,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,97947,,0,97947,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1712,,0,1712,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,1,Managers,5,Western Australia,2021,2021-08-10,27529,,0,27529,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,701,,0,701,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,3777,,0,3777,,FY2022
+Census 2021 G60,1,Males,_T,Total,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,130548,,0,130548,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,4601,,0,4601,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,2,Professionals,5,Western Australia,2021,2021-08-10,74543,,0,74543,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,15624,,0,15624,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1671,,0,1671,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,2,Professionals,5,Western Australia,2021,2021-08-10,27001,,0,27001,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,687,,0,687,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,4,,0,4,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,_T,Total,5,Western Australia,2021,2021-08-10,115318,,0,115318,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,1070,,0,1070,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,1,Managers,5GPER,Greater Perth,2021,2021-08-10,45,,0,45,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,446,,0,446,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,6796,,0,6796,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,6682,,0,6682,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,1520,,0,1520,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,497,,0,497,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,140,,0,140,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,3,,0,3,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,5894,,0,5894,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,401,,0,401,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,2,Females,_T,Total,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,7095,,0,7095,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,31202,,0,31202,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,127540,,0,127540,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,4299,,0,4299,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,51,,0,51,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,682,,0,682,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,346,,0,346,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,242406,,0,242406,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,32745,,0,32745,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,5461,,0,5461,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,1,Managers,5,Western Australia,2021,2021-08-10,2450,,0,2450,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,324,,0,324,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,2096,,0,2096,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,73,,0,73,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,69,,0,69,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,69492,,0,69492,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,3919,,0,3919,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,377,,0,377,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,21113,,0,21113,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1083,,0,1083,,FY2022
+Census 2021 G60,2,Females,_T,Total,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,8843,,0,8843,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,6258,,0,6258,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,2532,,0,2532,,FY2022
+Census 2021 G60,1,Males,_T,Total,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,41966,,0,41966,,FY2022
+Census 2021 G60,3,Persons,_T,Total,8,Labourers,5,Western Australia,2021,2021-08-10,122961,,0,122961,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,5411,,0,5411,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,6298,,0,6298,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,2,Professionals,5,Western Australia,2021,2021-08-10,78636,,0,78636,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,11918,,0,11918,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,30516,,0,30516,,FY2022
+Census 2021 G60,3,Persons,_T,Total,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,25334,,0,25334,,FY2022
+Census 2021 G60,1,Males,_T,Total,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,22505,,0,22505,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,17902,,0,17902,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,3523,,0,3523,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,10197,,0,10197,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,2504,,0,2504,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,79,,0,79,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,858,,0,858,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,7,,0,7,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,229,,0,229,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,1,Managers,5,Western Australia,2021,2021-08-10,7239,,0,7239,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,2948,,0,2948,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,172,,0,172,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,_T,Total,5,Western Australia,2021,2021-08-10,146172,,0,146172,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,_T,Total,5,Western Australia,2021,2021-08-10,96515,,0,96515,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,22185,,0,22185,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,1691,,0,1691,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,691,,0,691,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,469,,0,469,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,25179,,0,25179,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,42,,0,42,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,21500,,0,21500,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,2581,,0,2581,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,548,,0,548,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,24,,0,24,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,114173,,0,114173,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,_T,Total,5,Western Australia,2021,2021-08-10,108811,,0,108811,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,_T,Total,5,Western Australia,2021,2021-08-10,136063,,0,136063,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,8,Labourers,5,Western Australia,2021,2021-08-10,10646,,0,10646,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,7012,,0,7012,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,2,Professionals,5,Western Australia,2021,2021-08-10,10,,0,10,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,4347,,0,4347,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1190,,0,1190,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,790,,0,790,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,25825,,0,25825,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,21644,,0,21644,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,27793,,0,27793,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,154,,0,154,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,2,Professionals,5,Western Australia,2021,2021-08-10,34515,,0,34515,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,458,,0,458,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,83965,,0,83965,,FY2022
+Census 2021 G60,3,Persons,_T,Total,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,245471,,0,245471,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,243,,0,243,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,7367,,0,7367,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,275,,0,275,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1136,,0,1136,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,7819,,0,7819,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,1318,,0,1318,,FY2022
+Census 2021 G60,3,Persons,_T,Total,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,35748,,0,35748,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,28,,0,28,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,781,,0,781,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,3119,,0,3119,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,37,,0,37,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,11095,,0,11095,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,2019,,0,2019,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,23153,,0,23153,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,16168,,0,16168,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,37,,0,37,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,1485,,0,1485,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,7765,,0,7765,,FY2022
+Census 2021 G60,2,Females,_T,Total,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,138121,,0,138121,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,338,,0,338,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,5,,0,5,,FY2022
+Census 2021 G60,1,Males,_T,Total,1,Managers,5,Western Australia,2021,2021-08-10,99086,,0,99086,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,2,Professionals,5,Western Australia,2021,2021-08-10,8800,,0,8800,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,3087,,0,3087,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,75,,0,75,,FY2022
+Census 2021 G60,1,Males,_T,Total,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,128690,,0,128690,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,8622,,0,8622,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,7134,,0,7134,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,15556,,0,15556,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,23442,,0,23442,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,49129,,0,49129,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,5493,,0,5493,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,2246,,0,2246,,FY2022
+Census 2021 G60,2,Females,_T,Total,6,Sales Workers,5,Western Australia,2021,2021-08-10,64751,,0,64751,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,5207,,0,5207,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,9059,,0,9059,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,19300,,0,19300,,FY2022
+Census 2021 G60,1,Males,_T,Total,1,Managers,5GPER,Greater Perth,2021,2021-08-10,77424,,0,77424,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,202,,0,202,,FY2022
+Census 2021 G60,1,Males,_T,Total,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,10501,,0,10501,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,27785,,0,27785,,FY2022
+Census 2021 G60,1,Males,_T,Total,_T,Total,5,Western Australia,2021,2021-08-10,681527,,0,681527,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,987,,0,987,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,3295,,0,3295,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,564,,0,564,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,66461,,0,66461,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,17578,,0,17578,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,1804,,0,1804,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,321,,0,321,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,110,,0,110,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,1,Managers,5,Western Australia,2021,2021-08-10,43711,,0,43711,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,24,,0,24,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,780,,0,780,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,465,,0,465,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,4501,,0,4501,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1728,,0,1728,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,13075,,0,13075,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,28543,,0,28543,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1728,,0,1728,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,219,,0,219,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,8263,,0,8263,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,3744,,0,3744,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,4580,,0,4580,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,8,Labourers,5,Western Australia,2021,2021-08-10,11113,,0,11113,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,5396,,0,5396,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,119,,0,119,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,8,Labourers,5,Western Australia,2021,2021-08-10,3485,,0,3485,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,159436,,0,159436,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,1749,,0,1749,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,8441,,0,8441,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,10,,0,10,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,6,,0,6,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,8221,,0,8221,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,16649,,0,16649,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,3037,,0,3037,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2292,,0,2292,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,16033,,0,16033,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,5062,,0,5062,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,165,,0,165,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,4093,,0,4093,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,3219,,0,3219,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,107,,0,107,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,3601,,0,3601,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1959,,0,1959,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,4515,,0,4515,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,8318,,0,8318,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,5260,,0,5260,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,2269,,0,2269,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1859,,0,1859,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,10,,0,10,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,1636,,0,1636,,FY2022
+Census 2021 G60,2,Females,_T,Total,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,22667,,0,22667,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,6748,,0,6748,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,4350,,0,4350,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,20933,,0,20933,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,2972,,0,2972,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,559,,0,559,,FY2022
+Census 2021 G60,3,Persons,_T,Total,_T,Total,5,Western Australia,2021,2021-08-10,1306249,,0,1306249,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,30600,,0,30600,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,6143,,0,6143,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,1,Managers,5,Western Australia,2021,2021-08-10,2150,,0,2150,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,3997,,0,3997,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1276,,0,1276,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,2,Professionals,5,Western Australia,2021,2021-08-10,41677,,0,41677,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,2164,,0,2164,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,2634,,0,2634,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1884,,0,1884,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,_T,Total,5,Western Australia,2021,2021-08-10,205322,,0,205322,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1091,,0,1091,,FY2022
+Census 2021 G60,1,Males,_T,Total,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,165365,,0,165365,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,466,,0,466,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,5074,,0,5074,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2166,,0,2166,,FY2022
+Census 2021 G60,2,Females,_T,Total,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,20545,,0,20545,,FY2022
+Census 2021 G60,3,Persons,_T,Total,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,91834,,0,91834,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,10003,,0,10003,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,8749,,0,8749,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,6558,,0,6558,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,3231,,0,3231,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,1037,,0,1037,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,7,,0,7,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,6343,,0,6343,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,351,,0,351,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1938,,0,1938,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,5421,,0,5421,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1314,,0,1314,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,26510,,0,26510,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,21427,,0,21427,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,212,,0,212,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,2101,,0,2101,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,1,Males,_T,Total,8,Labourers,5,Western Australia,2021,2021-08-10,76153,,0,76153,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,1,Managers,5,Western Australia,2021,2021-08-10,466,,0,466,,FY2022
+Census 2021 G60,2,Females,_T,Total,2,Professionals,5,Western Australia,2021,2021-08-10,160926,,0,160926,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,6605,,0,6605,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,27,,0,27,,FY2022
+Census 2021 G60,3,Persons,_T,Total,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,4566,,0,4566,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1917,,0,1917,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,4023,,0,4023,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,762,,0,762,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,2969,,0,2969,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,5042,,0,5042,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,13,,0,13,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,7484,,0,7484,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,8,Labourers,5,Western Australia,2021,2021-08-10,53,,0,53,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,15393,,0,15393,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,8,Labourers,5,Western Australia,2021,2021-08-10,8265,,0,8265,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,8,Labourers,5,Western Australia,2021,2021-08-10,10054,,0,10054,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,2,Professionals,5,Western Australia,2021,2021-08-10,1489,,0,1489,,FY2022
+Census 2021 G60,3,Persons,_T,Total,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,17528,,0,17528,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,27689,,0,27689,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,6096,,0,6096,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,13346,,0,13346,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,8,Labourers,5,Western Australia,2021,2021-08-10,12522,,0,12522,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,1294,,0,1294,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,320,,0,320,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,23514,,0,23514,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,7222,,0,7222,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,29283,,0,29283,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,18096,,0,18096,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,1390,,0,1390,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1957,,0,1957,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,7993,,0,7993,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,15783,,0,15783,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,21924,,0,21924,,FY2022
+Census 2021 G60,2,Females,_T,Total,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,114926,,0,114926,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,24699,,0,24699,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,8192,,0,8192,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,22,,0,22,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,8,,0,8,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,29079,,0,29079,,FY2022
+Census 2021 G60,1,Males,_T,Total,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,5651,,0,5651,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,4399,,0,4399,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,2416,,0,2416,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,20,,0,20,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,366,,0,366,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,23825,,0,23825,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,1617,,0,1617,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,6868,,0,6868,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,8652,,0,8652,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,589,,0,589,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,865,,0,865,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,3447,,0,3447,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,1096,,0,1096,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,1627,,0,1627,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,4332,,0,4332,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,5323,,0,5323,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,1,Managers,5,Western Australia,2021,2021-08-10,12060,,0,12060,,FY2022
+Census 2021 G60,1,Males,_T,Total,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,21602,,0,21602,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,22452,,0,22452,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,30437,,0,30437,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,816,,0,816,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,10751,,0,10751,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,_T,Total,5GPER,Greater Perth,2021,2021-08-10,29803,,0,29803,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,2017,,0,2017,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,4,Community and Personal Service Workers,5GPER,Greater Perth,2021,2021-08-10,11396,,0,11396,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,992,,0,992,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,6305,,0,6305,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,778,,0,778,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,22882,,0,22882,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,4808,,0,4808,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,13079,,0,13079,,FY2022
+Census 2021 G60,1,Males,_T,Total,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,86974,,0,86974,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,12297,,0,12297,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,_T,Total,5,Western Australia,2021,2021-08-10,71873,,0,71873,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,496,,0,496,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,1545,,0,1545,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,1882,,0,1882,,FY2022
+Census 2021 G60,1,Males,_T,Total,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,2832,,0,2832,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,8,Labourers,5,Western Australia,2021,2021-08-10,20852,,0,20852,,FY2022
+Census 2021 G60,2,Females,_T,Total,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,27111,,0,27111,,FY2022
+Census 2021 G60,2,Females,55_64,55-64 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1154,,0,1154,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,2617,,0,2617,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,30190,,0,30190,,FY2022
+Census 2021 G60,2,Females,_T,Total,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,21408,,0,21408,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,493,,0,493,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,_T,Total,5GPER,Greater Perth,2021,2021-08-10,109,,0,109,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,128,,0,128,,FY2022
+Census 2021 G60,3,Persons,_T,Total,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,43221,,0,43221,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,14241,,0,14241,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,_T,Total,5,Western Australia,2021,2021-08-10,58614,,0,58614,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,8,Labourers,5,Western Australia,2021,2021-08-10,16670,,0,16670,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,4374,,0,4374,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,483,,0,483,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,2579,,0,2579,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,4826,,0,4826,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,5630,,0,5630,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,1276,,0,1276,,FY2022
+Census 2021 G60,1,Males,_T,Total,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,13365,,0,13365,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,1,Managers,5,Western Australia,2021,2021-08-10,25969,,0,25969,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,6,Sales Workers,5,Western Australia,2021,2021-08-10,16559,,0,16559,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,29847,,0,29847,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,278,,0,278,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,4942,,0,4942,,FY2022
+Census 2021 G60,2,Females,_T,Total,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,34017,,0,34017,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,15712,,0,15712,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1024,,0,1024,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,135,,0,135,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,3041,,0,3041,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,1,Managers,5,Western Australia,2021,2021-08-10,10181,,0,10181,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,6222,,0,6222,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,1490,,0,1490,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,6913,,0,6913,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,249,,0,249,,FY2022
+Census 2021 G60,2,Females,_T,Total,8,Labourers,5GPER,Greater Perth,2021,2021-08-10,34213,,0,34213,,FY2022
+Census 2021 G60,3,Persons,_T,Total,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,22204,,0,22204,,FY2022
+Census 2021 G60,2,Females,_T,Total,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,13418,,0,13418,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,7472,,0,7472,,FY2022
+Census 2021 G60,2,Females,_T,Total,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,12456,,0,12456,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,39000,,0,39000,,FY2022
+Census 2021 G60,3,Persons,_T,Total,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,154341,,0,154341,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,4249,,0,4249,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,340,,0,340,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,1718,,0,1718,,FY2022
+Census 2021 G60,1,Males,_T,Total,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,31240,,0,31240,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,0,,0,0,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,2,Professionals,5,Western Australia,2021,2021-08-10,795,,0,795,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,2319,,0,2319,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,2583,,0,2583,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,8,Labourers,5,Western Australia,2021,2021-08-10,277,,0,277,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,40312,,0,40312,,FY2022
+Census 2021 G60,1,Males,25_34,25-34 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,1285,,0,1285,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,14,,0,14,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,2,Professionals,5RWAU,Rest of WA,2021,2021-08-10,2677,,0,2677,,FY2022
+Census 2021 G60,3,Persons,20_24,20-24 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,6097,,0,6097,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,9239,,0,9239,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,15,,0,15,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,27345,,0,27345,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,5564,,0,5564,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,9906,,0,9906,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,5,,0,5,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,2985,,0,2985,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,4,Community and Personal Service Workers,5,Western Australia,2021,2021-08-10,28189,,0,28189,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,3815,,0,3815,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,10401,,0,10401,,FY2022
+Census 2021 G60,2,Females,45_54,45-54 years,7,Machinery Operators and Drivers,5RWAU,Rest of WA,2021,2021-08-10,925,,0,925,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,8,Labourers,5,Western Australia,2021,2021-08-10,2183,,0,2183,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,2,Professionals,5,Western Australia,2021,2021-08-10,5642,,0,5642,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,_T,Total,5,Western Australia,2021,2021-08-10,58485,,0,58485,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,20552,,0,20552,,FY2022
+Census 2021 G60,1,Males,15_19,15-19 years,5,Clerical and Administrative Workers,5GPER,Greater Perth,2021,2021-08-10,650,,0,650,,FY2022
+Census 2021 G60,2,Females,_T,Total,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,122001,,0,122001,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,676,,0,676,,FY2022
+Census 2021 G60,1,Males,45_54,45-54 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,13499,,0,13499,,FY2022
+Census 2021 G60,2,Females,15_19,15-19 years,_T,Total,5,Western Australia,2021,2021-08-10,36943,,0,36943,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,_N,Inadequately described/Not stated,5,Western Australia,2021,2021-08-10,1134,,0,1134,,FY2022
+Census 2021 G60,3,Persons,35_44,35-44 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,46745,,0,46745,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,1,Managers,5,Western Australia,2021,2021-08-10,20638,,0,20638,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,_T,Total,5,Western Australia,2021,2021-08-10,435,,0,435,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,8704,,0,8704,,FY2022
+Census 2021 G60,3,Persons,65_74,65-74 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,3585,,0,3585,,FY2022
+Census 2021 G60,2,Females,20_24,20-24 years,2,Professionals,5GPER,Greater Perth,2021,2021-08-10,7716,,0,7716,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,38,,0,38,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,_T,Total,5RWAU,Rest of WA,2021,2021-08-10,24916,,0,24916,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,_T,Total,5,Western Australia,2021,2021-08-10,24396,,0,24396,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,352,,0,352,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,8,Labourers,5RWAU,Rest of WA,2021,2021-08-10,3580,,0,3580,,FY2022
+Census 2021 G60,3,Persons,75_84,75-84 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,389,,0,389,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,88,,0,88,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,3269,,0,3269,,FY2022
+Census 2021 G60,2,Females,35_44,35-44 years,1,Managers,5GPER,Greater Perth,2021,2021-08-10,13375,,0,13375,,FY2022
+Census 2021 G60,3,Persons,25_34,25-34 years,4,Community and Personal Service Workers,5RWAU,Rest of WA,2021,2021-08-10,5106,,0,5106,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,1,Managers,5,Western Australia,2021,2021-08-10,193,,0,193,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,424,,0,424,,FY2022
+Census 2021 G60,3,Persons,45_54,45-54 years,6,Sales Workers,5RWAU,Rest of WA,2021,2021-08-10,2944,,0,2944,,FY2022
+Census 2021 G60,1,Males,35_44,35-44 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,18784,,0,18784,,FY2022
+Census 2021 G60,3,Persons,GE85,85 years and over,6,Sales Workers,5,Western Australia,2021,2021-08-10,30,,0,30,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,166,,0,166,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,_N,Inadequately described/Not stated,5GPER,Greater Perth,2021,2021-08-10,116,,0,116,,FY2022
+Census 2021 G60,3,Persons,_T,Total,6,Sales Workers,5GPER,Greater Perth,2021,2021-08-10,84068,,0,84068,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,7,Machinery Operators and Drivers,5GPER,Greater Perth,2021,2021-08-10,12075,,0,12075,,FY2022
+Census 2021 G60,1,Males,65_74,65-74 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,2082,,0,2082,,FY2022
+Census 2021 G60,1,Males,55_64,55-64 years,3,Technicians and Trades Workers,5RWAU,Rest of WA,2021,2021-08-10,5313,,0,5313,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,7,Machinery Operators and Drivers,5,Western Australia,2021,2021-08-10,3074,,0,3074,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,108,,0,108,,FY2022
+Census 2021 G60,1,Males,20_24,20-24 years,5,Clerical and Administrative Workers,5,Western Australia,2021,2021-08-10,2783,,0,2783,,FY2022
+Census 2021 G60,3,Persons,_T,Total,6,Sales Workers,5,Western Australia,2021,2021-08-10,101670,,0,101670,,FY2022
+Census 2021 G60,2,Females,65_74,65-74 years,5,Clerical and Administrative Workers,5RWAU,Rest of WA,2021,2021-08-10,1195,,0,1195,,FY2022
+Census 2021 G60,2,Females,75_84,75-84 years,_T,Total,5,Western Australia,2021,2021-08-10,2371,,0,2371,,FY2022
+Census 2021 G60,1,Males,GE85,85 years and over,2,Professionals,5,Western Australia,2021,2021-08-10,65,,0,65,,FY2022
+Census 2021 G60,1,Males,75_84,75-84 years,2,Professionals,5,Western Australia,2021,2021-08-10,1065,,0,1065,,FY2022
+Census 2021 G60,2,Females,GE85,85 years and over,6,Sales Workers,5,Western Australia,2021,2021-08-10,6,,0,6,,FY2022
+Census 2021 G60,2,Females,25_34,25-34 years,3,Technicians and Trades Workers,5GPER,Greater Perth,2021,2021-08-10,7574,,0,7574,,FY2022
+Census 2021 G60,2,Females,_T,Total,_N,Inadequately described/Not stated,5RWAU,Rest of WA,2021,2021-08-10,1734,,0,1734,,FY2022
+Census 2021 G60,3,Persons,55_64,55-64 years,1,Managers,5RWAU,Rest of WA,2021,2021-08-10,8041,,0,8041,,FY2022
+Census 2021 G60,3,Persons,15_19,15-19 years,3,Technicians and Trades Workers,5,Western Australia,2021,2021-08-10,8167,,0,8167,,FY2022

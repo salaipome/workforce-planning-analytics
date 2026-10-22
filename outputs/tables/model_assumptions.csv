@@ -1,0 +1,17 @@
+assumption,evidence,provenance,value
+Demand growth (baseline),JSA Employment Projections 2025-35 10-yr CAGR by occupation x WA/AUS adjustment,REAL,Registered Nurse: 2.37%; Midwife: 2.43%; Enrolled Nurse: 1.98%; Medical Practitioner: 2.92%; Allied Health: 3.03%; Care Worker: 1.84%; Administration: 0.94%; Support Services: 0.50%
+WA adjustment factor,JSA projections Table 4 (WA vs AUS 10-yr growth),REAL,1.0003
+Demand uplift (Growth scenario),Service expansion; bounded by ABS HCSA filled-jobs 5-yr CAGR 5.6%,ILLUSTRATIVE,"+2.0pp clinical, +0.5pp non-clinical"
+Attrition rate,"KHS FY2025-26 cell rates, credibility-weighted (K=60) to family rate",SYNTHETIC (measured),org avg 14.5%
+Attrition multiplier (Constraint),KHS FY2023 (tight market) / FY2026 turnover,SYNTHETIC (measured),1.224
+Recruitment capacity,Best annual external hires FY2023-26 per cell (demonstrated throughput),SYNTHETIC (measured),478 hires/yr
+"Capacity multiplier (Constraint, shortage occupations)",JSA OSL 2026 fill rate shortage/no-shortage 57%/78%,REAL,0.731
+Graduate RN intake,KHS average FY2023-26,SYNTHETIC (measured),16/yr; Constraint x0.75 (illustrative)
+EN->RN conversion,KHS role changes / EN headcount,SYNTHETIC (measured),5.51%/yr
+Wage growth,"ABS WPI HCSA YoY, average of last 8 quarters",REAL,3.71%/yr; Constraint +1pp (illustrative)
+On-cost factor,12% super guarantee (legislated) + payroll tax/workers comp/leave (assumed),ILLUSTRATIVE,1.25
+Agency premium,Assumed agency cost per hour vs employee cost,ILLUSTRATIVE,1.65
+Agency cover of shortage,KHS FY2026 agency FTE / vacant FTE by family,SYNTHETIC (measured),Administration: 0.10; Allied Health: 0.30; Care Worker: 0.46; Enrolled Nurse: 0.40; Medical Practitioner: 0.63; Midwife: 0.57; Registered Nurse: 0.55; Support Services: 0.25
+Cost per hire,Assumed,ILLUSTRATIVE,"metro $6,000, regional $14,000"
+Productivity,No productivity change assumed (tested via FTE-per-head sensitivity),ILLUSTRATIVE,0%
+Intervention effects and costs,Assumed programme effects for option testing,ILLUSTRATIVE,"M1 Retention programme (clinical attrition -15%): $1,950,000/yr; M2 Regional recruitment uplift (+30% capacity): $260,000/yr; M3 Grow-your-own (EN->RN 2x, +12 graduates): $480,000/yr; M4 Agency panel (premium 1.65 -> 1.45): $60,000/yr"

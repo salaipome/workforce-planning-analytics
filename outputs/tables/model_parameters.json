@@ -1,0 +1,77 @@
+{
+  "DEMAND_G": {
+    "Registered Nurse": 0.023661072287616935,
+    "Midwife": 0.02426122534934505,
+    "Enrolled Nurse": 0.01976007738638419,
+    "Medical Practitioner": 0.02916247535345806,
+    "Allied Health": 0.03026275596662642,
+    "Care Worker": 0.018359720242351774,
+    "Administration": 0.00935742431642983,
+    "Support Services": 0.00495630186375684
+  },
+  "WAGE_G": 0.0371,
+  "EN_CONV": 0.05513784461152882,
+  "GRADS_PER_YEAR": 16,
+  "ONCOST": 1.25,
+  "AGENCY_PREMIUM": 1.65,
+  "COST_PER_HIRE": {
+    "metro": 6000,
+    "regional": 14000
+  },
+  "SCENARIOS": {
+    "A Baseline": {
+      "demand_add": {},
+      "attr_mult": 1.0,
+      "cap_mult": {},
+      "grads_mult": 1.0,
+      "conv": 0.05513784461152882,
+      "wage_g": 0.0371,
+      "premium": 1.65
+    },
+    "B Growth": {
+      "demand_add": {
+        "Registered Nurse": 0.02,
+        "Midwife": 0.02,
+        "Enrolled Nurse": 0.02,
+        "Medical Practitioner": 0.02,
+        "Allied Health": 0.02,
+        "Care Worker": 0.02,
+        "Administration": 0.005,
+        "Support Services": 0.005
+      },
+      "attr_mult": 1.0,
+      "cap_mult": {},
+      "grads_mult": 1.0,
+      "conv": 0.05513784461152882,
+      "wage_g": 0.0371,
+      "premium": 1.65
+    },
+    "C Constraint": {
+      "demand_add": {},
+      "attr_mult": 1.224,
+      "cap_mult": {
+        "Registered Nurse": 0.731,
+        "Midwife": 0.731,
+        "Medical Practitioner": 0.731,
+        "Allied Health": 0.731,
+        "Care Worker": 0.731
+      },
+      "grads_mult": 0.75,
+      "conv": 0.05513784461152882,
+      "wage_g": 0.0471,
+      "premium": 1.65
+    }
+  },
+  "FILL_RATIO": 0.7307692307692307,
+  "tight_ratio": 1.2240666619186669,
+  "agency_cover": {
+    "Administration": 0.101,
+    "Allied Health": 0.302,
+    "Care Worker": 0.459,
+    "Enrolled Nurse": 0.399,
+    "Medical Practitioner": 0.627,
+    "Midwife": 0.569,
+    "Registered Nurse": 0.551,
+    "Support Services": 0.253
+  }
+}
